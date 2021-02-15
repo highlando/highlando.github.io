@@ -1,0 +1,20 @@
+{
+    "chapters": [
+        {"start": "00:00:01.460374", "title": "Intro"},
+        {"start": "00:00:48.438775", "title": "Zettel und Stift bitte"},
+        {"start": "00:01:19.117720", "title": "Sekante"},
+        {"start": "00:02:51.540994", "title": "Differenzierbarkeit"},
+        {"start": "00:04:19.030353", "title": "Beispiele"},
+        {"start": "00:05:03.369195", "title": "Pause zur Besinnung"},
+        {"start": "00:05:59.413560", "title": "Rechnen mit Ableitungen"},
+        {"start": "00:06:51.820715", "title": "Ableitungen elementarer Funktionen"},
+        {"start": "00:07:26.370628", "title": "Ableitung und Monotonie"},
+        {"start": "00:08:06.400482", "title": "Ableitung der Umkehrfunktion"},
+        {"start": "00:09:12.795589", "title": "Ableitungen elementarer Umkehrfunktionen"},
+        {"start": "00:09:39.198167", "title": "Regel von l'Hospital"},
+        {"start": "00:10:42.145176", "title": "Abschluss"}
+    ],
+    "dummy": null
+}
+
+

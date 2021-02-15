@@ -1,0 +1,83 @@
+{
+  "show": {
+    "title": "Mathematik für Informatik",
+    "subtitle": "Gelesen aus der Ferne",
+    "poster": "/courses/ovgu-mathe-informatik/files/pcs/3-1-banner.png" 
+  },
+  "reference": {
+    "config": "https://freakshow.fm/?podlove_player4=1465"
+  },
+  "theme": {
+    "main": "#26475B"
+  },
+  "title": "3 — Differenzierbarkeit I (2/2) ",
+  "subtitle": "Konvexitaet — Konkavitaet — Extrema — Wendepunkte",
+  "summary": "Kapitel 13 im Skript - zweiter Teil",
+  "publicationDate": "2020-05-15:00:00+00:00",
+  "poster": "/courses/ovgu-mathe-informatik/files/pcs/3-1-banner.png",
+  "duration": "00:12:16",
+  "audio": [
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/3-2.mp3",
+      "size": "13721471",
+      "title": "MPEG-3",
+      "mimeType": "audio/mp3"
+    },
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/3-2.ogg",
+      "size": "10645955",
+      "title": "Opus Audio (ogg)",
+      "mimeType": "audio/ogg"
+    }
+  ],
+  "chapters": [
+      {"start": "00:00:01.787", "title": "Intro"},
+      {"start": "00:00:54.392", "title": "Hoehere Ableitungen"},
+      {"start": "00:02:04.084", "title": "Konkav-Konvex"},
+      {"start": "00:03:17.698", "title": "Monotonie und Konvexitaet"},
+      {"start": "00:04:05.388", "title": "Extrema"},
+      {"start": "00:04:59.636", "title": "Definition Extrema"},
+      {"start": "00:06:18.746", "title": "Kriteria fuer lokale Extrema"},
+      {"start": "00:07:54.301", "title": "Wendepunkte/Sattelpunkte"},
+      {"start": "00:09:16.696", "title": "Randpunkte -- nicht differenzierbare Punkte"},
+      {"start": "00:09:50.683", "title": "Satz von Rolle"},
+      {"start": "00:10:20.599", "title": "Mittelwertsatz der Differentialrechnung"},
+      {"start": "00:10:47.944", "title": "Ableitung 0 dann konstant"},
+      {"start": "00:11:08.429", "title": "Abschluss"}
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabFiles",
+    "tabAudio",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Jan Heiland",
+      "avatar": "/courses/ovgu-mathe-informatik/files/pcs/icke.jpg",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jan-heiland"
+    }
+  ]
+}

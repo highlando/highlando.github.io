@@ -1,0 +1,9 @@
+{"start": "00:00:01.602", "title": "Intro"},
+{"start": "00:02:51.286", "title": "Trigonometrische Polynome"},
+{"start": "00:03:40.416", "title": "Fourierpolynom"},
+{"start": "00:04:44.349", "title": "Fourierreihe"},
+{"start": "00:05:17.021", "title": "Zwischenfazit und Kapitel 7 Recap"},
+{"start": "00:06:17.241", "title": "Analysis der Fourierpolynome"},
+{"start": "00:07:20.545", "title": "Orthogonalitaet"},
+{"start": "00:07:40.799", "title": "Approximationseigenschaften"},
+{"start": "00:08:28.066", "title": "Abschluss"}

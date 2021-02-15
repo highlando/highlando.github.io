@@ -1,0 +1,77 @@
+{
+  "show": {
+    "title": "Mathematik für Informatik",
+    "subtitle": "Gelesen aus der Ferne",
+    "poster": "/courses/ovgu-mathe-informatik/files/pclone.png" 
+  },
+  "reference": {
+    "config": "https://freakshow.fm/?podlove_player4=1465"
+  },
+  "theme": {
+    "main": "#26475B"
+  },
+  "title": "Woche 1 — Folgen und Reihen ",
+  "subtitle": "Achilles und die Schildkröte — Folgen — Reihen — Achilles und die Schildkröte",
+  "summary": "Kapitel 11 im Skript",
+  "publicationDate": "2020-04-15T09:00:00+00:00",
+  "poster": "/courses/ovgu-mathe-informatik/files/pclone.png",
+  "duration": "00:00:21",
+  "audio": [
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/ASR_2020_04_12_12_50_17.mp3",
+      "size": "102956071",
+      "title": "MPEG-3",
+      "mimeType": "audio/mp3"
+    },
+    {
+      "url": "https://freakshow.fm/podlove/file/5175/s/webplayer/c/embed/fs207-berliner-leistungswasser.opus",
+      "size": "102078914",
+      "title": "Opus Audio (opus)",
+      "mimeType": "audio/opus"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00:00.000",
+      "title": "Intro",
+      "href": "",
+      "image": "/courses/ovgu-mathe-informatik/files/pcl11.png"
+    }
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabFiles",
+    "tabAudio",
+    "tabShare",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Jan Heiland",
+      "avatar": "/courses/ovgu-mathe-informatik/files/icke.jpg",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jan-heiland"
+    }
+  ]
+}

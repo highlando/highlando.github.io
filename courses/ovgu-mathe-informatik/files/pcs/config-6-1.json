@@ -1,0 +1,79 @@
+{
+  "show": {
+    "title": "Mathematik für Informatik",
+    "subtitle": "Gelesen aus der Ferne",
+    "poster": "/courses/ovgu-mathe-informatik/files/pcs/6-1-banner.png" 
+  },
+  "reference": {
+    "config": "https://freakshow.fm/?podlove_player4=1465"
+  },
+  "theme": {
+    "main": "#26475B"
+  },
+  "title": "6 — Fourier",
+  "subtitle": "Trigonometrische Polynome — Fourierpolynom — Fourierreihe — Analysis",
+  "summary": "Kapitel 16",
+  "publicationDate": "2020-06-05:00:00+00:00",
+  "poster": "/courses/ovgu-mathe-informatik/files/pcs/6-1-banner.png",
+  "duration": "00:10:10",
+  "audio": [
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/6-1.mp3",
+      "size": "10820543",
+      "title": "MPEG-3",
+      "mimeType": "audio/mp3"
+    },
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/6-1.ogg",
+      "size": "8618357",
+      "title": "Opus Audio (ogg)",
+      "mimeType": "audio/ogg"
+    }
+  ],
+  "chapters": [
+      {"start": "00:00:01.602", "title": "Intro"},
+      {"start": "00:01:51.286", "title": "Trigonometrische Polynome"},
+      {"start": "00:03:40.416", "title": "Fourierpolynom"},
+      {"start": "00:04:44.349", "title": "Fourierreihe"},
+      {"start": "00:05:17.021", "title": "Zwischenfazit und Kapitel 7 Recap"},
+      {"start": "00:06:17.241", "title": "Analysis der Fourierpolynome"},
+      {"start": "00:07:00.545", "title": "Orthogonalitaet"},
+      {"start": "00:07:40.799", "title": "Approximationseigenschaften"},
+      {"start": "00:08:28.066", "title": "Abschluss"}
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabFiles",
+    "tabAudio",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Jan Heiland",
+      "avatar": "/courses/ovgu-mathe-informatik/files/pcs/icke.jpg",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jan-heiland"
+    }
+  ]
+}

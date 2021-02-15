@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Jan Heiland</title>
+    <link>/events/</link>
+      <atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Jan 2021 13:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <title>Events</title>
+      <link>/events/</link>
+    </image>
+    
+    <item>
+      <title>Past Conferences and Events</title>
+      <link>/events/pastconfs/</link>
+      <pubDate>Sun, 31 Jan 2021 13:00:00 +0200</pubDate>
+      <guid>/events/pastconfs/</guid>
+      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#2020&#34;&gt;2020&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2019&#34;&gt;2019&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Date&lt;/th&gt;
+&lt;th&gt;Occasion&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Feb 01 &amp;ndash; Mar 15&lt;/td&gt;
+&lt;td&gt;Visiting Professor at the 
+&lt;a href=&#34;https://cmc.deusto.eus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMC at Deusto&lt;/a&gt; invited by Enrique Zuazua and the 
+&lt;a href=&#34;https://cmc.deusto.eus/dycon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ERC DyCon Project&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Bilbao, Spain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;May 12 &amp;ndash; May 15&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://ecc20.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECC&lt;/a&gt; - European Control Conference&lt;/td&gt;
+&lt;td&gt;Saint Petersburg, Russia but virtual&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Date&lt;/th&gt;
+&lt;th&gt;Occasion&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Nov 04 &amp;ndash; Nov 07&lt;/td&gt;
+&lt;td&gt;Invited conference talk at 
+&lt;a href=&#34;https://liacopdesclm.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIA COPDESC and Lions Magenes Days&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Paris, France&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Oct 14 &amp;ndash; Oct 18&lt;/td&gt;
+&lt;td&gt;Workshop 
+&lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/shanghaiws19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning in Model Reduction and Control&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Shanghai, China&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Sep 30 &amp;ndash; Oct 4&lt;/td&gt;
+&lt;td&gt;MS 
+&lt;a href=&#34;/events/19-ms-enumath/&#34;&gt;Low-rank modelling in uncertainty quantification&lt;/a&gt; and talk on 
+&lt;a href=&#34;/talk/19-enumath-nse/&#34;&gt;time stepping for NSE&lt;/a&gt; at the 
+&lt;a href=&#34;http://www.enumath2019.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enumath 2019&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Egmond an Zee, The Netherlands&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Sep 16 &amp;ndash; Sep 17&lt;/td&gt;
+&lt;td&gt;Visiting the 
+&lt;a href=&#34;http://ifatwww.et.uni-magdeburg.de/syst/GAMMFA/ilmenau_2019.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop&lt;/a&gt; des GAMM Fachausschuss &lt;em&gt;Dynamik und Regelungstheorie&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Ilmenau, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Jul 15 &amp;ndash; Jul 19&lt;/td&gt;
+&lt;td&gt;Talks at the 
+&lt;a href=&#34;https://iciam2019.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM2019&lt;/a&gt; on 
+&lt;a href=&#34;/talk/19-iciam-rob-nse/&#34;&gt;robust controllers&lt;/a&gt; and 
+&lt;a href=&#34;/talk/19-iciam-genpod/&#34;&gt;tensor POD&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Valencia, Spain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Jul 02 &amp;ndash; Jul 04&lt;/td&gt;
+&lt;td&gt;Visit of the 
+&lt;a href=&#34;http://www.fim.uni-passau.de/en/dynamical-systems/welcome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;group&lt;/a&gt; of Fabian Wirth and seminar talk on 
+&lt;a href=&#34;/talk/19-07-passau/&#34;&gt;robust controller design&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Passau, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low-rank modelling in uncertainty quantification</title>
+      <link>/events/19-ms-enumath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/events/19-ms-enumath/</guid>
+      <description>&lt;h1 id=&#34;mini-symposium&#34;&gt;Mini Symposium&lt;/h1&gt;
+&lt;p&gt;Uncertainties in modelling and simulation of dynamical systems come from different sources: modelled or unmodelled external perturbations, unknown or stochastically changing model parameters, and measurement errors, to name a few. In any case, respecting these uncertainties in the model equations and their discretization means adding yet another model dimension. Thus, since the computational complexity grows exponentially with the dimensions, low-rank descriptions seem to be a promising way to arrive at feasible schemes for models that include PDEs. This mini symposium features suitably extended common approaches as well as newly developed methods that have the identification and exploitation of low-rank structures as the common denominator.&lt;/p&gt;
+&lt;h2 id=&#34;session-1&#34;&gt;Session 1&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Karsten Urban&lt;/strong&gt;, Uni Ulm&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Parameter Functions within Model Reduction for Uncertainty Quantification&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Martin Grepl&lt;/strong&gt;, RWTH Aachen&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;A certified reduced basis approach to variational data assimilation&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Yoshihito Kazashi&lt;/strong&gt;, EPF Lausanne&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Analysis of the dynamical low rank equations for random semi-linear evolutionary problems&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Alexandra Bünger&lt;/strong&gt;, TU Chemnitz&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Low-rank methods and iso-geometric analysis&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;session-2&#34;&gt;Session 2&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Martin Redmann&lt;/strong&gt;, WIAS Berlin&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Energy estimates and model order reduction for bilinear systems with Lévy noise&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Yue Qiu&lt;/strong&gt;, Max Planck Institute for Dynamics of Complex Technical Systems&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Low-rank ensemble Kalman filter for nonlinear networks: a gas network example&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Ralf Zimmermann&lt;/strong&gt;, SDU Odense&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Low-rank parameterizations for the unsteady Navier-stokes equations in the frequency domain&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Martin Hess&lt;/strong&gt;, SISSA Triest&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Model Reduction in Micromotility Applications&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

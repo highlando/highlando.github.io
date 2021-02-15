@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Benner | Jan Heiland</title>
+    <link>/author/peter-benner/</link>
+      <atom:link href="/author/peter-benner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Benner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 13:10:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <title>Peter Benner</title>
+      <link>/author/peter-benner/</link>
+    </image>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD for UQ of PDEs with Random Parameters</title>
+      <link>/talk/21-gpuq-csefa/</link>
+      <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
+      <guid>/talk/21-gpuq-csefa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-Based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>/talk/20-ecc-hinfric/</link>
+      <pubDate>Wed, 13 May 2020 15:00:00 +0300</pubDate>
+      <guid>/talk/20-ecc-hinfric/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Riccati-based approach to robust control is completely understood in theory
+since long but seldom used for large-scale systems in practice. Only recently,
+we have transferred iterative algorithms that allow the computation of solutions
+to LQR Riccati equations in the large-scale setting to the indefinite Riccati
+equations that appear in robust control. For descriptor systems, the relevant
+Riccati equations are nonsymmetric and, for large-scale systems, there is no
+established algorithm that can handle these even in the LQR case.&lt;/p&gt;
+&lt;p&gt;In this paper, we show how the general theory for descriptor systems with
+index-1 pencil coincides with the theory for standard linear time invariant case
+with feedthrough terms. This provides an algorithm to characterize and to
+compute the solution to the generalized indefinite Riccati equations via
+standard Riccati equations. In view of feasibility for large-scale descriptor
+systems, we illustrate how to arrive at the equivalent standard Riccati-equation
+without resorting to the canonical form used in the derivation of the
+theoretical results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>/publication/ben-h-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-intrusive Time Galerkin POD for Optimal Control of a Fixed-Bed Reactor for CO2 Methanation</title>
+      <link>/publication/bre-hbs-21/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bre-hbs-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
+      <link>/publication/ben-ghp-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PD controllers to solve single-input, index-1 DAE based LQR problems</title>
+      <link>/publication/bha-hb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bha-hb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
+      <link>/publication/beh-bh-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>
+      <link>/publication/ben-hw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution Formulas for Differential Sylvester and Lyapunov Equations</title>
+      <link>/publication/beh-bh-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Stability and Stabilization of Extended Linearizations via Continuous Updates of Riccati Based Feedback</title>
+      <link>/publication/ben-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Control of a Stefan Problem Fully Coupled with Navier-Stokes-Equations and Mesh Movement</title>
+      <link>/publication/bar-bhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bar-bhs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations</title>
+      <link>/publication/bau-bh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-bh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear feedback stabilization of incompressible flows via updated Riccati-based gains</title>
+      <link>/publication/ben-h-17-b/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients</title>
+      <link>/publication/beh-bh-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Approximations to Riccati-based Boundary-feedback Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moment-Matching Based Model Reduction for Navier-Stokes Type Quadratic-Bilinear Descriptor Systems</title>
+      <link>/publication/ahm-bg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ahm-bg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Stabilization of Laminar Flows in Varying Flow Regimes</title>
+      <link>/publication/ben-h-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LQG-Balanced Truncation Low-Order Controller for Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent Dirichlet Conditions in Finite Element Discretizations</title>
+      <link>/publication/ben-h-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-15-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

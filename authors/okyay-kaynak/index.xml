@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Okyay Kaynak | Jan Heiland</title>
+    <link>/authors/okyay-kaynak/</link>
+      <atom:link href="/authors/okyay-kaynak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Okyay Kaynak</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Okyay Kaynak</title>
+      <link>/authors/okyay-kaynak/</link>
+    </image>
+    
+    <item>
+      <title>Frequency-selective Filter Based Frequency Separated Feedback Control of Linear Systems: State Feedback Case</title>
+      <link>/publication/du-yhk-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/du-yhk-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

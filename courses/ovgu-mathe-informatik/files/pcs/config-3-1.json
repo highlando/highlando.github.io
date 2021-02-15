@@ -1,0 +1,83 @@
+{
+  "show": {
+    "title": "Mathematik für Informatik",
+    "subtitle": "Gelesen aus der Ferne",
+    "poster": "/courses/ovgu-mathe-informatik/files/pcs/3-1-banner.png" 
+  },
+  "reference": {
+    "config": "https://freakshow.fm/?podlove_player4=1465"
+  },
+  "theme": {
+    "main": "#26475B"
+  },
+  "title": "Woche 4 Vorlesung 1 — Differenzierbarkeit I ",
+  "subtitle": "Definition — Beispiele — Monotonie — Formeln",
+  "summary": "Kapitel 13 im Skript - erstes Drittel",
+  "publicationDate": "2020-05-12:00:00+00:00",
+  "poster": "/courses/ovgu-mathe-informatik/files/pcs/3-1-banner.png",
+  "duration": "00:11:46",
+  "audio": [
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/3-1.mp3",
+      "size": "12922367",
+      "title": "MPEG-3",
+      "mimeType": "audio/mp3"
+    },
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/3-1.ogg",
+      "size": "10139400",
+      "title": "Opus Audio (ogg)",
+      "mimeType": "audio/ogg"
+    }
+  ],
+  "chapters": [
+      {"start": "00:00:01.460", "title": "Intro"},
+      {"start": "00:00:48.438", "title": "Zettel und Stift bitte"},
+      {"start": "00:01:19.117", "title": "Sekante"},
+      {"start": "00:02:51.540", "title": "Differenzierbarkeit"},
+      {"start": "00:04:19.030", "title": "Beispiele"},
+      {"start": "00:05:03.369", "title": "Pause zur Besinnung"},
+      {"start": "00:05:59.413", "title": "Rechnen mit Ableitungen"},
+      {"start": "00:06:51.820", "title": "Ableitungen elementarer Funktionen"},
+      {"start": "00:07:26.370", "title": "Ableitung und Monotonie"},
+      {"start": "00:08:06.400", "title": "Ableitung der Umkehrfunktion"},
+      {"start": "00:09:12.795", "title": "Ableitungen elementarer Umkehrfunktionen"},
+      {"start": "00:09:39.198", "title": "Regel von l'Hospital"},
+      {"start": "00:10:42.145", "title": "Abschluss"}
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabFiles",
+    "tabAudio",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Jan Heiland",
+      "avatar": "/courses/ovgu-mathe-informatik/files/pcs/icke.jpg",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jan-heiland"
+    }
+  ]
+}

@@ -1,0 +1,3202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Heiland</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Heiland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Jan 2021 13:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <title>Jan Heiland</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Warmup</title>
+      <link>/courses/ovgu-mathe-informatik/omi-0/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-0/</guid>
+      <description>&lt;p&gt;Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben,
+die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.&lt;/p&gt;
+&lt;p&gt;💾 
+&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1 Folgen und Reihen</title>
+      <link>/courses/ovgu-mathe-informatik/omi-1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-1/</guid>
+      <description>&lt;h2 id=&#34;1-1-folgen&#34;&gt;1-1 Folgen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-one&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:QUoKgfMdtkWu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 
+&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.math-kit.de/2003/content/RH-PB-XML-cob/Manifest295/einstieg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Achilles und die Schildkröte als Reihe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;1-2-reihen&#34;&gt;1-2 Reihen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-1-2&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:phVZ4hhjpEG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript (zweiter Teil)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 
+&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../files/pcs/1-2-kuchenharmonie-small.png&#34;&gt;Bild zur Kuchenfolge und zum harmonischen
+Turm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;video-zur-kuchenfolge-und-zum-harmonischen-turm&#34;&gt;Video zur Kuchenfolge und zum harmonischen Turm&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JT6JTtZw3nQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;video-zu-achilles&#34;&gt;Video zu Achilles&lt;/h3&gt;
+&lt;p&gt;coming soon&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;wrapup-woche-1&#34;&gt;Wrapup (Woche 1)&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Uox_VilhqcQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>2 Stetigkeit von Funktionen</title>
+      <link>/courses/ovgu-mathe-informatik/omi-2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-2/</guid>
+      <description>&lt;h2 id=&#34;2-1-eigenschaften-und-beispiele-von-funktionen&#34;&gt;2-1 Eigenschaften und Beispiele von Funktionen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-2-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:cjsQ71YoKehx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 
+&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wrapup-part-21&#34;&gt;Wrapup (Part 2.1)&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JnI8OcKtGvs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;2-2-grenzwerte-und-stetigkeit-von-funktionen&#34;&gt;2-2 Grenzwerte und Stetigkeit von Funktionen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-2-2&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:cjsQ71YoKehx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 
+&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wrapup-part-22&#34;&gt;Wrapup (Part 2.2)&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Kr8jJfu-UWQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>3 Differenzierbarkeit I</title>
+      <link>/courses/ovgu-mathe-informatik/omi-3/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-3/</guid>
+      <description>&lt;h2 id=&#34;3-1-definition-formeln-und-eigenschaften-der-ableitung&#34;&gt;3-1 Definition, Formeln und Eigenschaften der Ableitung&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-3-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 13 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 
+&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-2-houmlhere-ableitungen-konvex-konkav-extrema&#34;&gt;3-2 Höhere Ableitungen, Konvex-Konkav, Extrema&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-3-2&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 13 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 
+&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/3-2-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DkAGMGCSvw4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QNsfdKN1NqM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;wrapup-differenzierbarkeit&#34;&gt;Wrapup Differenzierbarkeit&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>4 Taylor- und Potenzreihen</title>
+      <link>/courses/ovgu-mathe-informatik/omi-4/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-4/</guid>
+      <description>&lt;h2 id=&#34;4-1-taylorpolynom-landau-symbole-taylor-reihe&#34;&gt;4-1 Taylorpolynom, Landau-Symbole, Taylor-Reihe&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-4-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:NVYFzJarguQi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 14 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/4-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dI9t-9pGKus&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;4-2-taylor-reihe-potenzreihe-taylor-reihe&#34;&gt;4-2 Taylor-Reihe, Potenzreihe, Taylor-Reihe&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-4-2&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:NVYFzJarguQi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 14 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele-1&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/4-2-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Zk9CXZEcUaY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5 Integration I</title>
+      <link>/courses/ovgu-mathe-informatik/omi-5/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-5/</guid>
+      <description>&lt;p&gt;In diesem Kapitel geht es vor allem um Formeln &amp;ndash; dafür finde ich den
+Podcast und den Wrapup nicht so geeignet. Deswegen hier mein Angebot für
+diesen Themenkomplex:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;#5-1-zerlegung-ober-untersummen-riemann-integral&#34;&gt;1. Teil (Mittwoch)&lt;/a&gt;: Podcast und Beispiele als Video.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#5-2-substitionsregel-partielle-integration-uneigentliche-integrale&#34;&gt;2. Teil (Freitag)&lt;/a&gt;: Illustration der Inhalte als Video.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#5-3-wrapup----beispiele-vorrechnen&#34;&gt;3. Teil (Mittwoch)&lt;/a&gt;: Vorrechnen der Beispiele aus dem Vorlesungskapitel +
+ausgewählte Übungsaufgaben.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;5-1-zerlegung-ober-untersummen-riemann-integral&#34;&gt;5-1 Zerlegung, Ober-/Untersummen, Riemann-Integral&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-5-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ye3UTe7IUff-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 15 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/5-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ScRfoCNgTPQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;5-2-substitionsregel-partielle-integration-uneigentliche-integrale&#34;&gt;5-2 Substitionsregel, Partielle Integration, Uneigentliche Integrale&lt;/h2&gt;
+&lt;p&gt;Dafür gibt es keinen Podcast von mir. In meinem Video habe ich versucht,
+die Sätze euch über die Herleitung näherzubringen und das
+&lt;em&gt;Uneigentliche Integral&lt;/em&gt; anhand eines Beispiels (in dem man gleich eine
+Anwendung der Substitionsregel sieht). Ansonsten bitte die Übungsaufgaben
+bearbeiten.&lt;/p&gt;
+&lt;h3 id=&#34;aufschrieb&#34;&gt;Aufschrieb&lt;/h3&gt;
+&lt;p&gt;Die Herleitung der Sätze 15.25 und 15.21 über die zugrundeliegenden
+Differentiationsregeln und das &lt;em&gt;uneigentliche Integral&lt;/em&gt; am Beispiel&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \frac{1}{\sqrt{1-|x|}}, \quad\text{auf }(-1, 1).
+$$&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/5-2.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3SQ5a5Q9RkI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;5-3-wrapup----beispiele-vorrechnen&#34;&gt;5-3 Wrapup &amp;ndash; Beispiele Vorrechnen&lt;/h2&gt;
+&lt;p&gt;Live Vorrechnen der Beispiele aus der Vorlesung und einer Übungsaufgabe&lt;/p&gt;
+&lt;p&gt;$$
+\int _ {\frac{1}{\pi}}^{\frac{2}{\pi}} -\frac{\sin(\frac{1}{x})}{x^2}~dx \tag{Bsp. 15.22}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\int_a^b \cos(x)x~dx \tag{Bsp. 15.26-1}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\int_a^b \log(x)~dx \tag{Bsp. 15.26-2}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\text{Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
+$$&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/5-3-bspx.png&#34;&gt;Das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Id9qFbM0bL0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>6 Fourierreihen</title>
+      <link>/courses/ovgu-mathe-informatik/omi-6/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-6/</guid>
+      <description>&lt;h2 id=&#34;6-trigonometrische-polynome-fourierreihen&#34;&gt;6 Trigonometrische Polynome, Fourierreihen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-6-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:WzWpnQUp8Wbc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 16 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://de.wikipedia.org/wiki/JPEG#Die_JPEG-Dekodierung&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kosinustransformation in JPG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-wrapup&#34;&gt;6 Wrapup&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.youtube.com/c/JanHeiland/live&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube live&lt;/a&gt; &amp;ndash; 
+&lt;a href=&#34;http://mm.cs.ovgu.de/mathe-info-2/channels/0605-wrapup-fourier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rückkanal&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7 Differenzierbarkeit II</title>
+      <link>/courses/ovgu-mathe-informatik/omi-7/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-7/</guid>
+      <description>&lt;p&gt;Das ist wieder eine dreiteilige Vorlesung&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Podcast (Mittwoch)&lt;/li&gt;
+&lt;li&gt;Screencast (Freitag)&lt;/li&gt;
+&lt;li&gt;Screencast+Wrapup (Mittwoch)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;7-1-multivariable-funktionen-und-grenzwerte&#34;&gt;7-1 Multivariable Funktionen und Grenzwerte&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-7-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:MO-KGEUoek-P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/7-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wKQhqfCqApc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;7-2-ableitungen-multivariable-vektorwertige-funktionen-und-extrema&#34;&gt;7-2 Ableitungen, Multivariable Vektorwertige Funktionen und Extrema&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/7-2-lctr.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/9UV8m2wsnbk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:MO-KGEUoek-P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;7-3-hesse-matrix-definitheit-extrema-kompakte-mengen&#34;&gt;7-3 Hesse Matrix, Definitheit, Extrema, Kompakte Mengen&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/7-3-lctr.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4B6jUlF9R94&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes-2&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ein 
+&lt;a href=&#34;https://studyflix.de/informatik/hesse-matrix-1352&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Text und Video&lt;/a&gt; mit
+schöner Illustration wie die Funktion, kritische Punkte und die Hesse
+Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix Beispiel 1&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:u6Nm6dd51DMi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8 Integration II</title>
+      <link>/courses/ovgu-mathe-informatik/omi-8/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-8/</guid>
+      <description>&lt;p&gt;Das ist wieder eine dreiteilige Vorlesung&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Screencast (Mittwoch)&lt;/li&gt;
+&lt;li&gt;Screencast (Freitag)&lt;/li&gt;
+&lt;li&gt;Screencast+Wrapup (Mittwoch)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;8-1-quader-integration-multivariabler-funktionen&#34;&gt;8-1 Quader, Integration Multivariabler Funktionen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/8-1-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xLdLJxPsjD4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:5H0uGjizYZx3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;8-2-normalbereiche-und-transformationssatz&#34;&gt;8-2 Normalbereiche und Transformationssatz&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/8-2-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7qLIr4Zlsf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;8-3-transformationssatz-und-polarkoordinaten&#34;&gt;8-3 Transformationssatz und Polarkoordinaten&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/8-3-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/PFTo1CXbVuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes-2&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Die 
+&lt;a href=&#34;https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Umkehrung der Transformation in Polarkoordinaten&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ein geglücktes Bild der Kugelkoordinaten:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a title=&#34;Ag2gaeh / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)&#34; href=&#34;https://commons.wikimedia.org/wiki/File:Kugelkoord-def.svg&#34;&gt;&lt;img width=&#34;256&#34; alt=&#34;Kugelkoord-def&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kugelkoord-def.svg/256px-Kugelkoord-def.svg.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cool down</title>
+      <link>/courses/ovgu-mathe-informatik/omi-9/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-mathe-informatik/omi-9/</guid>
+      <description>&lt;p&gt;Das ist eine zweiteilige Zusammenfassung der relevantesten (für die anstehende
+Klausur) Inhalte. Live auf Youtube mit diesem 
+&lt;a href=&#34;https://mm.cs.ovgu.de/mathe-info-2/channels/cool-down&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattermost Rückkanal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Plus ein Bonus mit vorgerechneten Beispielen&lt;/p&gt;
+&lt;h2 id=&#34;1-folgen-und-stetigkeit&#34;&gt;1 Folgen und Stetigkeit&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/cool-down-1.png&#34;&gt;das ganze (vorab) als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/cool-down-1-2.png&#34;&gt;der letzte Teil ausgefüllt&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;die-videos&#34;&gt;Die Videos&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Part 1 &amp;ndash; Folgen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/o6fc0mRH_hk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part 2 &amp;ndash; Konvergenz von Folgen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/eZIpMUFEDZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part 3 &amp;ndash; Stetigkeit]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/d7ccwQ7i4pQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;2-differentiation-und-integration&#34;&gt;2 Differentiation und Integration&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;../files/cool-down-2.png&#34;&gt;das ganze (vorab) als PNG&lt;/a&gt;
+
+&lt;a href=&#34;../files/cool-down-2-1.png&#34;&gt;und alles ausgefüllt&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;screencast&#34;&gt;Screencast&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/lt0oN7HGvcg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;3-beispiele&#34;&gt;3 Beispiele&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Grenzwert einer Funktion mit mehreren Veränderlichen&lt;/li&gt;
+&lt;li&gt;Taylorreihe und Restglied&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../files/cool-down-3.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bnRdkrX8j5Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Past Conferences and Events</title>
+      <link>/events/pastconfs/</link>
+      <pubDate>Sun, 31 Jan 2021 13:00:00 +0200</pubDate>
+      <guid>/events/pastconfs/</guid>
+      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#2020&#34;&gt;2020&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2019&#34;&gt;2019&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Date&lt;/th&gt;
+&lt;th&gt;Occasion&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Feb 01 &amp;ndash; Mar 15&lt;/td&gt;
+&lt;td&gt;Visiting Professor at the 
+&lt;a href=&#34;https://cmc.deusto.eus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMC at Deusto&lt;/a&gt; invited by Enrique Zuazua and the 
+&lt;a href=&#34;https://cmc.deusto.eus/dycon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ERC DyCon Project&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Bilbao, Spain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;May 12 &amp;ndash; May 15&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://ecc20.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECC&lt;/a&gt; - European Control Conference&lt;/td&gt;
+&lt;td&gt;Saint Petersburg, Russia but virtual&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Date&lt;/th&gt;
+&lt;th&gt;Occasion&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Nov 04 &amp;ndash; Nov 07&lt;/td&gt;
+&lt;td&gt;Invited conference talk at 
+&lt;a href=&#34;https://liacopdesclm.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIA COPDESC and Lions Magenes Days&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Paris, France&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Oct 14 &amp;ndash; Oct 18&lt;/td&gt;
+&lt;td&gt;Workshop 
+&lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/shanghaiws19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning in Model Reduction and Control&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Shanghai, China&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Sep 30 &amp;ndash; Oct 4&lt;/td&gt;
+&lt;td&gt;MS 
+&lt;a href=&#34;/events/19-ms-enumath/&#34;&gt;Low-rank modelling in uncertainty quantification&lt;/a&gt; and talk on 
+&lt;a href=&#34;/talk/19-enumath-nse/&#34;&gt;time stepping for NSE&lt;/a&gt; at the 
+&lt;a href=&#34;http://www.enumath2019.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enumath 2019&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Egmond an Zee, The Netherlands&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Sep 16 &amp;ndash; Sep 17&lt;/td&gt;
+&lt;td&gt;Visiting the 
+&lt;a href=&#34;http://ifatwww.et.uni-magdeburg.de/syst/GAMMFA/ilmenau_2019.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop&lt;/a&gt; des GAMM Fachausschuss &lt;em&gt;Dynamik und Regelungstheorie&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Ilmenau, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Jul 15 &amp;ndash; Jul 19&lt;/td&gt;
+&lt;td&gt;Talks at the 
+&lt;a href=&#34;https://iciam2019.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM2019&lt;/a&gt; on 
+&lt;a href=&#34;/talk/19-iciam-rob-nse/&#34;&gt;robust controllers&lt;/a&gt; and 
+&lt;a href=&#34;/talk/19-iciam-genpod/&#34;&gt;tensor POD&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Valencia, Spain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Jul 02 &amp;ndash; Jul 04&lt;/td&gt;
+&lt;td&gt;Visit of the 
+&lt;a href=&#34;http://www.fim.uni-passau.de/en/dynamical-systems/welcome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;group&lt;/a&gt; of Fabian Wirth and seminar talk on 
+&lt;a href=&#34;/talk/19-07-passau/&#34;&gt;robust controller design&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Passau, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD for UQ of PDEs with Random Parameters</title>
+      <link>/talk/21-gpuq-csefa/</link>
+      <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
+      <guid>/talk/21-gpuq-csefa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of a Triple Pendulum in Theory and Practice</title>
+      <link>/talk/20-pendulum-musen/</link>
+      <pubDate>Thu, 08 Oct 2020 16:45:00 +0200</pubDate>
+      <guid>/talk/20-pendulum-musen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The DEAL - What is up and what does it mean</title>
+      <link>/talk/20-deal/</link>
+      <pubDate>Wed, 23 Sep 2020 14:00:00 +0200</pubDate>
+      <guid>/talk/20-deal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical modeling of infectious disease</title>
+      <link>/talk/20-mathcore-covid/</link>
+      <pubDate>Thu, 02 Jul 2020 11:00:00 +0100</pubDate>
+      <guid>/talk/20-mathcore-covid/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Within the last couple of months, the COVID-19 epidemic has determined our
+public and private life with travel restrictions, lockdown, social distancing,
+working from home, hygiene rules etc. The daily news informed about reproduction
+rates and the numbers of current confirmed COVID-19 cases. The media prominently
+advertised the strategy &lt;em&gt;stay at home&lt;/em&gt; in order to &lt;em&gt;flatten the curve&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In this joint talk, we present two mathematical modeling strategies for
+infectious disease. In the first part, we consider a classical compartment
+approach which splits the population into different groups, for example
+&lt;em&gt;Susceptible&lt;/em&gt;, &lt;em&gt;Infected&lt;/em&gt;, &lt;em&gt;Recovered&lt;/em&gt; (SIR model). The evolution of the numbers
+in each compartment can be described mathematically in form of a system of
+coupled ordinary differential equations. The transition rates between the
+different compartments (e.g. infection rate, recovery rate) can be adjusted
+through available data. For the modeling of the COVID-19 epidemic in Italy and
+Germany, the SIDHARTE version of a compartment model has been developed&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; in
+order to simulate and predict the spread of the epidemic and to model possible
+countermeasures.&lt;/p&gt;
+&lt;p&gt;In the second part of the talk, the spreading of the disease on a graph
+representing a smaller population sample is presented. In this model the graph
+represents a hospital or other institution in which a COVID-19 outbreak could be
+harmful. In this model we are particularly interested in finding a suitable test
+strategy, which is one way to apply control to the system. In general is the
+question of the right control mechanisms to &lt;em&gt;flatten the curve&lt;/em&gt; or slow the
+spread of virus still an open one.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;G. Giordano, F. Blanchini, R. Bruno, P. Colaneri, A. Di Filippo, A. Di Matteo, M. Colaneri: Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy. Nat. Med. (2020)&amp;quot; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-Based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>/talk/20-ecc-hinfric/</link>
+      <pubDate>Wed, 13 May 2020 15:00:00 +0300</pubDate>
+      <guid>/talk/20-ecc-hinfric/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Riccati-based approach to robust control is completely understood in theory
+since long but seldom used for large-scale systems in practice. Only recently,
+we have transferred iterative algorithms that allow the computation of solutions
+to LQR Riccati equations in the large-scale setting to the indefinite Riccati
+equations that appear in robust control. For descriptor systems, the relevant
+Riccati equations are nonsymmetric and, for large-scale systems, there is no
+established algorithm that can handle these even in the LQR case.&lt;/p&gt;
+&lt;p&gt;In this paper, we show how the general theory for descriptor systems with
+index-1 pencil coincides with the theory for standard linear time invariant case
+with feedthrough terms. This provides an algorithm to characterize and to
+compute the solution to the generalized indefinite Riccati equations via
+standard Riccati equations. In view of feasibility for large-scale descriptor
+systems, we illustrate how to arrive at the equivalent standard Riccati-equation
+without resorting to the canonical form used in the derivation of the
+theoretical results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turnpike and Linear Systems Theory</title>
+      <link>/talk/20-turnpike-dae/</link>
+      <pubDate>Tue, 07 Apr 2020 14:00:00 +0200</pubDate>
+      <guid>/talk/20-turnpike-dae/</guid>
+      <description>&lt;h1 id=&#34;turnpike-and-linear-systems-theory&#34;&gt;Turnpike and Linear Systems Theory&lt;/h1&gt;
+&lt;h2 id=&#34;old-formulas-and-new-results&#34;&gt;Old Formulas and New Results&lt;/h2&gt;
+&lt;p&gt;It is often observed, that the solution to an optimal control problem on a
+finite but large time horizon stays close to an associated steady state optimal
+solution most of the time. This phenomenon is called &lt;em&gt;turnpike&lt;/em&gt; property. It has
+been addressed in the research of economics since the 60s and has become a
+popular topic in systems and control in the last 20 years.&lt;/p&gt;
+&lt;p&gt;The turnpike property is intimately related to the exponential decay of the
+solution to a differential Riccati equation towards the stabilizing solution of
+the associated algebraic Riccati equation (ARE).&lt;/p&gt;
+&lt;p&gt;In this talk, I will show how the basic result on turnpike (namely that the linear quadratic regulator (LQR) problem enjoys the
+turnpike property) follows from classical system theory results by Callier,
+Willems, and Winkin&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. With these results, we can also directly address borderline
+cases like that of undetectable systems. By means of an explicit formula for the
+state transition matrix of the forward and backward closed loop system, we extend
+the classical results to the affine case, i.e., the case with nonzero control
+targets.&lt;/p&gt;
+&lt;p&gt;In the second part of the talk, we discuss the turnpike property of LQR
+problems with DAE constraints. Under standard assumptions, we establish existence
+of solutions to the generalized (nonsymmetric) differential Riccati equation
+and conditions for their convergence to a solution of the generalized ARE. With
+these results, we can characterize the turnpike property for DAE control
+problems.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Callier, F. M.; Winkin, J. &amp;amp; Willems, J. L. &lt;em&gt;Convergence of the
+time-invariant Riccati differential equation and LQ-problem: mechanisms of
+attraction&lt;/em&gt;. International Journal of Control, Taylor &amp;amp; Francis, 1994, 59,
+983-1000. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trends in Covid-19 Spread</title>
+      <link>/post/covid-19-trends/</link>
+      <pubDate>Sun, 22 Mar 2020 13:22:04 +0100</pubDate>
+      <guid>/post/covid-19-trends/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+&lt;p&gt;The John Hopkins University (JHU) collects data on how the COVID-19 virus
+spreads over the world and makes it 
+&lt;a href=&#34;https://github.com/CSSEGISandData/COVID-19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available on
+github&lt;/a&gt;. In this analysis, we take
+the data and extract the numbers that describe how the growth of casualties
+develops. Looking at the trends in these numbers, one may deduce how fast or how
+slow the virus is spreading and also compare how the situation evolves in different
+countries.&lt;/p&gt;
+&lt;p&gt;Feel free to use the 
+&lt;a href=&#34;https://github.com/highlando/covid-over-any-time-soon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;python&lt;/em&gt;
+implementation&lt;/a&gt; that
+produces the presented plots and that can be modified to show the results for
+any country that is in the JHU data base.&lt;/p&gt;
+&lt;p&gt;This post bases on joint efforts and discussions of the 
+&lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/csc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC
+group&lt;/a&gt; at the MPI Magdeburg.&lt;/p&gt;
+&lt;p&gt;The numbers in the presented plots are updated automatically&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#why-this-analysis&#34;&gt;Why This Analysis&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#the-analysis&#34;&gt;The Analysis&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#illustrative-examples&#34;&gt;Illustrative Examples&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#general-explanations-of-the-numbers&#34;&gt;General Explanations of the Numbers&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#what-it-would-look-like-and-what-it-should-look-like&#34;&gt;What It Would Look Like and What It Should Look Like&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#the-actual-numbers&#34;&gt;The Actual Numbers&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-last-100-days&#34;&gt;The last 100 days&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-last-30-days&#34;&gt;The last 30 days&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#notes-and-acknowledgements&#34;&gt;Notes and Acknowledgements&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;h1 id=&#34;why-this-analysis&#34;&gt;Why This Analysis&lt;/h1&gt;
+&lt;p&gt;If one looks at the actual numbers generated by an exponential growth, the
+overall growth is so strong, that one barely sees changes in the dynamics. If
+one looks at the numbers in log scale, the data becomes more handy. In log scale
+an exponential growth looks like a straight line and the slope of the line
+indicates how fast the exponential growth is.&lt;/p&gt;
+&lt;p&gt;To see whether the exponential growth changes its dynamics, one may check
+whether the line in the logarithmic plot changes its slope (&lt;em&gt;hopefully it gets
+less steep&lt;/em&gt;). That&amp;rsquo;s why we plot the slope of the logarithmic line that connects
+the numbers of two consecutive days. Since the data is wiggly, we also plot
+averages of the slopes over 2 or 5 days to better spot the trends.&lt;/p&gt;
+&lt;p&gt;This post was inspired by an illustration that was discussed on twitter&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; in the
+last days:
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-lockdowns-and-the-numbers-of-deaths-in-italy-and-hubei&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Lockdowns and the numbers of deaths in Italy and Hubei&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1188&#34; height=&#34;710&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Lockdowns and the numbers of deaths in Italy and Hubei
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+It shows how, seemingly, the exponential growth in casualties did decrease some
+days after lockdowns have been implemented. In this analysis, we try to
+automatically detect such changes in the growth for a number of countries and
+represent it in an accessible form that allows easy comparisons.&lt;/p&gt;
+&lt;h1 id=&#34;the-analysis&#34;&gt;The Analysis&lt;/h1&gt;
+&lt;p&gt;We examine the (logarithmic) slope of the curves of the accumulated cases
+per day.  That is for day &lt;code&gt;d&lt;/code&gt; and the day &lt;code&gt;d-1&lt;/code&gt; before that day, we look at &lt;code&gt;log2(x[d]) - log2(x[d-1])&lt;/code&gt;, where &lt;code&gt;x&lt;/code&gt; holds the number of accumulated deaths for every day
+and where &lt;code&gt;log2&lt;/code&gt; is a function that computes the logarithm of a number with
+respect to the basis&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; &lt;code&gt;2&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The resulting slope is exactly the daily increase in the number of cases in
+relation to the overall number of cases. As this is easier to interprete,
+we translate the slopes into the daily increase in percent.&lt;/p&gt;
+&lt;h2 id=&#34;illustrative-examples&#34;&gt;Illustrative Examples&lt;/h2&gt;
+&lt;p&gt;To make sense of the numbers, we start with some example scenarios. In the plot
+below, we have plotted the values for some &lt;em&gt;fictitious&lt;/em&gt; growth scenarios.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An exponential growth &amp;ndash; every day &lt;code&gt;d&lt;/code&gt; the number of additional cases is
+&lt;code&gt;1.1**d&lt;/code&gt; (&lt;em&gt;speak: &lt;code&gt;1.1&lt;/code&gt; to the power of &lt;code&gt;d&lt;/code&gt; and think of a daily increase by
+10%&lt;/em&gt;). This scenario leads to a constant value in the plots of around &lt;code&gt;0.14&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A constant growth &amp;ndash; every day another &lt;code&gt;10&lt;/code&gt; cases are added. This is
+like the number of daily deaths due to traffic incidents in Germany&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; in 2010.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A growth that decreases exponentially &amp;ndash; every day the number of additional
+cases gets smaller exponentially.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-daily-increase-of-the-accumulated-cases-for-the-example-scenarios&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The daily increase of the accumulated cases for the example scenarios&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;400&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The daily increase of the accumulated cases for the example scenarios
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;general-explanations-of-the-numbers&#34;&gt;General Explanations of the Numbers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;constant&lt;/strong&gt; value means that the number of deaths grows exponentially.
+&lt;ul&gt;
+&lt;li&gt;If this constant is &lt;strong&gt;10&lt;/strong&gt;[%], this means that the numbers of cases
+&lt;strong&gt;doubles&lt;/strong&gt; every week.&lt;/li&gt;
+&lt;li&gt;A value of about &lt;strong&gt;7&lt;/strong&gt;[%], means a doubling every 10 days.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;decreasing&lt;/strong&gt; curve indicates that the exponential growth of
+infected people is stalled or reversed.&lt;/li&gt;
+&lt;li&gt;If the value approaches &lt;strong&gt;0&lt;/strong&gt;, this indicates that the virus is contained.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-it-would-look-like-and-what-it-should-look-like&#34;&gt;What It Would Look Like and What It Should Look Like&lt;/h2&gt;
+&lt;p&gt;To have a comparison of what an uncontrolled spread and what a well controlled
+spread would look like, we ran two simulations in a covid simulator&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A scenario for Germany in which no interventions are taken.&lt;/li&gt;
+&lt;li&gt;A scenario for which we defined interventions such that the number of
+hospitalized patients that require intensive care (ICU) was always below
+45000.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-daily-increase-of-the-accumulated-casualties-and-the-numbers-of-people-in-need-for-intensive-care-due-to-an-infection-by-covid-19-for-the-simulated-scenarios-the-kink-in-the-red-curve-is-due-to-the-stop-of-some-interventions-after-205-days&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the uncontrolled case, exponential growth is detected with a rate of
+15[%] of daily increase. After some time, when most people have been infected the, growth decreases
+down to zero.&lt;/p&gt;
+&lt;p&gt;In the controlled scenario, the rate is brought down in the initial phase. Then,
+exponential growth happens at a lower rate (in the plot the value is about 5[%])
+though for a longer time before it fades out.&lt;/p&gt;
+&lt;p&gt;To relate the slopes to the actual cases, in a second plot, we display the
+corresponding numbers of people that will need intensive care in a hospital. In
+our model, we assumed that 1.15% of the infected people will have to be treated
+in an intensive care unit.&lt;/p&gt;
+&lt;h1 id=&#34;the-actual-numbers&#34;&gt;The Actual Numbers&lt;/h1&gt;
+&lt;p&gt;We use the JHU for the last 100 days and plot the slopes for the last 90 days.
+The moving horizon of 100 days makes the changes of the last 3 months better visible.
+By plotting only 90 days, we omit a part of the wiggly behavior in the start of
+the data (which however is not relevant for the main part).&lt;/p&gt;
+&lt;h2 id=&#34;the-last-100-days&#34;&gt;The last 100 days&lt;/h2&gt;
+&lt;p&gt;See the 
+&lt;a href=&#34;slopes-dsifc.pdf&#34;&gt;pdf file&lt;/a&gt; for more countries and a better resolution
+of the plots.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-daily-increase-of-the-accumulated-cases-of-the-last-100-days-for-a-number-of-countries-the-colored-background-marks-the-days-where-the-number-of-deaths-was-below-100-300-900-2700-8100-24300--respectively-the-total-number-is-the-number-of-deaths-in-the-last-100-days-the-first-6-countries-are-always-shown-the-other-2-countries-change-occasionally-see-the-pdfslopes-dsifcpdf-for-all-countries&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/slopes-dsifc_hu8ad88cd7d40aa6eb98ff703675d405ba_365338_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, &amp;amp;hellip;, respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the &amp;lt;a href=&amp;#34;slopes-dsifc.pdf&amp;#34;&amp;gt;pdf&amp;lt;/a&amp;gt; for all countries.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/covid-19-trends/slopes-dsifc_hu8ad88cd7d40aa6eb98ff703675d405ba_365338_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1200&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, &amp;hellip;, respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the &lt;a href=&#34;slopes-dsifc.pdf&#34;&gt;pdf&lt;/a&gt; for all countries.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!-- ## Explanations of the Data Representation
+
+Because of natural fluctuations and, maybe, because of varying delays in the data
+transmission to JHU, the data does not describe a nice, smooth curve.
+Accordingly, the computed slopes can vary a lot, what leads to the point clouds
+like in the plot for France 🇫🇷. The smoothing effect of the 2 days and 5 days
+average makes the corresponding data points look smoother. There are a few
+points that lie outside the range of the plots. However, we do not adjust the
+plots to fit all outliers, since then the interesting parts of the curve will be
+less well resolved. On the other hand, the plot range of China 🇨🇳 is
+adjusted to better resolve the small numbers. --&gt;
+&lt;!--
+## Some Interpretation of the JHU Data
+
+As of today, one may say that:
+
+ * In all European countries, the spread of the virus has been slowed down to
+   rates well below 0.05. 
+ * The curves look all similar, still the overall numbers differ.
+ * An indicator for high numbers in casualties are high rates in the phase after
+   300 deaths; see *Italy* 🇮🇹, *Spain* 🇪🇸, *France* 🇫🇷, and the US.
+ * In *Germany* 🇩🇪, in this phase, the rates were lower than in the countries
+   mentioned above.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The plots are updated every day.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+## Other Things that can be Seen
+
+ * The curves seem to have similar phases. A phase of exponential growth
+   followed by a decrease. 
+ * The curves differ in the length of the phases (France seems to have a long
+   phase of exponential growth if compared to Spain) 
+ * And the starting points are different which gives a hint on when the outbreak
+   became visible in the different countries.
+--&gt;
+&lt;h2 id=&#34;the-last-30-days&#34;&gt;The last 30 days&lt;/h2&gt;
+&lt;p&gt;Since we look at the relative growth, so called &lt;em&gt;saturation effects&lt;/em&gt; will make
+changes less visible. This happens in particular, with a high number of
+cases but a low number of active cases. In the long run, exponential growth
+will still be visible, but also the short term dynamics are of interest. For
+example, to spot the start of a &lt;em&gt;second wave&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why the following plots consider the daily numbers for the last 40 days
+(leaving aside all cases that happened before)
+and show the daily increase of the number cases in percent for the last 30 days.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-daily-change-accumulated-cases-in-percent-counting-from-40-days-ago-for-a-number-of-countries-and-the-total-numbers-of-cases-for-the-last-month-the-first-5-countries-are-always-shown-the-other-3-countries-change-occasionally-see-the-pdflmslps-dsifcpdf-for-all-countries&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/lmslps-dsifc_hu2a34c4f482a07653754a50ab9534033e_226595_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the &amp;lt;a href=&amp;#34;lmslps-dsifc.pdf&amp;#34;&amp;gt;pdf&amp;lt;/a&amp;gt; for all countries.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/covid-19-trends/lmslps-dsifc_hu2a34c4f482a07653754a50ab9534033e_226595_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1200&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the &lt;a href=&#34;lmslps-dsifc.pdf&#34;&gt;pdf&lt;/a&gt; for all countries.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;notes-and-acknowledgements&#34;&gt;Notes and Acknowledgements&lt;/h1&gt;
+&lt;!-- ### On the data
+Certainly, the casualties lag[^3] behind the actual spreading of the virus by a
+number of days. However, one may think that numbers of casualties are a more
+reliable data point than the number of infected.
+--&gt;
+&lt;h3 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h3&gt;
+&lt;p&gt;This analysis is purely based on empirical trends. No statistical data analysis
+tools have been applied to (pre-)process the data, like data denoising (except
+that some outliers might not be shown because of the plot margins).&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The initial work, namely making the data easily available in python as well as
+the code that produces the title picture, was done by Petar Mlinarić.&lt;/p&gt;
+&lt;!--Particular help in terms of improving the presentation
+was provided by [Christian Himpe](https://himpe.science/), [Tim
+Mitchell](http://www.timmitchell.com/), and Peter Benner. --&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Updates once a day in the morning. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The plot is by the Italian Physicist 
+&lt;a href=&#34;http://chimera.roma1.infn.it/FEDERICO/Contacts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ricci-Tersenghi&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The basis is not too important here. If one takes 2, then a value of 1
+means a doubling. A different basis would only scale the plots but not change the
+qualitative outcomes. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&#34;&gt;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://covidsim.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;covidsim.eu&lt;/a&gt; with parameters as recorded in the
+screenshots 
+&lt;a href=&#34;covidsim-1-2020-03-22.png&#34;&gt;1&lt;/a&gt; and 
+&lt;a href=&#34;covidsim-2-2020-03-22.png&#34;&gt;2&lt;/a&gt;
+based on the assumptions used of the RKI publication mentioned in the footnote
+below. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FEniCS Burgers POD DMD</title>
+      <link>/post/fenics-burger-pod-dmd/</link>
+      <pubDate>Sat, 07 Mar 2020 15:26:18 +0100</pubDate>
+      <guid>/post/fenics-burger-pod-dmd/</guid>
+      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#burgers-equation&#34;&gt;Burgers equation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#0-the-setup&#34;&gt;0. The Setup&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-the-fem-discretization&#34;&gt;1. The FEM Discretization&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-spatial-discretization-in-fenics&#34;&gt;The spatial discretization in FEniCS&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-runge-kutta-time-integration&#34;&gt;The Runge-Kutta Time Integration&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-pod-reduced-model&#34;&gt;2. POD Reduced Model&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-dmd-reduced-model&#34;&gt;3. DMD Reduced Model&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-testing-the-models-for-different-initial-value&#34;&gt;4. Testing the Models for Different Initial Value&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#5-remarks&#34;&gt;5. Remarks&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;h1 id=&#34;burgers-equation&#34;&gt;Burgers equation&lt;/h1&gt;
+&lt;p&gt;For a given viscosity parameter $\nu$ and for time $t&amp;gt;0$, we consider the 2D Burgers equation on the unit square&lt;/p&gt;
+&lt;p&gt;$$
+\frac {\partial}{\partial t}u + (u\nabla)u - \nu \Delta u = 0
+$$&lt;/p&gt;
+&lt;p&gt;with zero Neumann boundary conditions and initial condition&lt;/p&gt;
+&lt;p&gt;$$
+u\bigr| _ {t=0}(x _ 1, x _ 2) =
+\begin{bmatrix}
+1 \\ 1
+\end{bmatrix}
+e ^ {-(4x _ 1^2 + 2x _ 2^2)}
+$$&lt;/p&gt;
+&lt;p&gt;and its numerical approximation using&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Finite Elements in space and Runge-Kutta in time,&lt;/li&gt;
+&lt;li&gt;a POD reduction of the FEM model, and&lt;/li&gt;
+&lt;li&gt;a DMD reduced order model.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Check &lt;a href=&#34;burgers.py&#34;&gt;&lt;code&gt;burgers.py&lt;/code&gt;&lt;/a&gt; for the presented code (and more) in one file.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;0-the-setup&#34;&gt;0. The Setup&lt;/h1&gt;
+&lt;p&gt;We start with importing the necessary modules and defining the parameters.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import dolfin
+
+import scipy.linalg as spla
+import matplotlib.pyplot as plt
+import numpy as np
+
+from scipy.integrate import solve_ivp
+from spacetime_galerkin_pod.ldfnp_ext_cholmod import SparseFactorMassmat
+
+dolfin.parameters[&#39;linear_algebra_backend&#39;] = &#39;Eigen&#39;
+
+nu = 1e-4  # the viscosity
+
+N = 80 
+poddim = 30
+
+t0, tE, Nts = 0., .8, 101  # the time grid for the snapshots
+timegrid = np.linspace(t0, tE, Nts)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here, &lt;code&gt;dolfin&lt;/code&gt; is the python interface to 
+&lt;a href=&#34;https://fenicsproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FEniCS&lt;/a&gt;
+and the other modules are standard in python, I would say. The module
+&lt;code&gt;ldfnp_ext_cholmod&lt;/code&gt; is a little wrapper for the sparsity optimizing Cholesky
+decomposition of 
+&lt;a href=&#34;https://github.com/scikit-sparse/scikit-sparse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;sksparse&lt;/em&gt;&lt;/a&gt;.
+It is available on 
+&lt;a href=&#34;https://github.com/highlando/spacetime_galerkin_pod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;
+and falls back to &lt;code&gt;numpy&lt;/code&gt; routines, in the case that &lt;code&gt;sksparse&lt;/code&gt; is not
+available.&lt;/p&gt;
+&lt;h1 id=&#34;1-the-fem-discretization&#34;&gt;1. The FEM Discretization&lt;/h1&gt;
+&lt;h2 id=&#34;the-spatial-discretization-in-fenics&#34;&gt;The spatial discretization in FEniCS&lt;/h2&gt;
+&lt;p&gt;First, the mesh is defined &amp;ndash; here a uniform triangulation of the unit square
+controlled by the parameter &lt;code&gt;N&lt;/code&gt;. For the value &lt;code&gt;N=80&lt;/code&gt; and for globally smooth
+and piecewise quadratic ansatz functions, the resulting dimension of the system
+is 51842.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# The mesh
+pone = dolfin.Point(-1, -1)
+ptwo = dolfin.Point(1, 1)
+mesh = dolfin.RectangleMesh(pone, ptwo, N, N)
+
+V = dolfin.VectorFunctionSpace(mesh, &#39;CG&#39;, 2)
+
+# ## The FENICS FEM Discretization
+v = dolfin.TestFunction(V)
+u = dolfin.TrialFunction(V)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Next, the discrete linear operators are defined and exported as a &lt;em&gt;SciPy&lt;/em&gt; sparse
+matrix. Also, we factorize the mass matrix &lt;code&gt;mmat&lt;/code&gt; for later use and define the
+norm that is weighted with the mass matrix as this is the discrete $L^2$ norm.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# ## the mass matrix
+mform = dolfin.inner(v, u)*dolfin.dx
+massm = dolfin.assemble(mform)
+mmat = dolfin.as_backend_type(massm).sparray()
+mmat.eliminate_zeros()
+# factorize it for later
+mfac = SparseFactorMassmat(mmat)
+
+# norm induced by the mass matrix == discrete L2-norm
+def mnorm(uvec):
+    return np.sqrt(np.inner(uvec, mmat.dot(uvec)))
+
+# ## the stiffness matrix
+# as a form in FEniCS
+aform = nu*dolfin.inner(dolfin.grad(v), dolfin.grad(u))*dolfin.dx
+aassm = dolfin.assemble(aform)
+# as a sparse matrix
+amat = dolfin.as_backend_type(aassm).sparray()
+amat.eliminate_zeros()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then we define the convective term as function of the velocity &lt;code&gt;u&lt;/code&gt; both in terms
+of an FE-function and as a function of the associated coefficient vector.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# ## the convective term
+# as a function in FEniCS
+def burgers_nonl_func(ufun):
+    cform = dolfin.inner(dolfin.grad(ufun)*ufun, v)*dolfin.dx
+    cass = dolfin.assemble(cform)
+    return cass
+
+# as a vector to form map
+def burgers_nonl_vec(uvec):
+    ufun = dolfin.Function(V)
+    ufun.vector().set_local(uvec)
+    bnlform = burgers_nonl_func(ufun)
+    bnlvec = bnlform.get_local()
+    return bnlvec
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- Another helper function that interfaces to *FEniCS* is defined to use the
+`dolfin` functionalities to compute the modulus $u_1^2 + u_2^2$ of the vector
+field $u$ and to plot it.
+
+
+```python
+def plotabs(uvec, fignum=None, vmax=None,
+            sprws=1, spcls=1, spidx=1, colormap=&#39;plasma&#39;):
+    ufun = dolfin.Function(V)
+    ufun.vector().set_local(uvec)
+    plt.figure(fignum)
+    plt.subplot(sprws, spcls, spidx)
+    cplt = dolfin.plot(dolfin.inner(ufun, ufun))
+    cplt.set_cmap(colormap)
+    if vmax is not None:
+        cplt.set_clim(vmin=0, vmax=vmax)
+    plt.colorbar(cplt)
+```
+--&gt;
+&lt;h2 id=&#34;the-runge-kutta-time-integration&#34;&gt;The Runge-Kutta Time Integration&lt;/h2&gt;
+&lt;p&gt;To apply standard time integration schemes (here, &lt;code&gt;RK23&lt;/code&gt; turned out to be most
+efficient), we define the &lt;em&gt;right hand side&lt;/em&gt; $f_h$ of the spatially discretized problem&lt;/p&gt;
+&lt;p&gt;$$
+\dot u_h = f_h (t_h, u_h).
+$$&lt;/p&gt;
+&lt;p&gt;In this case the &lt;em&gt;right hand side&lt;/em&gt; is an application of the discrete diffusion
+and convection operator and the inverse of the mass matrix that, simply
+speaking, maps a (discrete) form onto a discrete function. Note that there is no
+explicit time dependency in the Burgers equation, but the &lt;em&gt;SciPy&lt;/em&gt;&amp;rsquo;s &lt;code&gt;solve_ivp&lt;/code&gt;
+requires this parameter. Also, we define the initial value here. The time grid
+is used to store the solution for the snapshots needed later, but the time
+integrator uses his internal time grid.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;inivstrg = &#39;exp(-3.*(x[0]*x[0]+x[1]*x[1]))&#39;
+inivexpr = dolfin.Expression((inivstrg, inivstrg), degree=2)
+inivfunc = dolfin.interpolate(inivexpr, V)
+inivvec = inivfunc.vector().get_local()
+
+burgsol = solve_ivp(brhs, (t0, tE), inivvec, t_eval=timegrid, method=&#39;RK23&#39;)
+fullsol = burgsol.y
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here is the result. Note the sharp front that develops towards the end of the time
+integration.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-solution-snapshots-of-the-full-fem-model&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Solution snapshots of the full FEM model&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1853&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Solution snapshots of the full FEM model
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;2-pod-reduced-model&#34;&gt;2. POD Reduced Model&lt;/h1&gt;
+&lt;p&gt;If one has snapshots of the solution $v _ h$ at some time instances $t _ i$ one
+may well think that the span of the matrix of snapshots&lt;/p&gt;
+&lt;p&gt;$$
+X =
+\begin{bmatrix}
+v _ h(t_0) &amp;amp; v _ h(t_1) &amp;amp; \dotsm &amp;amp; v _ h(t_k)
+\end{bmatrix}
+$$&lt;/p&gt;
+&lt;p&gt;is a good candidate for a space in which the solution evolves in. One may even
+go further and look for a low-dimensional basis of this space. The span of a
+matrix is best approximated by its dominant singular vectors. And this is the idea of
+&lt;em&gt;Proper Orthogonal Decomposition&lt;/em&gt; (POD) &amp;ndash; use the leading singular vectors as a
+basis for the solution space.&lt;/p&gt;
+&lt;p&gt;We use the &lt;code&gt;Nts=101&lt;/code&gt; snapshots of the FEM solutions to setup the matrix of
+measurements $X$ and to compute the POD modes as $M^{-1/2}v _ k$, where $v _ k$
+is the $k$-th leading left singular vector of $M^{1/2}X$. This procedure gives a
+low-dimensional orthogonal (in the discrete $L^2$ inner product) basis that
+optimally parametrizes the subspace of $L^2$ that is spanned by the solution
+snapshots&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. In this example, we use the &lt;code&gt;poddim=30&lt;/code&gt; leading singular vectors
+to define the reduced model.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;snapshotmat = mfac.Ft.dot(burgsol.y)
+podmodes, svals, _ = spla.svd(snapshotmat, full_matrices=False)
+selected_podmodes = podmodes[:, :poddim]
+podvecs = mfac.solve_Ft(selected_podmodes)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In this implementation we use a sparse factor of the mass matrix instead of the
+square root.  The singular values (in particular those that correspond to the
+discarded directions) give an indication of how good the approximation is.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-singular-values-of-the-snapshot-matrix&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The singular values of the snapshot matrix&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;944&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The singular values of the snapshot matrix
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Here, the decay is comparatively slow, so that a one should not expect a good
+low dimensional approximation by POD.&lt;/p&gt;
+&lt;p&gt;For the simulation, the state is parametrized by $u_h (t) \approx V \tilde
+u_h(t)$ where $V$ is the matrix of the POD modes (in the code $V$ denoted by
+&lt;code&gt;podvecs&lt;/code&gt;), which gives a system in $\tilde u _ h$ with 30 degrees of freedom
+(as opposed to the 51842 of the full order model).&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;redamat = podvecs.T.dot(amat.dot(podvecs))  # the projected stiffness
+
+def redbrhs(time, redvec):
+    inflatedv = podvecs.dot(redvec)
+    redconv = podvecs.T.dot(burgers_nonl_vec(inflatedv))
+    return -redamat.dot(redvec) - redconv.flatten()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here we define the projected stiffness matrix and the reduced nonlinearity
+through&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;inflating the reduced state to full dimension&lt;/li&gt;
+&lt;li&gt;applying the nonlinearity&lt;/li&gt;
+&lt;li&gt;projecting down the result.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This means that our model is not completely independent of the full dimension.
+For this problem there are &lt;em&gt;hyperreduction&lt;/em&gt; techniques like DEIM.&lt;/p&gt;
+&lt;p&gt;Thus, the &lt;em&gt;right hand side&lt;/em&gt; is readily defined the more that the projected mass
+matrix is the identity. Why?&lt;/p&gt;
+&lt;p&gt;Finally, the initial value is projected into the reduced coordinates and the
+reduced system is integrated in time.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;redburgsol = solve_ivp(redbrhs, (t0, tE), prjinivvec,
+                       t_eval=timegrid, method=&#39;RK23&#39;)
+podredsol = redburgsol.y
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In the solution we see that the reduced order model gives a decent approximation
+in the smooth regime in the beginning and even well approaches the front as can
+be seen in the error (log) plot.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-snapshots-of-the-solution-of-the-reduced-system&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the solution of the reduced system&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1852&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Snapshots of the solution of the reduced system
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-snapshots-of-the-log-of-the-error-between-the-full-and-the-pod-solution&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the log of the error between the full and the POD solution&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1853&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Snapshots of the log of the error between the full and the POD solution
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;3-dmd-reduced-model&#34;&gt;3. DMD Reduced Model&lt;/h1&gt;
+&lt;p&gt;POD is partially data driven &amp;ndash; it uses data to create a basis but still
+uses (a projection of) the model. If only snapshots but no model is given, one
+may use the method of &lt;em&gt;Dynamic Mode Decomposition&lt;/em&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; (DMD) that tries to identify
+a matrix $A$ that evolves the state like&lt;/p&gt;
+&lt;p&gt;$$
+A v _ h (t_i) = v _ h (t _ {i+1})
+$$&lt;/p&gt;
+&lt;p&gt;In practice, one uses a set of snapshots and the two measurement matrices&lt;/p&gt;
+&lt;p&gt;$$
+X =
+\begin{bmatrix}
+v _ h(t_0) &amp;amp; v _ h(t_1) &amp;amp; \dotsm &amp;amp; v _ h(t _ {k-1})
+\end{bmatrix}
+$$
+and
+$$
+X&#39; =
+\begin{bmatrix}
+v _ h(t_1) &amp;amp; v _ h(t_2) &amp;amp; \dotsm &amp;amp; v _ h(t _ {k})
+\end{bmatrix}.
+$$&lt;/p&gt;
+&lt;p&gt;Note that $X&#39;$ is basically $X$ shifted by one time step.&lt;/p&gt;
+&lt;p&gt;Then the DMD matrix can be found by solving the linear regression problem&lt;/p&gt;
+&lt;p&gt;$$
+\min _ P | X&#39; - PX | _ F.
+$$&lt;/p&gt;
+&lt;p&gt;For the reduced DMD model we use the same snapshot matrix as for the POD. The
+regression problem is solved via SVD to compute the needed pseudo inverse since
+this naturally allows for a rank reduction and a factored representation of the
+DMD matrix.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# ### dmd using truncated svd inverse
+fburgsol = burgsol.y
+Xmat = fburgsol[:, :-1]
+Xdsh = fburgsol[:, 1:]
+ux, sx, vxh = spla.svd(Xmat, full_matrices=False)
+uxr, sxr, vxhr = ux[:, :poddim], sx[:poddim], vxh[:poddim, :]
+
+# compute the dmd matrix in factored form: `dmda = dmdaone * dmdatwo`
+dmdaone = Xdsh.dot(vxhr.T)
+dmdatwo = np.linalg.solve(np.diag(sxr), uxr.T)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Once the DMD matrix $A$ is determined, the simulation of the DMD reduced model
+is only a repeated multiplication by $A$.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# simulation of the dmd reduced model
+dmdxo = inivvec
+dmdsol = [dmdxo]
+for k in np.arange(Nts):
+    dmdsol.append(dmdaone.dot(dmdatwo.dot(dmdsol[-1])))
+
+dmdsol = np.array(dmdsol).T
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As can be seen from the results and the error plots, DMD does a good job in the
+initial phase but fails in the region with the sharp front.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-snapshots-of-the-dmd-solution&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the DMD solution&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1852&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Snapshots of the DMD solution
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-error-log-plot-with-respect-to-the-full-fem-solution&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Error (log) plot with respect to the full FEM solution&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1848&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Error (log) plot with respect to the full FEM solution
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;4-testing-the-models-for-different-initial-value&#34;&gt;4. Testing the Models for Different Initial Value&lt;/h1&gt;
+&lt;p&gt;In what was presented above, the reduced models were used to reproduce the
+states that they were trained on. We now check the given reduced order models
+but on an alternative initial value, namely&lt;/p&gt;
+&lt;p&gt;$$
+u\bigr| _ {t=0}(x _ 1, x _ 2) =
+\begin{bmatrix}
+1 \\ 1
+\end{bmatrix}
+e ^ {-(2x _ 1^2 + 4x _ 2^2)}
+$$&lt;/p&gt;
+&lt;p&gt;see the following two plots of the full order model for both initial values.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-solution-snapshots-of-the-full-fem-model&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Solution snapshots of the full FEM model&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1853&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Solution snapshots of the full FEM model
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-solution-snapshots-of-the-full-fem-model-with-the-alternative-initial-value&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Solution snapshots of the full FEM model with the alternative initial value&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1848&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Solution snapshots of the full FEM model with the alternative initial value
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Then we use the reduced order models to compute predictions for the trajectory
+starting in this alternative initial value.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-snapshots-of-the-solution-of-the-pod-reduced-system-starting-in-the-alternative-initial-value&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the solution of the POD reduced system starting in the alternative initial value.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1852&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Snapshots of the solution of the POD reduced system starting in the alternative initial value.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-snapshots-of-the-dmd-solution-starting-in-the-alternative-initial-value&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the DMD solution starting in the alternative initial value.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1852&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Snapshots of the DMD solution starting in the alternative initial value.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Both methods completely fail to produce the other trajectory. For the POD
+reduced model already the starting point is extremely bad approximated.
+Interestingly, although the DMD solution starts in the &lt;em&gt;right&lt;/em&gt; point, it seems
+to exactly reproduce the solution that it was trained on up to some additional
+oscillations.&lt;/p&gt;
+&lt;h1 id=&#34;5-remarks&#34;&gt;5. Remarks&lt;/h1&gt;
+&lt;p&gt;It is commonly accepted that POD does not work well for transport dominated
+problems &amp;ndash; like the current case with the low viscosity parameter &lt;code&gt;nu=1e-4&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;So, I think that the results for POD are quite good noting that the reduced
+order model has 30 degrees of freedom whereas the full model has 51842.
+In my tests, increasing the number of basis functions as well as considering a
+larger &lt;code&gt;nu&lt;/code&gt; led to better POD approximations.&lt;/p&gt;
+&lt;p&gt;The DMD approach shows a similar performance. If compared to POD, the
+qualitative approximation looks less good but the numbers are slightly better.
+All in all, the DMD approximation seems less reliable as for other parameter
+choices, the performance rather deteriorated than improved.&lt;/p&gt;
+&lt;p&gt;How challenging the problem of 2D Burgers with a low viscosity is, can be seen
+from the failure of both methods to produce useable approximations to
+trajectories that start in different initial values.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland (2018): &lt;em&gt;Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial
+Differential Equations.&lt;/em&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/1611.04050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1611.04050&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See, e.g., Tu, Rowley, Luchtenburg, Brunton, Kutz (2013): &lt;em&gt;On Dynamic Mode
+Decomposition: Theory and Applications&lt;/em&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/1312.0041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1312.0041&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classical System Theory Revisited for Turnpike in Standard State Space Systems and Impulse Controllable Descriptor Systems</title>
+      <link>/publication/hei-z-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-z-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>/publication/ben-h-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-intrusive Time Galerkin POD for Optimal Control of a Fixed-Bed Reactor for CO2 Methanation</title>
+      <link>/publication/bre-hbs-21/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bre-hbs-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
+      <link>/publication/ben-ghp-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PD controllers to solve single-input, index-1 DAE based LQR problems</title>
+      <link>/publication/bha-hb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bha-hb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Master Thesis</title>
+      <link>/project/20-ma-dmd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/project/20-ma-dmd/</guid>
+      <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
+&lt;p&gt;Dr. Carmen Gräßle MPI Magdeburg, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
+&lt;h1 id=&#34;problem-statement&#34;&gt;Problem statement:&lt;/h1&gt;
+&lt;p&gt;The method of &lt;em&gt;Dynamic Mode Decomposition&lt;/em&gt; (DMD) is able to identify a surrogate model for a nonlinear system based on time series (&lt;em&gt;snapshots&lt;/em&gt;).
+Typically, surrogate models are less complex than the original model equations
+so that they can be used to simulate the same phenomena but in less
+computation time (&lt;em&gt;speedup&lt;/em&gt;) and with lower memory requirements (&lt;em&gt;compression&lt;/em&gt;).
+The theory of DMD is more than 100 years old. In practice, DMD has experienced strong popularity within the last 10 years, mostly due to interesting and successful application examples in flow problems.&lt;/p&gt;
+&lt;p&gt;In the context of numerical investigation of PDEs in general and flow problems in particular, the &lt;em&gt;snapshots&lt;/em&gt; can be considered as approximate solutions at given time instances. Each of these approximate solutions are discrete functions which are defined on a spatial mesh. If the mesh is constant over all time instances, DMD is readily applicable.&lt;/p&gt;
+&lt;p&gt;In this master&amp;rsquo;s thesis, we will pursue the case, in which the mesh changes over time, which is intended in applications. We will develop a formulation for DMD which is independent of the spatial meshes and propose numerical realizations which exceed simple interpolation approaches.&lt;/p&gt;
+&lt;h1 id=&#34;requirements&#34;&gt;Requirements&lt;/h1&gt;
+&lt;p&gt;For this work, knowledge or particular interests in the following fields are of advantage:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;numerics of partial differential equations and&lt;/li&gt;
+&lt;li&gt;numerical simulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;as well as programming expertise (most suitable in &lt;code&gt;Python&lt;/code&gt; or &lt;code&gt;C++&lt;/code&gt;).&lt;/p&gt;
+&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
+&lt;p&gt;In case of interest or request for further details, please contact&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Carmen Gräßle &amp;ndash; [graessle@mpi-magdeburg.mpg.de](mailto: &lt;a href=&#34;mailto:graessle@mpi-magdeburg.mpg.de&#34;&gt;graessle@mpi-magdeburg.mpg.de&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jun.-Prof. Jan Heiland &amp;ndash; [jan.heiland@ovgu.de](mailto: &lt;a href=&#34;mailto:jan.heiland@ovgu.de&#34;&gt;jan.heiland@ovgu.de&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;pics/snap100.png&#34; alt=&#34;Screenshot 1 of a simulation on an adaptive grid&#34;&gt;
+&lt;img src=&#34;pics/snap290.png&#34; alt=&#34;Screenshot 2 of a simulation on an adaptive grid&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A benchmark for fluid rigid body interaction with standard CFD packages</title>
+      <link>/talk/19-fsi-benchmark/</link>
+      <pubDate>Thu, 21 Nov 2019 16:00:00 +0100</pubDate>
+      <guid>/talk/19-fsi-benchmark/</guid>
+      <description>&lt;p&gt;The interaction between a fluid flow and rigid bodies appears in many
+physical applications. The flow around a free rigid body causes both
+displacement and rotation of that body, via the forces and torque
+exerted from the fluid onto the body. Conversely, the motion of the body
+causes changes in the flow. The complexity that comes with coupling
+models for fluid and elastic or rigid bodies and the numerical
+challenges due to evolving geometrical domains make reliable and
+benchmark computations very necessary though difficult to perform. This
+talk presents a setup that we have designed to particularly investigate
+the effects regarding the free rotation of a spherical object in a flow
+channel in 2D and 3D. This setup connects to the well known benchmark
+of &lt;em&gt;flow past a cylinder&lt;/em&gt; [1] and is accessible to standard CFD
+software.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;media/image1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Figure 1: Spatial configuration of the 3D setup.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this setup the flow applies a torque force on the object. The induced
+rotation then couples back to the flow via the boundary conditions. We
+discuss the governing equations of this fluid structure interaction
+problem; namely the incompressible Navier-Stokes equations and the
+relevant realizations of Newton’s second law that relates the rotation
+of the rigid body to the forces acting on it. The proposed benchmark
+configurations comprise two and three spatial dimensions and
+quasi-stationary (low Reynolds-number) and periodic (high
+Reynolds-number) regimes. For a discretization independent comparison of
+the results, we also propose significant, nondimensionalized
+characteristic values.&lt;/p&gt;
+&lt;p&gt;The benchmark cases were solved numerically with various approaches and software tools so that the computed characteristic values could be reported within in a reasonable confidence interval.&lt;/p&gt;
+&lt;p&gt;In this talk, we introduce the mathematical model, discuss the characteristic and challenges of the benchmark cases, and present the various implementation and their particular advantages. The codes that were reported on in our work [2] as well as the raw data and postprocessing routines are available [3] for further exploration and reproduction.&lt;/p&gt;
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;M Schäfer and S Turek: &lt;em&gt;Benchmark computations of laminar flow around a cylinder. (With support by F. Durst, E. Krause and R. Rannacher)&lt;/em&gt; Flow Simulation with High-Performance Computers II. DFG priority research program results 1993-1995, 1996.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;H von Wahl et al.: &lt;em&gt;Numerical benchmarking of fluid-rigid body interactions&lt;/em&gt;. Computers &amp;amp; Fluids, 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOI:
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3253455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.3253455&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>/events/19-ws-shanghai/program/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/events/19-ws-shanghai/program/</guid>
+      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#monday-october-14&#34;&gt;Monday, October 14&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#getting-together&#34;&gt;Getting together&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#tuesday-october-15&#34;&gt;Tuesday, October 15&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#machine-learning&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#wednesday-october-16&#34;&gt;Wednesday, October 16&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#data-driven-model-reduction&#34;&gt;Data-driven Model Reduction&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#thursday-october-17&#34;&gt;Thursday, October 17&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#machine-learning-and-control&#34;&gt;Machine Learning and Control&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#friday-october-18&#34;&gt;Friday, October 18&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#machine-learning-and-optimization&#34;&gt;Machine Learning and Optimization&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;h1 id=&#34;monday-october-14&#34;&gt;Monday, October 14&lt;/h1&gt;
+&lt;h2 id=&#34;getting-together&#34;&gt;Getting together&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Occasion&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;Coffee &amp;amp; Registration (in the lobby)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;Lunch (meet in the lobby)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;Tour to Jing An temple (meet in the lobby)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;Visit the Shanghai Tower (meet at the metro station Lu Jia Zui (Exit #6) at 17:30)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:00&lt;/td&gt;
+&lt;td&gt;Dinner at Jade36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;tuesday-october-15&#34;&gt;Tuesday, October 15&lt;/h1&gt;
+&lt;h2 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:00 &amp;ndash; 09:30&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Xiaotian Zhang&lt;/strong&gt; (Associate Vice-President of SHU), &lt;strong&gt;Minrui Fei&lt;/strong&gt; (Dean of the School of Mechatronic, Engineering and Automation at SHU), &lt;strong&gt;Peter Benner&lt;/strong&gt; (Director of MPI Magdeburg)&lt;/td&gt;
+&lt;td&gt;Welcome addresses&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Group picture &amp;amp; coffee break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 &amp;ndash; 11:00&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Bernd Noack&lt;/strong&gt; TU Berlin&lt;/td&gt;
+&lt;td&gt;Turbulence control: Better, faster and easier with machine learning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00 &amp;ndash; 11:30&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Mario Eduardo Villanueva&lt;/strong&gt; ShanghaiTech&lt;/td&gt;
+&lt;td&gt;Moment Based Learning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00 &amp;ndash; 15:00&lt;/td&gt;
+&lt;td&gt;Prof. &lt;strong&gt;Rolf Findeisen&lt;/strong&gt; OvGU Magdeburg&lt;/td&gt;
+&lt;td&gt;Learning supported Predictive Control of Autonomous Systems: Guarantees despite Uncertainty&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00 &amp;ndash; 15:30&lt;/td&gt;
+&lt;td&gt;Assistant Prof. Dr. &lt;strong&gt;Xin Liang&lt;/strong&gt; Tsinghua University&lt;/td&gt;
+&lt;td&gt;Convergence Analysis of the Oja-Karhunen Algorithm for Principal Component Analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:00 &amp;ndash; 16:30&lt;/td&gt;
+&lt;td&gt;Associate Prof. Dr. &lt;strong&gt;Xiaolong Wang&lt;/strong&gt; Northwestern Polytechnical University&lt;/td&gt;
+&lt;td&gt;Model order reduction of large scale time-delay systems in the time domain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30 &amp;ndash; 17:00&lt;/td&gt;
+&lt;td&gt;Dr. Anping Tang &amp;amp; Prof. Dr. &lt;strong&gt;Guangda Hu&lt;/strong&gt; Shanghai University&lt;/td&gt;
+&lt;td&gt;Low-order Controller Design for High-Order Matrix Differential Systems using Optimization Method&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;wednesday-october-16&#34;&gt;Wednesday, October 16&lt;/h1&gt;
+&lt;h2 id=&#34;data-driven-model-reduction&#34;&gt;Data-driven Model Reduction&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:00 &amp;ndash; 10:00&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Athanasios Antoulas&lt;/strong&gt; Jacob University Bremen&lt;/td&gt;
+&lt;td&gt;Data driven model order reduction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;10:00 &amp;ndash; 10:30&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Xun-Lin Zhu&lt;/strong&gt; Zhengzhou University&lt;/td&gt;
+&lt;td&gt;Detection of abnormal data in TBM shield construction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 &amp;ndash; 10:30&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Lijian Jiang&lt;/strong&gt; Tongji University&lt;/td&gt;
+&lt;td&gt;A model reduction for nonlinear multiscale dynamic systems&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00 &amp;ndash; 11:30&lt;/td&gt;
+&lt;td&gt;Associate Prof. Dr. &lt;strong&gt;Zhihua Xiao&lt;/strong&gt; Yangtze University&lt;/td&gt;
+&lt;td&gt;Finite-time balanced truncation for linear and second-order systems via shifted Legendre polynomials&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:30 &amp;ndash; 12:00&lt;/td&gt;
+&lt;td&gt;Assistant Prof. Dr. &lt;strong&gt;Kai Luo&lt;/strong&gt; Beijing Institute of Technology&lt;/td&gt;
+&lt;td&gt;Model order reduction for flexible multibody systems&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00 &amp;ndash; 14:20&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Lanlin Yu &amp;amp; Prof. Junlin Xiong&lt;/strong&gt; Westlake University &amp;amp; University of Science and Technology of China&lt;/td&gt;
+&lt;td&gt;Structure preserving model reduction for linear network systems&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:20 &amp;ndash; 14:50&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Victor Sreeram&lt;/strong&gt; University of Western Australia&lt;/td&gt;
+&lt;td&gt;Finite-frequency power system reduction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:50 &amp;ndash; 15:10&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Carmen Gräßle&lt;/strong&gt; MPI Magdeburg&lt;/td&gt;
+&lt;td&gt;POD model order reduction with offline adaptive strategies&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:10 &amp;ndash; 15:30&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Zhenzhong Qi&lt;/strong&gt; Northwest University&lt;/td&gt;
+&lt;td&gt;Structure-preserving of MOR methods based on general orthogonal polynomials&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30 &amp;ndash; 15:50&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Yongjin Zhang&lt;/strong&gt; Henan Polytechnic University&lt;/td&gt;
+&lt;td&gt;Model order reduction for parametrized hyperbolic equations&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:50&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:10 &amp;ndash; 16:30&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Pawan Goyal&lt;/strong&gt; MPI Magdeburg&lt;/td&gt;
+&lt;td&gt;Identification of Structured Dynamical Systems via Frequency Response Data&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30 &amp;ndash; 16:50&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Victor Gosea&lt;/strong&gt; MPI Magdeburg&lt;/td&gt;
+&lt;td&gt;Modeling and reduction of systems with structured nonlinearities from measured data&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:50 &amp;ndash; 17:10&lt;/td&gt;
+&lt;td&gt;Assistant Prof. Dr. &lt;strong&gt;Qifeng Liao&lt;/strong&gt; ShanghaiTech University&lt;/td&gt;
+&lt;td&gt;An adaptive reduced basis ANOVA method for high-dimensional Bayesian inverse problems&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:10 &amp;ndash; 17:30&lt;/td&gt;
+&lt;td&gt;Associate Prof. Dr. &lt;strong&gt;Xin Du&lt;/strong&gt; Shanghai University&lt;/td&gt;
+&lt;td&gt;Data driven realization and model order reduction for linear fractional order systems&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Dinner&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;thursday-october-17&#34;&gt;Thursday, October 17&lt;/h1&gt;
+&lt;h2 id=&#34;machine-learning-and-control&#34;&gt;Machine Learning and Control&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:00 &amp;ndash; 10:00&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Zhongsheng Hou&lt;/strong&gt; Qingdao University&lt;/td&gt;
+&lt;td&gt;PID and Its Puzzles&amp;mdash;&amp;mdash;MFAC and Progress&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;10:00 &amp;ndash; 10:30&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;Prof. &lt;strong&gt;Peter Benner&lt;/strong&gt; MPI Magdeburg&lt;/td&gt;
+&lt;td&gt;Learning control systems from data &amp;ndash; anything new here?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 &amp;ndash; 10:30&lt;/td&gt;
+&lt;td&gt;Prof. &lt;strong&gt;Karl Worthmann&lt;/strong&gt; TU Ilmenau&lt;/td&gt;
+&lt;td&gt;Surrogate models for microgrids for bilevel optimization&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00 &amp;ndash; 11:30&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Li Jia&lt;/strong&gt; Shanghai University&lt;/td&gt;
+&lt;td&gt;The optimization of batch processes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:30 &amp;ndash; 12:00&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Krithika Manohar&lt;/strong&gt; CalTech&lt;/td&gt;
+&lt;td&gt;Data-driven sensor-actuator placement and forecasting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00 &amp;ndash; 15:00&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Daniel Quevedo&lt;/strong&gt; University Paderborn&lt;/td&gt;
+&lt;td&gt;Deep Reinforcement Learning for Networked Estimation and Control&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00 &amp;ndash; 15:30&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Junmin Wang&lt;/strong&gt; Beijing Institute of Technology&lt;/td&gt;
+&lt;td&gt;Dynamic feedback control of infinite-dimensional systems&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:00 &amp;ndash; 16:20&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Zheng Wang&lt;/strong&gt; &amp;amp; Prof. Dr. &lt;strong&gt;Guangda Hu&lt;/strong&gt; Shanghai University&lt;/td&gt;
+&lt;td&gt;Low-Order Controller Design using Model Order Reduction for Second-Order Systems&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:20 &amp;ndash; 16:40&lt;/td&gt;
+&lt;td&gt;JProf. Dr. &lt;strong&gt;Jan Heiland&lt;/strong&gt; OvGU Magdeburg&lt;/td&gt;
+&lt;td&gt;Multidimensional Galerkin-POD for Optimal Control of PDEs with Uncertainties&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:40 &amp;ndash; 17:00&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Dan Zhang&lt;/strong&gt; Shanghai University&lt;/td&gt;
+&lt;td&gt;Dynamic and Kinetic Study for CVI densification of porous structures by the Lattice-Boltzmann Method&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:00 &amp;ndash; 17:20&lt;/td&gt;
+&lt;td&gt;Dr. &lt;strong&gt;Qiu Yue&lt;/strong&gt; ShanghaiTech&lt;/td&gt;
+&lt;td&gt;Randomized Low-rank Ensemble Kalman Filter for State Estimation of Nonlinear Networks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;friday-october-18&#34;&gt;Friday, October 18&lt;/h1&gt;
+&lt;h2 id=&#34;machine-learning-and-optimization&#34;&gt;Machine Learning and Optimization&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:00 &amp;ndash; 10:00&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Shiliang Sun&lt;/strong&gt; East China Normal University&lt;/td&gt;
+&lt;td&gt;Multi-view Machine Learning: Retrospect and Prospect&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:30 &amp;ndash; 11:30&lt;/td&gt;
+&lt;td&gt;Prof. Dr. &lt;strong&gt;Sanaz Mostaghim&lt;/strong&gt; OvGU Magdeburg&lt;/td&gt;
+&lt;td&gt;Multi-Objective Evolutionary Algorithms for Large-Scale Complex Optimization Problems&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:30 &amp;ndash; 12:00&lt;/td&gt;
+&lt;td&gt;Ass. Prof. Dr. &lt;strong&gt;Boris Houska&lt;/strong&gt; ShanghaiTech&lt;/td&gt;
+&lt;td&gt;Distributed Optimization and Control with ALADIN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;Organizers&lt;/td&gt;
+&lt;td&gt;Closing Remarks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:15&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk: Stability Analysis of Time Stepping Schemes for Incompressible Flows from a DAE Perspective</title>
+      <link>/talk/19-enumath-nse/</link>
+      <pubDate>Wed, 02 Oct 2019 16:10:00 +0200</pubDate>
+      <guid>/talk/19-enumath-nse/</guid>
+      <description>&lt;p&gt;We consider the time discretization of the semi-discrete incompressible Navier-Stokes equations (NSE)&lt;/p&gt;
+&lt;p&gt;$
+\begin{aligned}
+\quad \quad \quad M \dot v(t) &amp;amp;= N(v(t)) + J^Tp(t) + f(t),
+\\\\&lt;br&gt;
+0 &amp;amp;= Jv(t),
+\end{aligned}
+$&lt;/p&gt;
+&lt;p&gt;formulated in the velocity $v(t) \in \mathbb R^{n_v}$ and pressure $p(t) \in \mathbb R^{n_p}$, with $M\in \mathbb R^{n_v, n_v}$ being the mass matrix from the spatial discretization, $N\colon \mathbb R^{n_v} \to \mathbb R^{n_v}$ modelling the discretized convection and diffusion, and with $J\in \mathbb R^{n_p, n_v}$ and $J^T$ representing the discrete divergence and gradient operators.&lt;/p&gt;
+&lt;p&gt;It is commonly known that the semi-discrete incompressible Navier-Stokes equations can be classified as a differential-algebraic equation (DAE) of &lt;em&gt;differentiation index&lt;/em&gt; $\nu=2$ so that a straight-forward time discretization, e.g. by the &lt;em&gt;implicit-Euler&lt;/em&gt; method, will likely suffer from instabilities. To overcome these numerical difficulties, a large number of time stepping schemes, with &lt;em&gt;Chorin&lt;/em&gt;&amp;rsquo;s projection or the &lt;em&gt;SIMPLE&lt;/em&gt; scheme as notable examples, have been developed.&lt;/p&gt;
+&lt;p&gt;In this talk, we trace down and illustrate the instability that origins from the index-2 structure and show that commonly and succesfully applied time-stepping schemes correspond to a reformulation of the semi-discrete NSE as an equivalent system of index-1. Also we show how a finite-element discretization by &lt;em&gt;Taylor-Hood&lt;/em&gt; or &lt;em&gt;Crouzeix-Raviart&lt;/em&gt; schemes can be modified such that the resulting semi-discrete NSE already is of index-1 so that standard time-integration schemes lead to stable pressure approximations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Altmann, R. &amp;amp; Heiland, J.: &lt;em&gt;Finite Element Decomposition and Minimal Extension for Flow Equations&lt;/em&gt;, ESAIM: M2AN, &lt;strong&gt;2015&lt;/strong&gt;, 49, 1489&amp;ndash;1509&lt;/p&gt;
+&lt;p&gt;Altmann, R. &amp;amp; Heiland, J.: &lt;em&gt;Continuous, Semi-discrete, and Fully Discretized Navier-Stokes Equations&lt;/em&gt;, DAE-Forum, Issue: &lt;em&gt;Applications of Differential-Algebraic Equations: Examples and Benchmarks&lt;/em&gt;, Springer, &lt;strong&gt;2018&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inverse Triple Pendulum</title>
+      <link>/project/pendulum/</link>
+      <pubDate>Tue, 17 Sep 2019 11:56:57 +0200</pubDate>
+      <guid>/project/pendulum/</guid>
+      <description>&lt;p&gt;Our institute has a triple pendulum connected to a cart that can be controlled by a computer. Stabilizing a pendulum in upright position is a common control benchmark. Controlling a double or triple pendulum requires powerful hardware and a sophisticated and well-tuned software. The hardware was set up by the Magdeburg-based company Hasomed, the software has been developed in our institute for over 20 years.&lt;/p&gt;
+&lt;p&gt;The triple pendulum is used to test control algorithms in experiments. As opposed to pure simulations, the application in hardware comes with additional challenges like delays in communication and changing environmental parameters.&lt;/p&gt;
+&lt;p&gt;Also, the pendulum is used to showcase the need and potential of control algorithms in regular visits of students or the public at our annual long night of science.&lt;/p&gt;
+&lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;September 11th: Visit of a project group from the Hubertus Gymnasium.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;March 1st: In cooperation with 
+&lt;a href=&#34;https://www.hasomed.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hasomed&lt;/a&gt;, we revise the controller software and the interface to the hardware. The result will be test blocks for basic control tasks like the controlled transversion of the pendulum both in open loop and closed loop regimes. &lt;em&gt;HASOMED&lt;/em&gt; co-sponsors the development and will distribute the developed software under a license agreement with the MPI-MD.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;pendulum-de.pdf&#34;&gt;poster&lt;/a&gt; explains the setup and the basic procedures of the control scheme as well as typical application areas (in German).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This video shows the swingup and swingdown of the triple pendulum in slow motion:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;triple_swingup_slomo.MP4&#34; type=&#34;video/MP4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Master Thesis</title>
+      <link>/project/19-ma-multiscat/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>/project/19-ma-multiscat/</guid>
+      <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
+&lt;p&gt;Jun-Prof. Benoit Fond FVST, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
+&lt;h1 id=&#34;problem-statement&#34;&gt;Problem statement:&lt;/h1&gt;
+&lt;p&gt;Thermographic Particle Image Velocimetry is an optical technique to
+measure the temperature and velocity of fluid flows (gas or liquid), by
+introducing small (micron-size) luminescent particles into the flow
+[1]. It has been applied in various types of flows including internal
+combustion engines, film cooling flows, and in natural convection. When
+using micron-size particles, the particles follow the flow, and their
+temperature is at equilibrium with the gas. If we illuminate the
+particles with a UV laser, the particles absorb the UV light, and then,
+they re-emit visible light called luminescence. The colour of the
+emitted light depends on the temperature of the particles, so by
+recording the light on a camera, we can determine the temperature of the
+particle, and therefore that of the gas.&lt;/p&gt;
+&lt;p&gt;Typically, we collect light from the particles with a lens as shown in
+Fig. 1 a). Only particles that are within the thin laser sheet (shown in
+purple) are excited, and emit frequency shifted light (here shown by the
+red rays). A filter is placed in front of the camera to only collect the
+frequency-shifted luminescence. However, when there are many particles,
+light emitted by particle can bounce off other particles, and the
+spatial information may be lost. Pathways for wanted and unwanted
+luminescence being collected on the detectors are shown on Figures 1.
+The wanted scenario mentioned above is a). In unwanted scenarios b-d),
+either excitation light or luminescence emission is scattered by
+particles outside the probe volume. The objective of this project is to
+theoretically quantify the contribution of unwanted light by
+implementing Mie scattering theory with random particle positions. More
+detail on Mie scattering theory can be found in the following link:
+[&lt;em&gt;http://plaza.ufl.edu/dwhahn/Rayleigh%20and%20Mie%20Light%20Scattering.pdf&lt;/em&gt;](&lt;a href=&#34;http://plaza.ufl.edu/dwhahn/Rayleigh&#34;&gt;http://plaza.ufl.edu/dwhahn/Rayleigh&lt;/a&gt; and Mie Light Scattering.pdf)&lt;/p&gt;
+&lt;h1 id=&#34;task-description&#34;&gt;Task description:*&lt;/h1&gt;
+&lt;p&gt;a)  Improve the current model by developing numerical schemes to
+increase the spatial resolution to computational cost ratio.&lt;/p&gt;
+&lt;p&gt;b)  Quantify the contribution of multiple scattering relative (b and c)
+for a reference experimental configuration.&lt;/p&gt;
+&lt;p&gt;c)  Validate the model against the result of measurements performed in
+the reference experimental configuration in Fond´s group.&lt;/p&gt;
+&lt;p&gt;d)  Determine the scaling factor (size of coflow, seeding density ratio,
+imaginary over real part of index of refraction), and compare with
+experimental observations.&lt;/p&gt;
+&lt;p&gt;e)  Estimate the relative probability of three particle events compared
+to the two particle event of scenarios b and c).&lt;/p&gt;
+&lt;p&gt;[1] C. Abram, B. Fond, and F. Beyrau, “Temperature measurement
+techniques for gas and liquid flows using thermographic phosphor tracer
+particles,” Prog. Energy Combust. Sci. 64, 93 – 156 (2018).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adjoint Systems for Optimal Control from Pontryagin to Wikipedia</title>
+      <link>/post/pontr-pendl/</link>
+      <pubDate>Tue, 06 Aug 2019 17:34:51 +0200</pubDate>
+      <guid>/post/pontr-pendl/</guid>
+      <description>&lt;p&gt;While it seems common knowledge how to formulate &lt;em&gt;necessary optimality&lt;/em&gt;
+conditions backed by the famous &lt;em&gt;Pontryagin&amp;rsquo;s Maximum Principle&lt;/em&gt;, the direct
+derivation from the &lt;strong&gt;very general&lt;/strong&gt; original formulations is not obvious.
+Sometimes, authors like me&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; provide some plausibility like &lt;em&gt;obviously this
+term has to vanish&lt;/em&gt;, refer to other sources that miss the derivation too, or
+attach the complete book by Pontryagin to a specific formula&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#the-model&#34;&gt;The Model&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#a-unit-pendulum&#34;&gt;A Unit Pendulum&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#control-setups&#34;&gt;Control Setups&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#final-state-fixed&#34;&gt;Final State Fixed&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#final-state-as-optimization-target&#34;&gt;Final State as Optimization Target&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#the-maximum-principle&#34;&gt;The Maximum Principle&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#maximum-principle-with-variable-endpoints&#34;&gt;Maximum Principle with Variable Endpoints&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-wikipedia-case&#34;&gt;The Wikipedia Case&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#connecting-wikipedia-and-pontryagin&#34;&gt;Connecting Wikipedia and Pontryagin&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#i-lagrange-form&#34;&gt;I. Lagrange form&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#ii-pontryagins-terms&#34;&gt;II. Pontryagin&amp;rsquo;s terms&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#iii-pontryagin-with-variable-endpoints&#34;&gt;III. Pontryagin with variable endpoints&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;h1 id=&#34;the-model&#34;&gt;The Model&lt;/h1&gt;
+&lt;h2 id=&#34;a-unit-pendulum&#34;&gt;A Unit Pendulum&lt;/h2&gt;
+&lt;p&gt;Consider the pendulum subjected to a potential force that can be adjusted. That is, instead of the gravity&lt;/p&gt;
+&lt;p&gt;$$
+G:=
+\begin{bmatrix}
+0\\ -9.81
+\end{bmatrix},
+$$&lt;/p&gt;
+&lt;p&gt;we consider a force field&lt;/p&gt;
+&lt;p&gt;$$
+G:=
+\begin{bmatrix}
+g_1 \\  g_2
+\end{bmatrix},
+$$&lt;/p&gt;
+&lt;p&gt;with scalar functions $g_1$, $g_2$ of time that can act as a control.&lt;/p&gt;
+&lt;p&gt;With mass $m$, length $L$, and angle $\theta$ (see the picture below), we define the momentum as&lt;/p&gt;
+&lt;p&gt;$$
+p = mL^2\dot \theta.
+$$&lt;/p&gt;
+&lt;p&gt;This gives the Hamiltonian
+$$
+H(\theta, p) = \frac{p^2}{2mL^2} + m
+\begin{bmatrix}
+g_1 &amp;amp;g_2
+\end{bmatrix}
+\begin{bmatrix}
+L \sin \theta \\ -L \cos \theta
+\end{bmatrix},
+$$&lt;/p&gt;
+&lt;p&gt;or
+$$
+H(\theta, p)= \frac{p^2}{2mL^2} + mg_1 L \sin \theta - mg_2 \cos \theta ,
+$$&lt;/p&gt;
+&lt;p&gt;and the equations of motion as&lt;/p&gt;
+&lt;p&gt;$
+\begin{aligned}
+\quad \quad \quad \dot \theta &amp;amp;= \frac{p}{mL^2},
+\\\\&lt;br&gt;
+\dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$&lt;/p&gt;
+&lt;p&gt;Here is a schematic illustration taken from 
+&lt;a href=&#34;http://www.scholarpedia.org/article/File:Pendulum.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scholarpedia&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Pendulum.png&#34; alt=&#34;pendulum, taken from scholarpedia&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;control-setups&#34;&gt;Control Setups&lt;/h1&gt;
+&lt;p&gt;With consider two control setups:&lt;/p&gt;
+&lt;h2 id=&#34;final-state-fixed&#34;&gt;Final State Fixed&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fix a time $t_1$, start with &lt;br&gt;
+$\quad(\theta(t_0), p(t_0))=(\pi, 0)$,&lt;br&gt; i.e. pendulum standing up-side-down,
+and minimize the control effort &lt;br&gt;
+$ \quad \mathcal J:= \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ~ dt \to \min $&lt;br&gt;
+over all $(g_1, g_2)$ that lead to &lt;br&gt;
+$\quad(\theta(t_1), p(t_1))=(0,0)$,&lt;br&gt; i.e. pendulum hanging down.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;final-state-as-optimization-target&#34;&gt;Final State as Optimization Target&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fix a time $t_1$, start with &lt;br&gt;
+$\quad(\theta(t_0), p(t_0))=(\pi, 0)$,&lt;br&gt; i.e. pendulum standing up-side-down,
+and find a control that targets &lt;br&gt;
+$\quad (\theta(t_1), p(t_1))=(0,0)$,&lt;br&gt;
+i.e. pendulum hanging down
+while also minimizing the control effort:&lt;br&gt;
+$ \quad \mathcal J:= \frac{1}{2}(\theta(t_1)^2 + p(t_1)^2) + \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ~ dt \to \min $.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;the-maximum-principle&#34;&gt;The Maximum Principle&lt;/h1&gt;
+&lt;p&gt;Classically, as treated by Pontryagin itself&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, one seeks the minimum over all $u=(g_1, g_2)$ that &lt;em&gt;a-priori&lt;/em&gt; ensure that $\theta(t_1)=0$ and $p(t_1)=0$. This, in a sense, means that suitable controls are known and that the optimization looks for those with the least magnitude. For people like me, that use optimization because they don&amp;rsquo;t know a control, this seems not very feasible. But Pontryagin has the answer for that too:&lt;/p&gt;
+&lt;h2 id=&#34;maximum-principle-with-variable-endpoints&#34;&gt;Maximum Principle with Variable Endpoints&lt;/h2&gt;
+&lt;p&gt;One can (partially) abandon the end conditions, see Chapter I.7 in Pontryagin&amp;rsquo;s book. Similarly, one can abandon the initial conditions which, again, seems odd from an application point of view. Also, simply omitting the end conditions will lead to trivial solutions. Certainly, we need to include them in the optimization. Which leads to the Wikipedia case.&lt;/p&gt;
+&lt;h2 id=&#34;the-wikipedia-case&#34;&gt;The Wikipedia Case&lt;/h2&gt;
+&lt;p&gt;Commonly used and illustrated on 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle#Formal_statement_of_necessary_conditions_for_minimization_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wikipedia:Pontryagin&amp;rsquo;s maximum principle&lt;/a&gt;
+&amp;ndash; the form that leaves the controls free but penalizes the endpoint. Now, let me show how this form derives from Pontryagin&amp;rsquo;s book.&lt;/p&gt;
+&lt;h1 id=&#34;connecting-wikipedia-and-pontryagin&#34;&gt;Connecting Wikipedia and Pontryagin&lt;/h1&gt;
+&lt;p&gt;The derivation of the &lt;em&gt;Wikipedia&lt;/em&gt; formulas from the &lt;em&gt;Maximum Principle with Variable Endpoints&lt;/em&gt; goes as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Transform (see, e.g., 
+&lt;a href=&#34;https://www.encyclopediaofmath.org/index.php/Bolza_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enc. of Math.: Bolza problem&lt;/a&gt;) the problem from &lt;em&gt;Mayer form&lt;/em&gt; to &lt;em&gt;Lagrange form&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Put the resulting system into the form of &lt;em&gt;Pontryagin&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Apply the maximum principle with completely free endpoints.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For the pendulum optimal control problem&lt;/p&gt;
+&lt;p&gt;$$\frac{1}{2}(\theta(t_1)^2 + p(t_1)^2) +\frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ;dt \to \min$$&lt;/p&gt;
+&lt;p&gt;subject to&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}
+\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\&lt;br&gt;
+\dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$$&lt;/p&gt;
+&lt;p&gt;with initial conditions&lt;/p&gt;
+&lt;p&gt;$$
+\theta(t_0)=\pi, \quad p(t_0)=0
+$$&lt;/p&gt;
+&lt;p&gt;this means:&lt;/p&gt;
+&lt;h2 id=&#34;i-lagrange-form&#34;&gt;I. Lagrange form&lt;/h2&gt;
+&lt;p&gt;We get rid of the costs that are put on the terminal values by introducing a variable $\tilde x$. Thus the optimal control problem no reads:&lt;/p&gt;
+&lt;p&gt;$$
+\mathcal J:=\int_{t_0}^{t_1} \tilde x + \frac{1}{2}(g_1^2+g_2^2) ;dt \to \min
+$$&lt;/p&gt;
+&lt;p&gt;subject to&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}
+\dot {\tilde x} &amp;amp;= 0, \\\\&lt;br&gt;
+\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\&lt;br&gt;
+\dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$$&lt;/p&gt;
+&lt;p&gt;with one end condition&lt;/p&gt;
+&lt;p&gt;$$
+\tilde x(t_1) = \frac{1}{2(t_1-t_0)}(\theta(t_1)^2+p(t_1)^2),
+$$&lt;/p&gt;
+&lt;p&gt;and the old initial conditions&lt;/p&gt;
+&lt;p&gt;$$
+\theta(t_0)=\pi, \quad p(t_0)=0.
+$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In fact, since $\tilde x$ is constant and fixed by its end condition, one obtains that&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;$\int_{t_0}^{t_1} \tilde x ;dt = (t_1 - t_0)\tilde x(t_1) = \frac{1}{2}(\theta(t_1)^2+p(t_1)^2).$&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Once in &lt;em&gt;Lagrange&lt;/em&gt; form, the problem can be put into the form used in Pontryagin&amp;rsquo;s theorem:&lt;/p&gt;
+&lt;h2 id=&#34;ii-pontryagins-terms&#34;&gt;II. Pontryagin&amp;rsquo;s terms&lt;/h2&gt;
+&lt;p&gt;$$
+x^0(t_1) \to \min
+$$&lt;/p&gt;
+&lt;p&gt;subject to&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}
+\dot x^0 &amp;amp;= \tilde x + \frac{1}{2}(g_1^2+g_2^2), \\\\&lt;br&gt;
+\dot {\tilde x} &amp;amp;= 0, \\\\&lt;br&gt;
+\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\&lt;br&gt;
+\dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$$&lt;/p&gt;
+&lt;p&gt;with initial conditions&lt;/p&gt;
+&lt;p&gt;\begin{equation}
+x^0(t_0)=0, \quad \theta(t_0)=\pi, \quad p(t_0)=0,
+\end{equation}&lt;/p&gt;
+&lt;p&gt;and the end condition&lt;/p&gt;
+&lt;p&gt;$$
+\tilde x(t_1) = \frac{1}{2(t_1-t_0)}(\theta(t_1)^2+p(t_1)^2).
+$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Here, the trick is that the new variable $x^0$ simply integrates the value of the cost functional.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The corresponding adjoint system for the $\psi$ reads&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;\begin{align}
+\dot \psi_0 &amp;amp;= 0, \\\\&lt;br&gt;
+\dot \psi_1 &amp;amp;= -\psi_0, \\\\&lt;br&gt;
+\dot \psi_2 &amp;amp;= -(mg_1L\sin\theta - mg_2L\cos\theta) \psi_3, \\\\&lt;br&gt;
+\dot \psi_3 &amp;amp;= -\frac{1}{mL^2}\psi_2.
+\end{align}&lt;/p&gt;
+&lt;p&gt;This $\psi$ defines the control Hamiltonian as&lt;/p&gt;
+&lt;p&gt;$$
+\bigl(\psi, f(x;G) \bigl ) =
+\bigl(\psi,
+\begin{bmatrix}
+\tilde x + \frac{1}{2}(g_1^2+g_2^2) \\\\&lt;br&gt;
+0 \\\\&lt;br&gt;
+\frac{p}{mL^2}\\\\&lt;br&gt;
+-mg_1L\cos \theta - mg_2L\sin \theta
+\end{bmatrix}
+\bigl )
+$$&lt;/p&gt;
+&lt;h2 id=&#34;iii-pontryagin-with-variable-endpoints&#34;&gt;III. Pontryagin with variable endpoints&lt;/h2&gt;
+&lt;p&gt;Finally, we can omit parts of the end conditions.&lt;/p&gt;
+&lt;p&gt;If we let the state $(\tilde x, \theta, p)$ at $t_1$ take on an arbitrary value then it will belong to the hypersurface&lt;/p&gt;
+&lt;p&gt;$$
+S_1 = {(\frac{1}{2(t_1-t_0)}(\theta^2 + p^2), \theta, p)} \subset \mathbb R^3
+$$&lt;/p&gt;
+&lt;p&gt;Then the &lt;em&gt;transversality condition&lt;/em&gt;&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; that $\psi(t_1)$ has to be &lt;em&gt;orthogonal&lt;/em&gt; to the tangent plane to $S_1$ at $(\tilde x(t_1), \theta(t_1), p(t_1))$ gives the following boundary conditions for $\psi$:&lt;/p&gt;
+&lt;p&gt;\begin{align}
+\frac{1}{t_1-t_0}p(t_1)\psi_1(t_1) - \psi_3(t_1) &amp;amp;= 0, \\\\
+\frac{1}{t_1-t_0}\theta(t_1)\psi_1(t_1) - \psi_2(t_1) &amp;amp;= 0.
+\end{align}&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;These give the &lt;em&gt;Wikipedia&lt;/em&gt; terminal condition for the adjoint state with the choice of $\psi_1(t_1) = t_1-t_0$.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Note that these particular end conditions were derived from the particular basis&lt;/p&gt;
+&lt;p&gt;$$
+\biggl\{
+\begin{bmatrix}
+\frac{1}{t_1-t_0}p \\ 0 \\ 1
+\end{bmatrix},
+\begin{bmatrix}
+\frac{1}{t_1-t_0}\theta \\ 1 \\ 0
+\end{bmatrix}
+\biggr\}
+$$&lt;/p&gt;
+&lt;p&gt;of the tangent space and note that any other basis can be taken, or equivalently, any linear combination of the boundary conditions are feasible.&lt;/p&gt;
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+&lt;p&gt;📙 Pontryagin, Boltyanski, Gamkrelidze, and Mishchenko (1962) &lt;em&gt;The Mathematical Theory of Optimal Processes&lt;/em&gt;&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Lemma 6.5 in Heiland (2013) &lt;em&gt;Decoupling, Semi-Discretization, and Optimal
+Control of Semi-linear Semi-explicit Index-2 Abstract Differential-Algebraic
+Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;cp. the text before Theorem 3.4 in Ober-Blöbaum, Junge, Marsden
+(2008) &lt;em&gt;Discrete Mechanics and Optimal Control: an Analysis&lt;/em&gt;] &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Ch. I.2 in his book &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Pontryagin et al., Theorem 1 &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Pontryagin et al., Ch. I.7 &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor-space Galerkin POD for parametric flow equations</title>
+      <link>/talk/19-iciam-genpod/</link>
+      <pubDate>Thu, 18 Jul 2019 14:30:00 +0100</pubDate>
+      <guid>/talk/19-iciam-genpod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust observer-based feedback for the incompressible Navier-Stokes equation</title>
+      <link>/talk/19-iciam-rob-nse/</link>
+      <pubDate>Wed, 17 Jul 2019 17:00:00 +0100</pubDate>
+      <guid>/talk/19-iciam-rob-nse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dolfin-navier-scipy</title>
+      <link>/project/sw-dolfin-navier-scipy/</link>
+      <pubDate>Wed, 03 Jul 2019 18:53:50 +0200</pubDate>
+      <guid>/project/sw-dolfin-navier-scipy/</guid>
+      <description>&lt;p&gt;A Python package that provides an interface between &lt;em&gt;scipy&lt;/em&gt; and &lt;em&gt;FEniCS&lt;/em&gt; in view of solving Navier-Stokes Equations. &lt;em&gt;FEniCS&lt;/em&gt; is used to perform a Finite Element discretization of the equations. The assembled coefficients are exported as sparse matrices for use in &lt;em&gt;scipy&lt;/em&gt;. Nonlinear and time-dependent parts are evaluated and assembled on demand. Visualization is done via the &lt;em&gt;FEniCS&lt;/em&gt; interface to &lt;em&gt;paraview&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;modelling of control and observation&lt;/li&gt;
+&lt;li&gt;second order time integration with explicit treatment of the nonlinearities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/a1iDcEIRmvU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Simulation of the &lt;em&gt;Karman Vortex Street&lt;/em&gt;. See the 
+&lt;a href=&#34;https://github.com/highlando/dolfin_navier_scipy/commit/ae907dc2266076a635c89d62726696e63b3fdc85&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;relevant commit here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hinf-lqgbt-nse</title>
+      <link>/project/sw-hlqgbt-nse/</link>
+      <pubDate>Wed, 03 Jul 2019 18:53:50 +0200</pubDate>
+      <guid>/project/sw-hlqgbt-nse/</guid>
+      <description>&lt;p&gt;Python module for application of (Hinf-)LQG-balanced truncation for low-order controllers for the stabilization of Navier-Stokes equations.&lt;/p&gt;
+&lt;p&gt;As an example we consider the stabilization of the cylinder wake at moderate Reynoldsnumbers via boundary control and distributed observation.&lt;/p&gt;
+&lt;h1 id=&#34;features&#34;&gt;Features&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;implementation of various Riccati-based feedback controllers
+&lt;ul&gt;
+&lt;li&gt;static state feedback&lt;/li&gt;
+&lt;li&gt;observer based LQGBT feedback&lt;/li&gt;
+&lt;li&gt;robustified LQGBT feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;integration with M.E.S.S or my 
+&lt;a href=&#34;www.github.com/highlando/sadptprj_riclyap_adi&#34;&gt;homebrew Riccati solver&lt;/a&gt; for flow related equations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust control for compensation of linearization and discretization errors in stabilization of incompressible flows</title>
+      <link>/talk/19-07-passau/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0200</pubDate>
+      <guid>/talk/19-07-passau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-selective Filter Based Frequency Separated Feedback Control of Linear Systems: State Feedback Case</title>
+      <link>/publication/du-yho-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/du-yho-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Theses Topics</title>
+      <link>/project/19-open-bama-topics/</link>
+      <pubDate>Thu, 06 Jun 2019 17:28:30 +0200</pubDate>
+      <guid>/project/19-open-bama-topics/</guid>
+      <description>&lt;p&gt;All projects can be fitted to the needs in terms of complexity, quantity and theory to programming ratio.&lt;/p&gt;
+&lt;p&gt;If you are interested, just drop by&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;computational-fluid-dynamics-and-control&#34;&gt;Computational fluid dynamics and control&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Optimal distributed control of nonlinear Navier-Stokes equations via differential-algebraic matrix Riccati equations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Boundary control of cylindric flow using particular Couette-solutions&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As these projects base on numerical analysis and system and control theory, they are very suitable for students of mathematics. Basic knowledge of numerical mathematics and a programming language is mandatory. Knowledge of control theory and fluid dynamics will be useful.&lt;/p&gt;
+&lt;h2 id=&#34;control-of-dynamical-systems&#34;&gt;Control of Dynamical Systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced control of a double or triple pendulum&lt;/li&gt;
+&lt;li&gt;Low-budget realization of a double pendulum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These projects have a hardware component. They are particularly suited for control or electrical engineers, but also for students of mathematics that have a favor for engineering applications.&lt;/p&gt;
+&lt;p&gt;In cooperation with the Magdeburg company 
+&lt;a href=&#34;https://www.hasomed.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Hasomed&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;modelling-and-simulation&#34;&gt;Modelling and Simulation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spurious lights in laser measurements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With Jun.-Prof. Benoit Fond (OvGU Magdeburg, Institute of Fluid Dynamics and Thermodynamics)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiple Scattering in TPIV</title>
+      <link>/project/19-ba-roth/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0200</pubDate>
+      <guid>/project/19-ba-roth/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Thermographic Particle Image Velocimetry&lt;/em&gt; (TPIV) is an optical technique to measure the temperature and velocity of fluid flows. In the ideal situation, scalar measurements are taking by collecting the light emissions from a single point at the crossing of a laser beam and the optical axis of the camera. In practice, however, through the interaction of spontaneous emissions and light scattering, additional light emissions reach the camera on other paths. The objective of this project was to theoretically quantify the contribution of unwanted light.&lt;/p&gt;
+&lt;h2 id=&#34;researcher&#34;&gt;Researcher:&lt;/h2&gt;
+&lt;p&gt;Andreas Roth (OvGU Magdeburg)&lt;/p&gt;
+&lt;h2 id=&#34;advisor&#34;&gt;Advisor&lt;/h2&gt;
+&lt;p&gt;Jun.-Prof. Benoit Fond (OvGU Magdeburg, Institute of Fluid Dynamics and Thermodynamics)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous, Semi-discrete, and Fully Discretized Navier-Stokes Equations</title>
+      <link>/publication/alt-h-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
+      <link>/publication/hei-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
+      <link>/publication/beh-bh-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical benchmarking of fluid-rigid body interactions</title>
+      <link>/publication/wah-rlhm-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wah-rlhm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>
+      <link>/publication/ben-hw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution Formulas for Differential Sylvester and Lyapunov Equations</title>
+      <link>/publication/beh-bh-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Stability and Stabilization of Extended Linearizations via Continuous Updates of Riccati Based Feedback</title>
+      <link>/publication/ben-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Control of a Stefan Problem Fully Coupled with Navier-Stokes-Equations and Mesh Movement</title>
+      <link>/publication/bar-bhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bar-bhs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularization and Rothe Discretization of Semi-Explicit Operator DAEs</title>
+      <link>/publication/alt-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations</title>
+      <link>/publication/bau-bh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-bh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear feedback stabilization of incompressible flows via updated Riccati-based gains</title>
+      <link>/publication/ben-h-17-b/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients</title>
+      <link>/publication/beh-bh-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Approximations to Riccati-based Boundary-feedback Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moment-Matching Based Model Reduction for Navier-Stokes Type Quadratic-Bilinear Descriptor Systems</title>
+      <link>/publication/ahm-bg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ahm-bg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of multibody systems with servo constraints through optimal control</title>
+      <link>/publication/alt-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Differential-Algebraic Riccati Equation for Applications in Flow Control</title>
+      <link>/publication/hei-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software</title>
+      <link>/publication/feh-hhs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/feh-hhs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Stabilization of Laminar Flows in Varying Flow Regimes</title>
+      <link>/publication/ben-h-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite Element Decomposition and Minimal Extension for Flow Equations</title>
+      <link>/publication/alt-h-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Input/Output Maps and their Relation to Proper Orthogonal Decomposition</title>
+      <link>/publication/bau-hs-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-hs-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LQG-Balanced Truncation Low-Order Controller for Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent Dirichlet Conditions in Finite Element Discretizations</title>
+      <link>/publication/ben-h-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wie steuert man einen Kran?</title>
+      <link>/publication/alt-h-15-ppt-snapshot/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-15-ppt-snapshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupling, Semi-Discretization, and Optimal Control of Semi-linear Semi-explicit Index-2 Abstract Differential-Algebraic Equations and Application in Optimal Flow Control</title>
+      <link>/publication/hei-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Control of Linearized Navier-Stokes Equations via Discretized Input/Output Maps</title>
+      <link>/publication/hei-m-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-m-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Discretization Framework for Input/Output Maps and its Application to Flow Control</title>
+      <link>/publication/hei-ms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-ms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Control of Drop Size Distributions in Stirred Liquid/Liquid Systems</title>
+      <link>/publication/hei-bwms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-bwms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Discretization of Input/Output Maps and Control of Partial Differential Equations</title>
+      <link>/publication/hei-ms-10-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-ms-10-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Control of Semidiscretized Oseen Equations</title>
+      <link>/publication/hei-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape Optimization in Train Aerodynamics</title>
+      <link>/publication/her-mho-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/her-mho-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-rank modelling in uncertainty quantification</title>
+      <link>/events/19-ms-enumath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/events/19-ms-enumath/</guid>
+      <description>&lt;h1 id=&#34;mini-symposium&#34;&gt;Mini Symposium&lt;/h1&gt;
+&lt;p&gt;Uncertainties in modelling and simulation of dynamical systems come from different sources: modelled or unmodelled external perturbations, unknown or stochastically changing model parameters, and measurement errors, to name a few. In any case, respecting these uncertainties in the model equations and their discretization means adding yet another model dimension. Thus, since the computational complexity grows exponentially with the dimensions, low-rank descriptions seem to be a promising way to arrive at feasible schemes for models that include PDEs. This mini symposium features suitably extended common approaches as well as newly developed methods that have the identification and exploitation of low-rank structures as the common denominator.&lt;/p&gt;
+&lt;h2 id=&#34;session-1&#34;&gt;Session 1&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Karsten Urban&lt;/strong&gt;, Uni Ulm&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Parameter Functions within Model Reduction for Uncertainty Quantification&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Martin Grepl&lt;/strong&gt;, RWTH Aachen&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;A certified reduced basis approach to variational data assimilation&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Yoshihito Kazashi&lt;/strong&gt;, EPF Lausanne&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Analysis of the dynamical low rank equations for random semi-linear evolutionary problems&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Alexandra Bünger&lt;/strong&gt;, TU Chemnitz&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Low-rank methods and iso-geometric analysis&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;session-2&#34;&gt;Session 2&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Martin Redmann&lt;/strong&gt;, WIAS Berlin&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Energy estimates and model order reduction for bilinear systems with Lévy noise&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Yue Qiu&lt;/strong&gt;, Max Planck Institute for Dynamics of Complex Technical Systems&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Low-rank ensemble Kalman filter for nonlinear networks: a gas network example&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Ralf Zimmermann&lt;/strong&gt;, SDU Odense&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Low-rank parameterizations for the unsteady Navier-stokes equations in the frequency domain&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Martin Hess&lt;/strong&gt;, SISSA Triest&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Model Reduction in Micromotility Applications&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

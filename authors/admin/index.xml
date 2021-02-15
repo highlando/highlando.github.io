@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Heiland</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Heiland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 13:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <title>Jan Heiland</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Past Conferences and Events</title>
+      <link>/events/pastconfs/</link>
+      <pubDate>Tue, 07 Jan 2020 13:00:00 +0200</pubDate>
+      <guid>/events/pastconfs/</guid>
+      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#2019&#34;&gt;2019&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Date&lt;/th&gt;
+&lt;th&gt;Occasion&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;Nov 04 &amp;ndash; Nov 07&lt;/td&gt;
+&lt;td&gt;Invited conference talk at 
+&lt;a href=&#34;https://liacopdesclm.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIA COPDESC and Lions Magenes Days&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Paris, France&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;Oct 14 &amp;ndash; Oct 18&lt;/td&gt;
+&lt;td&gt;Workshop 
+&lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/shanghaiws19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning in Model Reduction and Control&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Shanghai, China&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;Sep 30 &amp;ndash; Oct 4&lt;/td&gt;
+&lt;td&gt;MS 
+&lt;a href=&#34;/events/19-ms-enumath/&#34;&gt;Low-rank modelling in uncertainty quantification&lt;/a&gt; and talk on 
+&lt;a href=&#34;/talk/19-enumath-nse/&#34;&gt;time stepping for NSE&lt;/a&gt; at the 
+&lt;a href=&#34;http://www.enumath2019.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enumath 2019&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Egmond an Zee, The Netherlands&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;Sep 16 &amp;ndash; Sep 17&lt;/td&gt;
+&lt;td&gt;Visiting the 
+&lt;a href=&#34;http://ifatwww.et.uni-magdeburg.de/syst/GAMMFA/ilmenau_2019.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop&lt;/a&gt; des GAMM Fachausschuss &lt;em&gt;Dynamik und Regelungstheorie&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Ilmenau, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;Jul 15 &amp;ndash; Jul 19&lt;/td&gt;
+&lt;td&gt;Talks at the 
+&lt;a href=&#34;https://iciam2019.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM2019&lt;/a&gt; on 
+&lt;a href=&#34;/talk/19-iciam-rob-nse/&#34;&gt;robust controllers&lt;/a&gt; and 
+&lt;a href=&#34;/talk/19-iciam-genpod/&#34;&gt;tensor POD&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Valencia, Spain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;Jul 02 &amp;ndash; Jul 04&lt;/td&gt;
+&lt;td&gt;Visit of the 
+&lt;a href=&#34;http://www.fim.uni-passau.de/en/dynamical-systems/welcome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;group&lt;/a&gt; of Fabian Wirth and seminar talk on 
+&lt;a href=&#34;/talk/19-07-passau/&#34;&gt;robust controller design&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Passau, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

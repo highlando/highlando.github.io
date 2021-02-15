@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BA/MA on Jan Heiland</title>
+    <link>/tags/ba/ma/</link>
+    <description>Recent content in BA/MA on Jan Heiland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2019 17:28:30 +0200</lastBuildDate>
+    
+	    <atom:link href="/tags/ba/ma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Theses Topics</title>
+      <link>/project/19-open-bama-topics/</link>
+      <pubDate>Thu, 06 Jun 2019 17:28:30 +0200</pubDate>
+      
+      <guid>/project/19-open-bama-topics/</guid>
+      <description>
+
+&lt;p&gt;All projects can be fitted to the needs in terms of complexity, quantity and theory to programming ratio.&lt;/p&gt;
+
+&lt;p&gt;If you are interested, just drop by&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;computational-fluid-dynamics-and-control&#34;&gt;Computational fluid dynamics and control&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Optimal distributed control of nonlinear Navier-Stokes equations via differential-algebraic matrix Riccati equations&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Boundary control of cylindric flow using particular Couette-solutions&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As these projects base on numerical analysis and system and control theory, they are very suitable for students of mathematics. Basic knowledge of numerical mathematics and a programming language is mandatory. Knowledge of control theory and fluid dynamics will be useful.&lt;/p&gt;
+
+&lt;h2 id=&#34;control-of-dynamical-systems&#34;&gt;Control of Dynamical Systems&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Advanced control of a double or triple pendulum&lt;/li&gt;
+&lt;li&gt;Low-budget realization of a double pendulum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These projects have a hardware component. They are particularly suited for control or electrical engineers, but also for students of mathematics that have a favor for engineering applications.&lt;/p&gt;
+
+&lt;p&gt;In cooperation with the Magdeburg company &lt;a href=&#34;www.hasomed.de&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Hasomed&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;modelling-and-simulation&#34;&gt;Modelling and Simulation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spurious lights in laser measurements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With Jun.-Prof. Benoit Fond (OvGU Magdeburg, Institute of Fluid Dynamics and Thermodynamics)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiple Scattering in TPIV</title>
+      <link>/project/19-ba-roth/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/project/19-ba-roth/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Thermographic Particle Image Velocimetry&lt;/em&gt; (TPIV) is an optical technique to measure the temperature and velocity of fluid flows. In the ideal situation, scalar measurements are taking by collecting the light emissions from a single point at the crossing of a laser beam and the optical axis of the camera. In practice, however, through the interaction of spontaneous emissions and light scattering, additional light emissions reach the camera on other paths. The objective of this project was to theoretically quantify the contribution of unwanted light.&lt;/p&gt;
+
+&lt;h2 id=&#34;researcher&#34;&gt;Researcher:&lt;/h2&gt;
+
+&lt;p&gt;Andreas Roth (OvGU Magdeburg)&lt;/p&gt;
+
+&lt;h2 id=&#34;advisor&#34;&gt;Advisor&lt;/h2&gt;
+
+&lt;p&gt;Jun.-Prof. Benoit Fond (OvGU Magdeburg, Institute of Fluid Dynamics and Thermodynamics)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

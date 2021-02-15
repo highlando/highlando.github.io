@@ -1,0 +1,1346 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Jan Heiland">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="While it seems common knowledge how to formulate necessary optimality conditions backed by the famous Pontryagin&rsquo;s Maximum Principle, the direct derivation from the very general original formulations is not obvious. Sometimes, authors like me1 provide some plausibility like obviously this term has to vanish, refer to other sources that miss the derivation too, or attach the complete book by Pontryagin to a specific formula2.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/post/pontr-pendl/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#33a5c3">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_huc8d60562114d373ee9fcddf98bd2be5c_10437_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc8d60562114d373ee9fcddf98bd2be5c_10437_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/post/pontr-pendl/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@jnhlnd">
+  <meta property="twitter:creator" content="@jnhlnd">
+  
+  <meta property="og:site_name" content="Jan Heiland">
+  <meta property="og:url" content="/post/pontr-pendl/">
+  <meta property="og:title" content="Adjoint Systems for Optimal Control from Pontryagin to Wikipedia | Jan Heiland">
+  <meta property="og:description" content="While it seems common knowledge how to formulate necessary optimality conditions backed by the famous Pontryagin&rsquo;s Maximum Principle, the direct derivation from the very general original formulations is not obvious. Sometimes, authors like me1 provide some plausibility like obviously this term has to vanish, refer to other sources that miss the derivation too, or attach the complete book by Pontryagin to a specific formula2."><meta property="og:image" content="/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-08-06T17:34:51&#43;02:00">
+    
+    <meta property="article:modified_time" content="2019-08-06T17:34:51&#43;02:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/pontr-pendl/"
+  },
+  "headline": "Adjoint Systems for Optimal Control from Pontryagin to Wikipedia",
+  
+  "datePublished": "2019-08-06T17:34:51+02:00",
+  "dateModified": "2019-08-06T17:34:51+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Jan Heiland"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jan Heiland",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "While it seems common knowledge how to formulate necessary optimality conditions backed by the famous Pontryagin\u0026rsquo;s Maximum Principle, the direct derivation from the very general original formulations is not obvious. Sometimes, authors like me1 provide some plausibility like obviously this term has to vanish, refer to other sources that miss the derivation too, or attach the complete book by Pontryagin to a specific formula2."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Adjoint Systems for Optimal Control from Pontryagin to Wikipedia | Jan Heiland</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_0x70_resize_lanczos_2.png" alt="Jan Heiland"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_0x70_resize_lanczos_2.png" alt="Jan Heiland"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Conferences</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Adjoint Systems for Optimal Control from Pontryagin to Wikipedia</h1>
+
+  
+  <p class="page-subtitle">Exemplified by the Single Pendulum</p>
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span >Jan Heiland</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 6, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    6 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>While it seems common knowledge how to formulate <em>necessary optimality</em>
+conditions backed by the famous <em>Pontryagin&rsquo;s Maximum Principle</em>, the direct
+derivation from the <strong>very general</strong> original formulations is not obvious.
+Sometimes, authors like me<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> provide some plausibility like <em>obviously this
+term has to vanish</em>, refer to other sources that miss the derivation too, or
+attach the complete book by Pontryagin to a specific formula<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</p>
+<h2>Table of Contents</h2>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-model">The Model</a>
+      <ul>
+        <li><a href="#a-unit-pendulum">A Unit Pendulum</a></li>
+      </ul>
+    </li>
+    <li><a href="#control-setups">Control Setups</a>
+      <ul>
+        <li><a href="#final-state-fixed">Final State Fixed</a></li>
+        <li><a href="#final-state-as-optimization-target">Final State as Optimization Target</a></li>
+      </ul>
+    </li>
+    <li><a href="#the-maximum-principle">The Maximum Principle</a>
+      <ul>
+        <li><a href="#maximum-principle-with-variable-endpoints">Maximum Principle with Variable Endpoints</a></li>
+        <li><a href="#the-wikipedia-case">The Wikipedia Case</a></li>
+      </ul>
+    </li>
+    <li><a href="#connecting-wikipedia-and-pontryagin">Connecting Wikipedia and Pontryagin</a>
+      <ul>
+        <li><a href="#i-lagrange-form">I. Lagrange form</a></li>
+        <li><a href="#ii-pontryagins-terms">II. Pontryagin&rsquo;s terms</a></li>
+        <li><a href="#iii-pontryagin-with-variable-endpoints">III. Pontryagin with variable endpoints</a></li>
+      </ul>
+    </li>
+    <li><a href="#references">References</a></li>
+  </ul>
+</nav>
+<h1 id="the-model">The Model</h1>
+<h2 id="a-unit-pendulum">A Unit Pendulum</h2>
+<p>Consider the pendulum subjected to a potential force that can be adjusted. That is, instead of the gravity</p>
+<p>$$
+G:=
+\begin{bmatrix}
+0\\ -9.81
+\end{bmatrix},
+$$</p>
+<p>we consider a force field</p>
+<p>$$
+G:=
+\begin{bmatrix}
+g_1 \\  g_2
+\end{bmatrix},
+$$</p>
+<p>with scalar functions $g_1$, $g_2$ of time that can act as a control.</p>
+<p>With mass $m$, length $L$, and angle $\theta$ (see the picture below), we define the momentum as</p>
+<p>$$
+p = mL^2\dot \theta.
+$$</p>
+<p>This gives the Hamiltonian
+$$
+H(\theta, p) = \frac{p^2}{2mL^2} + m
+\begin{bmatrix}
+g_1 &amp;g_2
+\end{bmatrix}
+\begin{bmatrix}
+L \sin \theta \\ -L \cos \theta
+\end{bmatrix},
+$$</p>
+<p>or
+$$
+H(\theta, p)= \frac{p^2}{2mL^2} + mg_1 L \sin \theta - mg_2 \cos \theta ,
+$$</p>
+<p>and the equations of motion as</p>
+<p>$
+\begin{aligned}
+\quad \quad \quad \dot \theta &amp;= \frac{p}{mL^2},
+\\\\<br>
+\dot p &amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$</p>
+<p>Here is a schematic illustration taken from 
+<a href="http://www.scholarpedia.org/article/File:Pendulum.png" target="_blank" rel="noopener">scholarpedia</a>:</p>
+<p><img src="Pendulum.png" alt="pendulum, taken from scholarpedia"></p>
+<h1 id="control-setups">Control Setups</h1>
+<p>With consider two control setups:</p>
+<h2 id="final-state-fixed">Final State Fixed</h2>
+<blockquote>
+<p>Fix a time $t_1$, start with <br>
+$\quad(\theta(t_0), p(t_0))=(\pi, 0)$,<br> i.e. pendulum standing up-side-down,
+and minimize the control effort <br>
+$ \quad \mathcal J:= \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ~ dt \to \min $<br>
+over all $(g_1, g_2)$ that lead to <br>
+$\quad(\theta(t_1), p(t_1))=(0,0)$,<br> i.e. pendulum hanging down.</p>
+</blockquote>
+<h2 id="final-state-as-optimization-target">Final State as Optimization Target</h2>
+<blockquote>
+<p>Fix a time $t_1$, start with <br>
+$\quad(\theta(t_0), p(t_0))=(\pi, 0)$,<br> i.e. pendulum standing up-side-down,
+and find a control that targets <br>
+$\quad (\theta(t_1), p(t_1))=(0,0)$,<br>
+i.e. pendulum hanging down
+while also minimizing the control effort:<br>
+$ \quad \mathcal J:= \frac{1}{2}(\theta(t_1)^2 + p(t_1)^2) + \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ~ dt \to \min $.</p>
+</blockquote>
+<h1 id="the-maximum-principle">The Maximum Principle</h1>
+<p>Classically, as treated by Pontryagin itself<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, one seeks the minimum over all $u=(g_1, g_2)$ that <em>a-priori</em> ensure that $\theta(t_1)=0$ and $p(t_1)=0$. This, in a sense, means that suitable controls are known and that the optimization looks for those with the least magnitude. For people like me, that use optimization because they don&rsquo;t know a control, this seems not very feasible. But Pontryagin has the answer for that too:</p>
+<h2 id="maximum-principle-with-variable-endpoints">Maximum Principle with Variable Endpoints</h2>
+<p>One can (partially) abandon the end conditions, see Chapter I.7 in Pontryagin&rsquo;s book. Similarly, one can abandon the initial conditions which, again, seems odd from an application point of view. Also, simply omitting the end conditions will lead to trivial solutions. Certainly, we need to include them in the optimization. Which leads to the Wikipedia case.</p>
+<h2 id="the-wikipedia-case">The Wikipedia Case</h2>
+<p>Commonly used and illustrated on 
+<a href="https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle#Formal_statement_of_necessary_conditions_for_minimization_problem" target="_blank" rel="noopener">wikipedia:Pontryagin&rsquo;s maximum principle</a>
+&ndash; the form that leaves the controls free but penalizes the endpoint. Now, let me show how this form derives from Pontryagin&rsquo;s book.</p>
+<h1 id="connecting-wikipedia-and-pontryagin">Connecting Wikipedia and Pontryagin</h1>
+<p>The derivation of the <em>Wikipedia</em> formulas from the <em>Maximum Principle with Variable Endpoints</em> goes as follows:</p>
+<ol>
+<li>
+<p>Transform (see, e.g., 
+<a href="https://www.encyclopediaofmath.org/index.php/Bolza_problem" target="_blank" rel="noopener">Enc. of Math.: Bolza problem</a>) the problem from <em>Mayer form</em> to <em>Lagrange form</em>.</p>
+</li>
+<li>
+<p>Put the resulting system into the form of <em>Pontryagin</em>.</p>
+</li>
+<li>
+<p>Apply the maximum principle with completely free endpoints.</p>
+</li>
+</ol>
+<p>For the pendulum optimal control problem</p>
+<p>$$\frac{1}{2}(\theta(t_1)^2 + p(t_1)^2) +\frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ;dt \to \min$$</p>
+<p>subject to</p>
+<p>$$
+\begin{aligned}
+\dot \theta &amp;= \frac{p}{mL^2},\\\\<br>
+\dot p &amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$$</p>
+<p>with initial conditions</p>
+<p>$$
+\theta(t_0)=\pi, \quad p(t_0)=0
+$$</p>
+<p>this means:</p>
+<h2 id="i-lagrange-form">I. Lagrange form</h2>
+<p>We get rid of the costs that are put on the terminal values by introducing a variable $\tilde x$. Thus the optimal control problem no reads:</p>
+<p>$$
+\mathcal J:=\int_{t_0}^{t_1} \tilde x + \frac{1}{2}(g_1^2+g_2^2) ;dt \to \min
+$$</p>
+<p>subject to</p>
+<p>$$
+\begin{aligned}
+\dot {\tilde x} &amp;= 0, \\\\<br>
+\dot \theta &amp;= \frac{p}{mL^2},\\\\<br>
+\dot p &amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$$</p>
+<p>with one end condition</p>
+<p>$$
+\tilde x(t_1) = \frac{1}{2(t_1-t_0)}(\theta(t_1)^2+p(t_1)^2),
+$$</p>
+<p>and the old initial conditions</p>
+<p>$$
+\theta(t_0)=\pi, \quad p(t_0)=0.
+$$</p>
+<blockquote>
+<p>In fact, since $\tilde x$ is constant and fixed by its end condition, one obtains that</p>
+</blockquote>
+<blockquote>
+<p>$\int_{t_0}^{t_1} \tilde x ;dt = (t_1 - t_0)\tilde x(t_1) = \frac{1}{2}(\theta(t_1)^2+p(t_1)^2).$</p>
+</blockquote>
+<p>Once in <em>Lagrange</em> form, the problem can be put into the form used in Pontryagin&rsquo;s theorem:</p>
+<h2 id="ii-pontryagins-terms">II. Pontryagin&rsquo;s terms</h2>
+<p>$$
+x^0(t_1) \to \min
+$$</p>
+<p>subject to</p>
+<p>$$
+\begin{aligned}
+\dot x^0 &amp;= \tilde x + \frac{1}{2}(g_1^2+g_2^2), \\\\<br>
+\dot {\tilde x} &amp;= 0, \\\\<br>
+\dot \theta &amp;= \frac{p}{mL^2},\\\\<br>
+\dot p &amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$$</p>
+<p>with initial conditions</p>
+<p>\begin{equation}
+x^0(t_0)=0, \quad \theta(t_0)=\pi, \quad p(t_0)=0,
+\end{equation}</p>
+<p>and the end condition</p>
+<p>$$
+\tilde x(t_1) = \frac{1}{2(t_1-t_0)}(\theta(t_1)^2+p(t_1)^2).
+$$</p>
+<blockquote>
+<p>Here, the trick is that the new variable $x^0$ simply integrates the value of the cost functional.</p>
+</blockquote>
+<p>The corresponding adjoint system for the $\psi$ reads<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></p>
+<p>\begin{align}
+\dot \psi_0 &amp;= 0, \\\\<br>
+\dot \psi_1 &amp;= -\psi_0, \\\\<br>
+\dot \psi_2 &amp;= -(mg_1L\sin\theta - mg_2L\cos\theta) \psi_3, \\\\<br>
+\dot \psi_3 &amp;= -\frac{1}{mL^2}\psi_2.
+\end{align}</p>
+<p>This $\psi$ defines the control Hamiltonian as</p>
+<p>$$
+\bigl(\psi, f(x;G) \bigl ) =
+\bigl(\psi,
+\begin{bmatrix}
+\tilde x + \frac{1}{2}(g_1^2+g_2^2) \\\\<br>
+0 \\\\<br>
+\frac{p}{mL^2}\\\\<br>
+-mg_1L\cos \theta - mg_2L\sin \theta
+\end{bmatrix}
+\bigl )
+$$</p>
+<h2 id="iii-pontryagin-with-variable-endpoints">III. Pontryagin with variable endpoints</h2>
+<p>Finally, we can omit parts of the end conditions.</p>
+<p>If we let the state $(\tilde x, \theta, p)$ at $t_1$ take on an arbitrary value then it will belong to the hypersurface</p>
+<p>$$
+S_1 = {(\frac{1}{2(t_1-t_0)}(\theta^2 + p^2), \theta, p)} \subset \mathbb R^3
+$$</p>
+<p>Then the <em>transversality condition</em><sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> that $\psi(t_1)$ has to be <em>orthogonal</em> to the tangent plane to $S_1$ at $(\tilde x(t_1), \theta(t_1), p(t_1))$ gives the following boundary conditions for $\psi$:</p>
+<p>\begin{align}
+\frac{1}{t_1-t_0}p(t_1)\psi_1(t_1) - \psi_3(t_1) &amp;= 0, \\\\
+\frac{1}{t_1-t_0}\theta(t_1)\psi_1(t_1) - \psi_2(t_1) &amp;= 0.
+\end{align}</p>
+<blockquote>
+<p>These give the <em>Wikipedia</em> terminal condition for the adjoint state with the choice of $\psi_1(t_1) = t_1-t_0$.</p>
+</blockquote>
+<p>Note that these particular end conditions were derived from the particular basis</p>
+<p>$$
+\biggl\{
+\begin{bmatrix}
+\frac{1}{t_1-t_0}p \\ 0 \\ 1
+\end{bmatrix},
+\begin{bmatrix}
+\frac{1}{t_1-t_0}\theta \\ 1 \\ 0
+\end{bmatrix}
+\biggr\}
+$$</p>
+<p>of the tangent space and note that any other basis can be taken, or equivalently, any linear combination of the boundary conditions are feasible.</p>
+<h1 id="references">References</h1>
+<p>📙 Pontryagin, Boltyanski, Gamkrelidze, and Mishchenko (1962) <em>The Mathematical Theory of Optimal Processes</em></p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Lemma 6.5 in Heiland (2013) <em>Decoupling, Semi-Discretization, and Optimal
+Control of Semi-linear Semi-explicit Index-2 Abstract Differential-Algebraic
+Equations and Application in Optimal Flow Control</em> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>cp. the text before Theorem 3.4 in Ober-Blöbaum, Junge, Marsden
+(2008) <em>Discrete Mechanics and Optimal Control: an Analysis</em>] <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>Ch. I.2 in his book <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4" role="doc-endnote">
+<p>Pontryagin et al., Theorem 1 <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5" role="doc-endnote">
+<p>Pontryagin et al., Ch. I.7 <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/pontr-pendl/&amp;text=Adjoint%20Systems%20for%20Optimal%20Control%20from%20Pontryagin%20to%20Wikipedia" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/pontr-pendl/&amp;t=Adjoint%20Systems%20for%20Optimal%20Control%20from%20Pontryagin%20to%20Wikipedia" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Adjoint%20Systems%20for%20Optimal%20Control%20from%20Pontryagin%20to%20Wikipedia&amp;body=/post/pontr-pendl/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/pontr-pendl/&amp;title=Adjoint%20Systems%20for%20Optimal%20Control%20from%20Pontryagin%20to%20Wikipedia" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Adjoint%20Systems%20for%20Optimal%20Control%20from%20Pontryagin%20to%20Wikipedia%20/post/pontr-pendl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/post/pontr-pendl/&amp;title=Adjoint%20Systems%20for%20Optimal%20Control%20from%20Pontryagin%20to%20Wikipedia" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+<script>
+  podlovePlayer('#pc-lecture-one', '/courses/ovgu-mathe-informatik/files/pcs/config-1.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-1-2', '/courses/ovgu-mathe-informatik/files/pcs/config-1-2.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-2-1', '/courses/ovgu-mathe-informatik/files/pcs/config-2-1.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-2-2', '/courses/ovgu-mathe-informatik/files/pcs/config-2-2.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-3-1', '/courses/ovgu-mathe-informatik/files/pcs/config-3-1.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-3-2', '/courses/ovgu-mathe-informatik/files/pcs/config-3-2.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-4-1', '/courses/ovgu-mathe-informatik/files/pcs/config-4-1.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-4-2', '/courses/ovgu-mathe-informatik/files/pcs/config-4-2.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-5-1', '/courses/ovgu-mathe-informatik/files/pcs/config-5-1.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-6-1', '/courses/ovgu-mathe-informatik/files/pcs/config-6-1.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-7-1', '/courses/ovgu-mathe-informatik/files/pcs/config-7-1.json');
+</script>
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

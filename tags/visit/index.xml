@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visit on Jan Heiland</title>
+    <link>/tags/visit/</link>
+    <description>Recent content in Visit on Jan Heiland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2019 17:11:02 +0200</lastBuildDate>
+    
+	    <atom:link href="/tags/visit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visit: University Passau</title>
+      <link>/talk/19-07-passau/</link>
+      <pubDate>Wed, 03 Jul 2019 17:11:02 +0200</pubDate>
+      
+      <guid>/talk/19-07-passau/</guid>
+      <description>&lt;p&gt;Meeting with the group of Fabian Wirth and Andrii Mironchenko.&lt;/p&gt;
+
+&lt;p&gt;I will give a talk on&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Robust control for compensation of linearization and discretization
+errors in stabilization of incompressible flows&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;in the seminar, 1PM, on July 3rd.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

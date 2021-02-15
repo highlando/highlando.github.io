@@ -1,0 +1,13 @@
+00:00:01.460374	1.460374	Intro
+00:00:48.438775	48.438775	Zettel und Stift bitte
+00:01:19.117720	79.117720	Sekante
+00:02:51.540994	171.540994	Differenzierbarkeit
+00:04:19.030353	259.030353	Beispiele
+00:05:03.369195	303.369195	Pause zur Besinnung
+00:05:59.413560	359.413560	Rechnen mit Ableitungen
+00:06:51.820715	411.820715	Ableitungen elementarer Funktionen
+00:07:26.370628	446.370628	Ableitung und Monotonie
+00:08:06.400482	486.400482	Ableitung der Umkehrfunktion
+00:09:12.795589	552.795589	Ableitungen elementarer Umkehrfunktionen
+00:09:39.198167	579.198167	Regel von l'Hospital
+00:10:42.145176	642.145176	Abschluss

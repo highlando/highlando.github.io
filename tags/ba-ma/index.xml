@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BA-MA | Jan Heiland</title>
+    <link>/tags/ba-ma/</link>
+      <atom:link href="/tags/ba-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>BA-MA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <title>BA-MA</title>
+      <link>/tags/ba-ma/</link>
+    </image>
+    
+    <item>
+      <title>Open Master Thesis</title>
+      <link>/project/20-ma-dmd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/project/20-ma-dmd/</guid>
+      <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
+&lt;p&gt;Dr. Carmen Gräßle MPI Magdeburg, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
+&lt;h1 id=&#34;problem-statement&#34;&gt;Problem statement:&lt;/h1&gt;
+&lt;p&gt;The method of &lt;em&gt;Dynamic Mode Decomposition&lt;/em&gt; (DMD) is able to identify a surrogate model for a nonlinear system based on time series (&lt;em&gt;snapshots&lt;/em&gt;).
+Typically, surrogate models are less complex than the original model equations
+so that they can be used to simulate the same phenomena but in less
+computation time (&lt;em&gt;speedup&lt;/em&gt;) and with lower memory requirements (&lt;em&gt;compression&lt;/em&gt;).
+The theory of DMD is more than 100 years old. In practice, DMD has experienced strong popularity within the last 10 years, mostly due to interesting and successful application examples in flow problems.&lt;/p&gt;
+&lt;p&gt;In the context of numerical investigation of PDEs in general and flow problems in particular, the &lt;em&gt;snapshots&lt;/em&gt; can be considered as approximate solutions at given time instances. Each of these approximate solutions are discrete functions which are defined on a spatial mesh. If the mesh is constant over all time instances, DMD is readily applicable.&lt;/p&gt;
+&lt;p&gt;In this master&amp;rsquo;s thesis, we will pursue the case, in which the mesh changes over time, which is intended in applications. We will develop a formulation for DMD which is independent of the spatial meshes and propose numerical realizations which exceed simple interpolation approaches.&lt;/p&gt;
+&lt;h1 id=&#34;requirements&#34;&gt;Requirements&lt;/h1&gt;
+&lt;p&gt;For this work, knowledge or particular interests in the following fields are of advantage:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;numerics of partial differential equations and&lt;/li&gt;
+&lt;li&gt;numerical simulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;as well as programming expertise (most suitable in &lt;code&gt;Python&lt;/code&gt; or &lt;code&gt;C++&lt;/code&gt;).&lt;/p&gt;
+&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
+&lt;p&gt;In case of interest or request for further details, please contact&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Carmen Gräßle &amp;ndash; [graessle@mpi-magdeburg.mpg.de](mailto: &lt;a href=&#34;mailto:graessle@mpi-magdeburg.mpg.de&#34;&gt;graessle@mpi-magdeburg.mpg.de&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jun.-Prof. Jan Heiland &amp;ndash; [jan.heiland@ovgu.de](mailto: &lt;a href=&#34;mailto:jan.heiland@ovgu.de&#34;&gt;jan.heiland@ovgu.de&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;pics/snap100.png&#34; alt=&#34;Screenshot 1 of a simulation on an adaptive grid&#34;&gt;
+&lt;img src=&#34;pics/snap290.png&#34; alt=&#34;Screenshot 2 of a simulation on an adaptive grid&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inverse Triple Pendulum</title>
+      <link>/project/pendulum/</link>
+      <pubDate>Tue, 17 Sep 2019 11:56:57 +0200</pubDate>
+      <guid>/project/pendulum/</guid>
+      <description>&lt;p&gt;Our institute has a triple pendulum connected to a cart that can be controlled by a computer. Stabilizing a pendulum in upright position is a common control benchmark. Controlling a double or triple pendulum requires powerful hardware and a sophisticated and well-tuned software. The hardware was set up by the Magdeburg-based company Hasomed, the software has been developed in our institute for over 20 years.&lt;/p&gt;
+&lt;p&gt;The triple pendulum is used to test control algorithms in experiments. As opposed to pure simulations, the application in hardware comes with additional challenges like delays in communication and changing environmental parameters.&lt;/p&gt;
+&lt;p&gt;Also, the pendulum is used to showcase the need and potential of control algorithms in regular visits of students or the public at our annual long night of science.&lt;/p&gt;
+&lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;September 11th: Visit of a project group from the Hubertus Gymnasium.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;March 1st: In cooperation with 
+&lt;a href=&#34;https://www.hasomed.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hasomed&lt;/a&gt;, we revise the controller software and the interface to the hardware. The result will be test blocks for basic control tasks like the controlled transversion of the pendulum both in open loop and closed loop regimes. &lt;em&gt;HASOMED&lt;/em&gt; co-sponsors the development and will distribute the developed software under a license agreement with the MPI-MD.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;pendulum-de.pdf&#34;&gt;poster&lt;/a&gt; explains the setup and the basic procedures of the control scheme as well as typical application areas (in German).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This video shows the swingup and swingdown of the triple pendulum in slow motion:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;triple_swingup_slomo.MP4&#34; type=&#34;video/MP4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Master Thesis</title>
+      <link>/project/19-ma-multiscat/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>/project/19-ma-multiscat/</guid>
+      <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
+&lt;p&gt;Jun-Prof. Benoit Fond FVST, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
+&lt;h1 id=&#34;problem-statement&#34;&gt;Problem statement:&lt;/h1&gt;
+&lt;p&gt;Thermographic Particle Image Velocimetry is an optical technique to
+measure the temperature and velocity of fluid flows (gas or liquid), by
+introducing small (micron-size) luminescent particles into the flow
+[1]. It has been applied in various types of flows including internal
+combustion engines, film cooling flows, and in natural convection. When
+using micron-size particles, the particles follow the flow, and their
+temperature is at equilibrium with the gas. If we illuminate the
+particles with a UV laser, the particles absorb the UV light, and then,
+they re-emit visible light called luminescence. The colour of the
+emitted light depends on the temperature of the particles, so by
+recording the light on a camera, we can determine the temperature of the
+particle, and therefore that of the gas.&lt;/p&gt;
+&lt;p&gt;Typically, we collect light from the particles with a lens as shown in
+Fig. 1 a). Only particles that are within the thin laser sheet (shown in
+purple) are excited, and emit frequency shifted light (here shown by the
+red rays). A filter is placed in front of the camera to only collect the
+frequency-shifted luminescence. However, when there are many particles,
+light emitted by particle can bounce off other particles, and the
+spatial information may be lost. Pathways for wanted and unwanted
+luminescence being collected on the detectors are shown on Figures 1.
+The wanted scenario mentioned above is a). In unwanted scenarios b-d),
+either excitation light or luminescence emission is scattered by
+particles outside the probe volume. The objective of this project is to
+theoretically quantify the contribution of unwanted light by
+implementing Mie scattering theory with random particle positions. More
+detail on Mie scattering theory can be found in the following link:
+[&lt;em&gt;http://plaza.ufl.edu/dwhahn/Rayleigh%20and%20Mie%20Light%20Scattering.pdf&lt;/em&gt;](&lt;a href=&#34;http://plaza.ufl.edu/dwhahn/Rayleigh&#34;&gt;http://plaza.ufl.edu/dwhahn/Rayleigh&lt;/a&gt; and Mie Light Scattering.pdf)&lt;/p&gt;
+&lt;h1 id=&#34;task-description&#34;&gt;Task description:*&lt;/h1&gt;
+&lt;p&gt;a)  Improve the current model by developing numerical schemes to
+increase the spatial resolution to computational cost ratio.&lt;/p&gt;
+&lt;p&gt;b)  Quantify the contribution of multiple scattering relative (b and c)
+for a reference experimental configuration.&lt;/p&gt;
+&lt;p&gt;c)  Validate the model against the result of measurements performed in
+the reference experimental configuration in Fond´s group.&lt;/p&gt;
+&lt;p&gt;d)  Determine the scaling factor (size of coflow, seeding density ratio,
+imaginary over real part of index of refraction), and compare with
+experimental observations.&lt;/p&gt;
+&lt;p&gt;e)  Estimate the relative probability of three particle events compared
+to the two particle event of scenarios b and c).&lt;/p&gt;
+&lt;p&gt;[1] C. Abram, B. Fond, and F. Beyrau, “Temperature measurement
+techniques for gas and liquid flows using thermographic phosphor tracer
+particles,” Prog. Energy Combust. Sci. 64, 93 – 156 (2018).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Theses Topics</title>
+      <link>/project/19-open-bama-topics/</link>
+      <pubDate>Thu, 06 Jun 2019 17:28:30 +0200</pubDate>
+      <guid>/project/19-open-bama-topics/</guid>
+      <description>&lt;p&gt;All projects can be fitted to the needs in terms of complexity, quantity and theory to programming ratio.&lt;/p&gt;
+&lt;p&gt;If you are interested, just drop by&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;computational-fluid-dynamics-and-control&#34;&gt;Computational fluid dynamics and control&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Optimal distributed control of nonlinear Navier-Stokes equations via differential-algebraic matrix Riccati equations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Boundary control of cylindric flow using particular Couette-solutions&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As these projects base on numerical analysis and system and control theory, they are very suitable for students of mathematics. Basic knowledge of numerical mathematics and a programming language is mandatory. Knowledge of control theory and fluid dynamics will be useful.&lt;/p&gt;
+&lt;h2 id=&#34;control-of-dynamical-systems&#34;&gt;Control of Dynamical Systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced control of a double or triple pendulum&lt;/li&gt;
+&lt;li&gt;Low-budget realization of a double pendulum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These projects have a hardware component. They are particularly suited for control or electrical engineers, but also for students of mathematics that have a favor for engineering applications.&lt;/p&gt;
+&lt;p&gt;In cooperation with the Magdeburg company 
+&lt;a href=&#34;https://www.hasomed.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Hasomed&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;modelling-and-simulation&#34;&gt;Modelling and Simulation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spurious lights in laser measurements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With Jun.-Prof. Benoit Fond (OvGU Magdeburg, Institute of Fluid Dynamics and Thermodynamics)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiple Scattering in TPIV</title>
+      <link>/project/19-ba-roth/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0200</pubDate>
+      <guid>/project/19-ba-roth/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Thermographic Particle Image Velocimetry&lt;/em&gt; (TPIV) is an optical technique to measure the temperature and velocity of fluid flows. In the ideal situation, scalar measurements are taking by collecting the light emissions from a single point at the crossing of a laser beam and the optical axis of the camera. In practice, however, through the interaction of spontaneous emissions and light scattering, additional light emissions reach the camera on other paths. The objective of this project was to theoretically quantify the contribution of unwanted light.&lt;/p&gt;
+&lt;h2 id=&#34;researcher&#34;&gt;Researcher:&lt;/h2&gt;
+&lt;p&gt;Andreas Roth (OvGU Magdeburg)&lt;/p&gt;
+&lt;h2 id=&#34;advisor&#34;&gt;Advisor&lt;/h2&gt;
+&lt;p&gt;Jun.-Prof. Benoit Fond (OvGU Magdeburg, Institute of Fluid Dynamics and Thermodynamics)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

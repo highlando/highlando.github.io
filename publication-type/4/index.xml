@@ -5,12 +5,20 @@
     <link>/publication-type/4/</link>
       <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>4</title>
       <link>/publication-type/4/</link>
     </image>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional H∞-controllers</title>
+      <link>/publication/mor-ben-hw-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mor-ben-hw-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Classical System Theory Revisited for Turnpike in Standard State Space Systems and Impulse Controllable Descriptor Systems</title>
@@ -33,14 +41,6 @@
       <link>/publication/ben-h-20-a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/ben-h-20-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
-      <link>/publication/hei-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/hei-19/</guid>
       <description></description>
     </item>
     

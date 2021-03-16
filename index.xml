@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Heiland</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 14:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>Jan Heiland</title>
@@ -529,6 +529,22 @@ Klausur) Inhalte. Live auf Youtube mit diesem
   &lt;iframe src=&#34;https://www.youtube.com/embed/bnRdkrX8j5Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor-Galerkin POD for Efficient Uncertainty Quantification in PDEs with Multivariate Random Parameters</title>
+      <link>/talk/21-gpuq-gamm/</link>
+      <pubDate>Wed, 17 Mar 2021 14:00:00 +0100</pubDate>
+      <guid>/talk/21-gpuq-gamm/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The statistically sound treatment of modelled uncertainties in simulations comes with significant additional computational costs. Since a deterministic model can already be arbitrarily complex, running statistics for general problems may soon become infeasible unless some kind of model reduction is involved.&lt;/p&gt;
+&lt;p&gt;In this talk we present a multidimensional Galerkin Proper Orthogonal Decomposition (Galerkin POD)
+that simultaneously reduces the physical dimensions of the model and the dimensions related to
+the uncertainties.&lt;/p&gt;
+&lt;p&gt;Using basic tensor calculus we extend our recent work of space-time Galerkin POD [1] to arbitrary dimensions and apply it to PDEs with multivariate uncertain. By means of a numerical example we illustrate the procedure and how it outperforms POD based on random snapshots.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] Baumann, M.; Benner, P. &amp;amp; Heiland, J. Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations SIAM J. Sci. Comput., 2018, 40, A1611-A1641&lt;/p&gt;
 </description>
     </item>
     

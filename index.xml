@@ -5,9 +5,9 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Heiland</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 14:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 14:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>Jan Heiland</title>
       <link>/</link>
     </image>
@@ -19,8 +19,7 @@
       <guid>/courses/mathe2info-21/omi-0/</guid>
       <description>&lt;p&gt;Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben,
 die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.&lt;/p&gt;
-&lt;p&gt;💾 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -31,8 +30,7 @@ die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.
       <guid>/courses/ovgu-mathe-informatik/omi-0/</guid>
       <description>&lt;p&gt;Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben,
 die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.&lt;/p&gt;
-&lt;p&gt;💾 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -46,24 +44,18 @@ die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.
 &lt;div id=&#34;pc-lecture-one&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:QUoKgfMdtkWu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;💾 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.math-kit.de/2003/content/RH-PB-XML-cob/Manifest295/einstieg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Achilles und die Schildkröte als Reihe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:QUoKgfMdtkWu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.math-kit.de/2003/content/RH-PB-XML-cob/Manifest295/einstieg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Achilles und die Schildkröte als Reihe&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;1-2-reihen&#34;&gt;1-2 Reihen&lt;/h2&gt;
 &lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
 &lt;div id=&#34;pc-lecture-1-2&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:phVZ4hhjpEG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript (zweiter Teil)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;💾 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;../files/pcs/1-2-kuchenharmonie-small.png&#34;&gt;Bild zur Kuchenfolge und zum harmonischen
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:phVZ4hhjpEG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript (zweiter Teil)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/pcs/1-2-kuchenharmonie-small.png&#34;&gt;Bild zur Kuchenfolge und zum harmonischen
 Turm&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;video-zur-kuchenfolge-und-zum-harmonischen-turm&#34;&gt;Video zur Kuchenfolge und zum harmonischen Turm&lt;/h3&gt;
@@ -93,10 +85,8 @@ Turm&lt;/a&gt;&lt;/li&gt;
 &lt;div id=&#34;pc-lecture-2-1&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:cjsQ71YoKehx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;💾 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:cjsQ71YoKehx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;wrapup-part-21&#34;&gt;Wrapup (Part 2.1)&lt;/h3&gt;
 
@@ -109,10 +99,8 @@ Turm&lt;/a&gt;&lt;/li&gt;
 &lt;div id=&#34;pc-lecture-2-2&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:cjsQ71YoKehx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;💾 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:cjsQ71YoKehx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;wrapup-part-22&#34;&gt;Wrapup (Part 2.2)&lt;/h3&gt;
 
@@ -133,24 +121,19 @@ Turm&lt;/a&gt;&lt;/li&gt;
 &lt;div id=&#34;pc-lecture-3-1&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 13 im Skript&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;💾 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 13 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;3-2-houmlhere-ableitungen-konvex-konkav-extrema&#34;&gt;3-2 Höhere Ableitungen, Konvex-Konkav, Extrema&lt;/h2&gt;
 &lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
 &lt;div id=&#34;pc-lecture-3-2&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 13 im Skript&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;💾 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 13 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/3-2-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/3-2-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/DkAGMGCSvw4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -180,12 +163,10 @@ Turm&lt;/a&gt;&lt;/li&gt;
 &lt;div id=&#34;pc-lecture-4-1&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:NVYFzJarguQi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 14 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:NVYFzJarguQi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 14 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/4-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/4-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/dI9t-9pGKus&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -196,12 +177,10 @@ Turm&lt;/a&gt;&lt;/li&gt;
 &lt;div id=&#34;pc-lecture-4-2&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:NVYFzJarguQi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 14 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:NVYFzJarguQi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 14 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;illustrierte-beispiele-1&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/4-2-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/4-2-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Zk9CXZEcUaY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -228,12 +207,9 @@ Turm&lt;/a&gt;&lt;/li&gt;
 Podcast und den Wrapup nicht so geeignet. Deswegen hier mein Angebot für
 diesen Themenkomplex:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;#5-1-zerlegung-ober-untersummen-riemann-integral&#34;&gt;1. Teil (Mittwoch)&lt;/a&gt;: Podcast und Beispiele als Video.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#5-2-substitionsregel-partielle-integration-uneigentliche-integrale&#34;&gt;2. Teil (Freitag)&lt;/a&gt;: Illustration der Inhalte als Video.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#5-3-wrapup----beispiele-vorrechnen&#34;&gt;3. Teil (Mittwoch)&lt;/a&gt;: Vorrechnen der Beispiele aus dem Vorlesungskapitel +
+&lt;li&gt;&lt;a href=&#34;#5-1-zerlegung-ober-untersummen-riemann-integral&#34;&gt;1. Teil (Mittwoch)&lt;/a&gt;: Podcast und Beispiele als Video.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#5-2-substitionsregel-partielle-integration-uneigentliche-integrale&#34;&gt;2. Teil (Freitag)&lt;/a&gt;: Illustration der Inhalte als Video.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#5-3-wrapup----beispiele-vorrechnen&#34;&gt;3. Teil (Mittwoch)&lt;/a&gt;: Vorrechnen der Beispiele aus dem Vorlesungskapitel +
 ausgewählte Übungsaufgaben.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;5-1-zerlegung-ober-untersummen-riemann-integral&#34;&gt;5-1 Zerlegung, Ober-/Untersummen, Riemann-Integral&lt;/h2&gt;
@@ -241,12 +217,10 @@ ausgewählte Übungsaufgaben.&lt;/li&gt;
 &lt;div id=&#34;pc-lecture-5-1&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ye3UTe7IUff-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 15 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ye3UTe7IUff-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 15 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/5-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/5-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/ScRfoCNgTPQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -264,8 +238,7 @@ Differentiationsregeln und das &lt;em&gt;uneigentliche Integral&lt;/em&gt; am Be
 &lt;p&gt;$$
 f(x) = \frac{1}{\sqrt{1-|x|}}, \quad\text{auf }(-1, 1).
 $$&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/5-2.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/5-2.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/3SQ5a5Q9RkI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -285,8 +258,7 @@ $$&lt;/p&gt;
 &lt;p&gt;$$
 \text{Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
 $$&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/5-3-bspx.png&#34;&gt;Das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/5-3-bspx.png&#34;&gt;Das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Id9qFbM0bL0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -314,15 +286,11 @@ $$&lt;/p&gt;
 &lt;div id=&#34;pc-lecture-6-1&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:WzWpnQUp8Wbc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 16 im Skript&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://de.wikipedia.org/wiki/JPEG#Die_JPEG-Dekodierung&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kosinustransformation in JPG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:WzWpnQUp8Wbc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 16 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/JPEG#Die_JPEG-Dekodierung&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kosinustransformation in JPG&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;6-wrapup&#34;&gt;6 Wrapup&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.youtube.com/c/JanHeiland/live&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube live&lt;/a&gt; &amp;ndash; 
-&lt;a href=&#34;http://mm.cs.ovgu.de/mathe-info-2/channels/0605-wrapup-fourier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rückkanal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/c/JanHeiland/live&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube live&lt;/a&gt; &amp;ndash; &lt;a href=&#34;http://mm.cs.ovgu.de/mathe-info-2/channels/0605-wrapup-fourier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rückkanal&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 ## Wrapup Differenzierbarkeit
 
@@ -351,12 +319,10 @@ $$&lt;/p&gt;
 &lt;div id=&#34;pc-lecture-7-1&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:MO-KGEUoek-P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:MO-KGEUoek-P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/7-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/7-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/wKQhqfCqApc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -364,8 +330,7 @@ $$&lt;/p&gt;
 
 &lt;h2 id=&#34;7-2-ableitungen-multivariable-vektorwertige-funktionen-und-extrema&#34;&gt;7-2 Ableitungen, Multivariable Vektorwertige Funktionen und Extrema&lt;/h2&gt;
 &lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/7-2-lctr.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/7-2-lctr.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/9UV8m2wsnbk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -373,12 +338,10 @@ $$&lt;/p&gt;
 
 &lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:MO-KGEUoek-P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:MO-KGEUoek-P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;7-3-hesse-matrix-definitheit-extrema-kompakte-mengen&#34;&gt;7-3 Hesse Matrix, Definitheit, Extrema, Kompakte Mengen&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/7-3-lctr.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/7-3-lctr.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/4B6jUlF9R94&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -386,12 +349,10 @@ $$&lt;/p&gt;
 
 &lt;h3 id=&#34;shownotes-2&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Ein 
-&lt;a href=&#34;https://studyflix.de/informatik/hesse-matrix-1352&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Text und Video&lt;/a&gt; mit
+&lt;li&gt;Ein &lt;a href=&#34;https://studyflix.de/informatik/hesse-matrix-1352&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Text und Video&lt;/a&gt; mit
 schöner Illustration wie die Funktion, kritische Punkte und die Hesse
 Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix Beispiel 1&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:u6Nm6dd51DMi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:u6Nm6dd51DMi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
 ## Wrapup Differenzierbarkeit
@@ -418,8 +379,7 @@ Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix B
 &lt;/ol&gt;
 &lt;h2 id=&#34;8-1-quader-integration-multivariabler-funktionen&#34;&gt;8-1 Quader, Integration Multivariabler Funktionen&lt;/h2&gt;
 &lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/8-1-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/8-1-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/xLdLJxPsjD4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -427,13 +387,11 @@ Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix B
 
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:5H0uGjizYZx3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:5H0uGjizYZx3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;8-2-normalbereiche-und-transformationssatz&#34;&gt;8-2 Normalbereiche und Transformationssatz&lt;/h2&gt;
 &lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/8-2-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/8-2-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/7qLIr4Zlsf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -441,12 +399,10 @@ Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix B
 
 &lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;8-3-transformationssatz-und-polarkoordinaten&#34;&gt;8-3 Transformationssatz und Polarkoordinaten&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/8-3-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/8-3-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/PFTo1CXbVuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -455,12 +411,10 @@ Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix B
 &lt;h3 id=&#34;shownotes-2&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Die 
-&lt;a href=&#34;https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Umkehrung der Transformation in Polarkoordinaten&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Die &lt;a href=&#34;https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Umkehrung der Transformation in Polarkoordinaten&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Ein geglücktes Bild der Kugelkoordinaten:&lt;/p&gt;
@@ -485,14 +439,11 @@ Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix B
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
       <guid>/courses/ovgu-mathe-informatik/omi-9/</guid>
       <description>&lt;p&gt;Das ist eine zweiteilige Zusammenfassung der relevantesten (für die anstehende
-Klausur) Inhalte. Live auf Youtube mit diesem 
-&lt;a href=&#34;https://mm.cs.ovgu.de/mathe-info-2/channels/cool-down&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattermost Rückkanal&lt;/a&gt;&lt;/p&gt;
+Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu.de/mathe-info-2/channels/cool-down&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattermost Rückkanal&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Plus ein Bonus mit vorgerechneten Beispielen&lt;/p&gt;
 &lt;h2 id=&#34;1-folgen-und-stetigkeit&#34;&gt;1 Folgen und Stetigkeit&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/cool-down-1.png&#34;&gt;das ganze (vorab) als PNG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/cool-down-1-2.png&#34;&gt;der letzte Teil ausgefüllt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/cool-down-1.png&#34;&gt;das ganze (vorab) als PNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/cool-down-1-2.png&#34;&gt;der letzte Teil ausgefüllt&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;die-videos&#34;&gt;Die Videos&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Part 1 &amp;ndash; Folgen&lt;/li&gt;
@@ -519,9 +470,7 @@ Klausur) Inhalte. Live auf Youtube mit diesem
 &lt;/div&gt;
 
 &lt;h2 id=&#34;2-differentiation-und-integration&#34;&gt;2 Differentiation und Integration&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;../files/cool-down-2.png&#34;&gt;das ganze (vorab) als PNG&lt;/a&gt;
-
+&lt;p&gt;&lt;a href=&#34;../files/cool-down-2.png&#34;&gt;das ganze (vorab) als PNG&lt;/a&gt;
 &lt;a href=&#34;../files/cool-down-2-1.png&#34;&gt;und alles ausgefüllt&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;screencast&#34;&gt;Screencast&lt;/h3&gt;
 
@@ -533,8 +482,7 @@ Klausur) Inhalte. Live auf Youtube mit diesem
 &lt;ul&gt;
 &lt;li&gt;Grenzwert einer Funktion mit mehreren Veränderlichen&lt;/li&gt;
 &lt;li&gt;Taylorreihe und Restglied&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;../files/cool-down-3.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/cool-down-3.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -565,13 +513,15 @@ the uncertainties.&lt;/p&gt;
       <link>/events/pastconfs/</link>
       <pubDate>Sun, 31 Jan 2021 13:00:00 +0200</pubDate>
       <guid>/events/pastconfs/</guid>
-      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
+      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#2020&#34;&gt;2020&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#2019&#34;&gt;2019&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+&lt;/details&gt;
 &lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -584,15 +534,12 @@ the uncertainties.&lt;/p&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Feb 01 &amp;ndash; Mar 15&lt;/td&gt;
-&lt;td&gt;Visiting Professor at the 
-&lt;a href=&#34;https://cmc.deusto.eus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMC at Deusto&lt;/a&gt; invited by Enrique Zuazua and the 
-&lt;a href=&#34;https://cmc.deusto.eus/dycon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ERC DyCon Project&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Visiting Professor at the &lt;a href=&#34;https://cmc.deusto.eus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMC at Deusto&lt;/a&gt; invited by Enrique Zuazua and the &lt;a href=&#34;https://cmc.deusto.eus/dycon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ERC DyCon Project&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Bilbao, Spain&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;May 12 &amp;ndash; May 15&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;https://ecc20.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECC&lt;/a&gt; - European Control Conference&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ecc20.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECC&lt;/a&gt; - European Control Conference&lt;/td&gt;
 &lt;td&gt;Saint Petersburg, Russia but virtual&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -609,43 +556,32 @@ the uncertainties.&lt;/p&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Nov 04 &amp;ndash; Nov 07&lt;/td&gt;
-&lt;td&gt;Invited conference talk at 
-&lt;a href=&#34;https://liacopdesclm.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIA COPDESC and Lions Magenes Days&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Invited conference talk at &lt;a href=&#34;https://liacopdesclm.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIA COPDESC and Lions Magenes Days&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Paris, France&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Oct 14 &amp;ndash; Oct 18&lt;/td&gt;
-&lt;td&gt;Workshop 
-&lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/shanghaiws19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning in Model Reduction and Control&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Workshop &lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/shanghaiws19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning in Model Reduction and Control&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Shanghai, China&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Sep 30 &amp;ndash; Oct 4&lt;/td&gt;
-&lt;td&gt;MS 
-&lt;a href=&#34;/events/19-ms-enumath/&#34;&gt;Low-rank modelling in uncertainty quantification&lt;/a&gt; and talk on 
-&lt;a href=&#34;/talk/19-enumath-nse/&#34;&gt;time stepping for NSE&lt;/a&gt; at the 
-&lt;a href=&#34;http://www.enumath2019.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enumath 2019&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;MS &lt;a href=&#34;/events/19-ms-enumath/&#34;&gt;Low-rank modelling in uncertainty quantification&lt;/a&gt; and talk on &lt;a href=&#34;/talk/19-enumath-nse/&#34;&gt;time stepping for NSE&lt;/a&gt; at the &lt;a href=&#34;http://www.enumath2019.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enumath 2019&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Egmond an Zee, The Netherlands&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Sep 16 &amp;ndash; Sep 17&lt;/td&gt;
-&lt;td&gt;Visiting the 
-&lt;a href=&#34;http://ifatwww.et.uni-magdeburg.de/syst/GAMMFA/ilmenau_2019.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop&lt;/a&gt; des GAMM Fachausschuss &lt;em&gt;Dynamik und Regelungstheorie&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Visiting the &lt;a href=&#34;http://ifatwww.et.uni-magdeburg.de/syst/GAMMFA/ilmenau_2019.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop&lt;/a&gt; des GAMM Fachausschuss &lt;em&gt;Dynamik und Regelungstheorie&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;Ilmenau, Germany&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Jul 15 &amp;ndash; Jul 19&lt;/td&gt;
-&lt;td&gt;Talks at the 
-&lt;a href=&#34;https://iciam2019.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM2019&lt;/a&gt; on 
-&lt;a href=&#34;/talk/19-iciam-rob-nse/&#34;&gt;robust controllers&lt;/a&gt; and 
-&lt;a href=&#34;/talk/19-iciam-genpod/&#34;&gt;tensor POD&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Talks at the &lt;a href=&#34;https://iciam2019.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM2019&lt;/a&gt; on &lt;a href=&#34;/talk/19-iciam-rob-nse/&#34;&gt;robust controllers&lt;/a&gt; and &lt;a href=&#34;/talk/19-iciam-genpod/&#34;&gt;tensor POD&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Valencia, Spain&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Jul 02 &amp;ndash; Jul 04&lt;/td&gt;
-&lt;td&gt;Visit of the 
-&lt;a href=&#34;http://www.fim.uni-passau.de/en/dynamical-systems/welcome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;group&lt;/a&gt; of Fabian Wirth and seminar talk on 
-&lt;a href=&#34;/talk/19-07-passau/&#34;&gt;robust controller design&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Visit of the &lt;a href=&#34;http://www.fim.uni-passau.de/en/dynamical-systems/welcome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;group&lt;/a&gt; of Fabian Wirth and seminar talk on &lt;a href=&#34;/talk/19-07-passau/&#34;&gt;robust controller design&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Passau, Germany&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -806,24 +742,22 @@ attraction&lt;/em&gt;. International Journal of Control, Taylor &amp;amp; Franci
       <guid>/post/covid-19-trends/</guid>
       <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
 &lt;p&gt;The John Hopkins University (JHU) collects data on how the COVID-19 virus
-spreads over the world and makes it 
-&lt;a href=&#34;https://github.com/CSSEGISandData/COVID-19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available on
+spreads over the world and makes it &lt;a href=&#34;https://github.com/CSSEGISandData/COVID-19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available on
 github&lt;/a&gt;. In this analysis, we take
 the data and extract the numbers that describe how the growth of casualties
 develops. Looking at the trends in these numbers, one may deduce how fast or how
 slow the virus is spreading and also compare how the situation evolves in different
 countries.&lt;/p&gt;
-&lt;p&gt;Feel free to use the 
-&lt;a href=&#34;https://github.com/highlando/covid-over-any-time-soon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;python&lt;/em&gt;
+&lt;p&gt;Feel free to use the &lt;a href=&#34;https://github.com/highlando/covid-over-any-time-soon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;python&lt;/em&gt;
 implementation&lt;/a&gt; that
 produces the presented plots and that can be modified to show the results for
 any country that is in the JHU data base.&lt;/p&gt;
-&lt;p&gt;This post bases on joint efforts and discussions of the 
-&lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/csc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC
+&lt;p&gt;This post bases on joint efforts and discussions of the &lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/csc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC
 group&lt;/a&gt; at the MPI Magdeburg.&lt;/p&gt;
 &lt;p&gt;The numbers in the presented plots are updated automatically&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#why-this-analysis&#34;&gt;Why This Analysis&lt;/a&gt;&lt;/li&gt;
@@ -847,6 +781,7 @@ group&lt;/a&gt; at the MPI Magdeburg.&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+&lt;/details&gt;
 &lt;h1 id=&#34;why-this-analysis&#34;&gt;Why This Analysis&lt;/h1&gt;
 &lt;p&gt;If one looks at the actual numbers generated by an exponential growth, the
 overall growth is so strong, that one barely sees changes in the dynamics. If
@@ -865,8 +800,6 @@ last days:
 
 
 
-  
-  
 
 
 
@@ -876,27 +809,20 @@ last days:
 
 
 
-
-
-&lt;figure id=&#34;figure-lockdowns-and-the-numbers-of-deaths-in-italy-and-hubei&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Lockdowns and the numbers of deaths in Italy and Hubei&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1188&#34; height=&#34;710&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Lockdowns and the numbers of deaths in Italy and Hubei
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-lockdowns-and-the-numbers-of-deaths-in-italy-and-hubei&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Lockdowns and the numbers of deaths in Italy and Hubei&#34; srcset=&#34;
+               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_a59693f6514e0414336024d54f342c16.png 400w,
+               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_2d5d8889b310867209b516c2412ebf23.png 760w,
+               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_a59693f6514e0414336024d54f342c16.png&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Lockdowns and the numbers of deaths in Italy and Hubei
+    &lt;/figcaption&gt;&lt;/figure&gt;
 It shows how, seemingly, the exponential growth in casualties did decrease some
 days after lockdowns have been implemented. In this analysis, we try to
 automatically detect such changes in the growth for a number of countries and
@@ -932,8 +858,6 @@ cases gets smaller exponentially.&lt;/p&gt;
 
 
 
-  
-  
 
 
 
@@ -943,27 +867,20 @@ cases gets smaller exponentially.&lt;/p&gt;
 
 
 
-
-
-&lt;figure id=&#34;figure-the-daily-increase-of-the-accumulated-cases-for-the-example-scenarios&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The daily increase of the accumulated cases for the example scenarios&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;400&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    The daily increase of the accumulated cases for the example scenarios
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-the-daily-increase-of-the-accumulated-cases-for-the-example-scenarios&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The daily increase of the accumulated cases for the example scenarios&#34; srcset=&#34;
+               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_87509c7606066cc9c543f60f894c6088.png 400w,
+               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_8acc5ff57d93ce34a4701309d3ab0d1c.png 760w,
+               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_87509c7606066cc9c543f60f894c6088.png&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The daily increase of the accumulated cases for the example scenarios
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;general-explanations-of-the-numbers&#34;&gt;General Explanations of the Numbers&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;A &lt;strong&gt;constant&lt;/strong&gt; value means that the number of deaths grows exponentially.
@@ -991,8 +908,6 @@ hospitalized patients that require intensive care (ICU) was always below
 
 
 
-  
-  
 
 
 
@@ -1002,27 +917,20 @@ hospitalized patients that require intensive care (ICU) was always below
 
 
 
-
-
-&lt;figure id=&#34;figure-the-daily-increase-of-the-accumulated-casualties-and-the-numbers-of-people-in-need-for-intensive-care-due-to-an-infection-by-covid-19-for-the-simulated-scenarios-the-kink-in-the-red-curve-is-due-to-the-stop-of-some-interventions-after-205-days&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days.&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;800&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-the-daily-increase-of-the-accumulated-casualties-and-the-numbers-of-people-in-need-for-intensive-care-due-to-an-infection-by-covid-19-for-the-simulated-scenarios-the-kink-in-the-red-curve-is-due-to-the-stop-of-some-interventions-after-205-days&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days.&#34; srcset=&#34;
+               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_51f17d3e0df7f641df50d476df1b3a97.png 400w,
+               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_5d3dfffee69576f05cfae9cb1aceecd8.png 760w,
+               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_51f17d3e0df7f641df50d476df1b3a97.png&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;In the uncontrolled case, exponential growth is detected with a rate of
 15[%] of daily increase. After some time, when most people have been infected the, growth decreases
 down to zero.&lt;/p&gt;
@@ -1039,16 +947,13 @@ The moving horizon of 100 days makes the changes of the last 3 months better vis
 By plotting only 90 days, we omit a part of the wiggly behavior in the start of
 the data (which however is not relevant for the main part).&lt;/p&gt;
 &lt;h2 id=&#34;the-last-100-days&#34;&gt;The last 100 days&lt;/h2&gt;
-&lt;p&gt;See the 
-&lt;a href=&#34;slopes-dsifc.pdf&#34;&gt;pdf file&lt;/a&gt; for more countries and a better resolution
+&lt;p&gt;See the &lt;a href=&#34;slopes-dsifc.pdf&#34;&gt;pdf file&lt;/a&gt; for more countries and a better resolution
 of the plots.&lt;/p&gt;
 
 
 
 
 
-  
-  
 
 
 
@@ -1058,27 +963,20 @@ of the plots.&lt;/p&gt;
 
 
 
-
-
-&lt;figure id=&#34;figure-the-daily-increase-of-the-accumulated-cases-of-the-last-100-days-for-a-number-of-countries-the-colored-background-marks-the-days-where-the-number-of-deaths-was-below-100-300-900-2700-8100-24300--respectively-the-total-number-is-the-number-of-deaths-in-the-last-100-days-the-first-6-countries-are-always-shown-the-other-2-countries-change-occasionally-see-the-pdfslopes-dsifcpdf-for-all-countries&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/slopes-dsifc_hu129569fd9ad0d13f1ecb2015df19f2db_344567_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, &amp;amp;hellip;, respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the &amp;lt;a href=&amp;#34;slopes-dsifc.pdf&amp;#34;&amp;gt;pdf&amp;lt;/a&amp;gt; for all countries.&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/covid-19-trends/slopes-dsifc_hu129569fd9ad0d13f1ecb2015df19f2db_344567_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1200&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, &amp;hellip;, respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the &lt;a href=&#34;slopes-dsifc.pdf&#34;&gt;pdf&lt;/a&gt; for all countries.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-the-daily-increase-of-the-accumulated-cases-of-the-last-100-days-for-a-number-of-countries-the-colored-background-marks-the-days-where-the-number-of-deaths-was-below-100-300-900-2700-8100-24300--respectively-the-total-number-is-the-number-of-deaths-in-the-last-100-days-the-first-6-countries-are-always-shown-the-other-2-countries-change-occasionally-see-the-pdfslopes-dsifcpdf-for-all-countries&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
+               /post/covid-19-trends/slopes-dsifc_hu129569fd9ad0d13f1ecb2015df19f2db_344567_43790f1fe9a61adf50da981fa54349cd.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hu129569fd9ad0d13f1ecb2015df19f2db_344567_8857f0b3dc1774c5c282a65624a2df2a.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hu129569fd9ad0d13f1ecb2015df19f2db_344567_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hu129569fd9ad0d13f1ecb2015df19f2db_344567_43790f1fe9a61adf50da981fa54349cd.png&#34;
+               width=&#34;760&#34;
+               height=&#34;608&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, &amp;hellip;, respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the &lt;a href=&#34;slopes-dsifc.pdf&#34;&gt;pdf&lt;/a&gt; for all countries.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;!-- ## Explanations of the Data Representation
 
 Because of natural fluctuations and, maybe, because of varying delays in the data
@@ -1133,8 +1031,6 @@ and show the daily increase of the number cases in percent for the last 30 days.
 
 
 
-  
-  
 
 
 
@@ -1144,27 +1040,20 @@ and show the daily increase of the number cases in percent for the last 30 days.
 
 
 
-
-
-&lt;figure id=&#34;figure-the-daily-change-accumulated-cases-in-percent-counting-from-40-days-ago-for-a-number-of-countries-and-the-total-numbers-of-cases-for-the-last-month-the-first-5-countries-are-always-shown-the-other-3-countries-change-occasionally-see-the-pdflmslps-dsifcpdf-for-all-countries&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/covid-19-trends/lmslps-dsifc_hud50075081f52c6ba46f52c5a64a68e2d_222972_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the &amp;lt;a href=&amp;#34;lmslps-dsifc.pdf&amp;#34;&amp;gt;pdf&amp;lt;/a&amp;gt; for all countries.&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/covid-19-trends/lmslps-dsifc_hud50075081f52c6ba46f52c5a64a68e2d_222972_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1200&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the &lt;a href=&#34;lmslps-dsifc.pdf&#34;&gt;pdf&lt;/a&gt; for all countries.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-the-daily-change-accumulated-cases-in-percent-counting-from-40-days-ago-for-a-number-of-countries-and-the-total-numbers-of-cases-for-the-last-month-the-first-5-countries-are-always-shown-the-other-3-countries-change-occasionally-see-the-pdflmslps-dsifcpdf-for-all-countries&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
+               /post/covid-19-trends/lmslps-dsifc_hud50075081f52c6ba46f52c5a64a68e2d_222972_b8f5c31ae134ddf2445d6737e0ca9a70.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hud50075081f52c6ba46f52c5a64a68e2d_222972_5986adc5d7ab558f965f2e05d7dadb12.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hud50075081f52c6ba46f52c5a64a68e2d_222972_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hud50075081f52c6ba46f52c5a64a68e2d_222972_b8f5c31ae134ddf2445d6737e0ca9a70.png&#34;
+               width=&#34;760&#34;
+               height=&#34;608&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the &lt;a href=&#34;lmslps-dsifc.pdf&#34;&gt;pdf&lt;/a&gt; for all countries.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h1 id=&#34;notes-and-acknowledgements&#34;&gt;Notes and Acknowledgements&lt;/h1&gt;
 &lt;!-- ### On the data
 Certainly, the casualties lag[^3] behind the actual spreading of the virus by a
@@ -1188,8 +1077,7 @@ Mitchell](http://www.timmitchell.com/), and Peter Benner. --&gt;
 &lt;p&gt;Updates once a day in the morning. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;The plot is by the Italian Physicist 
-&lt;a href=&#34;http://chimera.roma1.infn.it/FEDERICO/Contacts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ricci-Tersenghi&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The plot is by the Italian Physicist &lt;a href=&#34;http://chimera.roma1.infn.it/FEDERICO/Contacts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ricci-Tersenghi&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;The basis is not too important here. If one takes 2, then a value of 1
@@ -1200,11 +1088,8 @@ qualitative outcomes. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&
 &lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&#34;&gt;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://covidsim.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;covidsim.eu&lt;/a&gt; with parameters as recorded in the
-screenshots 
-&lt;a href=&#34;covidsim-1-2020-03-22.png&#34;&gt;1&lt;/a&gt; and 
-&lt;a href=&#34;covidsim-2-2020-03-22.png&#34;&gt;2&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://covidsim.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;covidsim.eu&lt;/a&gt; with parameters as recorded in the
+screenshots &lt;a href=&#34;covidsim-1-2020-03-22.png&#34;&gt;1&lt;/a&gt; and &lt;a href=&#34;covidsim-2-2020-03-22.png&#34;&gt;2&lt;/a&gt;
 based on the assumptions used of the RKI publication mentioned in the footnote
 below. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -1218,8 +1103,9 @@ below. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;
       <link>/post/fenics-burger-pod-dmd/</link>
       <pubDate>Sat, 07 Mar 2020 15:26:18 +0100</pubDate>
       <guid>/post/fenics-burger-pod-dmd/</guid>
-      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
+      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#burgers-equation&#34;&gt;Burgers equation&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#0-the-setup&#34;&gt;0. The Setup&lt;/a&gt;&lt;/li&gt;
@@ -1235,6 +1121,7 @@ below. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;
     &lt;li&gt;&lt;a href=&#34;#5-remarks&#34;&gt;5. Remarks&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+&lt;/details&gt;
 &lt;h1 id=&#34;burgers-equation&#34;&gt;Burgers equation&lt;/h1&gt;
 &lt;p&gt;For a given viscosity parameter $\nu$ and for time $t&amp;gt;0$, we consider the 2D Burgers equation on the unit square&lt;/p&gt;
 &lt;p&gt;$$
@@ -1280,14 +1167,11 @@ poddim = 30
 t0, tE, Nts = 0., .8, 101  # the time grid for the snapshots
 timegrid = np.linspace(t0, tE, Nts)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Here, &lt;code&gt;dolfin&lt;/code&gt; is the python interface to 
-&lt;a href=&#34;https://fenicsproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FEniCS&lt;/a&gt;
+&lt;p&gt;Here, &lt;code&gt;dolfin&lt;/code&gt; is the python interface to &lt;a href=&#34;https://fenicsproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FEniCS&lt;/a&gt;
 and the other modules are standard in python, I would say. The module
 &lt;code&gt;ldfnp_ext_cholmod&lt;/code&gt; is a little wrapper for the sparsity optimizing Cholesky
-decomposition of 
-&lt;a href=&#34;https://github.com/scikit-sparse/scikit-sparse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;sksparse&lt;/em&gt;&lt;/a&gt;.
-It is available on 
-&lt;a href=&#34;https://github.com/highlando/spacetime_galerkin_pod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;
+decomposition of &lt;a href=&#34;https://github.com/scikit-sparse/scikit-sparse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;sksparse&lt;/em&gt;&lt;/a&gt;.
+It is available on &lt;a href=&#34;https://github.com/highlando/spacetime_galerkin_pod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;
 and falls back to &lt;code&gt;numpy&lt;/code&gt; routines, in the case that &lt;code&gt;sksparse&lt;/code&gt; is not
 available.&lt;/p&gt;
 &lt;h1 id=&#34;1-the-fem-discretization&#34;&gt;1. The FEM Discretization&lt;/h1&gt;
@@ -1394,8 +1278,6 @@ integration.&lt;/p&gt;
 
 
 
-  
-  
 
 
 
@@ -1405,27 +1287,20 @@ integration.&lt;/p&gt;
 
 
 
-
-
-&lt;figure id=&#34;figure-solution-snapshots-of-the-full-fem-model&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Solution snapshots of the full FEM model&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1853&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Solution snapshots of the full FEM model
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-solution-snapshots-of-the-full-fem-model&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Solution snapshots of the full FEM model&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_5c77fee447cc3ccab8f626201c317f98.png 400w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1fcef6dc202b209df109c199ab927486.png 760w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_5c77fee447cc3ccab8f626201c317f98.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Solution snapshots of the full FEM model
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h1 id=&#34;2-pod-reduced-model&#34;&gt;2. POD Reduced Model&lt;/h1&gt;
 &lt;p&gt;If one has snapshots of the solution $v _ h$ at some time instances $t _ i$ one
 may well think that the span of the matrix of snapshots&lt;/p&gt;
@@ -1460,8 +1335,6 @@ discarded directions) give an indication of how good the approximation is.&lt;/p
 
 
 
-  
-  
 
 
 
@@ -1471,27 +1344,20 @@ discarded directions) give an indication of how good the approximation is.&lt;/p
 
 
 
-
-
-&lt;figure id=&#34;figure-the-singular-values-of-the-snapshot-matrix&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The singular values of the snapshot matrix&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;944&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    The singular values of the snapshot matrix
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-the-singular-values-of-the-snapshot-matrix&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The singular values of the snapshot matrix&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_b665914cdcc7ee73799ef874da609023.png 400w,
+               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_b7ad5bebfdf46e840fcb43707627de26.png 760w,
+               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_b665914cdcc7ee73799ef874da609023.png&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The singular values of the snapshot matrix
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Here, the decay is comparatively slow, so that a one should not expect a good
 low dimensional approximation by POD.&lt;/p&gt;
 &lt;p&gt;For the simulation, the state is parametrized by $u_h (t) \approx V \tilde
@@ -1530,8 +1396,29 @@ be seen in the error (log) plot.&lt;/p&gt;
 
 
 
-  
-  
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-snapshots-of-the-solution-of-the-reduced-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the solution of the reduced system&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_d98af3075fa90ed4095ef3f9826ba6ef.png 400w,
+               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_fd7695fc5c8cbf4c6dddc50bc6cad282.png 760w,
+               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_d98af3075fa90ed4095ef3f9826ba6ef.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the solution of the reduced system
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -1543,62 +1430,23 @@ be seen in the error (log) plot.&lt;/p&gt;
 
 
 
-&lt;figure id=&#34;figure-snapshots-of-the-solution-of-the-reduced-system&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the solution of the reduced system&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1852&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Snapshots of the solution of the reduced system
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
 
 
 
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-snapshots-of-the-log-of-the-error-between-the-full-and-the-pod-solution&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the log of the error between the full and the POD solution&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1853&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Snapshots of the log of the error between the full and the POD solution
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;figure  id=&#34;figure-snapshots-of-the-log-of-the-error-between-the-full-and-the-pod-solution&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the log of the error between the full and the POD solution&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_bb9eb1e4d07e7efb2edbbe551f769669.png 400w,
+               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_bbb756e36665e1294fa4d7c692ce6748.png 760w,
+               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_bb9eb1e4d07e7efb2edbbe551f769669.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the log of the error between the full and the POD solution
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h1 id=&#34;3-dmd-reduced-model&#34;&gt;3. DMD Reduced Model&lt;/h1&gt;
 &lt;p&gt;POD is partially data driven &amp;ndash; it uses data to create a basis but still
 uses (a projection of) the model. If only snapshots but no model is given, one
@@ -1658,8 +1506,29 @@ initial phase but fails in the region with the sharp front.&lt;/p&gt;
 
 
 
-  
-  
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-snapshots-of-the-dmd-solution&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the DMD solution&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_03b5992da829049daad77f36b0ff3a09.png 400w,
+               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_532dc5e9ed2f2676bdcb2f5af90cc40e.png 760w,
+               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_03b5992da829049daad77f36b0ff3a09.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the DMD solution
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -1671,62 +1540,23 @@ initial phase but fails in the region with the sharp front.&lt;/p&gt;
 
 
 
-&lt;figure id=&#34;figure-snapshots-of-the-dmd-solution&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the DMD solution&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1852&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Snapshots of the DMD solution
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
 
 
 
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-error-log-plot-with-respect-to-the-full-fem-solution&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Error (log) plot with respect to the full FEM solution&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1848&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Error (log) plot with respect to the full FEM solution
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;figure  id=&#34;figure-error-log-plot-with-respect-to-the-full-fem-solution&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Error (log) plot with respect to the full FEM solution&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_fddf5a56efc0b594e7f85be6805435d0.png 400w,
+               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_a089fafbffbb3d8f97f9c60dbf3b1d11.png 760w,
+               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_fddf5a56efc0b594e7f85be6805435d0.png&#34;
+               width=&#34;760&#34;
+               height=&#34;198&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Error (log) plot with respect to the full FEM solution
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h1 id=&#34;4-testing-the-models-for-different-initial-value&#34;&gt;4. Testing the Models for Different Initial Value&lt;/h1&gt;
 &lt;p&gt;In what was presented above, the reduced models were used to reproduce the
 states that they were trained on. We now check the given reduced order models
@@ -1744,8 +1574,29 @@ $$&lt;/p&gt;
 
 
 
-  
-  
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-solution-snapshots-of-the-full-fem-model&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Solution snapshots of the full FEM model&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_5c77fee447cc3ccab8f626201c317f98.png 400w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1fcef6dc202b209df109c199ab927486.png 760w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_5c77fee447cc3ccab8f626201c317f98.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Solution snapshots of the full FEM model
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -1757,62 +1608,23 @@ $$&lt;/p&gt;
 
 
 
-&lt;figure id=&#34;figure-solution-snapshots-of-the-full-fem-model&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Solution snapshots of the full FEM model&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1853&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Solution snapshots of the full FEM model
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
 
 
 
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-solution-snapshots-of-the-full-fem-model-with-the-alternative-initial-value&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Solution snapshots of the full FEM model with the alternative initial value&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1848&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Solution snapshots of the full FEM model with the alternative initial value
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;figure  id=&#34;figure-solution-snapshots-of-the-full-fem-model-with-the-alternative-initial-value&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Solution snapshots of the full FEM model with the alternative initial value&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_642623bf1c9a7f48e269771c154e586f.png 400w,
+               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_4d111ca560940518e94ca9668d1369ea.png 760w,
+               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_642623bf1c9a7f48e269771c154e586f.png&#34;
+               width=&#34;760&#34;
+               height=&#34;198&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Solution snapshots of the full FEM model with the alternative initial value
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Then we use the reduced order models to compute predictions for the trajectory
 starting in this alternative initial value.&lt;/p&gt;
 &lt;p&gt;
@@ -1820,8 +1632,29 @@ starting in this alternative initial value.&lt;/p&gt;
 
 
 
-  
-  
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-snapshots-of-the-solution-of-the-pod-reduced-system-starting-in-the-alternative-initial-value&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the solution of the POD reduced system starting in the alternative initial value.&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_b1b428c6b32be1917f14e74d09a9e54f.png 400w,
+               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_4c916d217c09c52ea6446ff9d1dcc305.png 760w,
+               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_b1b428c6b32be1917f14e74d09a9e54f.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the solution of the POD reduced system starting in the alternative initial value.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -1833,62 +1666,23 @@ starting in this alternative initial value.&lt;/p&gt;
 
 
 
-&lt;figure id=&#34;figure-snapshots-of-the-solution-of-the-pod-reduced-system-starting-in-the-alternative-initial-value&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the solution of the POD reduced system starting in the alternative initial value.&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1852&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Snapshots of the solution of the POD reduced system starting in the alternative initial value.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
 
 
 
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-snapshots-of-the-dmd-solution-starting-in-the-alternative-initial-value&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Snapshots of the DMD solution starting in the alternative initial value.&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1852&#34; height=&#34;480&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Snapshots of the DMD solution starting in the alternative initial value.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;figure  id=&#34;figure-snapshots-of-the-dmd-solution-starting-in-the-alternative-initial-value&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the DMD solution starting in the alternative initial value.&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_b92c956ec699e8d52860f58991b8db55.png 400w,
+               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_298fb06cb3cef9547119331824546b17.png 760w,
+               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_b92c956ec699e8d52860f58991b8db55.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the DMD solution starting in the alternative initial value.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Both methods completely fail to produce the other trajectory. For the POD
 reduced model already the starting point is extremely bad approximated.
 Interestingly, although the DMD solution starts in the &lt;em&gt;right&lt;/em&gt; point, it seems
@@ -1913,13 +1707,11 @@ trajectories that start in different initial values.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland (2018): &lt;em&gt;Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial
-Differential Equations.&lt;/em&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/1611.04050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1611.04050&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+Differential Equations.&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1611.04050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1611.04050&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;See, e.g., Tu, Rowley, Luchtenburg, Brunton, Kutz (2013): &lt;em&gt;On Dynamic Mode
-Decomposition: Theory and Applications&lt;/em&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/1312.0041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1312.0041&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+Decomposition: Theory and Applications&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1312.0041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1312.0041&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -2054,8 +1846,7 @@ characteristic values.&lt;/p&gt;
 &lt;p&gt;H von Wahl et al.: &lt;em&gt;Numerical benchmarking of fluid-rigid body interactions&lt;/em&gt;. Computers &amp;amp; Fluids, 2019.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;DOI:
-&lt;a href=&#34;https://doi.org/10.5281/zenodo.3253455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.3253455&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DOI:&lt;a href=&#34;https://doi.org/10.5281/zenodo.3253455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.3253455&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -2066,8 +1857,9 @@ characteristic values.&lt;/p&gt;
       <link>/events/19-ws-shanghai/program/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/events/19-ws-shanghai/program/</guid>
-      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
+      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#monday-october-14&#34;&gt;Monday, October 14&lt;/a&gt;
       &lt;ul&gt;
@@ -2096,6 +1888,7 @@ characteristic values.&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+&lt;/details&gt;
 &lt;h1 id=&#34;monday-october-14&#34;&gt;Monday, October 14&lt;/h1&gt;
 &lt;h2 id=&#34;getting-together&#34;&gt;Getting together&lt;/h2&gt;
 &lt;table&gt;
@@ -2459,15 +2252,13 @@ $&lt;/p&gt;
 &lt;p&gt;September 11th: Visit of a project group from the Hubertus Gymnasium.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;March 1st: In cooperation with 
-&lt;a href=&#34;https://www.hasomed.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hasomed&lt;/a&gt;, we revise the controller software and the interface to the hardware. The result will be test blocks for basic control tasks like the controlled transversion of the pendulum both in open loop and closed loop regimes. &lt;em&gt;HASOMED&lt;/em&gt; co-sponsors the development and will distribute the developed software under a license agreement with the MPI-MD.&lt;/p&gt;
+&lt;p&gt;March 1st: In cooperation with &lt;a href=&#34;https://www.hasomed.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hasomed&lt;/a&gt;, we revise the controller software and the interface to the hardware. The result will be test blocks for basic control tasks like the controlled transversion of the pendulum both in open loop and closed loop regimes. &lt;em&gt;HASOMED&lt;/em&gt; co-sponsors the development and will distribute the developed software under a license agreement with the MPI-MD.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;This 
-&lt;a href=&#34;pendulum-de.pdf&#34;&gt;poster&lt;/a&gt; explains the setup and the basic procedures of the control scheme as well as typical application areas (in German).&lt;/p&gt;
+&lt;p&gt;This &lt;a href=&#34;pendulum-de.pdf&#34;&gt;poster&lt;/a&gt; explains the setup and the basic procedures of the control scheme as well as typical application areas (in German).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;This video shows the swingup and swingdown of the triple pendulum in slow motion:&lt;/p&gt;
@@ -2482,14 +2273,14 @@ $&lt;/p&gt;
 
 
 
-
-
-
   
 
 
-&lt;video controls &gt;
-  &lt;source src=&#34;triple_swingup_slomo.MP4&#34; type=&#34;video/MP4&#34;&gt;
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;/project/pendulum/triple_swingup_slomo.MP4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 </description>
     </item>
@@ -2558,8 +2349,9 @@ derivation from the &lt;strong&gt;very general&lt;/strong&gt; original formulati
 Sometimes, authors like me&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; provide some plausibility like &lt;em&gt;obviously this
 term has to vanish&lt;/em&gt;, refer to other sources that miss the derivation too, or
 attach the complete book by Pontryagin to a specific formula&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#the-model&#34;&gt;The Model&lt;/a&gt;
       &lt;ul&gt;
@@ -2588,6 +2380,7 @@ attach the complete book by Pontryagin to a specific formula&lt;sup id=&#34;fnre
     &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+&lt;/details&gt;
 &lt;h1 id=&#34;the-model&#34;&gt;The Model&lt;/h1&gt;
 &lt;h2 id=&#34;a-unit-pendulum&#34;&gt;A Unit Pendulum&lt;/h2&gt;
 &lt;p&gt;Consider the pendulum subjected to a potential force that can be adjusted. That is, instead of the gravity&lt;/p&gt;
@@ -2631,8 +2424,7 @@ $$&lt;/p&gt;
 \dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
 \end{aligned}
 $&lt;/p&gt;
-&lt;p&gt;Here is a schematic illustration taken from 
-&lt;a href=&#34;http://www.scholarpedia.org/article/File:Pendulum.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scholarpedia&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Here is a schematic illustration taken from &lt;a href=&#34;http://www.scholarpedia.org/article/File:Pendulum.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scholarpedia&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;Pendulum.png&#34; alt=&#34;pendulum, taken from scholarpedia&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;control-setups&#34;&gt;Control Setups&lt;/h1&gt;
 &lt;p&gt;With consider two control setups:&lt;/p&gt;
@@ -2660,15 +2452,13 @@ $ \quad \mathcal J:= \frac{1}{2}(\theta(t_1)^2 + p(t_1)^2) + \frac{1}{2}\int_{t_
 &lt;h2 id=&#34;maximum-principle-with-variable-endpoints&#34;&gt;Maximum Principle with Variable Endpoints&lt;/h2&gt;
 &lt;p&gt;One can (partially) abandon the end conditions, see Chapter I.7 in Pontryagin&amp;rsquo;s book. Similarly, one can abandon the initial conditions which, again, seems odd from an application point of view. Also, simply omitting the end conditions will lead to trivial solutions. Certainly, we need to include them in the optimization. Which leads to the Wikipedia case.&lt;/p&gt;
 &lt;h2 id=&#34;the-wikipedia-case&#34;&gt;The Wikipedia Case&lt;/h2&gt;
-&lt;p&gt;Commonly used and illustrated on 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle#Formal_statement_of_necessary_conditions_for_minimization_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wikipedia:Pontryagin&amp;rsquo;s maximum principle&lt;/a&gt;
+&lt;p&gt;Commonly used and illustrated on &lt;a href=&#34;https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle#Formal_statement_of_necessary_conditions_for_minimization_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wikipedia:Pontryagin&amp;rsquo;s maximum principle&lt;/a&gt;
 &amp;ndash; the form that leaves the controls free but penalizes the endpoint. Now, let me show how this form derives from Pontryagin&amp;rsquo;s book.&lt;/p&gt;
 &lt;h1 id=&#34;connecting-wikipedia-and-pontryagin&#34;&gt;Connecting Wikipedia and Pontryagin&lt;/h1&gt;
 &lt;p&gt;The derivation of the &lt;em&gt;Wikipedia&lt;/em&gt; formulas from the &lt;em&gt;Maximum Principle with Variable Endpoints&lt;/em&gt; goes as follows:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Transform (see, e.g., 
-&lt;a href=&#34;https://www.encyclopediaofmath.org/index.php/Bolza_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enc. of Math.: Bolza problem&lt;/a&gt;) the problem from &lt;em&gt;Mayer form&lt;/em&gt; to &lt;em&gt;Lagrange form&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Transform (see, e.g., &lt;a href=&#34;https://www.encyclopediaofmath.org/index.php/Bolza_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enc. of Math.: Bolza problem&lt;/a&gt;) the problem from &lt;em&gt;Mayer form&lt;/em&gt; to &lt;em&gt;Lagrange form&lt;/em&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Put the resulting system into the form of &lt;em&gt;Pontryagin&lt;/em&gt;.&lt;/p&gt;
@@ -2849,8 +2639,7 @@ Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fn
   &lt;iframe src=&#34;https://www.youtube.com/embed/a1iDcEIRmvU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Simulation of the &lt;em&gt;Karman Vortex Street&lt;/em&gt;. See the 
-&lt;a href=&#34;https://github.com/highlando/dolfin_navier_scipy/commit/ae907dc2266076a635c89d62726696e63b3fdc85&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;relevant commit here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Simulation of the &lt;em&gt;Karman Vortex Street&lt;/em&gt;. See the &lt;a href=&#34;https://github.com/highlando/dolfin_navier_scipy/commit/ae907dc2266076a635c89d62726696e63b3fdc85&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;relevant commit here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -2870,8 +2659,7 @@ Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fn
 &lt;li&gt;robustified LQGBT feedback&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;integration with M.E.S.S or my 
-&lt;a href=&#34;www.github.com/highlando/sadptprj_riclyap_adi&#34;&gt;homebrew Riccati solver&lt;/a&gt; for flow related equations&lt;/li&gt;
+&lt;li&gt;integration with M.E.S.S or my &lt;a href=&#34;www.github.com/highlando/sadptprj_riclyap_adi&#34;&gt;homebrew Riccati solver&lt;/a&gt; for flow related equations&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -2915,8 +2703,7 @@ Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fn
 &lt;li&gt;Low-budget realization of a double pendulum&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;These projects have a hardware component. They are particularly suited for control or electrical engineers, but also for students of mathematics that have a favor for engineering applications.&lt;/p&gt;
-&lt;p&gt;In cooperation with the Magdeburg company 
-&lt;a href=&#34;https://www.hasomed.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Hasomed&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In cooperation with the Magdeburg company &lt;a href=&#34;https://www.hasomed.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Hasomed&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;modelling-and-simulation&#34;&gt;Modelling and Simulation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Spurious lights in laser measurements&lt;/li&gt;
@@ -3167,6 +2954,14 @@ Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fn
       <link>/publication/her-mho-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>/publication/her-mho-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
       <description></description>
     </item>
     

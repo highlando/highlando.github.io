@@ -5,9 +5,9 @@
     <link>/author/piotr-minakowski/</link>
       <atom:link href="/author/piotr-minakowski/index.xml" rel="self" type="application/rss+xml" />
     <description>Piotr Minakowski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2019 16:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2019 16:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>Piotr Minakowski</title>
       <link>/author/piotr-minakowski/</link>
     </image>
@@ -56,8 +56,7 @@ characteristic values.&lt;/p&gt;
 &lt;p&gt;H von Wahl et al.: &lt;em&gt;Numerical benchmarking of fluid-rigid body interactions&lt;/em&gt;. Computers &amp;amp; Fluids, 2019.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;DOI:
-&lt;a href=&#34;https://doi.org/10.5281/zenodo.3253455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.3253455&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DOI:&lt;a href=&#34;https://doi.org/10.5281/zenodo.3253455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.3253455&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>

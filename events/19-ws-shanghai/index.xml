@@ -5,7 +5,7 @@
     <link>/events/19-ws-shanghai/</link>
       <atom:link href="/events/19-ws-shanghai/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine learning and data-driven methods for model reduction and control</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Aug 2019 13:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Aug 2019 13:00:00 +0200</lastBuildDate>
     <image>
       <url>/events/19-ws-shanghai/featured.jpg</url>
       <title>Machine learning and data-driven methods for model reduction and control</title>
@@ -17,8 +17,9 @@
       <link>/events/19-ws-shanghai/program/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/events/19-ws-shanghai/program/</guid>
-      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
+      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#monday-october-14&#34;&gt;Monday, October 14&lt;/a&gt;
       &lt;ul&gt;
@@ -47,6 +48,7 @@
     &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+&lt;/details&gt;
 &lt;h1 id=&#34;monday-october-14&#34;&gt;Monday, October 14&lt;/h1&gt;
 &lt;h2 id=&#34;getting-together&#34;&gt;Getting together&lt;/h2&gt;
 &lt;table&gt;

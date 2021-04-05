@@ -12,5 +12,29 @@
       <link>/courses/ovgu-daes/</link>
     </image>
     
+    <item>
+      <title>Introduction</title>
+      <link>/courses/ovgu-daes/daes-1/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-daes/daes-1/</guid>
+      <description>&lt;h1 id=&#34;introductory-considerations&#34;&gt;Introductory considerations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;DAEs in mathematical modelling&lt;/li&gt;
+&lt;li&gt;Applications areas and examples&lt;/li&gt;
+&lt;li&gt;Challenges in the numerical and analytical treatment of DAEs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-11&#34;&gt;Lecture 1.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/introduction.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 1&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-11.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/H9x0OboOLMg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

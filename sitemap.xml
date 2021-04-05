@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/courses/ovgu-daes/daes-1/</loc>
+    <lastmod>2021-04-05T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>/courses/ovgu-daes/</loc>
     <lastmod>2020-02-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,14 +47,17 @@
     <loc>/courses/ovgu-mathe-informatik/omi-9/</loc>
     <lastmod>2019-07-07T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>/courses/</loc>
+    <lastmod>2021-04-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-04-05T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2021-03-17T14:00:00+01:00</lastmod>
   </url><url>
     <loc>/author/jan-heiland/</loc>
     <lastmod>2021-03-17T14:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/peter-benner/</loc>
     <lastmod>2021-03-17T14:00:00+01:00</lastmod>
@@ -61,9 +67,6 @@
   </url><url>
     <loc>/talk/21-gpuq-gamm/</loc>
     <lastmod>2021-03-17T14:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/courses/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/</loc>
     <lastmod>2021-01-31T13:00:00+02:00</lastmod>

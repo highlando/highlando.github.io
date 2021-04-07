@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Heiland</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>Jan Heiland</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Warmup</title>
+      <link>/courses/mathe2info-21/omi-0/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-0/</guid>
+      <description>&lt;p&gt;Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben,
+die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.&lt;/p&gt;
+&lt;p&gt;💾 &lt;a href=&#34;files/ma_II_inf_ss20_uebg00-00.pdf&#34;&gt;Link zum Übungsblatt #0&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Das Datum ist noch vom letzten Jahr. Bitte nicht irritieren lassen. Abgabe ist naechste Woche im Moodle.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Introduction</title>
@@ -38,9 +54,9 @@
     
     <item>
       <title>Warmup</title>
-      <link>/courses/mathe2info-21/omi-0/</link>
+      <link>/courses/ovgu-mathe-informatik/omi-0/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/mathe2info-21/omi-0/</guid>
+      <guid>/courses/ovgu-mathe-informatik/omi-0/</guid>
       <description>&lt;p&gt;Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben,
 die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.&lt;/p&gt;
 &lt;p&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/p&gt;
@@ -48,13 +64,52 @@ die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.
     </item>
     
     <item>
-      <title>Warmup</title>
-      <link>/courses/ovgu-mathe-informatik/omi-0/</link>
+      <title>1 Folgen und Reihen</title>
+      <link>/courses/mathe2info-21/omi-1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/ovgu-mathe-informatik/omi-0/</guid>
-      <description>&lt;p&gt;Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben,
-die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.&lt;/p&gt;
-&lt;p&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/p&gt;
+      <guid>/courses/mathe2info-21/omi-1/</guid>
+      <description>&lt;h2 id=&#34;1-1-folgen&#34;&gt;1-1 Folgen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-one&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:-FRs-O1uXbei&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;&#34;&gt;Link zum Übungsblatt &amp;ndash; TBD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.math-kit.de/2003/content/RH-PB-XML-cob/Manifest295/einstieg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Achilles und die Schildkröte als Reihe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## 1-2 Reihen
+
+### Vorlesung
+&lt;div id=&#34;pc-lecture-1-2&#34;&gt;&lt;/div&gt;
+
+### Shownotes
+
+ * [Kapitel 11 im Skript (zweiter Teil)](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:phVZ4hhjpEG5).
+ * 💾 [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+ * [Bild zur Kuchenfolge und zum harmonischen
+   Turm](../files/pcs/1-2-kuchenharmonie-small.png)
+
+### Video zur Kuchenfolge und zum harmonischen Turm
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JT6JTtZw3nQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+### Video zu Achilles 
+
+coming soon...
+
+### Wrapup (Woche 1)
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Uox_VilhqcQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
 </description>
     </item>
     
@@ -991,10 +1046,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_hu0352840cb0d92681fa6151a46e38028b_346771_975a414302a4af9914228c7af7b7d2db.png 400w,
-               /post/covid-19-trends/slopes-dsifc_hu0352840cb0d92681fa6151a46e38028b_346771_e5d0737fdc32940967c8dc4aaaf6cacd.png 760w,
-               /post/covid-19-trends/slopes-dsifc_hu0352840cb0d92681fa6151a46e38028b_346771_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_hu0352840cb0d92681fa6151a46e38028b_346771_975a414302a4af9914228c7af7b7d2db.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hu0352840cb0d92681fa6151a46e38028b_348612_e44fe21fda94bcd6289b065cffd27cdd.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hu0352840cb0d92681fa6151a46e38028b_348612_a420c3edaaa26e03fe3e6c522adf075c.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hu0352840cb0d92681fa6151a46e38028b_348612_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hu0352840cb0d92681fa6151a46e38028b_348612_e44fe21fda94bcd6289b065cffd27cdd.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1068,10 +1123,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu9219b70d2e0718548e440abe7d3b1567_229937_537d0d00cb7ffa385732b23bc26ab5a0.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu9219b70d2e0718548e440abe7d3b1567_229937_f72f88c6317e8455781a34491d310ab0.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu9219b70d2e0718548e440abe7d3b1567_229937_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu9219b70d2e0718548e440abe7d3b1567_229937_537d0d00cb7ffa385732b23bc26ab5a0.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hu9219b70d2e0718548e440abe7d3b1567_226662_9999d00af5601097e31274e6db2bc8e8.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hu9219b70d2e0718548e440abe7d3b1567_226662_0dd2b6d152c077129b9acb9d567aebe1.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hu9219b70d2e0718548e440abe7d3b1567_226662_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu9219b70d2e0718548e440abe7d3b1567_226662_9999d00af5601097e31274e6db2bc8e8.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

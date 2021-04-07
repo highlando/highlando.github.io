@@ -15,11 +15,66 @@
     <item>
       <title>Warmup</title>
       <link>/courses/mathe2info-21/omi-0/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0100</pubDate>
       <guid>/courses/mathe2info-21/omi-0/</guid>
       <description>&lt;p&gt;Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben,
 die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.&lt;/p&gt;
-&lt;p&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;💾 &lt;a href=&#34;files/ma_II_inf_ss20_uebg00-00.pdf&#34;&gt;Link zum Übungsblatt #0&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Das Datum ist noch vom letzten Jahr. Bitte nicht irritieren lassen. Abgabe ist naechste Woche im Moodle.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1 Folgen und Reihen</title>
+      <link>/courses/mathe2info-21/omi-1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-1/</guid>
+      <description>&lt;h2 id=&#34;1-1-folgen&#34;&gt;1-1 Folgen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-one&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:-FRs-O1uXbei&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;&#34;&gt;Link zum Übungsblatt &amp;ndash; TBD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.math-kit.de/2003/content/RH-PB-XML-cob/Manifest295/einstieg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Achilles und die Schildkröte als Reihe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## 1-2 Reihen
+
+### Vorlesung
+&lt;div id=&#34;pc-lecture-1-2&#34;&gt;&lt;/div&gt;
+
+### Shownotes
+
+ * [Kapitel 11 im Skript (zweiter Teil)](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:phVZ4hhjpEG5).
+ * 💾 [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+ * [Bild zur Kuchenfolge und zum harmonischen
+   Turm](../files/pcs/1-2-kuchenharmonie-small.png)
+
+### Video zur Kuchenfolge und zum harmonischen Turm
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JT6JTtZw3nQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+### Video zu Achilles 
+
+coming soon...
+
+### Wrapup (Woche 1)
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Uox_VilhqcQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
 </description>
     </item>
     

@@ -14,9 +14,9 @@
     
     <item>
       <title>Tensor-Galerkin POD for Efficient Uncertainty Quantification in PDEs with Multivariate Random Parameters</title>
-      <link>/talk/21-gpuq-gamm/</link>
+      <link>/event/21-gpuq-gamm/</link>
       <pubDate>Wed, 17 Mar 2021 14:00:00 +0100</pubDate>
-      <guid>/talk/21-gpuq-gamm/</guid>
+      <guid>/event/21-gpuq-gamm/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The statistically sound treatment of modelled uncertainties in simulations comes with significant additional computational costs. Since a deterministic model can already be arbitrarily complex, running statistics for general problems may soon become infeasible unless some kind of model reduction is involved.&lt;/p&gt;
 &lt;p&gt;In this talk we present a multidimensional Galerkin Proper Orthogonal Decomposition (Galerkin POD)
@@ -30,17 +30,17 @@ the uncertainties.&lt;/p&gt;
     
     <item>
       <title>Space and Chaos-Expansion Galerkin POD for UQ of PDEs with Random Parameters</title>
-      <link>/talk/21-gpuq-csefa/</link>
+      <link>/event/21-gpuq-csefa/</link>
       <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
-      <guid>/talk/21-gpuq-csefa/</guid>
+      <guid>/event/21-gpuq-csefa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equivalence of Riccati-Based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
-      <link>/talk/20-ecc-hinfric/</link>
+      <link>/event/20-ecc-hinfric/</link>
       <pubDate>Wed, 13 May 2020 15:00:00 +0300</pubDate>
-      <guid>/talk/20-ecc-hinfric/</guid>
+      <guid>/event/20-ecc-hinfric/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The Riccati-based approach to robust control is completely understood in theory
 since long but seldom used for large-scale systems in practice. Only recently,

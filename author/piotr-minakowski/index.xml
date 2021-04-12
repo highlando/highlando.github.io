@@ -14,9 +14,9 @@
     
     <item>
       <title>A benchmark for fluid rigid body interaction with standard CFD packages</title>
-      <link>/talk/19-fsi-benchmark/</link>
+      <link>/event/19-fsi-benchmark/</link>
       <pubDate>Thu, 21 Nov 2019 16:00:00 +0100</pubDate>
-      <guid>/talk/19-fsi-benchmark/</guid>
+      <guid>/event/19-fsi-benchmark/</guid>
       <description>&lt;p&gt;The interaction between a fluid flow and rigid bodies appears in many
 physical applications. The flow around a free rigid body causes both
 displacement and rotation of that body, via the forces and torque

@@ -1,22 +1,259 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events | Jan Heiland</title>
+    <title>Talks &amp; Events &amp; Conferences | Jan Heiland</title>
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 16:45:00 +0200</lastBuildDate>
+    <description>Talks &amp; Events &amp; Conferences</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 14:00:00 +0100</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
-      <title>Events</title>
+      <title>Talks &amp; Events &amp; Conferences</title>
       <link>/event/</link>
     </image>
     
     <item>
+      <title>Tensor-Galerkin POD for Efficient Uncertainty Quantification in PDEs with Multivariate Random Parameters</title>
+      <link>/event/21-gpuq-gamm/</link>
+      <pubDate>Wed, 17 Mar 2021 14:00:00 +0100</pubDate>
+      <guid>/event/21-gpuq-gamm/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The statistically sound treatment of modelled uncertainties in simulations comes with significant additional computational costs. Since a deterministic model can already be arbitrarily complex, running statistics for general problems may soon become infeasible unless some kind of model reduction is involved.&lt;/p&gt;
+&lt;p&gt;In this talk we present a multidimensional Galerkin Proper Orthogonal Decomposition (Galerkin POD)
+that simultaneously reduces the physical dimensions of the model and the dimensions related to
+the uncertainties.&lt;/p&gt;
+&lt;p&gt;Using basic tensor calculus we extend our recent work of space-time Galerkin POD [1] to arbitrary dimensions and apply it to PDEs with multivariate uncertain. By means of a numerical example we illustrate the procedure and how it outperforms POD based on random snapshots.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] Baumann, M.; Benner, P. &amp;amp; Heiland, J. Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations SIAM J. Sci. Comput., 2018, 40, A1611-A1641&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD for UQ of PDEs with Random Parameters</title>
+      <link>/event/21-gpuq-csefa/</link>
+      <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
+      <guid>/event/21-gpuq-csefa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Control of a Triple Pendulum in Theory and Practice</title>
-      <link>/event/20-musen-pendulum/</link>
+      <link>/event/20-pendulum-musen/</link>
       <pubDate>Thu, 08 Oct 2020 16:45:00 +0200</pubDate>
-      <guid>/event/20-musen-pendulum/</guid>
+      <guid>/event/20-pendulum-musen/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The stabilization of a simple pendulum in the upright equilibrium is a common control task and can be realized with basic algorithms and basic hardware like Lego Mindstorm. The double pendulum is a popular example for a chaotic system which means that the influence of small perturbations leads to unpredictable behavior. Still, linear feedback controllers that counteract perturbations in real time are capable to stabilize equilibria of a double pendulum as well as trajectories. For the control of a triple pendulum, the same linear theory applies. The third segment, however, adds additional technical difficulties that need to be tackled with powerful hardware.&lt;/p&gt;
+&lt;p&gt;In this talk, I will explain the principles of a linearization based 2-degrees of freedom controller design which is the combination of a feedforward control that prescribes a target trajectory and a feedback loop for stabilization of the system. For the nonlinear mathematical model of a triple pendulum, already the computation of the target trajectory and the feedforward control is a challenge. Further, I will discuss details of the implementation and practical problems that come with a physical setup.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The DEAL - What is up and what does it mean</title>
+      <link>/event/20-deal/</link>
+      <pubDate>Wed, 23 Sep 2020 14:00:00 +0200</pubDate>
+      <guid>/event/20-deal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical modeling of infectious disease</title>
+      <link>/event/20-mathcore-covid/</link>
+      <pubDate>Thu, 02 Jul 2020 11:00:00 +0100</pubDate>
+      <guid>/event/20-mathcore-covid/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Within the last couple of months, the COVID-19 epidemic has determined our
+public and private life with travel restrictions, lockdown, social distancing,
+working from home, hygiene rules etc. The daily news informed about reproduction
+rates and the numbers of current confirmed COVID-19 cases. The media prominently
+advertised the strategy &lt;em&gt;stay at home&lt;/em&gt; in order to &lt;em&gt;flatten the curve&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In this joint talk, we present two mathematical modeling strategies for
+infectious disease. In the first part, we consider a classical compartment
+approach which splits the population into different groups, for example
+&lt;em&gt;Susceptible&lt;/em&gt;, &lt;em&gt;Infected&lt;/em&gt;, &lt;em&gt;Recovered&lt;/em&gt; (SIR model). The evolution of the numbers
+in each compartment can be described mathematically in form of a system of
+coupled ordinary differential equations. The transition rates between the
+different compartments (e.g. infection rate, recovery rate) can be adjusted
+through available data. For the modeling of the COVID-19 epidemic in Italy and
+Germany, the SIDHARTE version of a compartment model has been developed&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; in
+order to simulate and predict the spread of the epidemic and to model possible
+countermeasures.&lt;/p&gt;
+&lt;p&gt;In the second part of the talk, the spreading of the disease on a graph
+representing a smaller population sample is presented. In this model the graph
+represents a hospital or other institution in which a COVID-19 outbreak could be
+harmful. In this model we are particularly interested in finding a suitable test
+strategy, which is one way to apply control to the system. In general is the
+question of the right control mechanisms to &lt;em&gt;flatten the curve&lt;/em&gt; or slow the
+spread of virus still an open one.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;G. Giordano, F. Blanchini, R. Bruno, P. Colaneri, A. Di Filippo, A. Di Matteo, M. Colaneri: Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy. Nat. Med. (2020)&amp;quot; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-Based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>/event/20-ecc-hinfric/</link>
+      <pubDate>Wed, 13 May 2020 15:00:00 +0300</pubDate>
+      <guid>/event/20-ecc-hinfric/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Riccati-based approach to robust control is completely understood in theory
+since long but seldom used for large-scale systems in practice. Only recently,
+we have transferred iterative algorithms that allow the computation of solutions
+to LQR Riccati equations in the large-scale setting to the indefinite Riccati
+equations that appear in robust control. For descriptor systems, the relevant
+Riccati equations are nonsymmetric and, for large-scale systems, there is no
+established algorithm that can handle these even in the LQR case.&lt;/p&gt;
+&lt;p&gt;In this paper, we show how the general theory for descriptor systems with
+index-1 pencil coincides with the theory for standard linear time invariant case
+with feedthrough terms. This provides an algorithm to characterize and to
+compute the solution to the generalized indefinite Riccati equations via
+standard Riccati equations. In view of feasibility for large-scale descriptor
+systems, we illustrate how to arrive at the equivalent standard Riccati-equation
+without resorting to the canonical form used in the derivation of the
+theoretical results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turnpike and Linear Systems Theory</title>
+      <link>/event/20-turnpike-dae/</link>
+      <pubDate>Tue, 07 Apr 2020 14:00:00 +0200</pubDate>
+      <guid>/event/20-turnpike-dae/</guid>
+      <description>&lt;h1 id=&#34;turnpike-and-linear-systems-theory&#34;&gt;Turnpike and Linear Systems Theory&lt;/h1&gt;
+&lt;h2 id=&#34;old-formulas-and-new-results&#34;&gt;Old Formulas and New Results&lt;/h2&gt;
+&lt;p&gt;It is often observed, that the solution to an optimal control problem on a
+finite but large time horizon stays close to an associated steady state optimal
+solution most of the time. This phenomenon is called &lt;em&gt;turnpike&lt;/em&gt; property. It has
+been addressed in the research of economics since the 60s and has become a
+popular topic in systems and control in the last 20 years.&lt;/p&gt;
+&lt;p&gt;The turnpike property is intimately related to the exponential decay of the
+solution to a differential Riccati equation towards the stabilizing solution of
+the associated algebraic Riccati equation (ARE).&lt;/p&gt;
+&lt;p&gt;In this talk, I will show how the basic result on turnpike (namely that the linear quadratic regulator (LQR) problem enjoys the
+turnpike property) follows from classical system theory results by Callier,
+Willems, and Winkin&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. With these results, we can also directly address borderline
+cases like that of undetectable systems. By means of an explicit formula for the
+state transition matrix of the forward and backward closed loop system, we extend
+the classical results to the affine case, i.e., the case with nonzero control
+targets.&lt;/p&gt;
+&lt;p&gt;In the second part of the talk, we discuss the turnpike property of LQR
+problems with DAE constraints. Under standard assumptions, we establish existence
+of solutions to the generalized (nonsymmetric) differential Riccati equation
+and conditions for their convergence to a solution of the generalized ARE. With
+these results, we can characterize the turnpike property for DAE control
+problems.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Callier, F. M.; Winkin, J. &amp;amp; Willems, J. L. &lt;em&gt;Convergence of the
+time-invariant Riccati differential equation and LQ-problem: mechanisms of
+attraction&lt;/em&gt;. International Journal of Control, Taylor &amp;amp; Francis, 1994, 59,
+983-1000. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A benchmark for fluid rigid body interaction with standard CFD packages</title>
+      <link>/event/19-fsi-benchmark/</link>
+      <pubDate>Thu, 21 Nov 2019 16:00:00 +0100</pubDate>
+      <guid>/event/19-fsi-benchmark/</guid>
+      <description>&lt;p&gt;The interaction between a fluid flow and rigid bodies appears in many
+physical applications. The flow around a free rigid body causes both
+displacement and rotation of that body, via the forces and torque
+exerted from the fluid onto the body. Conversely, the motion of the body
+causes changes in the flow. The complexity that comes with coupling
+models for fluid and elastic or rigid bodies and the numerical
+challenges due to evolving geometrical domains make reliable and
+benchmark computations very necessary though difficult to perform. This
+talk presents a setup that we have designed to particularly investigate
+the effects regarding the free rotation of a spherical object in a flow
+channel in 2D and 3D. This setup connects to the well known benchmark
+of &lt;em&gt;flow past a cylinder&lt;/em&gt; [1] and is accessible to standard CFD
+software.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;media/image1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Figure 1: Spatial configuration of the 3D setup.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this setup the flow applies a torque force on the object. The induced
+rotation then couples back to the flow via the boundary conditions. We
+discuss the governing equations of this fluid structure interaction
+problem; namely the incompressible Navier-Stokes equations and the
+relevant realizations of Newton’s second law that relates the rotation
+of the rigid body to the forces acting on it. The proposed benchmark
+configurations comprise two and three spatial dimensions and
+quasi-stationary (low Reynolds-number) and periodic (high
+Reynolds-number) regimes. For a discretization independent comparison of
+the results, we also propose significant, nondimensionalized
+characteristic values.&lt;/p&gt;
+&lt;p&gt;The benchmark cases were solved numerically with various approaches and software tools so that the computed characteristic values could be reported within in a reasonable confidence interval.&lt;/p&gt;
+&lt;p&gt;In this talk, we introduce the mathematical model, discuss the characteristic and challenges of the benchmark cases, and present the various implementation and their particular advantages. The codes that were reported on in our work [2] as well as the raw data and postprocessing routines are available [3] for further exploration and reproduction.&lt;/p&gt;
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;M Schäfer and S Turek: &lt;em&gt;Benchmark computations of laminar flow around a cylinder. (With support by F. Durst, E. Krause and R. Rannacher)&lt;/em&gt; Flow Simulation with High-Performance Computers II. DFG priority research program results 1993-1995, 1996.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;H von Wahl et al.: &lt;em&gt;Numerical benchmarking of fluid-rigid body interactions&lt;/em&gt;. Computers &amp;amp; Fluids, 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOI:&lt;a href=&#34;https://doi.org/10.5281/zenodo.3253455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.3253455&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk: Stability Analysis of Time Stepping Schemes for Incompressible Flows from a DAE Perspective</title>
+      <link>/event/19-enumath-nse/</link>
+      <pubDate>Wed, 02 Oct 2019 16:10:00 +0200</pubDate>
+      <guid>/event/19-enumath-nse/</guid>
+      <description>&lt;p&gt;We consider the time discretization of the semi-discrete incompressible Navier-Stokes equations (NSE)&lt;/p&gt;
+&lt;p&gt;$
+\begin{aligned}
+\quad \quad \quad M \dot v(t) &amp;amp;= N(v(t)) + J^Tp(t) + f(t),
+\\\\&lt;br&gt;
+0 &amp;amp;= Jv(t),
+\end{aligned}
+$&lt;/p&gt;
+&lt;p&gt;formulated in the velocity $v(t) \in \mathbb R^{n_v}$ and pressure $p(t) \in \mathbb R^{n_p}$, with $M\in \mathbb R^{n_v, n_v}$ being the mass matrix from the spatial discretization, $N\colon \mathbb R^{n_v} \to \mathbb R^{n_v}$ modelling the discretized convection and diffusion, and with $J\in \mathbb R^{n_p, n_v}$ and $J^T$ representing the discrete divergence and gradient operators.&lt;/p&gt;
+&lt;p&gt;It is commonly known that the semi-discrete incompressible Navier-Stokes equations can be classified as a differential-algebraic equation (DAE) of &lt;em&gt;differentiation index&lt;/em&gt; $\nu=2$ so that a straight-forward time discretization, e.g. by the &lt;em&gt;implicit-Euler&lt;/em&gt; method, will likely suffer from instabilities. To overcome these numerical difficulties, a large number of time stepping schemes, with &lt;em&gt;Chorin&lt;/em&gt;&amp;rsquo;s projection or the &lt;em&gt;SIMPLE&lt;/em&gt; scheme as notable examples, have been developed.&lt;/p&gt;
+&lt;p&gt;In this talk, we trace down and illustrate the instability that origins from the index-2 structure and show that commonly and succesfully applied time-stepping schemes correspond to a reformulation of the semi-discrete NSE as an equivalent system of index-1. Also we show how a finite-element discretization by &lt;em&gt;Taylor-Hood&lt;/em&gt; or &lt;em&gt;Crouzeix-Raviart&lt;/em&gt; schemes can be modified such that the resulting semi-discrete NSE already is of index-1 so that standard time-integration schemes lead to stable pressure approximations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Altmann, R. &amp;amp; Heiland, J.: &lt;em&gt;Finite Element Decomposition and Minimal Extension for Flow Equations&lt;/em&gt;, ESAIM: M2AN, &lt;strong&gt;2015&lt;/strong&gt;, 49, 1489&amp;ndash;1509&lt;/p&gt;
+&lt;p&gt;Altmann, R. &amp;amp; Heiland, J.: &lt;em&gt;Continuous, Semi-discrete, and Fully Discretized Navier-Stokes Equations&lt;/em&gt;, DAE-Forum, Issue: &lt;em&gt;Applications of Differential-Algebraic Equations: Examples and Benchmarks&lt;/em&gt;, Springer, &lt;strong&gt;2018&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor-space Galerkin POD for parametric flow equations</title>
+      <link>/event/19-iciam-genpod/</link>
+      <pubDate>Thu, 18 Jul 2019 14:30:00 +0100</pubDate>
+      <guid>/event/19-iciam-genpod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust observer-based feedback for the incompressible Navier-Stokes equation</title>
+      <link>/event/19-iciam-rob-nse/</link>
+      <pubDate>Wed, 17 Jul 2019 17:00:00 +0100</pubDate>
+      <guid>/event/19-iciam-rob-nse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust control for compensation of linearization and discretization errors in stabilization of incompressible flows</title>
+      <link>/event/19-07-passau/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0200</pubDate>
+      <guid>/event/19-07-passau/</guid>
       <description></description>
     </item>
     

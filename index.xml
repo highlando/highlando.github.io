@@ -651,9 +651,9 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
     
     <item>
       <title>Tensor-Galerkin POD for Efficient Uncertainty Quantification in PDEs with Multivariate Random Parameters</title>
-      <link>/talk/21-gpuq-gamm/</link>
+      <link>/event/21-gpuq-gamm/</link>
       <pubDate>Wed, 17 Mar 2021 14:00:00 +0100</pubDate>
-      <guid>/talk/21-gpuq-gamm/</guid>
+      <guid>/event/21-gpuq-gamm/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The statistically sound treatment of modelled uncertainties in simulations comes with significant additional computational costs. Since a deterministic model can already be arbitrarily complex, running statistics for general problems may soon become infeasible unless some kind of model reduction is involved.&lt;/p&gt;
 &lt;p&gt;In this talk we present a multidimensional Galerkin Proper Orthogonal Decomposition (Galerkin POD)
@@ -723,7 +723,7 @@ the uncertainties.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Sep 30 &amp;ndash; Oct 4&lt;/td&gt;
-&lt;td&gt;MS &lt;a href=&#34;/events/19-ms-enumath/&#34;&gt;Low-rank modelling in uncertainty quantification&lt;/a&gt; and talk on &lt;a href=&#34;/talk/19-enumath-nse/&#34;&gt;time stepping for NSE&lt;/a&gt; at the &lt;a href=&#34;http://www.enumath2019.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enumath 2019&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;MS &lt;a href=&#34;/events/19-ms-enumath/&#34;&gt;Low-rank modelling in uncertainty quantification&lt;/a&gt; and talk on &lt;a href=&#34;&#34;&gt;time stepping for NSE&lt;/a&gt; at the &lt;a href=&#34;http://www.enumath2019.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enumath 2019&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Egmond an Zee, The Netherlands&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -733,12 +733,12 @@ the uncertainties.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Jul 15 &amp;ndash; Jul 19&lt;/td&gt;
-&lt;td&gt;Talks at the &lt;a href=&#34;https://iciam2019.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM2019&lt;/a&gt; on &lt;a href=&#34;/talk/19-iciam-rob-nse/&#34;&gt;robust controllers&lt;/a&gt; and &lt;a href=&#34;/talk/19-iciam-genpod/&#34;&gt;tensor POD&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Talks at the &lt;a href=&#34;https://iciam2019.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM2019&lt;/a&gt; on &lt;a href=&#34;&#34;&gt;robust controllers&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;tensor POD&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Valencia, Spain&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;Jul 02 &amp;ndash; Jul 04&lt;/td&gt;
-&lt;td&gt;Visit of the &lt;a href=&#34;http://www.fim.uni-passau.de/en/dynamical-systems/welcome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;group&lt;/a&gt; of Fabian Wirth and seminar talk on &lt;a href=&#34;/talk/19-07-passau/&#34;&gt;robust controller design&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Visit of the &lt;a href=&#34;http://www.fim.uni-passau.de/en/dynamical-systems/welcome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;group&lt;/a&gt; of Fabian Wirth and seminar talk on &lt;a href=&#34;&#34;&gt;robust controller design&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Passau, Germany&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -748,9 +748,9 @@ the uncertainties.&lt;/p&gt;
     
     <item>
       <title>Space and Chaos-Expansion Galerkin POD for UQ of PDEs with Random Parameters</title>
-      <link>/talk/21-gpuq-csefa/</link>
+      <link>/event/21-gpuq-csefa/</link>
       <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
-      <guid>/talk/21-gpuq-csefa/</guid>
+      <guid>/event/21-gpuq-csefa/</guid>
       <description></description>
     </item>
     
@@ -772,17 +772,9 @@ the uncertainties.&lt;/p&gt;
     
     <item>
       <title>Control of a Triple Pendulum in Theory and Practice</title>
-      <link>/event/20-musen-pendulum/</link>
+      <link>/event/20-pendulum-musen/</link>
       <pubDate>Thu, 08 Oct 2020 16:45:00 +0200</pubDate>
-      <guid>/event/20-musen-pendulum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control of a Triple Pendulum in Theory and Practice</title>
-      <link>/talk/20-pendulum-musen/</link>
-      <pubDate>Thu, 08 Oct 2020 16:45:00 +0200</pubDate>
-      <guid>/talk/20-pendulum-musen/</guid>
+      <guid>/event/20-pendulum-musen/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The stabilization of a simple pendulum in the upright equilibrium is a common control task and can be realized with basic algorithms and basic hardware like Lego Mindstorm. The double pendulum is a popular example for a chaotic system which means that the influence of small perturbations leads to unpredictable behavior. Still, linear feedback controllers that counteract perturbations in real time are capable to stabilize equilibria of a double pendulum as well as trajectories. For the control of a triple pendulum, the same linear theory applies. The third segment, however, adds additional technical difficulties that need to be tackled with powerful hardware.&lt;/p&gt;
 &lt;p&gt;In this talk, I will explain the principles of a linearization based 2-degrees of freedom controller design which is the combination of a feedforward control that prescribes a target trajectory and a feedback loop for stabilization of the system. For the nonlinear mathematical model of a triple pendulum, already the computation of the target trajectory and the feedforward control is a challenge. Further, I will discuss details of the implementation and practical problems that come with a physical setup.&lt;/p&gt;
@@ -791,17 +783,17 @@ the uncertainties.&lt;/p&gt;
     
     <item>
       <title>The DEAL - What is up and what does it mean</title>
-      <link>/talk/20-deal/</link>
+      <link>/event/20-deal/</link>
       <pubDate>Wed, 23 Sep 2020 14:00:00 +0200</pubDate>
-      <guid>/talk/20-deal/</guid>
+      <guid>/event/20-deal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathematical modeling of infectious disease</title>
-      <link>/talk/20-mathcore-covid/</link>
+      <link>/event/20-mathcore-covid/</link>
       <pubDate>Thu, 02 Jul 2020 11:00:00 +0100</pubDate>
-      <guid>/talk/20-mathcore-covid/</guid>
+      <guid>/event/20-mathcore-covid/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Within the last couple of months, the COVID-19 epidemic has determined our
 public and private life with travel restrictions, lockdown, social distancing,
@@ -839,9 +831,9 @@ spread of virus still an open one.&lt;/p&gt;
     
     <item>
       <title>Equivalence of Riccati-Based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
-      <link>/talk/20-ecc-hinfric/</link>
+      <link>/event/20-ecc-hinfric/</link>
       <pubDate>Wed, 13 May 2020 15:00:00 +0300</pubDate>
-      <guid>/talk/20-ecc-hinfric/</guid>
+      <guid>/event/20-ecc-hinfric/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The Riccati-based approach to robust control is completely understood in theory
 since long but seldom used for large-scale systems in practice. Only recently,
@@ -863,9 +855,9 @@ theoretical results.&lt;/p&gt;
     
     <item>
       <title>Turnpike and Linear Systems Theory</title>
-      <link>/talk/20-turnpike-dae/</link>
+      <link>/event/20-turnpike-dae/</link>
       <pubDate>Tue, 07 Apr 2020 14:00:00 +0200</pubDate>
-      <guid>/talk/20-turnpike-dae/</guid>
+      <guid>/event/20-turnpike-dae/</guid>
       <description>&lt;h1 id=&#34;turnpike-and-linear-systems-theory&#34;&gt;Turnpike and Linear Systems Theory&lt;/h1&gt;
 &lt;h2 id=&#34;old-formulas-and-new-results&#34;&gt;Old Formulas and New Results&lt;/h2&gt;
 &lt;p&gt;It is often observed, that the solution to an optimal control problem on a
@@ -1972,9 +1964,9 @@ The theory of DMD is more than 100 years old. In practice, DMD has experienced s
     
     <item>
       <title>A benchmark for fluid rigid body interaction with standard CFD packages</title>
-      <link>/talk/19-fsi-benchmark/</link>
+      <link>/event/19-fsi-benchmark/</link>
       <pubDate>Thu, 21 Nov 2019 16:00:00 +0100</pubDate>
-      <guid>/talk/19-fsi-benchmark/</guid>
+      <guid>/event/19-fsi-benchmark/</guid>
       <description>&lt;p&gt;The interaction between a fluid flow and rigid bodies appears in many
 physical applications. The flow around a free rigid body causes both
 displacement and rotation of that body, via the forces and torque
@@ -2386,9 +2378,9 @@ characteristic values.&lt;/p&gt;
     
     <item>
       <title>Talk: Stability Analysis of Time Stepping Schemes for Incompressible Flows from a DAE Perspective</title>
-      <link>/talk/19-enumath-nse/</link>
+      <link>/event/19-enumath-nse/</link>
       <pubDate>Wed, 02 Oct 2019 16:10:00 +0200</pubDate>
-      <guid>/talk/19-enumath-nse/</guid>
+      <guid>/event/19-enumath-nse/</guid>
       <description>&lt;p&gt;We consider the time discretization of the semi-discrete incompressible Navier-Stokes equations (NSE)&lt;/p&gt;
 &lt;p&gt;$
 \begin{aligned}
@@ -2776,17 +2768,17 @@ Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fn
     
     <item>
       <title>Tensor-space Galerkin POD for parametric flow equations</title>
-      <link>/talk/19-iciam-genpod/</link>
+      <link>/event/19-iciam-genpod/</link>
       <pubDate>Thu, 18 Jul 2019 14:30:00 +0100</pubDate>
-      <guid>/talk/19-iciam-genpod/</guid>
+      <guid>/event/19-iciam-genpod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust observer-based feedback for the incompressible Navier-Stokes equation</title>
-      <link>/talk/19-iciam-rob-nse/</link>
+      <link>/event/19-iciam-rob-nse/</link>
       <pubDate>Wed, 17 Jul 2019 17:00:00 +0100</pubDate>
-      <guid>/talk/19-iciam-rob-nse/</guid>
+      <guid>/event/19-iciam-rob-nse/</guid>
       <description></description>
     </item>
     
@@ -2834,9 +2826,9 @@ Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fn
     
     <item>
       <title>Robust control for compensation of linearization and discretization errors in stabilization of incompressible flows</title>
-      <link>/talk/19-07-passau/</link>
+      <link>/event/19-07-passau/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0200</pubDate>
-      <guid>/talk/19-07-passau/</guid>
+      <guid>/event/19-07-passau/</guid>
       <description></description>
     </item>
     

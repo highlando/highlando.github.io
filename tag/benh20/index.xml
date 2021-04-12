@@ -14,9 +14,9 @@
     
     <item>
       <title>Equivalence of Riccati-Based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
-      <link>/talk/20-ecc-hinfric/</link>
+      <link>/event/20-ecc-hinfric/</link>
       <pubDate>Wed, 13 May 2020 15:00:00 +0300</pubDate>
-      <guid>/talk/20-ecc-hinfric/</guid>
+      <guid>/event/20-ecc-hinfric/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The Riccati-based approach to robust control is completely understood in theory
 since long but seldom used for large-scale systems in practice. Only recently,

@@ -14,9 +14,9 @@
     
     <item>
       <title>Talk: Stability Analysis of Time Stepping Schemes for Incompressible Flows from a DAE Perspective</title>
-      <link>/talk/19-enumath-nse/</link>
+      <link>/event/19-enumath-nse/</link>
       <pubDate>Wed, 02 Oct 2019 16:10:00 +0200</pubDate>
-      <guid>/talk/19-enumath-nse/</guid>
+      <guid>/event/19-enumath-nse/</guid>
       <description>&lt;p&gt;We consider the time discretization of the semi-discrete incompressible Navier-Stokes equations (NSE)&lt;/p&gt;
 &lt;p&gt;$
 \begin{aligned}

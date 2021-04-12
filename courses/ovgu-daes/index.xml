@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Introduction</title>
+      <title>1 Introduction</title>
       <link>/courses/ovgu-daes/daes-1/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
       <guid>/courses/ovgu-daes/daes-1/</guid>
@@ -31,6 +31,54 @@
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/H9x0OboOLMg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>2 Basic Definitions and Notions</title>
+      <link>/courses/ovgu-daes/daes-2/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-daes/daes-2/</guid>
+      <description>&lt;h1 id=&#34;basic-definitions-and-notions&#34;&gt;Basic Definitions and Notions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;DAE in a general formulation&lt;/li&gt;
+&lt;li&gt;Solution concepts&lt;/li&gt;
+&lt;li&gt;Initial values and consistency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-21&#34;&gt;Lecture 2.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/basic-definitions-and-notions.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 2&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-21.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Zss3LXL6UJo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>3 Linear DAEs with Constant Coefficients</title>
+      <link>/courses/ovgu-daes/daes-3/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-daes/daes-3/</guid>
+      <description>&lt;h1 id=&#34;basic-definitions-and-notions&#34;&gt;Basic Definitions and Notions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;variable transforms and scalings do not affect solvability&lt;/li&gt;
+&lt;li&gt;DAEs &amp;lt;-&amp;gt; (E, A) matrix pairs&lt;/li&gt;
+&lt;li&gt;canonical forms &amp;ndash; Weierstrass canonical form &amp;ndash; canonical form of a linear DAE with constant coefficients&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-31&#34;&gt;Lecture 3.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 3&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-31.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fT_1LLb73B8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>

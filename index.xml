@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Heiland</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 14:23:01 +0200</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>Jan Heiland</title>
@@ -206,33 +206,13 @@ Turm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:dUtyovpIkpJ3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;💾 &lt;a href=&#34;https://drive.google.com/drive/folders/1PpHf5VZYkwFaCkHNQ2Uu3O9DM7WVOI8V?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!--
-### Wrapup (Part 2.1)
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/JnI8OcKtGvs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-## 2-2 Grenzwerte und Stetigkeit von Funktionen
-### Vorlesung
-
+&lt;h2 id=&#34;2-2-grenzwerte-und-stetigkeit-von-funktionen&#34;&gt;2-2 Grenzwerte und Stetigkeit von Funktionen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
 &lt;div id=&#34;pc-lecture-2-2&#34;&gt;&lt;/div&gt;
-
-### Shownotes
-
- * [Kapitel 12 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:cjsQ71YoKehx).
- * 💾 [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
-
-### Wrapup (Part 2.2)
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/Kr8jJfu-UWQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
---&gt;
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:PAJBtPWpM6q_&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -646,6 +626,55 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
   &lt;iframe src=&#34;https://www.youtube.com/embed/bnRdkrX8j5Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>MRI Fingerprinting with Philipps</title>
+      <link>/project/21-phili-fipri/</link>
+      <pubDate>Thu, 15 Apr 2021 14:23:01 +0200</pubDate>
+      <guid>/project/21-phili-fipri/</guid>
+      <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
+&lt;p&gt;Dr. Manuel Baumann (Philipps Research), Jun-Prof. Jan Heiland FMA&lt;/p&gt;
+&lt;h1 id=&#34;wanted&#34;&gt;Wanted&lt;/h1&gt;
+&lt;p&gt;A highly motivated Masters&#39; student of mathematics or statistics that feels comfortable with the problem below and that, at best, has good command of a programming language.&lt;/p&gt;
+&lt;h1 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h1&gt;
+&lt;p&gt;MR Fingerprinting is a new, quantitative imaging technique in Magnetic Resonance Imaging (MRI)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. In short,&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;MR Fingerprinting relies on the simulation of the Bloch equation, a parameter-dependent ODE for the magnetization $M$ of the form
+$$\dot{M}(t) = f(M(t), B(t), T_1, T_2),$$
+where the magnetic field $B$ is determined by the parameters of the acquisition.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Variation of the relaxation times $T_1$ and $T_2$ yield a series of trajectories forming a so-called dictionary.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fingerprinting means the matching of the acquired under-sampled data with the dictionary entries for querying the relevant tissue-specific parameters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The development and implementation opens a number of options for a Master&amp;rsquo;s project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;System Theory:&lt;/strong&gt; Re-formulation of the MRF dictionary computation as an input-state-output system and model order reduction of the underlying Bloch equation. While the reformulation enables the matching by established system identification routines, a reduced order model can be used for a-posteriori checks of the selected parameters or for enriching the dictionary in the relevant parameter range.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statistics:&lt;/strong&gt; The estimation of parameters based on data is a common task in statistics. Apart from implementing and testing relevant routines for Fingerprinting, the inclusion of tailored statistical approaches for the particular problem of Fingerprinting can be useful for improving the dictionary in general and for providing confidence estimates for the selection obtained from classical matching.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Optimization:&lt;/strong&gt; Fingerprinting seeks for the best match of collected data with the precomputed dictionary entries. Tools from mathematical optimization will be used to improve the reliability of the selected optimum and to enhance both the data aquisition and the dictionary through optimal design.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h1&gt;
+&lt;p&gt;Please see the &lt;a href=&#34;mrf_msc_ovgu.pdf&#34;&gt;job advertisement&lt;/a&gt; and apply by April 30.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See here for a scientific paper on MR Fingerprinting: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -1127,10 +1156,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_huc4280150d69fffc5411b864d83568d99_365297_658fcd6782b021e9ddeeea75bc01995d.png 400w,
-               /post/covid-19-trends/slopes-dsifc_huc4280150d69fffc5411b864d83568d99_365297_765d01f45bdbdcdd75bb1e548a272806.png 760w,
-               /post/covid-19-trends/slopes-dsifc_huc4280150d69fffc5411b864d83568d99_365297_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_huc4280150d69fffc5411b864d83568d99_365297_658fcd6782b021e9ddeeea75bc01995d.png&#34;
+               /post/covid-19-trends/slopes-dsifc_huf3e3fc2d1460b7de56c4b0c224891016_359240_60038dc1f1af96eca65970d2a8838e55.png 400w,
+               /post/covid-19-trends/slopes-dsifc_huf3e3fc2d1460b7de56c4b0c224891016_359240_025deac440790a352d2b9698dad5065f.png 760w,
+               /post/covid-19-trends/slopes-dsifc_huf3e3fc2d1460b7de56c4b0c224891016_359240_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_huf3e3fc2d1460b7de56c4b0c224891016_359240_60038dc1f1af96eca65970d2a8838e55.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1204,10 +1233,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu90004704e1d7be0b8d893085f256de2c_235829_43d667ef5c596f1e0a51f40ad31fc6d2.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu90004704e1d7be0b8d893085f256de2c_235829_803679dcc73271bb3fb0f69ce114925d.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu90004704e1d7be0b8d893085f256de2c_235829_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu90004704e1d7be0b8d893085f256de2c_235829_43d667ef5c596f1e0a51f40ad31fc6d2.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hub8bfc95d4d8a9d0e1c2ef3679ec31423_235952_70f7074b37b74314b4bc2a1fd4428f6f.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hub8bfc95d4d8a9d0e1c2ef3679ec31423_235952_df70f33cc420d069b6a0cf36628d818c.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hub8bfc95d4d8a9d0e1c2ef3679ec31423_235952_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hub8bfc95d4d8a9d0e1c2ef3679ec31423_235952_70f7074b37b74314b4bc2a1fd4428f6f.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

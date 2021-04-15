@@ -59,10 +59,25 @@
     <loc>/courses/ovgu-mathe-informatik/omi-9/</loc>
     <lastmod>2019-07-07T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
-    <lastmod>2021-04-07T00:00:00+01:00</lastmod>
+    <loc>/tag/ba-ma/</loc>
+    <lastmod>2021-04-15T14:23:01+02:00</lastmod>
+  </url><url>
+    <loc>/tag/industry/</loc>
+    <lastmod>2021-04-15T14:23:01+02:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-04-15T14:23:01+02:00</lastmod>
+  </url><url>
+    <loc>/project/21-phili-fipri/</loc>
+    <lastmod>2021-04-15T14:23:01+02:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-04-15T14:23:01+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-15T14:23:01+02:00</lastmod>
+  </url><url>
+    <loc>/courses/</loc>
     <lastmod>2021-04-07T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
@@ -123,9 +138,6 @@
     <lastmod>2020-10-08T16:45:00+02:00</lastmod>
   </url><url>
     <loc>/tag/pendulum/</loc>
-    <lastmod>2020-10-08T16:45:00+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2020-10-08T16:45:00+02:00</lastmod>
   </url><url>
     <loc>/tag/open-access/</loc>
@@ -212,13 +224,7 @@
     <loc>/publication/ben-h-20-a/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/ba-ma/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>/project/20-ma-dmd/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
     <lastmod>2020-01-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/event/19-fsi-benchmark/</loc>
@@ -247,9 +253,6 @@
   </url><url>
     <loc>/event/19-enumath-nse/</loc>
     <lastmod>2019-10-02T16:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/industry/</loc>
-    <lastmod>2019-09-17T11:56:57+02:00</lastmod>
   </url><url>
     <loc>/project/pendulum/</loc>
     <lastmod>2019-09-17T11:56:57+02:00</lastmod>

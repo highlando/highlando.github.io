@@ -5,12 +5,42 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Mar 2020 13:22:04 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Apr 2021 14:36:55 +0200</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Pandoc vs. Pandemia</title>
+      <link>/post/21-pandoc-markdown-tools/</link>
+      <pubDate>Sun, 18 Apr 2021 14:36:55 +0200</pubDate>
+      <guid>/post/21-pandoc-markdown-tools/</guid>
+      <description>&lt;p&gt;While things were shifting away from &lt;em&gt;away from keyboard&lt;/em&gt;, I found little pleasures in seeing software tools in production. Most of all I enjoy small scripts&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; that take a few lines of readable text and turn it into a &lt;a href=&#34;https://www.janheiland.de/courses/mathe2info-21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website for an online course&lt;/a&gt;, into &lt;a href=&#34;https://www.janheiland.de/script-daes/basic-definitions-and-notions.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lecture notes&lt;/a&gt;, or a &lt;a href=&#34;http://www.janheiland.de/talk-gpuq/#/title-slide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide deck for presentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This all bases on &lt;code&gt;Markdown&lt;/code&gt; text files and some interpreter and compiler. For the websites the interpreter is &lt;code&gt;hugo&lt;/code&gt;, for the lecture nodes it is &lt;code&gt;bookdown&lt;/code&gt;, and for the presentation it is &lt;code&gt;pandoc&lt;/code&gt; and &lt;code&gt;reveal.js&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The sources are conveniently edited in my favorite editor. With &lt;em&gt;syntax highlighting&lt;/em&gt; and &lt;em&gt;code concealing&lt;/em&gt;, the basic parts of the markup is partially hidden and already preinterpreted.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vim-scsh.png&#34; alt=&#34;screenshot of an editor with markdown support&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The final compilation and interpretation is well kept out of sight and can be automated or not on many stages.&lt;/p&gt;
+&lt;p&gt;Together with other little &lt;em&gt;unix&lt;/em&gt; tools&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, it took me just one hour to &lt;a href=&#34;https://github.com/highlando/pandoc-markdown-book-template/blob/master/RUNME.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;turn my notes&lt;/a&gt; on my &lt;em&gt;natural yeast recipes&lt;/em&gt; into an &lt;em&gt;e-book&lt;/em&gt; and arrange the pdf export such that it could be printed as an &lt;a href=&#34;https://www.instructables.com/A-one-sheet-of-paper-booklet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;8-page booklet on a single A4 page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please checkout the outcomes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📙 &lt;a href=&#34;lm.pdf&#34;&gt;Booklet of my recipes for baking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📘 &lt;a href=&#34;ready-for-print.pdf&#34;&gt;Ready to be printed and folded into a real booklet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Similarly exciting and helpful but on a different level are high-end open source tools like &lt;code&gt;OBS&lt;/code&gt; for screencasting and streaming or &lt;code&gt;audacity&lt;/code&gt; for podcasting. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Namely &lt;code&gt;Okular&lt;/code&gt; for exporting epub to pdf, &lt;code&gt;pdftk&lt;/code&gt; for rotating, cutting, and arranging, and &lt;code&gt;boomaga&lt;/code&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
     
     <item>
       <title>Trends in Covid-19 Spread</title>
@@ -244,10 +274,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_hu12b193b5d728db6d255a78f4f89a6b63_362594_a258d3b8bdd3b0ecc7073a9e4f56a774.png 400w,
-               /post/covid-19-trends/slopes-dsifc_hu12b193b5d728db6d255a78f4f89a6b63_362594_87accba1dd061dcb5f31781f49f1bc2e.png 760w,
-               /post/covid-19-trends/slopes-dsifc_hu12b193b5d728db6d255a78f4f89a6b63_362594_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_hu12b193b5d728db6d255a78f4f89a6b63_362594_a258d3b8bdd3b0ecc7073a9e4f56a774.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hu8fad6f436c1d84f55c34654e3d1acdaa_345156_aa88cddb085e6021576c9dfc697018e9.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hu8fad6f436c1d84f55c34654e3d1acdaa_345156_3b50262c68231e2a7a135a179aa057f5.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hu8fad6f436c1d84f55c34654e3d1acdaa_345156_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hu8fad6f436c1d84f55c34654e3d1acdaa_345156_aa88cddb085e6021576c9dfc697018e9.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -321,10 +351,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu55da9290ec8d718816ea6b8318654ea2_233684_7cf161f0889075d936cff076cc00698d.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu55da9290ec8d718816ea6b8318654ea2_233684_3e6df05edb524ae38573597bfc4dbcec.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu55da9290ec8d718816ea6b8318654ea2_233684_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu55da9290ec8d718816ea6b8318654ea2_233684_7cf161f0889075d936cff076cc00698d.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hu7a256115ec26255c7a98aaddff981fd9_227104_d3943cd3c7b643124f8b2a54f6ba1a78.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hu7a256115ec26255c7a98aaddff981fd9_227104_02253d9fb90b2f3398b95fe4629d8dc3.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hu7a256115ec26255c7a98aaddff981fd9_227104_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu7a256115ec26255c7a98aaddff981fd9_227104_d3943cd3c7b643124f8b2a54f6ba1a78.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

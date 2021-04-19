@@ -37,7 +37,7 @@
 &lt;figure  id=&#34;figure-screenshot-of-an-editor-with-markdown-support&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;screenshot of an editor with markdown support&#34; srcset=&#34;
+        &lt;img alt=&#34;Screenshot of an editor with markdown support.&#34; srcset=&#34;
                /post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_544ec2b5253568bd3f7c667d69a8e8e5.png 400w,
                /post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_4b2011ab73dbf74c6b193997421131c0.png 760w,
                /post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_1200x1200_fit_lanczos_2.png 1200w&#34;
@@ -46,7 +46,7 @@
                height=&#34;377&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      screenshot of an editor with markdown support
+      Screenshot of an editor with markdown support.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;The final compilation and interpretation is well kept out of sight and can be automated or not on many stages.&lt;/p&gt;
 &lt;p&gt;Together with other little &lt;em&gt;unix&lt;/em&gt; tools&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, it took me just one hour to &lt;a href=&#34;https://github.com/highlando/pandoc-markdown-book-template/blob/master/RUNME.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;turn my notes&lt;/a&gt; on my &lt;em&gt;natural yeast recipes&lt;/em&gt; into an &lt;em&gt;e-book&lt;/em&gt; and arrange the pdf export such that it could be printed as an &lt;a href=&#34;https://www.instructables.com/A-one-sheet-of-paper-booklet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;8-page booklet on a single A4 page&lt;/a&gt;.&lt;/p&gt;

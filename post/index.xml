@@ -37,7 +37,7 @@
 &lt;figure  id=&#34;figure-screenshot-of-an-editor-with-markdown-support&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;screenshot of an editor with markdown support&#34; srcset=&#34;
+        &lt;img alt=&#34;Screenshot of an editor with markdown support.&#34; srcset=&#34;
                /post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_544ec2b5253568bd3f7c667d69a8e8e5.png 400w,
                /post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_4b2011ab73dbf74c6b193997421131c0.png 760w,
                /post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_1200x1200_fit_lanczos_2.png 1200w&#34;
@@ -46,7 +46,7 @@
                height=&#34;377&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      screenshot of an editor with markdown support
+      Screenshot of an editor with markdown support.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;The final compilation and interpretation is well kept out of sight and can be automated or not on many stages.&lt;/p&gt;
 &lt;p&gt;Together with other little &lt;em&gt;unix&lt;/em&gt; tools&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, it took me just one hour to &lt;a href=&#34;https://github.com/highlando/pandoc-markdown-book-template/blob/master/RUNME.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;turn my notes&lt;/a&gt; on my &lt;em&gt;natural yeast recipes&lt;/em&gt; into an &lt;em&gt;e-book&lt;/em&gt; and arrange the pdf export such that it could be printed as an &lt;a href=&#34;https://www.instructables.com/A-one-sheet-of-paper-booklet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;8-page booklet on a single A4 page&lt;/a&gt;.&lt;/p&gt;
@@ -329,10 +329,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_hub707142a487e23e59703b93bb1bff870_364747_64d8725430215ed916fcdbb16d06ab60.png 400w,
-               /post/covid-19-trends/slopes-dsifc_hub707142a487e23e59703b93bb1bff870_364747_de6d9656634d3c92907b940304187c1f.png 760w,
-               /post/covid-19-trends/slopes-dsifc_hub707142a487e23e59703b93bb1bff870_364747_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_hub707142a487e23e59703b93bb1bff870_364747_64d8725430215ed916fcdbb16d06ab60.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hub707142a487e23e59703b93bb1bff870_364379_af0398d748208808fa92c43d079dfef2.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hub707142a487e23e59703b93bb1bff870_364379_f628afba06e4ff369663d7704db7139b.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hub707142a487e23e59703b93bb1bff870_364379_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hub707142a487e23e59703b93bb1bff870_364379_af0398d748208808fa92c43d079dfef2.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -406,10 +406,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu1bc86b4e005cbd631a58b2accae266f1_236985_31d33c17e71ec504c5c68f8c7c29c14c.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu1bc86b4e005cbd631a58b2accae266f1_236985_1bf32c0f92a722a5948cb08ed4500b66.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu1bc86b4e005cbd631a58b2accae266f1_236985_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu1bc86b4e005cbd631a58b2accae266f1_236985_31d33c17e71ec504c5c68f8c7c29c14c.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hu1bc86b4e005cbd631a58b2accae266f1_233032_1569953b196f480b5fbd2f59dfc99860.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hu1bc86b4e005cbd631a58b2accae266f1_233032_c112e1e9b4ebcb530635e1f9468fab07.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hu1bc86b4e005cbd631a58b2accae266f1_233032_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu1bc86b4e005cbd631a58b2accae266f1_233032_1569953b196f480b5fbd2f59dfc99860.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Pandoc vs. Pandemia</title>
+      <title>Pandoc vs. Pandemic</title>
       <link>/post/21-pandoc-markdown-tools/</link>
       <pubDate>Sun, 18 Apr 2021 14:36:55 +0200</pubDate>
       <guid>/post/21-pandoc-markdown-tools/</guid>
@@ -28,6 +28,7 @@
 &lt;li&gt;📙 &lt;a href=&#34;lm.pdf&#34;&gt;Booklet of my recipes for baking&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📘 &lt;a href=&#34;ready-for-print.pdf&#34;&gt;Ready to be printed and folded into a real booklet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;the-booklet.jpg&#34; alt=&#34;The printed booklet&#34;&gt;&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

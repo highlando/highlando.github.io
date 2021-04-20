@@ -69,7 +69,9 @@
 &lt;ul&gt;
 &lt;li&gt;variable transforms and scalings do not affect solvability&lt;/li&gt;
 &lt;li&gt;DAEs &amp;lt;-&amp;gt; (E, A) matrix pairs&lt;/li&gt;
-&lt;li&gt;canonical forms &amp;ndash; Weierstrass canonical form &amp;ndash; canonical form of a linear DAE with constant coefficients&lt;/li&gt;
+&lt;li&gt;canonical forms &amp;ndash; Kronecker canonical form &amp;ndash; canonical form of a linear DAE with constant coefficients&lt;/li&gt;
+&lt;li&gt;Regularity and Solvability&lt;/li&gt;
+&lt;li&gt;Weierstrass canonical form&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;lecture-31&#34;&gt;Lecture 3.1&lt;/h2&gt;
 &lt;ul&gt;
@@ -79,6 +81,16 @@
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/fT_1LLb73B8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;lecture-32&#34;&gt;Lecture 3.2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#regularity-and-solvability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 3.2&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-32.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3KLc-ouweIk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>

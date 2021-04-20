@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="2-1 Eigenschaften und Beispiele von Funktionen Vorlesung  Shownotes  Kapitel 12 im Skript. 💾 Link zum Übungsblatt  2-2 Grenzwerte und Stetigkeit von Funktionen Vorlesung  Shownotes  Kapitel 12 im Skript." />
+  <meta name="description" content="3-1 Definition, Formeln und Eigenschaften der Ableitung Vorlesung  Shownotes  Kapitel 13 im Skript.   ### Shownotes * [Kapitel 13 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB). ### Illustrierte Beispiele [das ganze als PNG](." />
 
   
-  <link rel="alternate" hreflang="en-us" href="/courses/mathe2info-21/omi-2/" />
+  <link rel="alternate" hreflang="en-us" href="/courses/mathe2info-21/omi-3/" />
 
   
 
@@ -275,7 +275,7 @@
   <link rel="icon" type="image/png" href="/media/icon_huc8d60562114d373ee9fcddf98bd2be5c_10437_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc8d60562114d373ee9fcddf98bd2be5c_10437_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="/courses/mathe2info-21/omi-2/" />
+  <link rel="canonical" href="/courses/mathe2info-21/omi-3/" />
 
   
   
@@ -295,18 +295,18 @@
     <meta property="twitter:creator" content="@jnhlnd" />
   
   <meta property="og:site_name" content="Jan Heiland" />
-  <meta property="og:url" content="/courses/mathe2info-21/omi-2/" />
-  <meta property="og:title" content="2 Stetigkeit von Funktionen | Jan Heiland" />
-  <meta property="og:description" content="2-1 Eigenschaften und Beispiele von Funktionen Vorlesung  Shownotes  Kapitel 12 im Skript. 💾 Link zum Übungsblatt  2-2 Grenzwerte und Stetigkeit von Funktionen Vorlesung  Shownotes  Kapitel 12 im Skript." /><meta property="og:image" content="/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png" />
+  <meta property="og:url" content="/courses/mathe2info-21/omi-3/" />
+  <meta property="og:title" content="3 Differenzierbarkeit I | Jan Heiland" />
+  <meta property="og:description" content="3-1 Definition, Formeln und Eigenschaften der Ableitung Vorlesung  Shownotes  Kapitel 13 im Skript.   ### Shownotes * [Kapitel 13 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB). ### Illustrierte Beispiele [das ganze als PNG](." /><meta property="og:image" content="/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png" />
     <meta property="twitter:image" content="/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-04-05T00:00:00&#43;01:00"
+        content="2019-05-12T00:00:00&#43;01:00"
       />
     
-    <meta property="article:modified_time" content="2021-04-05T00:00:00&#43;01:00">
+    <meta property="article:modified_time" content="2019-05-12T00:00:00&#43;01:00">
   
 
   
@@ -323,11 +323,11 @@
 
 
 
-  <title>2 Stetigkeit von Funktionen | Jan Heiland</title>
+  <title>3 Differenzierbarkeit I | Jan Heiland</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="99b583ea08b2c3684483adf9047250ce" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a089d855abcfc2b5031890c26aa7b769" >
 
   
   
@@ -747,12 +747,12 @@
       </li>
 
       
-      <li class="active">
+      <li >
         <a href="/courses/mathe2info-21/omi-2/">2 Stetigkeit von Funktionen</a>
       </li>
 
       
-      <li >
+      <li class="active">
         <a href="/courses/mathe2info-21/omi-3/">3 Differenzierbarkeit 1</a>
       </li>
 
@@ -777,9 +777,7 @@
   <ul>
     <li>
       <ul>
-        <li><a href="#2-1-eigenschaften-und-beispiele-von-funktionen">2-1 Eigenschaften und Beispiele von Funktionen</a></li>
-        <li><a href="#2-2-grenzwerte-und-stetigkeit-von-funktionen">2-2 Grenzwerte und Stetigkeit von Funktionen</a></li>
-        <li><a href="#wrapup-2-grenzwerte-und-stetigkeit-von-funktionen">Wrapup 2 (Grenzwerte und Stetigkeit von Funktionen)</a></li>
+        <li><a href="#3-1-definition-formeln-und-eigenschaften-der-ableitung">3-1 Definition, Formeln und Eigenschaften der Ableitung</a></li>
       </ul>
     </li>
   </ul>
@@ -793,30 +791,53 @@
       <article class="article">
 
         <div class="docs-article-container">
-          <h1>2 Stetigkeit von Funktionen</h1>
+          <h1>3 Differenzierbarkeit I</h1>
 
           <div class="article-style">
-            <h2 id="2-1-eigenschaften-und-beispiele-von-funktionen">2-1 Eigenschaften und Beispiele von Funktionen</h2>
+            <h2 id="3-1-definition-formeln-und-eigenschaften-der-ableitung">3-1 Definition, Formeln und Eigenschaften der Ableitung</h2>
 <h3 id="vorlesung">Vorlesung</h3>
-<div id="pc-lecture-2-1"></div>
+<div id="pc-lecture-3-1"></div>
 <h3 id="shownotes">Shownotes</h3>
 <ul>
-<li><a href="https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:dUtyovpIkpJ3" target="_blank" rel="noopener">Kapitel 12 im Skript</a>.</li>
-<li>💾 <a href="https://elearning.ovgu.de/course/view.php?id=10324" target="_blank" rel="noopener">Link zum Übungsblatt</a></li>
+<li><a href="https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:g-oDubhB-YNp" target="_blank" rel="noopener">Kapitel 13 im Skript</a>.</li>
 </ul>
-<h2 id="2-2-grenzwerte-und-stetigkeit-von-funktionen">2-2 Grenzwerte und Stetigkeit von Funktionen</h2>
-<h3 id="vorlesung-1">Vorlesung</h3>
-<div id="pc-lecture-2-2"></div>
-<h3 id="shownotes-1">Shownotes</h3>
-<ul>
-<li><a href="https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:PAJBtPWpM6q_" target="_blank" rel="noopener">Kapitel 12 im Skript</a>.</li>
-</ul>
-<h2 id="wrapup-2-grenzwerte-und-stetigkeit-von-funktionen">Wrapup 2 (Grenzwerte und Stetigkeit von Funktionen)</h2>
+<!--
+## 3-2 H&ouml;here Ableitungen, Konvex-Konkav, Extrema
+
+Neuer Link: https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:ysTmELNZiYOb
+
+### Vorlesung
+<div id="pc-lecture-3-2"></div>
+
+### Shownotes
+
+ * [Kapitel 13 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB).
+
+### Illustrierte Beispiele
+
+[das ganze als PNG](../files/3-2-bspx.png)
+
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/rwIzGTpWp-o" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/DkAGMGCSvw4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/QNsfdKN1NqM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+## Wrapup Differenzierbarkeit
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/QFlv5SBfQ6w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+-->
 
           </div>
 
@@ -833,15 +854,9 @@
   
   <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="/courses/mathe2info-21/omi-1/" rel="next">1 Folgen und Reihen</a>
+    <a href="/courses/mathe2info-21/omi-2/" rel="next">2 Stetigkeit von Funktionen</a>
   </div>
   
-  
-  
-  <div class="post-nav-item">
-    <div class="meta-nav">Next</div>
-    <a href="/courses/mathe2info-21/omi-3/" rel="prev">3 Differenzierbarkeit I</a>
-  </div>
   
 </div>
 
@@ -850,7 +865,7 @@
         </div>
 
         <div class="body-footer">
-          <p>Last updated on Apr 5, 2021</p>
+          <p>Last updated on May 12, 2019</p>
 
           
 

@@ -93,6 +93,7 @@
   &lt;iframe src=&#34;https://www.youtube.com/embed/3KLc-ouweIk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;h1 id=&#34;existence-and-representation-of-solutions&#34;&gt;Existence and Representation of Solutions&lt;/h1&gt;
 &lt;h2 id=&#34;lecture-33&#34;&gt;Lecture 3.3&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#solution-to-the-n-dae-regularity-and-index-of-a-matrix-pair&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 3.3&lt;/a&gt;&lt;/li&gt;
@@ -107,6 +108,12 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;files/ueb01.pdf&#34;&gt;Exercise sheet 1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;files/ndae-ueb01.jpg&#34;&gt;My casual whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-34&#34;&gt;Lecture 3.4&lt;/h2&gt;
+&lt;p&gt;A &lt;em&gt;variation of parameters&lt;/em&gt; formula for linear DAEs with constant coefficients.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#a-variation-of-constant-formula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 3.5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Screencast will follow soon&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

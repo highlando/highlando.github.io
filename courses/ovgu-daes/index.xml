@@ -122,5 +122,25 @@
 </description>
     </item>
     
+    <item>
+      <title>4 Linear DAEs with Variable Coefficients</title>
+      <link>/courses/ovgu-daes/daes-4/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-daes/daes-4/</guid>
+      <description>&lt;h1 id=&#34;the-basics&#34;&gt;The Basics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Problem Statement&lt;/li&gt;
+&lt;li&gt;Examples why &lt;em&gt;uniform regularity&lt;/em&gt; does not help&lt;/li&gt;
+&lt;li&gt;Pairs of matrix functions&lt;/li&gt;
+&lt;li&gt;Global and local equivalence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-41&#34;&gt;Lecture 4.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 4&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Screencast is coming soon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

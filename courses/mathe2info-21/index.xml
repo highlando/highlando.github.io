@@ -182,7 +182,7 @@ Podcast und den eigentlichen Wrapup nicht so geeignet. Deswegen hier mein Angebo
 diesen Themenkomplex:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#5-1-zerlegung-ober-untersummen-riemann-integral&#34;&gt;1. Teil (Mittwoch)&lt;/a&gt;: Podcast und Beispiele als Video.&lt;/li&gt;
-&lt;li&gt;[2. Teil (Freitag)]: Illustration der Inhalte als Video.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#5-2-substitionsregel-partielle-integration-uneigentliche-integrale&#34;&gt;2. Teil (Freitag)&lt;/a&gt;: Illustration der Inhalte als Video.&lt;/li&gt;
 &lt;li&gt;[3. Teil (Mittwoch, 19.05.)]: Wrapup mit Vorrechnen der Beispiele aus dem Vorlesungskapitel + ausgewählte Übungsaufgaben.&lt;/li&gt;
 &lt;/ul&gt;
  &lt;!-- (#5-2-substitionsregel-partielle-integration-uneigentliche-integrale): Illustration der Inhalte als Video.--&gt;
@@ -202,33 +202,25 @@ diesen Themenkomplex:&lt;/p&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/ScRfoCNgTPQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;!--
-## 5-2 Substitionsregel, Partielle Integration, Uneigentliche Integrale
-
-Daf&amp;uuml;r gibt es keinen Podcast von mir. In meinem Video habe ich versucht,
-die S&amp;auml;tze euch &amp;uuml;ber die Herleitung n&amp;auml;herzubringen und das
-*Uneigentliche Integral* anhand eines Beispiels (in dem man gleich eine
-Anwendung der Substitionsregel sieht). Ansonsten bitte die &amp;Uuml;bungsaufgaben
-bearbeiten.
-
-### Aufschrieb
-
-Die Herleitung der S&amp;auml;tze 15.25 und 15.21 &amp;uuml;ber die zugrundeliegenden
-Differentiationsregeln und das *uneigentliche Integral* am Beispiel
-
-$$
-f(x) = \frac{1}{\sqrt{1-\|x\|}}, \quad\text{auf }(-1, 1).
-$$
-
-[das ganze als PNG](../files/5-2.png)
-
+&lt;h2 id=&#34;5-2-substitionsregel-partielle-integration-uneigentliche-integrale&#34;&gt;5-2 Substitionsregel, Partielle Integration, Uneigentliche Integrale&lt;/h2&gt;
+&lt;p&gt;Dafür gibt es keinen Podcast von mir. In meinem Video habe ich versucht,
+die Sätze euch über die Herleitung näherzubringen und das
+&lt;em&gt;Uneigentliche Integral&lt;/em&gt; anhand eines Beispiels (in dem man gleich eine
+Anwendung der Substitionsregel sieht). Ansonsten bitte die Übungsaufgaben
+bearbeiten.&lt;/p&gt;
+&lt;h3 id=&#34;aufschrieb&#34;&gt;Aufschrieb&lt;/h3&gt;
+&lt;p&gt;Die Herleitung der Sätze 15.25 und 15.21 über die zugrundeliegenden
+Differentiationsregeln und das &lt;em&gt;uneigentliche Integral&lt;/em&gt; am Beispiel&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \frac{1}{\sqrt{1-|x|}}, \quad\text{auf }(-1, 1).
+$$&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/5-2.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/3SQ5a5Q9RkI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
-
+&lt;!--
 ## 5-3 Wrapup -- Beispiele Vorrechnen
 
 Live Vorrechnen der Beispiele aus der Vorlesung und einer &amp;Uuml;bungsaufgabe

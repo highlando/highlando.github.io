@@ -543,41 +543,27 @@ $$&lt;/p&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/3SQ5a5Q9RkI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;!--
-## 5-3 Wrapup -- Beispiele Vorrechnen
-
-Live Vorrechnen der Beispiele aus der Vorlesung und einer &amp;Uuml;bungsaufgabe
-
+&lt;h2 id=&#34;53&#34;&gt;5-3 Wrapup &amp;ndash; Beispiele Vorrechnen&lt;/h2&gt;
+&lt;p&gt;Live Vorrechnen der Beispiele aus der Vorlesung und einer Übungsaufgabe&lt;/p&gt;
+&lt;p&gt;Zur Vorbereitung (statt Video oder Podcast) schon mal selber die Beispiele rechnen.
 $$
 \int _ {\frac{1}{\pi}}^{\frac{2}{\pi}} -\frac{\sin(\frac{1}{x})}{x^2}~dx \tag{Bsp. 15.22}
-$$
-
-$$
+$$&lt;/p&gt;
+&lt;p&gt;$$
 \int_a^b \cos(x)x~dx \tag{Bsp. 15.26-1}
-$$
-
-$$
+$$&lt;/p&gt;
+&lt;p&gt;$$
 \int_a^b \log(x)~dx \tag{Bsp. 15.26-2}
-$$
-
-$$
+$$&lt;/p&gt;
+&lt;p&gt;$$
 \text{Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
-$$
-
+$$&lt;/p&gt;
+&lt;!--
 [Das ganze als PNG](../files/5-3-bspx.png)
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Id9qFbM0bL0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;!--
-## Wrapup Differenzierbarkeit
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 --&gt;
@@ -650,6 +636,33 @@ $$&lt;/p&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Id9qFbM0bL0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>6 Fourierreihen</title>
+      <link>/courses/mathe2info-21/omi-6/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-6/</guid>
+      <description>&lt;h2 id=&#34;6-trigonometrische-polynome-fourierreihen&#34;&gt;6 Trigonometrische Polynome, Fourierreihen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-6-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:WzWpnQUp8Wbc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 16 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/JPEG#Die_JPEG-Dekodierung&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kosinustransformation in JPG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-wrapup&#34;&gt;6 Wrapup&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/c/JanHeiland/live&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube live&lt;/a&gt; &amp;ndash; &lt;a href=&#34;http://mm.cs.ovgu.de/mathe-info-2/channels/0605-wrapup-fourier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rückkanal&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 ## Wrapup Differenzierbarkeit
 

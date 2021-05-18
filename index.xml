@@ -232,23 +232,37 @@ Turm&lt;/a&gt;&lt;/li&gt;
       <link>/courses/ovgu-daes/daes-4/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
       <guid>/courses/ovgu-daes/daes-4/</guid>
-      <description>&lt;h1 id=&#34;the-basics&#34;&gt;The Basics&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;41----the-basics&#34;&gt;4.1 &amp;ndash; The Basics&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Problem Statement&lt;/li&gt;
-&lt;li&gt;Examples why &lt;em&gt;uniform regularity&lt;/em&gt; does not help&lt;/li&gt;
-&lt;li&gt;Pairs of matrix functions&lt;/li&gt;
-&lt;li&gt;Global and local equivalence&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;lecture-41&#34;&gt;Lecture 4.1&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/IV.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 4&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../files/lecture-41.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Problem Statement&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Examples why &lt;em&gt;uniform regularity&lt;/em&gt; does not help&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pairs of matrix functions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Global and local equivalence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/IV.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 4&lt;/em&gt; in the script&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../files/lecture-41.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Gg73ryjYIRk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;h1 id=&#34;42----a-local-canonical-form&#34;&gt;4.2 &amp;ndash; A local canonical form&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/IV.html#a-local-canonical-form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 4.1&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Screencast and whiteboard following soon&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -981,7 +995,7 @@ where the magnetic field $B$ is determined by the parameters of the acquisition.
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h1&gt;
-&lt;p&gt;Please see the &lt;a href=&#34;mrf_msc_ovgu.pdf&#34;&gt;job advertisement&lt;/a&gt; and apply by April 30.&lt;/p&gt;
+&lt;p&gt;Please see the &lt;a href=&#34;mrf_msc_ovgu.pdf&#34;&gt;job advertisement&lt;/a&gt; and apply by June 30.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -1471,10 +1485,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_huf587f9b3108495ae11823f19c25e7c21_369492_aa96496676c88b7ba3657c75117e082e.png 400w,
-               /post/covid-19-trends/slopes-dsifc_huf587f9b3108495ae11823f19c25e7c21_369492_0cf18b55f30789273fa9e30897f1d7a0.png 760w,
-               /post/covid-19-trends/slopes-dsifc_huf587f9b3108495ae11823f19c25e7c21_369492_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_huf587f9b3108495ae11823f19c25e7c21_369492_aa96496676c88b7ba3657c75117e082e.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_369456_590738b8179233c8ec3fae93225b4535.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_369456_924244aeb1932a8555951b519914dfef.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_369456_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_369456_590738b8179233c8ec3fae93225b4535.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1548,10 +1562,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu4dc9da3e06484c51d32478bdcc17439a_229152_fa68fcd15b798240ee94a1990a0338e6.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu4dc9da3e06484c51d32478bdcc17439a_229152_4dfc0013ef0dfd6663cbfe117eca2a2b.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu4dc9da3e06484c51d32478bdcc17439a_229152_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu4dc9da3e06484c51d32478bdcc17439a_229152_fa68fcd15b798240ee94a1990a0338e6.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hu780e3bffcbda92aeb3fdd42cbcc3b06c_226529_1508756caf26d98d636b85b4d5ea6ab0.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hu780e3bffcbda92aeb3fdd42cbcc3b06c_226529_51f89b1d3633e7027c002f0a602ac5ef.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hu780e3bffcbda92aeb3fdd42cbcc3b06c_226529_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu780e3bffcbda92aeb3fdd42cbcc3b06c_226529_1508756caf26d98d636b85b4d5ea6ab0.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

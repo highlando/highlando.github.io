@@ -401,10 +401,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_369456_590738b8179233c8ec3fae93225b4535.png 400w,
-               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_369456_924244aeb1932a8555951b519914dfef.png 760w,
-               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_369456_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_369456_590738b8179233c8ec3fae93225b4535.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_352034_ed2c2b59e63d1ae176f4d4c123c89288.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_352034_0749fcb0f21b1c21dd54f11c617764d2.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_352034_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_352034_ed2c2b59e63d1ae176f4d4c123c89288.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -478,10 +478,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu780e3bffcbda92aeb3fdd42cbcc3b06c_226529_1508756caf26d98d636b85b4d5ea6ab0.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu780e3bffcbda92aeb3fdd42cbcc3b06c_226529_51f89b1d3633e7027c002f0a602ac5ef.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu780e3bffcbda92aeb3fdd42cbcc3b06c_226529_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu780e3bffcbda92aeb3fdd42cbcc3b06c_226529_1508756caf26d98d636b85b4d5ea6ab0.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_huee23f28abe4360e4bbfae23a05b377e8_218644_940f35cb3279333b9afe2a637608f392.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_huee23f28abe4360e4bbfae23a05b377e8_218644_1bbfa0fd40862c9226713318b7f3e002.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_huee23f28abe4360e4bbfae23a05b377e8_218644_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_huee23f28abe4360e4bbfae23a05b377e8_218644_940f35cb3279333b9afe2a637608f392.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

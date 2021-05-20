@@ -556,17 +556,16 @@ $$&lt;/p&gt;
 \int_a^b \log(x)~dx \tag{Bsp. 15.26-2}
 $$&lt;/p&gt;
 &lt;p&gt;$$
-\text{Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
+\text{Bestimmtes Integral und Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
 $$&lt;/p&gt;
-&lt;!--
-[Das ganze als PNG](../files/5-3-bspx.png)
-
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;files/5-3-wrapup-bspx.jpg&#34;&gt;Wrapup und Lösungen als JPG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/Id9qFbM0bL0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jXghB9l5NIc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
---&gt;
 </description>
     </item>
     
@@ -658,11 +657,9 @@ $$&lt;/p&gt;
 &lt;div id=&#34;pc-lecture-6-1&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:WzWpnQUp8Wbc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 16 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:CA0JjKs3Ew94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 16 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/JPEG#Die_JPEG-Dekodierung&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kosinustransformation in JPG&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;6-wrapup&#34;&gt;6 Wrapup&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/c/JanHeiland/live&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube live&lt;/a&gt; &amp;ndash; &lt;a href=&#34;http://mm.cs.ovgu.de/mathe-info-2/channels/0605-wrapup-fourier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rückkanal&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 ## Wrapup Differenzierbarkeit
 
@@ -1503,10 +1500,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_352034_ed2c2b59e63d1ae176f4d4c123c89288.png 400w,
-               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_352034_0749fcb0f21b1c21dd54f11c617764d2.png 760w,
-               /post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_352034_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_hu84bed4044bdeea18b234ffc387429efc_352034_ed2c2b59e63d1ae176f4d4c123c89288.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hu87fd909b275cad137ba6550c158d58f4_382195_d75a130c904c3b01d4ee3046f25e573a.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hu87fd909b275cad137ba6550c158d58f4_382195_8e629bef8c876bde2c0368884e686b4c.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hu87fd909b275cad137ba6550c158d58f4_382195_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hu87fd909b275cad137ba6550c158d58f4_382195_d75a130c904c3b01d4ee3046f25e573a.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1580,10 +1577,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_huee23f28abe4360e4bbfae23a05b377e8_218644_940f35cb3279333b9afe2a637608f392.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_huee23f28abe4360e4bbfae23a05b377e8_218644_1bbfa0fd40862c9226713318b7f3e002.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_huee23f28abe4360e4bbfae23a05b377e8_218644_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_huee23f28abe4360e4bbfae23a05b377e8_218644_940f35cb3279333b9afe2a637608f392.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hu6bc13427e1e54a9231f7080d1c3cc52a_231277_275fcb2c2eb18daa680197d35ceb3015.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hu6bc13427e1e54a9231f7080d1c3cc52a_231277_13147facc11a80aa2d287035c1f237a3.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hu6bc13427e1e54a9231f7080d1c3cc52a_231277_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu6bc13427e1e54a9231f7080d1c3cc52a_231277_275fcb2c2eb18daa680197d35ceb3015.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

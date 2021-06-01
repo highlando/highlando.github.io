@@ -282,8 +282,13 @@ Turm&lt;/a&gt;&lt;/li&gt;
 &lt;h1 id=&#34;44&#34;&gt;4.4 &amp;ndash; Strangeness Index and Derivative Arrays&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/IV.html#the-strangeness-index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 4.3 and 4.4&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;screencast and whiteboard following soon (by noon)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-44.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/owV_3tij1P4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -1583,10 +1588,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_huc33a6741fd7f3c2c400f89fc6b247daa_366677_140a072d9e2983e76081258d8b5c1151.png 400w,
-               /post/covid-19-trends/slopes-dsifc_huc33a6741fd7f3c2c400f89fc6b247daa_366677_50838bc5fe6f4d0df5c73a5687191c84.png 760w,
-               /post/covid-19-trends/slopes-dsifc_huc33a6741fd7f3c2c400f89fc6b247daa_366677_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_huc33a6741fd7f3c2c400f89fc6b247daa_366677_140a072d9e2983e76081258d8b5c1151.png&#34;
+               /post/covid-19-trends/slopes-dsifc_huce891b4ff029ab6cfee57aca9c681ca0_367761_b75dc0eb94f9f2656e3f9a276eb98056.png 400w,
+               /post/covid-19-trends/slopes-dsifc_huce891b4ff029ab6cfee57aca9c681ca0_367761_d34b7f6764c493866d7b6cfc36430e9e.png 760w,
+               /post/covid-19-trends/slopes-dsifc_huce891b4ff029ab6cfee57aca9c681ca0_367761_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_huce891b4ff029ab6cfee57aca9c681ca0_367761_b75dc0eb94f9f2656e3f9a276eb98056.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1660,10 +1665,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu4c09b6b932223be5ca63709651ffa9ef_216592_64e787a0bf2fc8160ec2e27fe979b233.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu4c09b6b932223be5ca63709651ffa9ef_216592_1fc78f43be094fe0a285cbccdea7924c.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu4c09b6b932223be5ca63709651ffa9ef_216592_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu4c09b6b932223be5ca63709651ffa9ef_216592_64e787a0bf2fc8160ec2e27fe979b233.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_huce11e29c9d8810ee01b2e5dbc15bdbac_218778_cbadf8e5e9f085445a4793144bed9ff8.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_huce11e29c9d8810ee01b2e5dbc15bdbac_218778_5a77eaea60477077ee3b271debc820ff.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_huce11e29c9d8810ee01b2e5dbc15bdbac_218778_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_huce11e29c9d8810ee01b2e5dbc15bdbac_218778_cbadf8e5e9f085445a4793144bed9ff8.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

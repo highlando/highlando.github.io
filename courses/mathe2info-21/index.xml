@@ -333,5 +333,75 @@ Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix B
 </description>
     </item>
     
+    <item>
+      <title>8 Integration II</title>
+      <link>/courses/mathe2info-21/omi-8/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-8/</guid>
+      <description>&lt;p&gt;Das ist wieder eine dreiteilige Vorlesung&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Screencast (Mittwoch)&lt;/li&gt;
+&lt;li&gt;Screencast (Freitag)&lt;/li&gt;
+&lt;li&gt;Screencast+Wrapup (Mittwoch)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;81&#34;&gt;8-1 Quader, Integration Multivariabler Funktionen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/8-1-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xLdLJxPsjD4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:7kgEp_HYDdne&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+##  8-2 Normalbereiche und Transformationssatz
+
+### Vorlesung
+[das ganze als PNG](../files/8-2-lecture.png)
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7qLIr4Zlsf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+### Shownotes
+
+ * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW).
+
+## 8-3 Transformationssatz und Polarkoordinaten
+
+[das ganze als PNG](../files/8-3-lecture.png)
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/PFTo1CXbVuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+### Shownotes
+
+ * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW).
+
+ * Die [Umkehrung der Transformation in Polarkoordinaten](https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten).
+ * Ein gegl&amp;uuml;cktes Bild der Kugelkoordinaten:
+
+&lt;a title=&#34;Ag2gaeh / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)&#34; href=&#34;https://commons.wikimedia.org/wiki/File:Kugelkoord-def.svg&#34;&gt;&lt;img width=&#34;256&#34; alt=&#34;Kugelkoord-def&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kugelkoord-def.svg/256px-Kugelkoord-def.svg.png&#34;&gt;&lt;/a&gt;
+
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

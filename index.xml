@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Heiland</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 May 2021 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>Jan Heiland</title>
@@ -918,6 +918,76 @@ Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix B
     
     <item>
       <title>8 Integration II</title>
+      <link>/courses/mathe2info-21/omi-8/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-8/</guid>
+      <description>&lt;p&gt;Das ist wieder eine dreiteilige Vorlesung&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Screencast (Mittwoch)&lt;/li&gt;
+&lt;li&gt;Screencast (Freitag)&lt;/li&gt;
+&lt;li&gt;Screencast+Wrapup (Mittwoch)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;81&#34;&gt;8-1 Quader, Integration Multivariabler Funktionen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/8-1-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xLdLJxPsjD4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:7kgEp_HYDdne&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+##  8-2 Normalbereiche und Transformationssatz
+
+### Vorlesung
+[das ganze als PNG](../files/8-2-lecture.png)
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7qLIr4Zlsf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+### Shownotes
+
+ * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW).
+
+## 8-3 Transformationssatz und Polarkoordinaten
+
+[das ganze als PNG](../files/8-3-lecture.png)
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/PFTo1CXbVuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+### Shownotes
+
+ * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW).
+
+ * Die [Umkehrung der Transformation in Polarkoordinaten](https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten).
+ * Ein gegl&amp;uuml;cktes Bild der Kugelkoordinaten:
+
+&lt;a title=&#34;Ag2gaeh / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)&#34; href=&#34;https://commons.wikimedia.org/wiki/File:Kugelkoord-def.svg&#34;&gt;&lt;img width=&#34;256&#34; alt=&#34;Kugelkoord-def&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kugelkoord-def.svg/256px-Kugelkoord-def.svg.png&#34;&gt;&lt;/a&gt;
+
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8 Integration II</title>
       <link>/courses/ovgu-mathe-informatik/omi-8/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
       <guid>/courses/ovgu-mathe-informatik/omi-8/</guid>
@@ -1654,10 +1724,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_hub3935bb712e831a92d8e4cefcb733d13_360876_9941698b183d446694ee4814c35a7dea.png 400w,
-               /post/covid-19-trends/slopes-dsifc_hub3935bb712e831a92d8e4cefcb733d13_360876_644eb404f4558ac2fcdabe9e46d2c77b.png 760w,
-               /post/covid-19-trends/slopes-dsifc_hub3935bb712e831a92d8e4cefcb733d13_360876_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_hub3935bb712e831a92d8e4cefcb733d13_360876_9941698b183d446694ee4814c35a7dea.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hueca8914558c1ff8cb4a4284fcb8ad206_368652_42f4266991046a5c284771508f169a8e.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hueca8914558c1ff8cb4a4284fcb8ad206_368652_bdf50f768ef7b0d621fec2403c38e023.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hueca8914558c1ff8cb4a4284fcb8ad206_368652_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hueca8914558c1ff8cb4a4284fcb8ad206_368652_42f4266991046a5c284771508f169a8e.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1731,10 +1801,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hub4fe39277fc972fa806e4ad0ae622e0c_218348_0bad8eb0b0c071d25da07cf28af56d44.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hub4fe39277fc972fa806e4ad0ae622e0c_218348_62609685e04fa7336e0675177e879357.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hub4fe39277fc972fa806e4ad0ae622e0c_218348_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hub4fe39277fc972fa806e4ad0ae622e0c_218348_0bad8eb0b0c071d25da07cf28af56d44.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hu8095266a10d49c9c8bbccff334beee7f_216207_632b14967da0fe1e549a5302e44eb960.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hu8095266a10d49c9c8bbccff334beee7f_216207_8052ae3a7310f9c660127f15205e5c2b.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hu8095266a10d49c9c8bbccff334beee7f_216207_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu8095266a10d49c9c8bbccff334beee7f_216207_632b14967da0fe1e549a5302e44eb960.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

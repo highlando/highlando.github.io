@@ -368,26 +368,26 @@ Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix B
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:yud_mCu8c2V1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!--
-## 8-3 Transformationssatz und Polarkoordinaten
-
-[das ganze als PNG](../files/8-3-lecture.png)
-
+&lt;h2 id=&#34;83&#34;&gt;8-3 Transformationssatz und Polarkoordinaten&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;../files/8-3-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/PFTo1CXbVuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
-### Shownotes
-
- * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW).
-
- * Die [Umkehrung der Transformation in Polarkoordinaten](https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten).
- * Ein gegl&amp;uuml;cktes Bild der Kugelkoordinaten:
-
-&lt;a title=&#34;Ag2gaeh / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)&#34; href=&#34;https://commons.wikimedia.org/wiki/File:Kugelkoord-def.svg&#34;&gt;&lt;img width=&#34;256&#34; alt=&#34;Kugelkoord-def&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kugelkoord-def.svg/256px-Kugelkoord-def.svg.png&#34;&gt;&lt;/a&gt;
-
+&lt;h3 id=&#34;shownotes-2&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:9s6zzVGd2dWp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Die &lt;a href=&#34;https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Umkehrung der Transformation in Polarkoordinaten&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ein geglücktes Bild der Kugelkoordinaten:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a title=&#34;Ag2gaeh / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)&#34; href=&#34;https://commons.wikimedia.org/wiki/File:Kugelkoord-def.svg&#34;&gt;&lt;img width=&#34;256&#34; alt=&#34;Kugelkoord-def&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kugelkoord-def.svg/256px-Kugelkoord-def.svg.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 ## Wrapup Differenzierbarkeit
 

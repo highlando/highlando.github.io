@@ -360,7 +360,7 @@ Turm&lt;/a&gt;&lt;/li&gt;
       <link>/courses/ovgu-daes/daes-5/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
       <guid>/courses/ovgu-daes/daes-5/</guid>
-      <description>&lt;h1 id=&#34;50&#34;&gt;5.0 &amp;ndash; Numerical Approximation of ODEs&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;50&#34;&gt;Numerical Approximation of ODEs&lt;/h1&gt;
 &lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Basic Ideas&lt;/li&gt;
@@ -368,7 +368,7 @@ Turm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Consistency / Stability / Convergence&lt;/li&gt;
 &lt;li&gt;Runge-Kutta Methods&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;lecture&#34;&gt;Lecture&lt;/h2&gt;
+&lt;h2 id=&#34;lecture-5-0&#34;&gt;Lecture 5-0&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../files/lecture-50.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -415,6 +415,24 @@ $$N\in{2^{8}, 2^{10}, 2^{14}, 2^{18}}$$
 by comparing the computed value of $x_N\approx x(3)$ to the actual value $x(3)=\sin (e^3)$.&lt;/li&gt;
 &lt;li&gt;Implement any Runge-Kutta method of higher-order&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; and repeat this numerical study.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 id=&#34;51&#34;&gt;Basics of Numerical Approximation of DAEs&lt;/h1&gt;
+&lt;h2 id=&#34;contents-1&#34;&gt;Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Notions and Notations of RKM&lt;/li&gt;
+&lt;li&gt;How to apply an RKM to $E\dot x = Ax+f(t)$&lt;/li&gt;
+&lt;li&gt;Explicit Euler fails, Implicit Euler works&lt;/li&gt;
+&lt;li&gt;RKM and System Transformations&lt;/li&gt;
+&lt;li&gt;Analysis via the Kronecker Normal Form&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-5-1&#34;&gt;Lecture 5-1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-51.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wd97VkjHz9U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -1721,10 +1739,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_hu03e986cdc7e2a64fe8059078f143c737_354349_681d4a1275c5f2dd4a103beb1f1cf542.png 400w,
-               /post/covid-19-trends/slopes-dsifc_hu03e986cdc7e2a64fe8059078f143c737_354349_b4bea5c205ad11110a77c90d3ce5c353.png 760w,
-               /post/covid-19-trends/slopes-dsifc_hu03e986cdc7e2a64fe8059078f143c737_354349_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_hu03e986cdc7e2a64fe8059078f143c737_354349_681d4a1275c5f2dd4a103beb1f1cf542.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hu758c3b7d7ce76752e2a9d22efe5c3085_336456_d427dacb8e9e72d9600c520a3dde8c6e.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hu758c3b7d7ce76752e2a9d22efe5c3085_336456_cdf09f4245350e987b9dbd43238c384e.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hu758c3b7d7ce76752e2a9d22efe5c3085_336456_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hu758c3b7d7ce76752e2a9d22efe5c3085_336456_d427dacb8e9e72d9600c520a3dde8c6e.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1798,10 +1816,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu7b9a8342a03565be8f8bc9a5f2c8e2ee_226016_f08cd71acce6299c2d221a31f3e18f3c.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu7b9a8342a03565be8f8bc9a5f2c8e2ee_226016_570a8f23f9a57cd09bc7ee40c932def9.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu7b9a8342a03565be8f8bc9a5f2c8e2ee_226016_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu7b9a8342a03565be8f8bc9a5f2c8e2ee_226016_f08cd71acce6299c2d221a31f3e18f3c.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_huaee3bb9fdc0037c1604cc33aba8c229d_215618_ddd8eb46aed1becf00032d9ab9c81e2c.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_huaee3bb9fdc0037c1604cc33aba8c229d_215618_770fc26aa9386c662c17fa9299686562.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_huaee3bb9fdc0037c1604cc33aba8c229d_215618_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_huaee3bb9fdc0037c1604cc33aba8c229d_215618_ddd8eb46aed1becf00032d9ab9c81e2c.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

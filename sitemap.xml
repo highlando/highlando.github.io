@@ -86,10 +86,31 @@
     <loc>/courses/ovgu-mathe-informatik/omi-9/</loc>
     <lastmod>2019-07-07T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
-    <lastmod>2021-06-09T00:00:00+01:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2021-07-08T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/event/21-ifaccp-nse-nn-ldlpv/</loc>
+    <lastmod>2021-07-08T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/jan-heiland/</loc>
+    <lastmod>2021-07-08T14:30:00+02:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-07-08T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2021-07-08T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/peter-benner/</loc>
+    <lastmod>2021-07-08T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-08T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2021-07-08T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/courses/</loc>
     <lastmod>2021-06-09T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/markdown/</loc>
@@ -107,9 +128,6 @@
     <loc>/tag/productivity/</loc>
     <lastmod>2021-04-18T14:36:55+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-04-18T14:36:55+02:00</lastmod>
-  </url><url>
     <loc>/tag/ba-ma/</loc>
     <lastmod>2021-04-15T14:23:01+02:00</lastmod>
   </url><url>
@@ -121,18 +139,6 @@
   </url><url>
     <loc>/project/</loc>
     <lastmod>2021-04-15T14:23:01+02:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-03-17T14:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/author/jan-heiland/</loc>
-    <lastmod>2021-03-17T14:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/author/peter-benner/</loc>
-    <lastmod>2021-03-17T14:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/event/</loc>
-    <lastmod>2021-03-17T14:00:00+01:00</lastmod>
   </url><url>
     <loc>/event/21-gpuq-gamm/</loc>
     <lastmod>2021-03-17T14:00:00+01:00</lastmod>

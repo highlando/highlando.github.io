@@ -1100,11 +1100,16 @@ Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix B
       <guid>/courses/mathe2info-21/omi-9/</guid>
       <description>&lt;p&gt;Das ist eine zweiteilige Zusammenfassung der relevantesten (für die anstehende
 Klausur) Inhalte. Immer im BBB.&lt;/p&gt;
-&lt;p&gt;Plus ein Bonus mit vorgerechneten Beispielen&lt;/p&gt;
 &lt;h2 id=&#34;1-folgen-und-stetigkeit&#34;&gt;1 Folgen und Stetigkeit&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../files/cooldown-91-21-prefill.png&#34;&gt;das vorausgefuellte Whiteboard&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../files/cooldown-91-21-examples.png&#34;&gt;und mit den Beispielen der Vorlesung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link zum Vorlesungsvideo gibt&amp;rsquo;s im &lt;a href=&#34;https://elearning.ovgu.de/course/view.php?id=10324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moodle - elearning&lt;/a&gt; unter &lt;em&gt;Vorlesungsaufzeichnungen&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-differentiation-und-integration&#34;&gt;2 Differentiation und Integration&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/cool-down-2.png&#34;&gt;das vorausgefuellte Whiteboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/9-2-cooldown.jpg&#34;&gt;und mit den Beispielen der Vorlesung&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Link zum Vorlesungsvideo gibt&amp;rsquo;s im &lt;a href=&#34;https://elearning.ovgu.de/course/view.php?id=10324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moodle - elearning&lt;/a&gt; unter &lt;em&gt;Vorlesungsaufzeichnungen&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;x-die-videos-dazu-aus-dem-letzten-jahr&#34;&gt;X Die Videos dazu aus dem letzten Jahr&lt;/h2&gt;
@@ -1123,33 +1128,12 @@ Klausur) Inhalte. Immer im BBB.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/d7ccwQ7i4pQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;/p&gt;
-&lt;!--
-## 2 Differentiation und Integration
-
-[das ganze (vorab) als PNG](../files/cool-down-2.png)
-[und alles ausgef&amp;uuml;llt](../files/cool-down-2-1.png)
-
-### Screencast
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/lt0oN7HGvcg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-
-## 3 Beispiele
-
- * Grenzwert einer Funktion mit mehreren Ver&amp;auml;nderlichen
- * Taylorreihe und Restglied
- * [das ganze als PNG](../files/cool-down-3.png)
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/bnRdkrX8j5Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
---&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -1832,10 +1816,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_huf1fdb3e40e3906593cce1686982db3ed_345447_7887751842017f988dc98b2c433f1826.png 400w,
-               /post/covid-19-trends/slopes-dsifc_huf1fdb3e40e3906593cce1686982db3ed_345447_8a010ab2564d96c120cbbc9232ef7c34.png 760w,
-               /post/covid-19-trends/slopes-dsifc_huf1fdb3e40e3906593cce1686982db3ed_345447_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_huf1fdb3e40e3906593cce1686982db3ed_345447_7887751842017f988dc98b2c433f1826.png&#34;
+               /post/covid-19-trends/slopes-dsifc_huf1fdb3e40e3906593cce1686982db3ed_338564_d9ab11ee4d8cc708e52d4daaf5b822ca.png 400w,
+               /post/covid-19-trends/slopes-dsifc_huf1fdb3e40e3906593cce1686982db3ed_338564_58e94936eadf43732e7fac2b1966cb4c.png 760w,
+               /post/covid-19-trends/slopes-dsifc_huf1fdb3e40e3906593cce1686982db3ed_338564_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_huf1fdb3e40e3906593cce1686982db3ed_338564_d9ab11ee4d8cc708e52d4daaf5b822ca.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1909,10 +1893,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu3e8562cba3cef7361e767d572ad58470_218096_bb3f7d220afda30829fe6b0a6882dae3.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu3e8562cba3cef7361e767d572ad58470_218096_f63dca70df5609f5fd997e4be1eea8ba.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu3e8562cba3cef7361e767d572ad58470_218096_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu3e8562cba3cef7361e767d572ad58470_218096_bb3f7d220afda30829fe6b0a6882dae3.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hu3e8562cba3cef7361e767d572ad58470_210464_cc5ee496deaeb0b8f8228976a5e59611.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hu3e8562cba3cef7361e767d572ad58470_210464_b90987a12522990137dd5fc7c94a2670.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hu3e8562cba3cef7361e767d572ad58470_210464_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu3e8562cba3cef7361e767d572ad58470_210464_cc5ee496deaeb0b8f8228976a5e59611.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

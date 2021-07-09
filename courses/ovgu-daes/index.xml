@@ -291,6 +291,11 @@ by comparing the computed value of $x_N\approx x(3)$ to the actual value $x(3)=\
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../files/lecture-53.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;rkmbdf-for-nonlinear-semi-explicit-daes-of-index-12&#34;&gt;RKM/BDF for (Nonlinear) Semi-explicit DAEs of Index 1/2&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/RKM-index-2-BDF.pdf&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/numerical-analysis-and-software-overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to the list of Theorems and Software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

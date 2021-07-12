@@ -804,6 +804,7 @@
     </li>
     <li><a href="#rkm-for-nonlinear-semi-explicit-daes-of-index-1">RKM for (Nonlinear) Semi-explicit DAEs of Index 1</a></li>
     <li><a href="#rkmbdf-for-nonlinear-semi-explicit-daes-of-index-12">RKM/BDF for (Nonlinear) Semi-explicit DAEs of Index 1/2</a></li>
+    <li><a href="#numerical-methods-for-index-reduction">Numerical Methods for Index Reduction</a></li>
   </ul>
 </nav>
 
@@ -920,6 +921,14 @@ by comparing the computed value of $x_N\approx x(3)$ to the actual value $x(3)=\
 <ul>
 <li><a href="../files/RKM-index-2-BDF.pdf">Whiteboard Notes</a></li>
 <li><a href="https://www.janheiland.de/script-daes/numerical-analysis-and-software-overview.html" target="_blank" rel="noopener">Link to the list of Theorems and Software</a></li>
+</ul>
+<h1 id="numerical-methods-for-index-reduction">Numerical Methods for Index Reduction</h1>
+<ol>
+<li>For unstructured systems &ndash; use the derivative array but compute the projections <em>on the fly</em>.</li>
+<li>For structured systems like multibody systems (like the <a href="https://www.janheiland.de/script-daes/introduction.html#the-pendulum" target="_blank" rel="noopener">pendulum</a> &ndash; differentiate the relevant parts, add these equations to the system, and make the system square again by introducing new variables.</li>
+</ol>
+<ul>
+<li><a href="../files/Numerical-Index-Reduction.pdf">Whiteboard Notes</a></li>
 </ul>
 <section class="footnotes" role="doc-endnotes">
 <hr>

@@ -1829,10 +1829,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_hu2089020d16e140a1eed1a17a0c9afe67_316833_aca27b8bd9552ee251ac8fc2266fd0bd.png 400w,
-               /post/covid-19-trends/slopes-dsifc_hu2089020d16e140a1eed1a17a0c9afe67_316833_89b28a85dd53d11be3196f9722e43825.png 760w,
-               /post/covid-19-trends/slopes-dsifc_hu2089020d16e140a1eed1a17a0c9afe67_316833_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_hu2089020d16e140a1eed1a17a0c9afe67_316833_aca27b8bd9552ee251ac8fc2266fd0bd.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hu236b3039a7924dba8d8257aa4cdd69ef_333479_244b33f30f040a15aa228a40e034073c.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hu236b3039a7924dba8d8257aa4cdd69ef_333479_a686775c285e5fc9186a52ed86b81941.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hu236b3039a7924dba8d8257aa4cdd69ef_333479_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hu236b3039a7924dba8d8257aa4cdd69ef_333479_244b33f30f040a15aa228a40e034073c.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1906,10 +1906,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu5987ef2336559328c76fb41f9c912f72_209806_a4427261bf80ec48f3178120bc783df6.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu5987ef2336559328c76fb41f9c912f72_209806_44a071b51a77b00e1ccdb54d082f3805.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu5987ef2336559328c76fb41f9c912f72_209806_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu5987ef2336559328c76fb41f9c912f72_209806_a4427261bf80ec48f3178120bc783df6.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hu970c4c83190c468af4300feec826d064_219327_f63efdda38fd0412874eea570170ffa0.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hu970c4c83190c468af4300feec826d064_219327_54680f6a4ee54e4892998a5dcde5fee8.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hu970c4c83190c468af4300feec826d064_219327_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu970c4c83190c468af4300feec826d064_219327_f63efdda38fd0412874eea570170ffa0.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3157,8 +3157,7 @@ $&lt;/p&gt;
 &lt;h1 id=&#34;problem-statement&#34;&gt;Problem statement:&lt;/h1&gt;
 &lt;p&gt;Thermographic Particle Image Velocimetry is an optical technique to
 measure the temperature and velocity of fluid flows (gas or liquid), by
-introducing small (micron-size) luminescent particles into the flow
-[1]. It has been applied in various types of flows including internal
+introducing small (micron-size) luminescent particles into the flow&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. It has been applied in various types of flows including internal
 combustion engines, film cooling flows, and in natural convection. When
 using micron-size particles, the particles follow the flow, and their
 temperature is at equilibrium with the gas. If we illuminate the
@@ -3179,10 +3178,9 @@ The wanted scenario mentioned above is a). In unwanted scenarios b-d),
 either excitation light or luminescence emission is scattered by
 particles outside the probe volume. The objective of this project is to
 theoretically quantify the contribution of unwanted light by
-implementing Mie scattering theory with random particle positions. More
-detail on Mie scattering theory can be found in the following link:
-[&lt;em&gt;http://plaza.ufl.edu/dwhahn/Rayleigh%20and%20Mie%20Light%20Scattering.pdf&lt;/em&gt;](&lt;a href=&#34;http://plaza.ufl.edu/dwhahn/Rayleigh&#34;&gt;http://plaza.ufl.edu/dwhahn/Rayleigh&lt;/a&gt; and Mie Light Scattering.pdf)&lt;/p&gt;
-&lt;h1 id=&#34;task-description&#34;&gt;Task description:*&lt;/h1&gt;
+implementing Mie scattering theory&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; with random particle positions. More
+detail on Mie scattering theory can be found the following link:&lt;/p&gt;
+&lt;h1 id=&#34;task-description&#34;&gt;Task description:&lt;/h1&gt;
 &lt;p&gt;a)  Improve the current model by developing numerical schemes to
 increase the spatial resolution to computational cost ratio.&lt;/p&gt;
 &lt;p&gt;b)  Quantify the contribution of multiple scattering relative (b and c)
@@ -3194,9 +3192,19 @@ imaginary over real part of index of refraction), and compare with
 experimental observations.&lt;/p&gt;
 &lt;p&gt;e)  Estimate the relative probability of three particle events compared
 to the two particle event of scenarios b and c).&lt;/p&gt;
-&lt;p&gt;[1] C. Abram, B. Fond, and F. Beyrau, “Temperature measurement
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;C. Abram, B. Fond, and F. Beyrau, “Temperature measurement
 techniques for gas and liquid flows using thermographic phosphor tracer
-particles,” Prog. Energy Combust. Sci. 64, 93 – 156 (2018).&lt;/p&gt;
+particles,” Prog. Energy Combust. Sci. 64, 93 – 156 (2018). &lt;a href=&#34;http://ltces.dem.ist.utl.pt/lxlaser/lxlaser2016/finalworks2016/papers/01.5_3_154paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;em&gt;The scattering of light may be thought of as the redirection of light that takes place when an electromagnetic (EM) wave (i.e. an incident light ray) encounters an obstacle or nonhomogeneity, in our case the scattering particle&amp;hellip;&lt;/em&gt; &lt;a href=&#34;http://plaza.ufl.edu/dwhahn/Rayleigh%20and%20Mie%20Light%20Scattering.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     

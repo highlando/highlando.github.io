@@ -1376,11 +1376,29 @@ the uncertainties.&lt;/p&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#2021&#34;&gt;2021&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#2020&#34;&gt;2020&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#2019&#34;&gt;2019&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;/details&gt;
+&lt;h1 id=&#34;2021&#34;&gt;2021&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Date&lt;/th&gt;
+&lt;th&gt;Occasion&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Jul 19 &amp;ndash; Jul 21&lt;/td&gt;
+&lt;td&gt;Minisymposium &lt;a href=&#34;/events/21-ms-siamct/&#34;&gt;Data-Driven Methods in Model Reduction and Control&lt;/a&gt; at the &lt;a href=&#34;https://www.siam.org/conferences/cm/conference/ct21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIAM CT21&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Virtual Conference&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1829,10 +1847,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_hu32068df5e7cfba6b7f64385fcbc96bc5_336034_a76260c49f3001c029b50264719e9928.png 400w,
-               /post/covid-19-trends/slopes-dsifc_hu32068df5e7cfba6b7f64385fcbc96bc5_336034_48dd3edcbf256bd851a68e77a825257e.png 760w,
-               /post/covid-19-trends/slopes-dsifc_hu32068df5e7cfba6b7f64385fcbc96bc5_336034_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_hu32068df5e7cfba6b7f64385fcbc96bc5_336034_a76260c49f3001c029b50264719e9928.png&#34;
+               /post/covid-19-trends/slopes-dsifc_hud06e4f0c8ae2208c5ee93400b7a84b59_332733_84da375e3e639c6ce43d888433ce37f3.png 400w,
+               /post/covid-19-trends/slopes-dsifc_hud06e4f0c8ae2208c5ee93400b7a84b59_332733_032d1d5445430579dd0acd62d53582f4.png 760w,
+               /post/covid-19-trends/slopes-dsifc_hud06e4f0c8ae2208c5ee93400b7a84b59_332733_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_hud06e4f0c8ae2208c5ee93400b7a84b59_332733_84da375e3e639c6ce43d888433ce37f3.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1906,10 +1924,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hu8e5d51cb47f3112ce09c2bbba3a74e26_220648_184a28b08252604564202ce2f63dc67e.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hu8e5d51cb47f3112ce09c2bbba3a74e26_220648_cf6465ada91936d3f1fa2bcaec26386d.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hu8e5d51cb47f3112ce09c2bbba3a74e26_220648_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu8e5d51cb47f3112ce09c2bbba3a74e26_220648_184a28b08252604564202ce2f63dc67e.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hu6324c7ec97c1900a31da6475c3625b7b_216631_f69c8953fbcc2d6db58764733db2ef80.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hu6324c7ec97c1900a31da6475c3625b7b_216631_01ace917821e1a80fdd39f9178fff354.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hu6324c7ec97c1900a31da6475c3625b7b_216631_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hu6324c7ec97c1900a31da6475c3625b7b_216631_f69c8953fbcc2d6db58764733db2ef80.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3893,6 +3911,95 @@ Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fn
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Martin Hess&lt;/strong&gt;, SISSA Triest&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;Model Reduction in Micromotility Applications&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MS -- Low-rank modelling in uncertainty quantification</title>
+      <link>/events/21-ms-siamct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/events/21-ms-siamct/</guid>
+      <description>&lt;h1 id=&#34;mini-symposium&#34;&gt;Mini Symposium&lt;/h1&gt;
+&lt;p&gt;Data based methods have been in use for model order reduction (MOR) or control systems design (CSD) for several decades. Classical system identification approaches and established model reduction techniques like Proper Orthogonal Decomposition all follow the idea of using data to fit or enhance a model. With the ever increasing availability of both data and computing resources as well as with the recent trends towards the inclusion of machine learning (ML) in scientific computing, data-driven methods have gained new interest and application fields also in MOR and CSD. In contrast to the more classical approaches, these are often entirely data-driven, and can thus easily applied to measurements as well.&lt;/p&gt;
+&lt;p&gt;In this mini symposium, we bring together experts from the fields of MOR, CSD, and ML who combine classical methods with recent developments in data-driven modelling to discuss theoretical foundations, the current state of research, and future applications.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Lecture&lt;/th&gt;
+&lt;th&gt;Paper&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Tobias Ritschel (MPI Magdeburg)&lt;/td&gt;
+&lt;td&gt;Accelerated state and parameter estimation in power grids using clustering&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://vimeo.com/577510314&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Shane McQuarrie (U Texas)&lt;/td&gt;
+&lt;td&gt;Data-driven reduced-order models via regularized Operator Inference for a single-injector combustion process&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/566429454&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2008.02862&#34;&gt;https://arxiv.org/abs/2008.02862&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dario Dennstädt (TU Ilmenau)&lt;/td&gt;
+&lt;td&gt;Data-driven control design with funnel MPC&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/566091642&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Igor Pontes Duff (MPI for Dynamics of Complex Technical Systems)&lt;/td&gt;
+&lt;td&gt;Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/569501809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://arxiv.org/abs/2010.06701&#34;&gt;http://arxiv.org/abs/2010.06701&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alexandre Mauroy (Namur)&lt;/td&gt;
+&lt;td&gt;Data-driven stability analysis with the Koopman operator&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/569378102&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alberto Padovan (Princeton)&lt;/td&gt;
+&lt;td&gt;Learning Optimal Reduced-Basis Projections for Nonlinear Systems&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/569431038&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2106.01211&#34;&gt;https://arxiv.org/abs/2106.01211&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sebastian Peitz (U Paderborn)&lt;/td&gt;
+&lt;td&gt;On the Universal Transformation of Data-Driven Models to Control Systems&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/568786045&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2102.04722&#34;&gt;https://arxiv.org/abs/2102.04722&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Krithika Manohar (U Washington)&lt;/td&gt;
+&lt;td&gt;Data-Driven Prediction of Partially Observed Multiscale Systems&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/569655739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2104.05278&#34;&gt;https://arxiv.org/abs/2104.05278&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Doménec Ruiz-Balet (Deusto Bilbao)&lt;/td&gt;
+&lt;td&gt;Control Insights in Deep Neural Networks&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YsXh87IkGJlIp3hBfgv4wh8OEZeaRHu2/view?usp=drive_web&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/566091642&#34;&gt;https://player.vimeo.com/video/566091642&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nitin Shyamkumar (NYU)&lt;/td&gt;
+&lt;td&gt;Context-aware non-intrusive model reduction for data-driven robust control&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/569559525&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Athanasios Antoulas (MPI for Dynamics of Complex Technical Systems)&lt;/td&gt;
+&lt;td&gt;On the Neuman bound in rational approximation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/568941964&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

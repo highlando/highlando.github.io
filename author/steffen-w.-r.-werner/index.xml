@@ -5,12 +5,20 @@
     <link>/author/steffen-w.-r.-werner/</link>
       <atom:link href="/author/steffen-w.-r.-werner/index.xml" rel="self" type="application/rss+xml" />
     <description>Steffen W. R. Werner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>Steffen W. R. Werner</title>
       <link>/author/steffen-w.-r.-werner/</link>
     </image>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional H∞-controllers</title>
+      <link>/publication/ben-hw-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>

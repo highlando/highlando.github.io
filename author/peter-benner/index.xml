@@ -5,12 +5,36 @@
     <link>/author/peter-benner/</link>
       <atom:link href="/author/peter-benner/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Benner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Jul 2021 14:30:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>Peter Benner</title>
       <link>/author/peter-benner/</link>
     </image>
+    
+    <item>
+      <title>Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations</title>
+      <link>/publication/hei-bb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-bb-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
+      <link>/publication/ben-ghp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional H∞-controllers</title>
+      <link>/publication/ben-hw-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Convolutional autoencoders for low-dimensional parameterizations of Navier-Stokes flow</title>
@@ -41,6 +65,14 @@ the uncertainties.&lt;/p&gt;
       <link>/event/21-gpuq-csefa/</link>
       <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
       <guid>/event/21-gpuq-csefa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
+      <link>/publication/beh-bh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21/</guid>
       <description></description>
     </item>
     

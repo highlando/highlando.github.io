@@ -86,6 +86,30 @@
     <loc>/courses/ovgu-mathe-informatik/omi-9/</loc>
     <lastmod>2019-07-07T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>/event/22-eccomas/</loc>
+    <lastmod>2022-06-07T16:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-10-26T17:12:41+02:00</lastmod>
+  </url><url>
+    <loc>/author/jan-heiland/</loc>
+    <lastmod>2022-10-26T17:12:41+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-10-26T17:12:41+02:00</lastmod>
+  </url><url>
+    <loc>/tag/nonlinear-mor/</loc>
+    <lastmod>2022-06-07T16:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/peter-benner/</loc>
+    <lastmod>2022-10-26T17:12:41+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-06-07T16:30:00+02:00</lastmod>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2022-06-07T16:30:00+02:00</lastmod>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2022-10-26T17:12:41+02:00</lastmod>
   </url><url>
@@ -96,9 +120,6 @@
     <lastmod>2022-10-26T17:12:41+02:00</lastmod>
   </url><url>
     <loc>/publication/ben-ghp-22-a/</loc>
-    <lastmod>2022-10-26T17:12:41+02:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
     <lastmod>2022-10-26T17:12:41+02:00</lastmod>
   </url><url>
     <loc>/author/benjamin-unger/</loc>
@@ -122,12 +143,6 @@
     <loc>/author/j.-heiland/</loc>
     <lastmod>2022-10-26T17:12:41+02:00</lastmod>
   </url><url>
-    <loc>/author/jan-heiland/</loc>
-    <lastmod>2022-10-26T17:12:41+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-10-26T17:12:41+02:00</lastmod>
-  </url><url>
     <loc>/publication/ben-ghp-22/</loc>
     <lastmod>2022-09-10T21:47:53+02:00</lastmod>
   </url><url>
@@ -139,9 +154,6 @@
   </url><url>
     <loc>/author/pawan-goyal/</loc>
     <lastmod>2022-09-10T21:47:53+02:00</lastmod>
-  </url><url>
-    <loc>/author/peter-benner/</loc>
-    <lastmod>2022-10-26T17:12:41+02:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2022-10-26T17:12:41+02:00</lastmod>
@@ -161,16 +173,10 @@
     <loc>/event/21-dmv-oemg/</loc>
     <lastmod>2021-09-30T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
-    <lastmod>2021-09-30T15:00:00+02:00</lastmod>
-  </url><url>
     <loc>/event/21-ifaccp-nse-nn-ldlpv/</loc>
     <lastmod>2021-07-08T14:30:00+02:00</lastmod>
   </url><url>
     <loc>/tag/machine-learning/</loc>
-    <lastmod>2021-07-08T14:30:00+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-07-08T14:30:00+02:00</lastmod>
   </url><url>
     <loc>/courses/</loc>

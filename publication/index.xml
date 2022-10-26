@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
+      <link>/publication/hei-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations</title>
       <link>/publication/hei-bb-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -45,18 +69,18 @@
     </item>
     
     <item>
-      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
-      <link>/publication/hei-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/hei-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
       <link>/publication/beh-bh-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/beh-bh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional $mathcalH_ınfty$-controllers</title>
+      <link>/publication/mor-ben-hw-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mor-ben-hw-21/</guid>
       <description></description>
     </item>
     

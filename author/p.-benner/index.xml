@@ -5,7 +5,7 @@
     <link>/author/p.-benner/</link>
       <atom:link href="/author/p.-benner/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Benner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
       <title>P. Benner</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional H∞-controllers</title>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional $mathcalH_ınfty$-controllers</title>
       <link>/publication/mor-ben-hw-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/mor-ben-hw-21/</guid>

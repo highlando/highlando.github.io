@@ -1210,6 +1210,30 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
     </item>
     
     <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
+      <link>/publication/hei-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations</title>
       <link>/publication/hei-bb-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -1252,100 +1276,6 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
 
 
 
-
-  
-    
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-&lt;div class=&#34;view-list-item&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;/publication/hei-21/&#34; &gt;Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems&lt;/a&gt;
-
-  
-
-  
-  &lt;div class=&#34;article-metadata&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;/author/jan-heiland/&#34;&gt;Jan Heiland&lt;/a&gt;&lt;/span&gt;
-  &lt;/div&gt;
-  
-
-  
-  &lt;div class=&#34;btn-links&#34;&gt;
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/hei-21/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3934/mcrf.2021043&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1911.00983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    
-    Preprint
-  &lt;/a&gt;
-
-
-  &lt;/div&gt;
-  
-
-&lt;/div&gt;
-
-  
 
 &lt;/p&gt;
 </description>
@@ -1637,18 +1567,18 @@ the uncertainties.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
-      <link>/publication/hei-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/hei-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
       <link>/publication/beh-bh-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/beh-bh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional $mathcalH_ınfty$-controllers</title>
+      <link>/publication/mor-ben-hw-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mor-ben-hw-21/</guid>
       <description></description>
     </item>
     

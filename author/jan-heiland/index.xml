@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
+      <link>/publication/hei-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations</title>
       <link>/publication/hei-bb-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -56,100 +72,6 @@
 
 
 
-  
-    
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-&lt;div class=&#34;view-list-item&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;/publication/hei-21/&#34; &gt;Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems&lt;/a&gt;
-
-  
-
-  
-  &lt;div class=&#34;article-metadata&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;/author/jan-heiland/&#34;&gt;Jan Heiland&lt;/a&gt;&lt;/span&gt;
-  &lt;/div&gt;
-  
-
-  
-  &lt;div class=&#34;btn-links&#34;&gt;
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/hei-21/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3934/mcrf.2021043&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1911.00983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    
-    Preprint
-  &lt;/a&gt;
-
-
-  &lt;/div&gt;
-  
-
-&lt;/div&gt;
-
-  
-
 &lt;/p&gt;
 </description>
     </item>
@@ -183,14 +105,6 @@ the uncertainties.&lt;/p&gt;
       <link>/event/21-gpuq-csefa/</link>
       <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
       <guid>/event/21-gpuq-csefa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
-      <link>/publication/hei-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/hei-21/</guid>
       <description></description>
     </item>
     

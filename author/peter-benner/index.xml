@@ -7,7 +7,7 @@
     <description>Peter Benner</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jun 2022 16:30:00 +0200</lastBuildDate>
     <image>
-      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Peter Benner</title>
       <link>/author/peter-benner/</link>
     </image>
@@ -25,6 +25,14 @@
       <link>/publication/ben-hw-22-a/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
       <description></description>
     </item>
     
@@ -133,14 +141,6 @@ theoretical results.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
-      <link>/publication/ben-ghp-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ben-ghp-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PD controllers to solve single-input, index-1 DAE based LQR problems</title>
       <link>/publication/bha-hb-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -153,14 +153,6 @@ theoretical results.&lt;/p&gt;
       <link>/publication/ben-h-20-a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/ben-h-20-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
-      <link>/publication/beh-bh-19-a/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/beh-bh-19-a/</guid>
       <description></description>
     </item>
     

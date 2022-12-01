@@ -7,7 +7,7 @@
     <description>Jan Heiland</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jun 2022 16:30:00 +0200</lastBuildDate>
     <image>
-      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Jan Heiland</title>
       <link>/author/jan-heiland/</link>
     </image>
@@ -29,10 +29,26 @@
     </item>
     
     <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
       <link>/publication/hei-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/hei-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders and Clustering for Low-dimensional Parametrization of Incompressible Flows</title>
+      <link>/publication/hei-k-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-k-22/</guid>
       <description></description>
     </item>
     
@@ -74,12 +90,12 @@
       <pubDate>Thu, 30 Sep 2021 15:00:00 +0200</pubDate>
       <guid>/event/21-dmv-oemg/</guid>
       <description>&lt;p&gt;Also see the paper: 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 &lt;/p&gt;
 </description>
     </item>
@@ -113,6 +129,14 @@ the uncertainties.&lt;/p&gt;
       <link>/event/21-gpuq-csefa/</link>
       <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
       <guid>/event/21-gpuq-csefa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical System Theory Revisited for Turnpike in Standard State Space Systems and Impulse Controllable Descriptor Systems</title>
+      <link>/publication/hei-z-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-z-21/</guid>
       <description></description>
     </item>
     
@@ -172,14 +196,14 @@ harmful. In this model we are particularly interested in finding a suitable test
 strategy, which is one way to apply control to the system. In general is the
 question of the right control mechanisms to &lt;em&gt;flatten the curve&lt;/em&gt; or slow the
 spread of virus still an open one.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;G. Giordano, F. Blanchini, R. Bruno, P. Colaneri, A. Di Filippo, A. Di Matteo, M. Colaneri: Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy. Nat. Med. (2020)&amp;quot; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;G. Giordano, F. Blanchini, R. Bruno, P. Colaneri, A. Di Filippo, A. Di Matteo, M. Colaneri: Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy. Nat. Med. (2020)&amp;quot;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -235,17 +259,17 @@ of solutions to the generalized (nonsymmetric) differential Riccati equation
 and conditions for their convergence to a solution of the generalized ARE. With
 these results, we can characterize the turnpike property for DAE control
 problems.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Callier, F. M.; Winkin, J. &amp;amp; Willems, J. L. &lt;em&gt;Convergence of the
 time-invariant Riccati differential equation and LQ-problem: mechanisms of
 attraction&lt;/em&gt;. International Journal of Control, Taylor &amp;amp; Francis, 1994, 59,
-983-1000. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+983-1000.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -327,10 +351,10 @@ last days:
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Lockdowns and the numbers of deaths in Italy and Hubei&#34; srcset=&#34;
-               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_a59693f6514e0414336024d54f342c16.png 400w,
-               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_2d5d8889b310867209b516c2412ebf23.png 760w,
-               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_a59693f6514e0414336024d54f342c16.png&#34;
+               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_d9b7f032e6efc2492ce0ad918d155754.png 400w,
+               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_6b8192c3bb0ad53419c2765b41211315.png 760w,
+               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_d9b7f032e6efc2492ce0ad918d155754.png&#34;
                width=&#34;760&#34;
                height=&#34;454&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -385,10 +409,10 @@ cases gets smaller exponentially.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases for the example scenarios&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_87509c7606066cc9c543f60f894c6088.png 400w,
-               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_8acc5ff57d93ce34a4701309d3ab0d1c.png 760w,
-               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_87509c7606066cc9c543f60f894c6088.png&#34;
+               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_f880cc6d93844902c6783acbb82d62e7.png 400w,
+               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_5330981f597699f0b782d622def731b7.png 760w,
+               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_f880cc6d93844902c6783acbb82d62e7.png&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -435,10 +459,10 @@ hospitalized patients that require intensive care (ICU) was always below
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_51f17d3e0df7f641df50d476df1b3a97.png 400w,
-               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_5d3dfffee69576f05cfae9cb1aceecd8.png 760w,
-               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_51f17d3e0df7f641df50d476df1b3a97.png&#34;
+               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_1dbb6b9e3d856e8028af20ea833ef884.png 400w,
+               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_4e46bd623127c236d60af911288233e8.png 760w,
+               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_1dbb6b9e3d856e8028af20ea833ef884.png&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -481,10 +505,10 @@ of the plots.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_4c2a5b02239add7bff5e725e94424f51.png 400w,
-               /post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_8c73eae6ebe5ee3a982ca404ac7c9771.png 760w,
-               /post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_4c2a5b02239add7bff5e725e94424f51.png&#34;
+               /post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_462b8ff03a40580ea06578686bf6a782.png 400w,
+               /post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_d151896bc797bc808fafef18eb81e8e8.png 760w,
+               /post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_462b8ff03a40580ea06578686bf6a782.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -558,10 +582,10 @@ and show the daily increase of the number cases in percent for the last 30 days.
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
-               /post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_80201ccdb49aa35f83cbc3bb4cda48ad.png 400w,
-               /post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_651e64eff4cff620285b4d90f30d2b00.png 760w,
-               /post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_80201ccdb49aa35f83cbc3bb4cda48ad.png&#34;
+               /post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_3a976ebcedfa75579cb0a725d18bc984.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_56c6ad3ec7ea120815474d39731a40d4.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_3a976ebcedfa75579cb0a725d18bc984.png&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -584,31 +608,31 @@ the code that produces the title picture, was done by Petar Mlinarić.&lt;/p&gt;
 &lt;!--Particular help in terms of improving the presentation
 was provided by [Christian Himpe](https://himpe.science/), [Tim
 Mitchell](http://www.timmitchell.com/), and Peter Benner. --&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Updates once a day in the morning. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Updates once a day in the morning.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;The plot is by the Italian Physicist &lt;a href=&#34;http://chimera.roma1.infn.it/FEDERICO/Contacts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ricci-Tersenghi&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;The plot is by the Italian Physicist &lt;a href=&#34;http://chimera.roma1.infn.it/FEDERICO/Contacts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ricci-Tersenghi&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;The basis is not too important here. If one takes 2, then a value of 1
 means a doubling. A different basis would only scale the plots but not change the
-qualitative outcomes. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+qualitative outcomes.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&#34;&gt;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;http://covidsim.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;covidsim.eu&lt;/a&gt; with parameters as recorded in the
 screenshots &lt;a href=&#34;covidsim-1-2020-03-22.png&#34;&gt;1&lt;/a&gt; and &lt;a href=&#34;covidsim-2-2020-03-22.png&#34;&gt;2&lt;/a&gt;
 based on the assumptions used of the RKI publication mentioned in the footnote
-below. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+below.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -805,10 +829,10 @@ integration.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Solution snapshots of the full FEM model&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_5c77fee447cc3ccab8f626201c317f98.png 400w,
-               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1fcef6dc202b209df109c199ab927486.png 760w,
-               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_5c77fee447cc3ccab8f626201c317f98.png&#34;
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_3bcb55984ef4dc0a55474210152b039e.png 400w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_84c64befef578ff6fe44eaed08e060b3.png 760w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_3bcb55984ef4dc0a55474210152b039e.png&#34;
                width=&#34;760&#34;
                height=&#34;197&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -862,10 +886,10 @@ discarded directions) give an indication of how good the approximation is.&lt;/p
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;The singular values of the snapshot matrix&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_b665914cdcc7ee73799ef874da609023.png 400w,
-               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_b7ad5bebfdf46e840fcb43707627de26.png 760w,
-               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_b665914cdcc7ee73799ef874da609023.png&#34;
+               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_e844a9355d2f457cc1f41fa8f42ca045.png 400w,
+               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_911ba790c2955aa80056152686906b41.png 760w,
+               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_e844a9355d2f457cc1f41fa8f42ca045.png&#34;
                width=&#34;760&#34;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -923,10 +947,10 @@ be seen in the error (log) plot.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Snapshots of the solution of the reduced system&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_d98af3075fa90ed4095ef3f9826ba6ef.png 400w,
-               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_fd7695fc5c8cbf4c6dddc50bc6cad282.png 760w,
-               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_d98af3075fa90ed4095ef3f9826ba6ef.png&#34;
+               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_46a0fcaba373f7296bb42a2234aab840.png 400w,
+               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_d2dcf692abad6632d1088c9561a90822.png 760w,
+               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_46a0fcaba373f7296bb42a2234aab840.png&#34;
                width=&#34;760&#34;
                height=&#34;197&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -951,10 +975,10 @@ be seen in the error (log) plot.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Snapshots of the log of the error between the full and the POD solution&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_bb9eb1e4d07e7efb2edbbe551f769669.png 400w,
-               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_bbb756e36665e1294fa4d7c692ce6748.png 760w,
-               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_bb9eb1e4d07e7efb2edbbe551f769669.png&#34;
+               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_cf72240162123db7af4dcf99eb4391e3.png 400w,
+               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_6a4c94b9a230c999a6753a814bffe85b.png 760w,
+               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_cf72240162123db7af4dcf99eb4391e3.png&#34;
                width=&#34;760&#34;
                height=&#34;197&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -978,15 +1002,15 @@ v _ h(t_0) &amp;amp; v _ h(t_1) &amp;amp; \dotsm &amp;amp; v _ h(t _ {k-1})
 $$
 and
 $$
-X&#39; =
+X&amp;rsquo; =
 \begin{bmatrix}
 v _ h(t_1) &amp;amp; v _ h(t_2) &amp;amp; \dotsm &amp;amp; v _ h(t _ {k})
 \end{bmatrix}.
 $$&lt;/p&gt;
-&lt;p&gt;Note that $X&#39;$ is basically $X$ shifted by one time step.&lt;/p&gt;
+&lt;p&gt;Note that $X&amp;rsquo;$ is basically $X$ shifted by one time step.&lt;/p&gt;
 &lt;p&gt;Then the DMD matrix can be found by solving the linear regression problem&lt;/p&gt;
 &lt;p&gt;$$
-\min _ P | X&#39; - PX | _ F.
+\min _ P | X&amp;rsquo; - PX | _ F.
 $$&lt;/p&gt;
 &lt;p&gt;For the reduced DMD model we use the same snapshot matrix as for the POD. The
 regression problem is solved via SVD to compute the needed pseudo inverse since
@@ -1033,10 +1057,10 @@ initial phase but fails in the region with the sharp front.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Snapshots of the DMD solution&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_03b5992da829049daad77f36b0ff3a09.png 400w,
-               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_532dc5e9ed2f2676bdcb2f5af90cc40e.png 760w,
-               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_03b5992da829049daad77f36b0ff3a09.png&#34;
+               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_3a991bb89c2a005c428bcd1a4fbc9aaa.png 400w,
+               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_66052e1a39f5a63782358358bb30a4f2.png 760w,
+               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_3a991bb89c2a005c428bcd1a4fbc9aaa.png&#34;
                width=&#34;760&#34;
                height=&#34;197&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1061,10 +1085,10 @@ initial phase but fails in the region with the sharp front.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Error (log) plot with respect to the full FEM solution&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_fddf5a56efc0b594e7f85be6805435d0.png 400w,
-               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_a089fafbffbb3d8f97f9c60dbf3b1d11.png 760w,
-               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_fddf5a56efc0b594e7f85be6805435d0.png&#34;
+               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_df39c567c01c78a55ff3524b3bbcf963.png 400w,
+               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_bb43c607c81a2ed80eea77b7f0770db6.png 760w,
+               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_df39c567c01c78a55ff3524b3bbcf963.png&#34;
                width=&#34;760&#34;
                height=&#34;198&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1101,10 +1125,10 @@ $$&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Solution snapshots of the full FEM model&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_5c77fee447cc3ccab8f626201c317f98.png 400w,
-               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1fcef6dc202b209df109c199ab927486.png 760w,
-               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_5c77fee447cc3ccab8f626201c317f98.png&#34;
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_3bcb55984ef4dc0a55474210152b039e.png 400w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_84c64befef578ff6fe44eaed08e060b3.png 760w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_3bcb55984ef4dc0a55474210152b039e.png&#34;
                width=&#34;760&#34;
                height=&#34;197&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1129,10 +1153,10 @@ $$&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Solution snapshots of the full FEM model with the alternative initial value&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_642623bf1c9a7f48e269771c154e586f.png 400w,
-               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_4d111ca560940518e94ca9668d1369ea.png 760w,
-               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_642623bf1c9a7f48e269771c154e586f.png&#34;
+               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_df4a988a1441f4d00195ef31d84fc5a8.png 400w,
+               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_c7e43bb2a6a09ac602dae0368494f357.png 760w,
+               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_df4a988a1441f4d00195ef31d84fc5a8.png&#34;
                width=&#34;760&#34;
                height=&#34;198&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1159,10 +1183,10 @@ starting in this alternative initial value.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Snapshots of the solution of the POD reduced system starting in the alternative initial value.&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_b1b428c6b32be1917f14e74d09a9e54f.png 400w,
-               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_4c916d217c09c52ea6446ff9d1dcc305.png 760w,
-               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_b1b428c6b32be1917f14e74d09a9e54f.png&#34;
+               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_f4611f34c7b81428f0089c5fe5182778.png 400w,
+               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_50e4cd95970fbde700c2bcf26706e063.png 760w,
+               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_f4611f34c7b81428f0089c5fe5182778.png&#34;
                width=&#34;760&#34;
                height=&#34;197&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1187,10 +1211,10 @@ starting in this alternative initial value.&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;Snapshots of the DMD solution starting in the alternative initial value.&#34; srcset=&#34;
-               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_b92c956ec699e8d52860f58991b8db55.png 400w,
-               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_298fb06cb3cef9547119331824546b17.png 760w,
-               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;/post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_b92c956ec699e8d52860f58991b8db55.png&#34;
+               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_f9a0ad41c5e9cbb88e6a9f0ae24f0aad.png 400w,
+               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_120eb29ca4546e78494751a29bd1431c.png 760w,
+               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_f9a0ad41c5e9cbb88e6a9f0ae24f0aad.png&#34;
                width=&#34;760&#34;
                height=&#34;197&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1216,28 +1240,20 @@ choices, the performance rather deteriorated than improved.&lt;/p&gt;
 &lt;p&gt;How challenging the problem of 2D Burgers with a low viscosity is, can be seen
 from the failure of both methods to produce useable approximations to
 trajectories that start in different initial values.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland (2018): &lt;em&gt;Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial
-Differential Equations.&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1611.04050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1611.04050&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+Differential Equations.&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1611.04050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1611.04050&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;See, e.g., Tu, Rowley, Luchtenburg, Brunton, Kutz (2013): &lt;em&gt;On Dynamic Mode
-Decomposition: Theory and Applications&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1312.0041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1312.0041&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+Decomposition: Theory and Applications&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1312.0041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1312.0041&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Classical System Theory Revisited for Turnpike in Standard State Space Systems and Impulse Controllable Descriptor Systems</title>
-      <link>/publication/hei-z-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/hei-z-20/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -1253,14 +1269,6 @@ Decomposition: Theory and Applications&lt;/em&gt; &lt;a href=&#34;https://arxiv.
       <link>/publication/bre-hbs-21/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/bre-hbs-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
-      <link>/publication/ben-ghp-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ben-ghp-20/</guid>
       <description></description>
     </item>
     
@@ -1339,7 +1347,7 @@ characteristic values.&lt;/p&gt;
 &lt;p&gt;$
 \begin{aligned}
 \quad \quad \quad M \dot v(t) &amp;amp;= N(v(t)) + J^Tp(t) + f(t),
-\\\\&lt;br&gt;
+\\\\
 0 &amp;amp;= Jv(t),
 \end{aligned}
 $&lt;/p&gt;
@@ -1434,7 +1442,7 @@ $$&lt;/p&gt;
 &lt;p&gt;$
 \begin{aligned}
 \quad \quad \quad \dot \theta &amp;amp;= \frac{p}{mL^2},
-\\\\&lt;br&gt;
+\\\\
 \dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
 \end{aligned}
 $&lt;/p&gt;
@@ -1486,7 +1494,7 @@ $ \quad \mathcal J:= \frac{1}{2}(\theta(t_1)^2 + p(t_1)^2) + \frac{1}{2}\int_{t_
 &lt;p&gt;subject to&lt;/p&gt;
 &lt;p&gt;$$
 \begin{aligned}
-\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\&lt;br&gt;
+\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\
 \dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
 \end{aligned}
 $$&lt;/p&gt;
@@ -1503,8 +1511,8 @@ $$&lt;/p&gt;
 &lt;p&gt;subject to&lt;/p&gt;
 &lt;p&gt;$$
 \begin{aligned}
-\dot {\tilde x} &amp;amp;= 0, \\\\&lt;br&gt;
-\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\&lt;br&gt;
+\dot {\tilde x} &amp;amp;= 0, \\\\
+\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\
 \dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
 \end{aligned}
 $$&lt;/p&gt;
@@ -1530,9 +1538,9 @@ $$&lt;/p&gt;
 &lt;p&gt;subject to&lt;/p&gt;
 &lt;p&gt;$$
 \begin{aligned}
-\dot x^0 &amp;amp;= \tilde x + \frac{1}{2}(g_1^2+g_2^2), \\\\&lt;br&gt;
-\dot {\tilde x} &amp;amp;= 0, \\\\&lt;br&gt;
-\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\&lt;br&gt;
+\dot x^0 &amp;amp;= \tilde x + \frac{1}{2}(g_1^2+g_2^2), \\\\
+\dot {\tilde x} &amp;amp;= 0, \\\\
+\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\
 \dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
 \end{aligned}
 $$&lt;/p&gt;
@@ -1549,9 +1557,9 @@ $$&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The corresponding adjoint system for the $\psi$ reads&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;\begin{align}
-\dot \psi_0 &amp;amp;= 0, \\\\&lt;br&gt;
-\dot \psi_1 &amp;amp;= -\psi_0, \\\\&lt;br&gt;
-\dot \psi_2 &amp;amp;= -(mg_1L\sin\theta - mg_2L\cos\theta) \psi_3, \\\\&lt;br&gt;
+\dot \psi_0 &amp;amp;= 0, \\\\
+\dot \psi_1 &amp;amp;= -\psi_0, \\\\
+\dot \psi_2 &amp;amp;= -(mg_1L\sin\theta - mg_2L\cos\theta) \psi_3, \\\\
 \dot \psi_3 &amp;amp;= -\frac{1}{mL^2}\psi_2.
 \end{align}&lt;/p&gt;
 &lt;p&gt;This $\psi$ defines the control Hamiltonian as&lt;/p&gt;
@@ -1559,9 +1567,9 @@ $$&lt;/p&gt;
 \bigl(\psi, f(x;G) \bigl ) =
 \bigl(\psi,
 \begin{bmatrix}
-\tilde x + \frac{1}{2}(g_1^2+g_2^2) \\\\&lt;br&gt;
-0 \\\\&lt;br&gt;
-\frac{p}{mL^2}\\\\&lt;br&gt;
+\tilde x + \frac{1}{2}(g_1^2+g_2^2) \\\\
+0 \\\\
+\frac{p}{mL^2}\\\\
 -mg_1L\cos \theta - mg_2L\sin \theta
 \end{bmatrix}
 \bigl )
@@ -1594,29 +1602,29 @@ $$&lt;/p&gt;
 &lt;p&gt;of the tangent space and note that any other basis can be taken, or equivalently, any linear combination of the boundary conditions are feasible.&lt;/p&gt;
 &lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
 &lt;p&gt;📙 Pontryagin, Boltyanski, Gamkrelidze, and Mishchenko (1962) &lt;em&gt;The Mathematical Theory of Optimal Processes&lt;/em&gt;&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Lemma 6.5 in Heiland (2013) &lt;em&gt;Decoupling, Semi-Discretization, and Optimal
 Control of Semi-linear Semi-explicit Index-2 Abstract Differential-Algebraic
-Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+Equations and Application in Optimal Flow Control&lt;/em&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;cp. the text before Theorem 3.4 in Ober-Blöbaum, Junge, Marsden
-(2008) &lt;em&gt;Discrete Mechanics and Optimal Control: an Analysis&lt;/em&gt;] &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+(2008) &lt;em&gt;Discrete Mechanics and Optimal Control: an Analysis&lt;/em&gt;]&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Ch. I.2 in his book &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Ch. I.2 in his book&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Pontryagin et al., Theorem 1 &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Pontryagin et al., Theorem 1&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Pontryagin et al., Ch. I.7 &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;Pontryagin et al., Ch. I.7&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1699,14 +1707,6 @@ Equations and Application in Optimal Flow Control&lt;/em&gt; &lt;a href=&#34;#fn
       <link>/publication/alt-h-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/alt-h-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
-      <link>/publication/beh-bh-19-a/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/beh-bh-19-a/</guid>
       <description></description>
     </item>
     

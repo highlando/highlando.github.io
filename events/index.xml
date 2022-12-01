@@ -7,7 +7,7 @@
     <description>Events</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Jan 2021 13:00:00 +0200</lastBuildDate>
     <image>
-      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Events</title>
       <link>/events/</link>
     </image>
@@ -223,7 +223,7 @@
 &lt;td&gt;Shane McQuarrie (U Texas)&lt;/td&gt;
 &lt;td&gt;Data-driven reduced-order models via regularized Operator Inference for a single-injector combustion process&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/566429454&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2008.02862&#34;&gt;https://arxiv.org/abs/2008.02862&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2008.02862&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2008.02862&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Dario Dennstädt (TU Ilmenau)&lt;/td&gt;
@@ -235,7 +235,7 @@
 &lt;td&gt;Igor Pontes Duff (MPI for Dynamics of Complex Technical Systems)&lt;/td&gt;
 &lt;td&gt;Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/569501809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://arxiv.org/abs/2010.06701&#34;&gt;http://arxiv.org/abs/2010.06701&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://arxiv.org/abs/2010.06701&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2010.06701&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Alexandre Mauroy (Namur)&lt;/td&gt;
@@ -247,13 +247,13 @@
 &lt;td&gt;Alberto Padovan (Princeton)&lt;/td&gt;
 &lt;td&gt;Learning Optimal Reduced-Basis Projections for Nonlinear Systems&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/569431038&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2106.01211&#34;&gt;https://arxiv.org/abs/2106.01211&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2106.01211&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2106.01211&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Sebastian Peitz (U Paderborn)&lt;/td&gt;
 &lt;td&gt;On the Universal Transformation of Data-Driven Models to Control Systems&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://player.vimeo.com/video/568786045&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2102.04722&#34;&gt;https://arxiv.org/abs/2102.04722&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2102.04722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2102.04722&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Krithika Manohar (U Washington)&lt;/td&gt;
@@ -265,7 +265,7 @@
 &lt;td&gt;Doménec Ruiz-Balet (Deusto Bilbao)&lt;/td&gt;
 &lt;td&gt;Control Insights in Deep Neural Networks&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YsXh87IkGJlIp3hBfgv4wh8OEZeaRHu2/view?usp=drive_web&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🎬&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2104.05278&#34;&gt;https://arxiv.org/abs/2104.05278&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2104.05278&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2104.05278&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Nitin Shyamkumar (NYU)&lt;/td&gt;

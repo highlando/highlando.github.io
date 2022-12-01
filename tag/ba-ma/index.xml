@@ -7,7 +7,7 @@
     <description>BA-MA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 14:23:01 +0200</lastBuildDate>
     <image>
-      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>BA-MA</title>
       <link>/tag/ba-ma/</link>
     </image>
@@ -20,7 +20,7 @@
       <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://manuelbaumann.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Manuel Baumann (Philips Research)&lt;/a&gt;, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
 &lt;h1 id=&#34;wanted&#34;&gt;Wanted&lt;/h1&gt;
-&lt;p&gt;A highly motivated Masters&#39; student of mathematics or statistics that feels comfortable with the problem below and that, at best, has good command of a programming language.&lt;/p&gt;
+&lt;p&gt;A highly motivated Masters&amp;rsquo; student of mathematics or statistics that feels comfortable with the problem below and that, at best, has good command of a programming language.&lt;/p&gt;
 &lt;h1 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;MR Fingerprinting is a new, quantitative imaging technique in Magnetic Resonance Imaging (MRI)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. In short,&lt;/p&gt;
 &lt;ol&gt;
@@ -50,21 +50,21 @@ where the magnetic field $B$ is determined by the parameters of the acquisition.
 &lt;/ul&gt;
 &lt;h1 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h1&gt;
 &lt;p&gt;Please see the &lt;a href=&#34;mrf_msc_ovgu.pdf&#34;&gt;job advertisement&lt;/a&gt; and apply by June 30.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;See here for a scientific paper on MR Fingerprinting: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;See here for a scientific paper on MR Fingerprinting: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Open Master Thesis</title>
       <link>/project/20-ma-dmd/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/20-ma-dmd/</guid>
       <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
 &lt;p&gt;Dr. Carmen Gräßle MPI Magdeburg, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
@@ -147,7 +147,7 @@ The theory of DMD is more than 100 years old. In practice, DMD has experienced s
     <item>
       <title>Open Master Thesis</title>
       <link>/project/19-ma-multiscat/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/project/19-ma-multiscat/</guid>
       <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
 &lt;p&gt;Jun-Prof. Benoit Fond FVST, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
@@ -189,19 +189,19 @@ imaginary over real part of index of refraction), and compare with
 experimental observations.&lt;/p&gt;
 &lt;p&gt;e)  Estimate the relative probability of three particle events compared
 to the two particle event of scenarios b and c).&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;C. Abram, B. Fond, and F. Beyrau, “Temperature measurement
 techniques for gas and liquid flows using thermographic phosphor tracer
-particles,” Prog. Energy Combust. Sci. 64, 93 – 156 (2018). &lt;a href=&#34;http://ltces.dem.ist.utl.pt/lxlaser/lxlaser2016/finalworks2016/papers/01.5_3_154paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+particles,” Prog. Energy Combust. Sci. 64, 93 – 156 (2018). &lt;a href=&#34;http://ltces.dem.ist.utl.pt/lxlaser/lxlaser2016/finalworks2016/papers/01.5_3_154paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;em&gt;The scattering of light may be thought of as the redirection of light that takes place when an electromagnetic (EM) wave (i.e. an incident light ray) encounters an obstacle or nonhomogeneity, in our case the scattering particle&amp;hellip;&lt;/em&gt; &lt;a href=&#34;http://plaza.ufl.edu/dwhahn/Rayleigh%20and%20Mie%20Light%20Scattering.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;&lt;em&gt;The scattering of light may be thought of as the redirection of light that takes place when an electromagnetic (EM) wave (i.e. an incident light ray) encounters an obstacle or nonhomogeneity, in our case the scattering particle&amp;hellip;&lt;/em&gt; &lt;a href=&#34;http://plaza.ufl.edu/dwhahn/Rayleigh%20and%20Mie%20Light%20Scattering.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -240,7 +240,7 @@ particles,” Prog. Energy Combust. Sci. 64, 93 – 156 (2018). &lt;a href=&#34;
     <item>
       <title>Multiple Scattering in TPIV</title>
       <link>/project/19-ba-roth/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       <guid>/project/19-ba-roth/</guid>
       <description>&lt;p&gt;&lt;em&gt;Thermographic Particle Image Velocimetry&lt;/em&gt; (TPIV) is an optical technique to measure the temperature and velocity of fluid flows. In the ideal situation, scalar measurements are taking by collecting the light emissions from a single point at the crossing of a laser beam and the optical axis of the camera. In practice, however, through the interaction of spontaneous emissions and light scattering, additional light emissions reach the camera on other paths. The objective of this project was to theoretically quantify the contribution of unwanted light.&lt;/p&gt;
 &lt;h2 id=&#34;researcher&#34;&gt;Researcher:&lt;/h2&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clustering | Jan Heiland</title>
+    <link>/tag/clustering/</link>
+      <atom:link href="/tag/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>clustering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>clustering</title>
+      <link>/tag/clustering/</link>
+    </image>
+    
+    <item>
+      <title>Convolutional Autoencoders and Clustering for Low-dimensional Parametrization of Incompressible Flows</title>
+      <link>/publication/hei-k-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-k-22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,7 @@
     <description>Robert Altmann</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 16:10:00 +0200</lastBuildDate>
     <image>
-      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Robert Altmann</title>
       <link>/author/robert-altmann/</link>
     </image>
@@ -21,7 +21,7 @@
 &lt;p&gt;$
 \begin{aligned}
 \quad \quad \quad M \dot v(t) &amp;amp;= N(v(t)) + J^Tp(t) + f(t),
-\\\\&lt;br&gt;
+\\\\
 0 &amp;amp;= Jv(t),
 \end{aligned}
 $&lt;/p&gt;

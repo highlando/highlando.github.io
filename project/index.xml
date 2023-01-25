@@ -20,7 +20,7 @@
       <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://manuelbaumann.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Manuel Baumann (Philips Research)&lt;/a&gt;, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
 &lt;h1 id=&#34;wanted&#34;&gt;Wanted&lt;/h1&gt;
-&lt;p&gt;A highly motivated Masters&amp;rsquo; student of mathematics or statistics that feels comfortable with the problem below and that, at best, has good command of a programming language.&lt;/p&gt;
+&lt;p&gt;A highly motivated Masters&#39; student of mathematics or statistics that feels comfortable with the problem below and that, at best, has good command of a programming language.&lt;/p&gt;
 &lt;h1 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;MR Fingerprinting is a new, quantitative imaging technique in Magnetic Resonance Imaging (MRI)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. In short,&lt;/p&gt;
 &lt;ol&gt;
@@ -50,14 +50,14 @@ where the magnetic field $B$ is determined by the parameters of the acquisition.
 &lt;/ul&gt;
 &lt;h1 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h1&gt;
 &lt;p&gt;Please see the &lt;a href=&#34;mrf_msc_ovgu.pdf&#34;&gt;job advertisement&lt;/a&gt; and apply by June 30.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;See here for a scientific paper on MR Fingerprinting: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -189,19 +189,19 @@ imaginary over real part of index of refraction), and compare with
 experimental observations.&lt;/p&gt;
 &lt;p&gt;e)  Estimate the relative probability of three particle events compared
 to the two particle event of scenarios b and c).&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;C. Abram, B. Fond, and F. Beyrau, “Temperature measurement
 techniques for gas and liquid flows using thermographic phosphor tracer
 particles,” Prog. Energy Combust. Sci. 64, 93 – 156 (2018). &lt;a href=&#34;http://ltces.dem.ist.utl.pt/lxlaser/lxlaser2016/finalworks2016/papers/01.5_3_154paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;&lt;em&gt;The scattering of light may be thought of as the redirection of light that takes place when an electromagnetic (EM) wave (i.e. an incident light ray) encounters an obstacle or nonhomogeneity, in our case the scattering particle&amp;hellip;&lt;/em&gt; &lt;a href=&#34;http://plaza.ufl.edu/dwhahn/Rayleigh%20and%20Mie%20Light%20Scattering.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     

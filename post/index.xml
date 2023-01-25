@@ -83,17 +83,17 @@
   &lt;/div&gt;&lt;figcaption&gt;
       The printed booklet.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Similarly exciting and helpful but on a different level are high-end open source tools like &lt;code&gt;OBS&lt;/code&gt; for screencasting and streaming or &lt;code&gt;audacity&lt;/code&gt; for podcasting.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Namely &lt;code&gt;Okular&lt;/code&gt; for exporting epub to pdf, &lt;code&gt;pdftk&lt;/code&gt; for rotating, cutting, and arranging, and &lt;code&gt;boomaga&lt;/code&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -432,31 +432,31 @@ the code that produces the title picture, was done by Petar Mlinarić.&lt;/p&gt;
 &lt;!--Particular help in terms of improving the presentation
 was provided by [Christian Himpe](https://himpe.science/), [Tim
 Mitchell](http://www.timmitchell.com/), and Peter Benner. --&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Updates once a day in the morning.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;The plot is by the Italian Physicist &lt;a href=&#34;http://chimera.roma1.infn.it/FEDERICO/Contacts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ricci-Tersenghi&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;The basis is not too important here. If one takes 2, then a value of 1
 means a doubling. A different basis would only scale the plots but not change the
 qualitative outcomes.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34;&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;http://covidsim.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;covidsim.eu&lt;/a&gt; with parameters as recorded in the
 screenshots &lt;a href=&#34;covidsim-1-2020-03-22.png&#34;&gt;1&lt;/a&gt; and &lt;a href=&#34;covidsim-2-2020-03-22.png&#34;&gt;2&lt;/a&gt;
 based on the assumptions used of the RKI publication mentioned in the footnote
 below.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -826,15 +826,15 @@ v _ h(t_0) &amp;amp; v _ h(t_1) &amp;amp; \dotsm &amp;amp; v _ h(t _ {k-1})
 $$
 and
 $$
-X&amp;rsquo; =
+X&#39; =
 \begin{bmatrix}
 v _ h(t_1) &amp;amp; v _ h(t_2) &amp;amp; \dotsm &amp;amp; v _ h(t _ {k})
 \end{bmatrix}.
 $$&lt;/p&gt;
-&lt;p&gt;Note that $X&amp;rsquo;$ is basically $X$ shifted by one time step.&lt;/p&gt;
+&lt;p&gt;Note that $X&#39;$ is basically $X$ shifted by one time step.&lt;/p&gt;
 &lt;p&gt;Then the DMD matrix can be found by solving the linear regression problem&lt;/p&gt;
 &lt;p&gt;$$
-\min _ P | X&amp;rsquo; - PX | _ F.
+\min _ P | X&#39; - PX | _ F.
 $$&lt;/p&gt;
 &lt;p&gt;For the reduced DMD model we use the same snapshot matrix as for the POD. The
 regression problem is solved via SVD to compute the needed pseudo inverse since
@@ -1064,19 +1064,19 @@ choices, the performance rather deteriorated than improved.&lt;/p&gt;
 &lt;p&gt;How challenging the problem of 2D Burgers with a low viscosity is, can be seen
 from the failure of both methods to produce useable approximations to
 trajectories that start in different initial values.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland (2018): &lt;em&gt;Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial
 Differential Equations.&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1611.04050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1611.04050&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;See, e.g., Tu, Rowley, Luchtenburg, Brunton, Kutz (2013): &lt;em&gt;On Dynamic Mode
 Decomposition: Theory and Applications&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1312.0041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1312.0041&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -1322,29 +1322,29 @@ $$&lt;/p&gt;
 &lt;p&gt;of the tangent space and note that any other basis can be taken, or equivalently, any linear combination of the boundary conditions are feasible.&lt;/p&gt;
 &lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
 &lt;p&gt;📙 Pontryagin, Boltyanski, Gamkrelidze, and Mishchenko (1962) &lt;em&gt;The Mathematical Theory of Optimal Processes&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Lemma 6.5 in Heiland (2013) &lt;em&gt;Decoupling, Semi-Discretization, and Optimal
 Control of Semi-linear Semi-explicit Index-2 Abstract Differential-Algebraic
 Equations and Application in Optimal Flow Control&lt;/em&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;cp. the text before Theorem 3.4 in Ober-Blöbaum, Junge, Marsden
 (2008) &lt;em&gt;Discrete Mechanics and Optimal Control: an Analysis&lt;/em&gt;]&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Ch. I.2 in his book&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Pontryagin et al., Theorem 1&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34;&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Pontryagin et al., Ch. I.7&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     

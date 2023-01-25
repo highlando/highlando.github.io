@@ -5,12 +5,22 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks &amp; Events &amp; Conferences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jun 2022 16:30:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 14:00:00 +0100</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Talks &amp; Events &amp; Conferences</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Numerical Methods in Control and Optimization of Dynamical Systems</title>
+      <link>/event/23-bimos/</link>
+      <pubDate>Mon, 16 Jan 2023 14:00:00 +0100</pubDate>
+      <guid>/event/23-bimos/</guid>
+      <description>&lt;p&gt;After an introduction into the basic notions and principles of dynamical systems and control, I will address the challenges that come with high-dimensional (or even infinite-dimensional) nonlinear systems and show some recent theoretical and numerical approaches to their solution. The findings and concepts are illustrated by applications to the Navier-Stokes model equations and to a real-world triple pendulum.&lt;/p&gt;
+&lt;p&gt;If time suffices, I will address data-driven approaches that use data and possibly techniques from Machine Learning to enhance the models in terms of accuracy or faster evaluation times.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> Data-driven identification of encoding on quadratic-manifolds for high-fidelity dynamical models</title>
@@ -26,12 +36,12 @@
       <pubDate>Thu, 30 Sep 2021 15:00:00 +0200</pubDate>
       <guid>/event/21-dmv-oemg/</guid>
       <description>&lt;p&gt;Also see the paper: 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 &lt;/p&gt;
 </description>
     </item>
@@ -116,14 +126,14 @@ harmful. In this model we are particularly interested in finding a suitable test
 strategy, which is one way to apply control to the system. In general is the
 question of the right control mechanisms to &lt;em&gt;flatten the curve&lt;/em&gt; or slow the
 spread of virus still an open one.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;G. Giordano, F. Blanchini, R. Bruno, P. Colaneri, A. Di Filippo, A. Di Matteo, M. Colaneri: Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy. Nat. Med. (2020)&amp;quot;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -179,17 +189,17 @@ of solutions to the generalized (nonsymmetric) differential Riccati equation
 and conditions for their convergence to a solution of the generalized ARE. With
 these results, we can characterize the turnpike property for DAE control
 problems.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Callier, F. M.; Winkin, J. &amp;amp; Willems, J. L. &lt;em&gt;Convergence of the
 time-invariant Riccati differential equation and LQ-problem: mechanisms of
 attraction&lt;/em&gt;. International Journal of Control, Taylor &amp;amp; Francis, 1994, 59,
 983-1000.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     

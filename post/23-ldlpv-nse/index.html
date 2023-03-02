@@ -1,0 +1,1601 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.1.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="How to approximate general nonlinear systems by parameter dependent linear system using deep neural networks." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="/post/23-ldlpv-nse/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#33a5c3" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.c78829206f2902cc5dbd06e4b8bf39d3.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_huc8d60562114d373ee9fcddf98bd2be5c_10437_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc8d60562114d373ee9fcddf98bd2be5c_10437_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="/post/23-ldlpv-nse/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@jnhlnd" />
+    <meta property="twitter:creator" content="@jnhlnd" />
+  
+  <meta property="og:site_name" content="Jan Heiland" />
+  <meta property="og:url" content="/post/23-ldlpv-nse/" />
+  <meta property="og:title" content="Convolutional autoencoders for very low-dimensional parametrizations of nonlinear fluid flow | Jan Heiland" />
+  <meta property="og:description" content="How to approximate general nonlinear systems by parameter dependent linear system using deep neural networks." /><meta property="og:image" content="/post/23-ldlpv-nse/featured.png" />
+    <meta property="twitter:image" content="/post/23-ldlpv-nse/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2023-02-12T22:00:25&#43;08:00"
+      />
+    
+    <meta property="article:modified_time" content="2023-02-12T22:00:25&#43;08:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/23-ldlpv-nse/"
+  },
+  "headline": "Convolutional autoencoders for very low-dimensional parametrizations of nonlinear fluid flow",
+  
+  "image": [
+    "/post/23-ldlpv-nse/featured.png"
+  ],
+  
+  "datePublished": "2023-02-12T22:00:25+08:00",
+  "dateModified": "2023-02-12T22:00:25+08:00",
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jan Heiland",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_192x192_fit_lanczos_3.png"
+    }
+  },
+  "description": "How to approximate general nonlinear systems by parameter dependent linear system using deep neural networks."
+}
+</script>
+
+  
+
+  
+
+  
+
+  <link rel="me" href="https://machteburch.social/@jnhlnd" />
+
+
+  <title>Convolutional autoencoders for very low-dimensional parametrizations of nonlinear fluid flow | Jan Heiland</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="53bdcec97580ac6c143bb6030a10b97e" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.a8a181ea67095ef9fbb0e99ffbf585a0.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_0x70_resize_lanczos_3.png" alt="Jan Heiland"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_0x70_resize_lanczos_3.png" alt="Jan Heiland"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Conferences</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>Convolutional autoencoders for very low-dimensional parametrizations of nonlinear fluid flow</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Feb 12, 2023
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 255px;">
+  <div style="position: relative">
+    <img src="/post/23-ldlpv-nse/featured_hu077fadb29c5fe46a4988fa8d6c7c4a9b_138049_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h1 id="introduction">Introduction</h1>
+<p>The control of large-dimensional nonlinear dynamical systems is a challenging task because of the</p>
+<ol>
+<li>system&rsquo;s size that means a high demand in computational resources</li>
+<li>and the nonlinearity that adds model inherent complexity to be resolved by the controller.</li>
+</ol>
+<p>As long as the system is linear, the computational demands (1.) are well met by powerful and modern <em>linear algebra tools</em> and specialized hardware. A nonlinearity (2.) in small dimensions can be treated through system insights or, sometimes, by repeated linearizations. If nonlinear and large-scale comes together things become tricky.</p>
+<p>Here, we try to find the way out by proposing a formulation that is</p>
+<ol>
+<li>linear by its overall structure</li>
+<li>with the nonlinearities parametrized by just a few number of parameters.</li>
+</ol>
+<h1 id="system-approximation-by-low-dimensional-linear-parametrizations">System approximation by low-dimensional linear parametrizations</h1>
+<p>In the (nonlinear) Navier-Stokes equations that describe the evolution of fluid flow, the nonlinear term is given by the convection term in the form
+$$
+f(v) = N(v), v
+$$
+where, for any velocity field $v$, the convection operator $N(v)$ describes how the velocity field itself is convected. In a simulation $N(v)$ is a matrix that multiplies the state vector $v$. Despite this matrix structure, the nonlinearity $N(v),v$ is deemed complex because $v$ and $N(v)$ are typically very large. If, however, one could approximately (but sufficiently accurately) parametrize $N(v)$ by, say, three scalar parameters $(\rho_1(v), \rho_2(v), \rho_3(v))$ and three basis matrices $N_1$, $N_2$, and $N_3$, i.e.
+$$
+N(v) \approx \rho_1(v)N_1 + \rho_2(v)N_2 + \rho_3(v)N_3x
+$$
+then the nonlinearity
+$$
+N(v),v \approx  \rho_1(v)N_1,v + \rho_2(v)N_2,v + \rho_3(v)N_3,v
+$$
+becomes replaced by a hopefully easy computation of $\rho(v)$ and, notably, just three matrix vector multiplications &ndash; the standard operation of numerical linear algebra. And the problem, as we wanted it, appears to be basically linear and only with a low dimensional nonlinearity.</p>
+<h1 id="low-dimensional-parametrization-of-fluid-flow">Low-dimensional parametrization of fluid flow</h1>
+<p>In view of parametrizing $N(v)$, we look for a low-dimensional approximative parametrization of $v$. Low-dimensional approximations of the state of dynamical systems is both the core and promise of classical model order reduction. For our application, however, we would like to trade in some accuracy for very low dimensionality for what classical model reduction techniques are notoriously unsuited.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-snapshot-of-a-developed-flow-behind-a-cylinder">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" >
+        <img alt="Snapshot of a developed flow behind a cylinder." srcset="
+               /post/23-ldlpv-nse/cw-Re60-t161-cm-ctw-viridis_hu44e3f2046549d70e4a10408487ad9f6e_538164_8c1b98b96100882dc5c8fe887202159f.png 400w,
+               /post/23-ldlpv-nse/cw-Re60-t161-cm-ctw-viridis_hu44e3f2046549d70e4a10408487ad9f6e_538164_eb5bdde4bf00d612e3903ab56c8bc685.png 760w,
+               /post/23-ldlpv-nse/cw-Re60-t161-cm-ctw-viridis_hu44e3f2046549d70e4a10408487ad9f6e_538164_1200x1200_fit_lanczos_3.png 1200w"
+               src="/post/23-ldlpv-nse/cw-Re60-t161-cm-ctw-viridis_hu44e3f2046549d70e4a10408487ad9f6e_538164_8c1b98b96100882dc5c8fe887202159f.png"
+               width="760"
+               height="241"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      Snapshot of a developed flow behind a cylinder.
+    </figcaption></figure>
+<p>Therefore, we explored how deep convolutional autoencoders (CAEs) could be of help here. CAEs have been developed and successfully used two encode images in a low-dimensional latent feature space for, e.g., classification purposes. For us, the images will be velocity states (as we would plot them, e.g., in Figure 1) and the space of latent features will provide us with a low dimensional parametrization (see Figure 2/3 of an example architecture and an illustration of the dimension reduction).</p>
+<p>Apart from providing a flexible and thanks to modern machine learning toolboxes efficiently implementable encoding and decoding mechanism, deep convolutional autoencoders seems a good choice for our tasks as</p>
+<ul>
+<li>by the socalled <em>sparse connectivity</em> the neural network itself requires a moderate number of parameters despite possibly large dimensions of the data</li>
+<li>the implemented operations are shift invariant, meaning a pattern will be detected equally well independent of its position (which seems a good thing to have when thinking of fluid flow)</li>
+<li>the reduction operation of <em>pooling</em> can be seen as providing a multilevel view on the data</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-a-schematic-illustration-of-a-convolutional-autoencoder">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" >
+        <img alt="A schematic illustration of a convolutional autoencoder." srcset="
+               /post/23-ldlpv-nse/caearc_hub2fac77e8184e1fcccfdb71249ba6cea_316688_6fc5f11bb0679a93c3faf9b5044b1650.png 400w,
+               /post/23-ldlpv-nse/caearc_hub2fac77e8184e1fcccfdb71249ba6cea_316688_b550eeea83aa6bff5e4b63abad7b70f8.png 760w,
+               /post/23-ldlpv-nse/caearc_hub2fac77e8184e1fcccfdb71249ba6cea_316688_1200x1200_fit_lanczos_3.png 1200w"
+               src="/post/23-ldlpv-nse/caearc_hub2fac77e8184e1fcccfdb71249ba6cea_316688_6fc5f11bb0679a93c3faf9b5044b1650.png"
+               width="760"
+               height="245"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      A schematic illustration of a convolutional autoencoder.
+    </figcaption></figure>
+<h1 id="simulation-of-low-dimensionally-parametrized-flows">Simulation of low-dimensionally parametrized flows</h1>
+<p>We considered the two dimensional flow behind a round obstacle that develops a periodic shedding of vertices (see Figure 1). In our simulations, we checked if we can indeed replace the $50'000$ dimensional $v$ in $N(v)$ by $\rho(v)$ with literally only $3$ components.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-an-illustrative-sketch-of-how-the-velocity-field-data-is-processed-by-the-convolutional-neural-network-to-provide-the-low-dimensional-code-rho">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" >
+        <img alt="An illustrative sketch of how the velocity field data is processed by the convolutional neural network to provide the low dimensional code $\rho$." srcset="
+               /post/23-ldlpv-nse/nse-cnn_hue7d24de17bcc61fa61db656086edb595_277211_dbb74aeba4b7029eebbf79e15d497cb2.jpg 400w,
+               /post/23-ldlpv-nse/nse-cnn_hue7d24de17bcc61fa61db656086edb595_277211_4b1877e384c30204c5bce4368bf7c745.jpg 760w,
+               /post/23-ldlpv-nse/nse-cnn_hue7d24de17bcc61fa61db656086edb595_277211_1200x1200_fit_q90_lanczos.jpg 1200w"
+               src="/post/23-ldlpv-nse/nse-cnn_hue7d24de17bcc61fa61db656086edb595_277211_dbb74aeba4b7029eebbf79e15d497cb2.jpg"
+               width="760"
+               height="515"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      An illustrative sketch of how the velocity field data is processed by the convolutional neural network to provide the low dimensional code $\rho$.
+    </figcaption></figure>
+<p>Since in these systems, from a local perspective, small changes can have extreme impacts, differences in the simulation are best evaluated qualitively. Therefore, instead of plotting errors between trajectories (as we did for drag and lift in Figure 4 anyways), we sketched out the <em>phase portrait</em> of how drag and lift that the cylinder experiences evolve in the 2D plane over time.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-trajectories-of-drag-and-lift-over-time-for-the-full-order-model-and-the-low-order-parametrized-models-by-the-convolutional-neural-network-cnn-and-by-pod-of-dimension-3">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" >
+        <img alt="Trajectories of drag and lift over time for the full order model and the low-order parametrized models by the convolutional neural network (CNN) and by POD of dimension $3$." srcset="
+               /post/23-ldlpv-nse/nse-nn-ldlpv-0_hu3c04804c450b858fa0a69ae1e383df60_137798_3e8faff3a6746088c14ee7cd8a06e988.png 400w,
+               /post/23-ldlpv-nse/nse-nn-ldlpv-0_hu3c04804c450b858fa0a69ae1e383df60_137798_781786a30c0bc0ae77aa18a635638a65.png 760w,
+               /post/23-ldlpv-nse/nse-nn-ldlpv-0_hu3c04804c450b858fa0a69ae1e383df60_137798_1200x1200_fit_lanczos_3.png 1200w"
+               src="/post/23-ldlpv-nse/nse-nn-ldlpv-0_hu3c04804c450b858fa0a69ae1e383df60_137798_3e8faff3a6746088c14ee7cd8a06e988.png"
+               width="760"
+               height="265"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      Trajectories of drag and lift over time for the full order model and the low-order parametrized models by the convolutional neural network (CNN) and by POD of dimension $3$.
+    </figcaption></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-the-phase-portraits-corresponding-to-the-trajectories-of-drag-and-lift-as-displayed-in-figure-5">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" >
+        <img alt="The phase portraits corresponding to the trajectories of drag and lift as displayed in Figure 5." srcset="
+               /post/23-ldlpv-nse/nse-nn-ldlpv-1_huc22e66507fd0f22627882f1878e58c1b_91677_51c51570c55b655ee515f1f1ede81bb2.png 400w,
+               /post/23-ldlpv-nse/nse-nn-ldlpv-1_huc22e66507fd0f22627882f1878e58c1b_91677_64937c3b81b43beb38a8681d5588fc28.png 760w,
+               /post/23-ldlpv-nse/nse-nn-ldlpv-1_huc22e66507fd0f22627882f1878e58c1b_91677_1200x1200_fit_lanczos_3.png 1200w"
+               src="/post/23-ldlpv-nse/nse-nn-ldlpv-1_huc22e66507fd0f22627882f1878e58c1b_91677_51c51570c55b655ee515f1f1ede81bb2.png"
+               width="760"
+               height="254"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      The phase portraits corresponding to the trajectories of drag and lift as displayed in Figure 5.
+    </figcaption></figure>
+<p>From Figure 5 we can observe that the CAE approach with 3 parameters well approximates the limit cycle of the full order simulation both in position in size (in particular if compared to the rather standard parametrization approach using POD).</p>
+<h1 id="bibliography">Bibliography</h1>
+<p>For further reading we recommend our paper
+
+
+
+
+
+
+
+  
+    
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/jan-heiland/">Jan Heiland</a></span>, <span >
+      <a href="/author/peter-benner/">Peter Benner</a></span>, <span >
+      <a href="/author/rezvan-bahmani/">Rezvan Bahmani</a></span>
+  </span>
+  (2022).
+  <a href="/publication/hei-bb-22/">Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations</a>.
+  <em>Frontiers Appl. Math. Stat.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/hei-bb-22/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fams.2022.879140" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.6401953" target="_blank" rel="noopener">
+    
+    code
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+  
+
+
+that has the detailed theory for this presented example application. A numerical study directed to improve the encoding with the help of clustering can be found in</p>
+<p>
+
+
+
+
+
+
+  
+    
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/yongho-kim/">Yongho Kim</a></span>, <span >
+      <a href="/author/jan-heiland/">Jan Heiland</a></span>
+  </span>
+  (2023).
+  <a href="/publication/kim-h-23/">Convolutional Autoencoders, Clustering, and POD for Low-dimensional Parametrization of Navier-Stokes Equations</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/kim-h-23/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.48550/arXiv.2302.01278" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+  
+
+
+If you want to redo and expand on the simulations, please check out the codes that accompany the papers.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/23-ldlpv-nse/&amp;text=Convolutional%20autoencoders%20for%20very%20low-dimensional%20parametrizations%20of%20nonlinear%20fluid%20flow" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/23-ldlpv-nse/&amp;t=Convolutional%20autoencoders%20for%20very%20low-dimensional%20parametrizations%20of%20nonlinear%20fluid%20flow" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Convolutional%20autoencoders%20for%20very%20low-dimensional%20parametrizations%20of%20nonlinear%20fluid%20flow&amp;body=/post/23-ldlpv-nse/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/23-ldlpv-nse/&amp;title=Convolutional%20autoencoders%20for%20very%20low-dimensional%20parametrizations%20of%20nonlinear%20fluid%20flow" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Convolutional%20autoencoders%20for%20very%20low-dimensional%20parametrizations%20of%20nonlinear%20fluid%20flow%20/post/23-ldlpv-nse/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/post/23-ldlpv-nse/&amp;title=Convolutional%20autoencoders%20for%20very%20low-dimensional%20parametrizations%20of%20nonlinear%20fluid%20flow" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/"><img class="avatar mr-3 avatar-circle" src="/author/avatar_hu815b458c9ca9a76573f46a1be2fda2a4_25534_270x270_fill_q90_lanczos_center.jpg" alt=""></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/"></a></h5>
+      <h6 class="card-subtitle">Team leader and Jun.-Prof. in Applied Mathematics</h6>
+      <p class="card-text">My research interests include control systems, differential-algebraic equations, and flow problems.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/jnhlnd" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=wkHSeoYAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/highlando" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/media/resume.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.89dc4aae2ed85546e13638006a8a95ce.js"></script>
+
+    <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+<script>
+  podlovePlayer('#pc-lecture-one', '/courses/ovgu-mathe-informatik/files/pcs/config-1.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-1-2', '/courses/ovgu-mathe-informatik/files/pcs/config-1-2.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-2-1', '/courses/ovgu-mathe-informatik/files/pcs/config-2-1.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-2-2', '/courses/ovgu-mathe-informatik/files/pcs/config-2-2.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-3-1', '/courses/ovgu-mathe-informatik/files/pcs/config-3-1.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-3-2', '/courses/ovgu-mathe-informatik/files/pcs/config-3-2.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-4-1', '/courses/ovgu-mathe-informatik/files/pcs/config-4-1.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-4-2', '/courses/ovgu-mathe-informatik/files/pcs/config-4-2.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-5-1', '/courses/ovgu-mathe-informatik/files/pcs/config-5-1.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-6-1', '/courses/ovgu-mathe-informatik/files/pcs/config-6-1.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-7-1', '/courses/ovgu-mathe-informatik/files/pcs/config-7-1.json');
+</script>
+
+
+
+</body>
+</html>

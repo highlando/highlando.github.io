@@ -5,12 +5,20 @@
     <link>/author/yongho-kim/</link>
       <atom:link href="/author/yongho-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Yongho Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Yongho Kim</title>
       <link>/author/yongho-kim/</link>
     </image>
+    
+    <item>
+      <title>Convolutional Autoencoders, Clustering, and POD for Low-dimensional Parametrization of Navier-Stokes Equations</title>
+      <link>/publication/kim-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-h-23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Convolutional Autoencoders and Clustering for Low-dimensional Parametrization of Incompressible Flows</title>

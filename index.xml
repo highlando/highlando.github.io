@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Heiland</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 14:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Feb 2023 22:00:25 +0800</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Jan Heiland</title>
@@ -1210,6 +1210,359 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
     </item>
     
     <item>
+      <title>Convolutional autoencoders for very low-dimensional parametrizations of nonlinear fluid flow</title>
+      <link>/post/23-ldlpv-nse/</link>
+      <pubDate>Sun, 12 Feb 2023 22:00:25 +0800</pubDate>
+      <guid>/post/23-ldlpv-nse/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;The control of large-dimensional nonlinear dynamical systems is a challenging task because of the&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;system&amp;rsquo;s size that means a high demand in computational resources&lt;/li&gt;
+&lt;li&gt;and the nonlinearity that adds model inherent complexity to be resolved by the controller.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As long as the system is linear, the computational demands (1.) are well met by powerful and modern &lt;em&gt;linear algebra tools&lt;/em&gt; and specialized hardware. A nonlinearity (2.) in small dimensions can be treated through system insights or, sometimes, by repeated linearizations. If nonlinear and large-scale comes together things become tricky.&lt;/p&gt;
+&lt;p&gt;Here, we try to find the way out by proposing a formulation that is&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;linear by its overall structure&lt;/li&gt;
+&lt;li&gt;with the nonlinearities parametrized by just a few number of parameters.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;system-approximation-by-low-dimensional-linear-parametrizations&#34;&gt;System approximation by low-dimensional linear parametrizations&lt;/h1&gt;
+&lt;p&gt;In the (nonlinear) Navier-Stokes equations that describe the evolution of fluid flow, the nonlinear term is given by the convection term in the form
+$$
+f(v) = N(v), v
+$$
+where, for any velocity field $v$, the convection operator $N(v)$ describes how the velocity field itself is convected. In a simulation $N(v)$ is a matrix that multiplies the state vector $v$. Despite this matrix structure, the nonlinearity $N(v),v$ is deemed complex because $v$ and $N(v)$ are typically very large. If, however, one could approximately (but sufficiently accurately) parametrize $N(v)$ by, say, three scalar parameters $(\rho_1(v), \rho_2(v), \rho_3(v))$ and three basis matrices $N_1$, $N_2$, and $N_3$, i.e.
+$$
+N(v) \approx \rho_1(v)N_1 + \rho_2(v)N_2 + \rho_3(v)N_3x
+$$
+then the nonlinearity
+$$
+N(v),v \approx  \rho_1(v)N_1,v + \rho_2(v)N_2,v + \rho_3(v)N_3,v
+$$
+becomes replaced by a hopefully easy computation of $\rho(v)$ and, notably, just three matrix vector multiplications &amp;ndash; the standard operation of numerical linear algebra. And the problem, as we wanted it, appears to be basically linear and only with a low dimensional nonlinearity.&lt;/p&gt;
+&lt;h1 id=&#34;low-dimensional-parametrization-of-fluid-flow&#34;&gt;Low-dimensional parametrization of fluid flow&lt;/h1&gt;
+&lt;p&gt;In view of parametrizing $N(v)$, we look for a low-dimensional approximative parametrization of $v$. Low-dimensional approximations of the state of dynamical systems is both the core and promise of classical model order reduction. For our application, however, we would like to trade in some accuracy for very low dimensionality for what classical model reduction techniques are notoriously unsuited.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-snapshot-of-a-developed-flow-behind-a-cylinder&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshot of a developed flow behind a cylinder.&#34; srcset=&#34;
+               /post/23-ldlpv-nse/cw-Re60-t161-cm-ctw-viridis_hu44e3f2046549d70e4a10408487ad9f6e_538164_8c1b98b96100882dc5c8fe887202159f.png 400w,
+               /post/23-ldlpv-nse/cw-Re60-t161-cm-ctw-viridis_hu44e3f2046549d70e4a10408487ad9f6e_538164_eb5bdde4bf00d612e3903ab56c8bc685.png 760w,
+               /post/23-ldlpv-nse/cw-Re60-t161-cm-ctw-viridis_hu44e3f2046549d70e4a10408487ad9f6e_538164_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/23-ldlpv-nse/cw-Re60-t161-cm-ctw-viridis_hu44e3f2046549d70e4a10408487ad9f6e_538164_8c1b98b96100882dc5c8fe887202159f.png&#34;
+               width=&#34;760&#34;
+               height=&#34;241&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Snapshot of a developed flow behind a cylinder.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Therefore, we explored how deep convolutional autoencoders (CAEs) could be of help here. CAEs have been developed and successfully used two encode images in a low-dimensional latent feature space for, e.g., classification purposes. For us, the images will be velocity states (as we would plot them, e.g., in Figure 1) and the space of latent features will provide us with a low dimensional parametrization (see Figure 2/3 of an example architecture and an illustration of the dimension reduction).&lt;/p&gt;
+&lt;p&gt;Apart from providing a flexible and thanks to modern machine learning toolboxes efficiently implementable encoding and decoding mechanism, deep convolutional autoencoders seems a good choice for our tasks as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;by the socalled &lt;em&gt;sparse connectivity&lt;/em&gt; the neural network itself requires a moderate number of parameters despite possibly large dimensions of the data&lt;/li&gt;
+&lt;li&gt;the implemented operations are shift invariant, meaning a pattern will be detected equally well independent of its position (which seems a good thing to have when thinking of fluid flow)&lt;/li&gt;
+&lt;li&gt;the reduction operation of &lt;em&gt;pooling&lt;/em&gt; can be seen as providing a multilevel view on the data&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-schematic-illustration-of-a-convolutional-autoencoder&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;A schematic illustration of a convolutional autoencoder.&#34; srcset=&#34;
+               /post/23-ldlpv-nse/caearc_hub2fac77e8184e1fcccfdb71249ba6cea_316688_6fc5f11bb0679a93c3faf9b5044b1650.png 400w,
+               /post/23-ldlpv-nse/caearc_hub2fac77e8184e1fcccfdb71249ba6cea_316688_b550eeea83aa6bff5e4b63abad7b70f8.png 760w,
+               /post/23-ldlpv-nse/caearc_hub2fac77e8184e1fcccfdb71249ba6cea_316688_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/23-ldlpv-nse/caearc_hub2fac77e8184e1fcccfdb71249ba6cea_316688_6fc5f11bb0679a93c3faf9b5044b1650.png&#34;
+               width=&#34;760&#34;
+               height=&#34;245&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      A schematic illustration of a convolutional autoencoder.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h1 id=&#34;simulation-of-low-dimensionally-parametrized-flows&#34;&gt;Simulation of low-dimensionally parametrized flows&lt;/h1&gt;
+&lt;p&gt;We considered the two dimensional flow behind a round obstacle that develops a periodic shedding of vertices (see Figure 1). In our simulations, we checked if we can indeed replace the $50&#39;000$ dimensional $v$ in $N(v)$ by $\rho(v)$ with literally only $3$ components.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-an-illustrative-sketch-of-how-the-velocity-field-data-is-processed-by-the-convolutional-neural-network-to-provide-the-low-dimensional-code-rho&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;An illustrative sketch of how the velocity field data is processed by the convolutional neural network to provide the low dimensional code $\rho$.&#34; srcset=&#34;
+               /post/23-ldlpv-nse/nse-cnn_hue7d24de17bcc61fa61db656086edb595_277211_dbb74aeba4b7029eebbf79e15d497cb2.jpg 400w,
+               /post/23-ldlpv-nse/nse-cnn_hue7d24de17bcc61fa61db656086edb595_277211_4b1877e384c30204c5bce4368bf7c745.jpg 760w,
+               /post/23-ldlpv-nse/nse-cnn_hue7d24de17bcc61fa61db656086edb595_277211_1200x1200_fit_q90_lanczos.jpg 1200w&#34;
+               src=&#34;/post/23-ldlpv-nse/nse-cnn_hue7d24de17bcc61fa61db656086edb595_277211_dbb74aeba4b7029eebbf79e15d497cb2.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;515&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      An illustrative sketch of how the velocity field data is processed by the convolutional neural network to provide the low dimensional code $\rho$.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Since in these systems, from a local perspective, small changes can have extreme impacts, differences in the simulation are best evaluated qualitively. Therefore, instead of plotting errors between trajectories (as we did for drag and lift in Figure 4 anyways), we sketched out the &lt;em&gt;phase portrait&lt;/em&gt; of how drag and lift that the cylinder experiences evolve in the 2D plane over time.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-trajectories-of-drag-and-lift-over-time-for-the-full-order-model-and-the-low-order-parametrized-models-by-the-convolutional-neural-network-cnn-and-by-pod-of-dimension-3&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Trajectories of drag and lift over time for the full order model and the low-order parametrized models by the convolutional neural network (CNN) and by POD of dimension $3$.&#34; srcset=&#34;
+               /post/23-ldlpv-nse/nse-nn-ldlpv-0_hu3c04804c450b858fa0a69ae1e383df60_137798_3e8faff3a6746088c14ee7cd8a06e988.png 400w,
+               /post/23-ldlpv-nse/nse-nn-ldlpv-0_hu3c04804c450b858fa0a69ae1e383df60_137798_781786a30c0bc0ae77aa18a635638a65.png 760w,
+               /post/23-ldlpv-nse/nse-nn-ldlpv-0_hu3c04804c450b858fa0a69ae1e383df60_137798_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/23-ldlpv-nse/nse-nn-ldlpv-0_hu3c04804c450b858fa0a69ae1e383df60_137798_3e8faff3a6746088c14ee7cd8a06e988.png&#34;
+               width=&#34;760&#34;
+               height=&#34;265&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Trajectories of drag and lift over time for the full order model and the low-order parametrized models by the convolutional neural network (CNN) and by POD of dimension $3$.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-phase-portraits-corresponding-to-the-trajectories-of-drag-and-lift-as-displayed-in-figure-5&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The phase portraits corresponding to the trajectories of drag and lift as displayed in Figure 5.&#34; srcset=&#34;
+               /post/23-ldlpv-nse/nse-nn-ldlpv-1_huc22e66507fd0f22627882f1878e58c1b_91677_51c51570c55b655ee515f1f1ede81bb2.png 400w,
+               /post/23-ldlpv-nse/nse-nn-ldlpv-1_huc22e66507fd0f22627882f1878e58c1b_91677_64937c3b81b43beb38a8681d5588fc28.png 760w,
+               /post/23-ldlpv-nse/nse-nn-ldlpv-1_huc22e66507fd0f22627882f1878e58c1b_91677_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/23-ldlpv-nse/nse-nn-ldlpv-1_huc22e66507fd0f22627882f1878e58c1b_91677_51c51570c55b655ee515f1f1ede81bb2.png&#34;
+               width=&#34;760&#34;
+               height=&#34;254&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      The phase portraits corresponding to the trajectories of drag and lift as displayed in Figure 5.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;From Figure 5 we can observe that the CAE approach with 3 parameters well approximates the limit cycle of the full order simulation both in position in size (in particular if compared to the rather standard parametrization approach using POD).&lt;/p&gt;
+&lt;h1 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h1&gt;
+&lt;p&gt;For further reading we recommend our paper
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;/author/jan-heiland/&#34;&gt;Jan Heiland&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;/author/peter-benner/&#34;&gt;Peter Benner&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;/author/rezvan-bahmani/&#34;&gt;Rezvan Bahmani&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2022).
+  &lt;a href=&#34;/publication/hei-bb-22/&#34;&gt;Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations&lt;/a&gt;.
+  &lt;em&gt;Frontiers Appl. Math. Stat.&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/hei-bb-22/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/fams.2022.879140&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.5281/zenodo.6401953&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    code
+  &lt;/a&gt;
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+that has the detailed theory for this presented example application. A numerical study directed to improve the encoding with the help of clustering can be found in&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;/author/yongho-kim/&#34;&gt;Yongho Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;/author/jan-heiland/&#34;&gt;Jan Heiland&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2023).
+  &lt;a href=&#34;/publication/kim-h-23/&#34;&gt;Convolutional Autoencoders, Clustering, and POD for Low-dimensional Parametrization of Navier-Stokes Equations&lt;/a&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/kim-h-23/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.48550/arXiv.2302.01278&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+If you want to redo and expand on the simulations, please check out the codes that accompany the papers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Numerical Methods in Control and Optimization of Dynamical Systems</title>
       <link>/event/23-bimos/</link>
       <pubDate>Mon, 16 Jan 2023 14:00:00 +0100</pubDate>
@@ -1217,6 +1570,30 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
       <description>&lt;p&gt;After an introduction into the basic notions and principles of dynamical systems and control, I will address the challenges that come with high-dimensional (or even infinite-dimensional) nonlinear systems and show some recent theoretical and numerical approaches to their solution. The findings and concepts are illustrated by applications to the Navier-Stokes model equations and to a real-world triple pendulum.&lt;/p&gt;
 &lt;p&gt;If time suffices, I will address data-driven approaches that use data and possibly techniques from Machine Learning to enhance the models in terms of accuracy or faster evaluation times.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders, Clustering, and POD for Low-dimensional Parametrization of Navier-Stokes Equations</title>
+      <link>/publication/kim-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-23/</guid>
+      <description></description>
     </item>
     
     <item>

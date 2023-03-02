@@ -5,26 +5,18 @@
     <link>/author/j.-heiland/</link>
       <atom:link href="/author/j.-heiland/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Heiland</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>J. Heiland</title>
       <link>/author/j.-heiland/</link>
     </image>
     
     <item>
-      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
-      <link>/publication/ben-ghp-22-a/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/ben-ghp-22-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional $mathcalH_ınfty$-controllers</title>
-      <link>/publication/mor-ben-hw-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/mor-ben-hw-21/</guid>
+      <title>Convolutional Autoencoders, Clustering, and POD for Low-dimensional Parametrization of Navier-Stokes Equations</title>
+      <link>/publication/kim-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-h-23/</guid>
       <description></description>
     </item>
     

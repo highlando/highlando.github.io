@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>Exponential Lag Synchronization of Cohen-Grossberg Neural Networks with Discrete and Distributed Delays on Time Scales</title>
+      <link>/publication/kum-bh-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kum-bh-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-complexity linear parameter-varying approximations of incompressible Navier-Stokes equations for truncated state-dependent Riccati feedback</title>
+      <link>/publication/hei-w-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-w-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
       <link>/publication/ben-h-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -105,6 +121,14 @@
       <link>/publication/hei-z-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/hei-z-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galerkin trial spaces and Davison-Maki methods for the numerical solution of differential Riccati equations</title>
+      <link>/publication/beh-bh-21-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21-a/</guid>
       <description></description>
     </item>
     

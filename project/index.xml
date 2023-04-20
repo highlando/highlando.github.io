@@ -5,12 +5,77 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 14:23:01 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Apr 2023 11:51:06 +0200</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>MaRDI</title>
+      <link>/project/mardi/</link>
+      <pubDate>Thu, 20 Apr 2023 11:51:06 +0200</pubDate>
+      <guid>/project/mardi/</guid>
+      <description>&lt;p&gt;The one mathematics directed and driven consortium in the &lt;a href=&#34;https://www.nfdi.de/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NFDI&lt;/a&gt;. Our institute has been a co-applicant and we are co-managing (together with WWU Münster) the part on &lt;em&gt;Scientific Computing&lt;/em&gt; (Task Area 2 in MaRDI). My responsibility is the measure &lt;em&gt;workflows in CSE&lt;/em&gt; where we are developing and implementing a description language for workflows in &lt;em&gt;computational science and engineering&lt;/em&gt; with currently one postdoc working full-time on it.&lt;/p&gt;
+&lt;h3 id=&#34;funding-information&#34;&gt;Funding Information&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Funding Agency&lt;/th&gt;
+&lt;th&gt;DFG &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/460135501&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(project number: 460135501)&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;2021&amp;ndash;2026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Overall Budget&lt;/td&gt;
+&lt;td&gt;9954430 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;My share&lt;/td&gt;
+&lt;td&gt;385500 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Training Group: MathCoRe</title>
+      <link>/project/mathcore/</link>
+      <pubDate>Thu, 20 Apr 2023 11:51:06 +0200</pubDate>
+      <guid>/project/mathcore/</guid>
+      <description>&lt;p&gt;The research training group &lt;em&gt;MathCoRe&lt;/em&gt; at that OVGU provides a both challenging and supporting environment for a small community of graduate students to pursue a PhD in a field that relates to mathematical complexity reduction.&lt;/p&gt;
+&lt;p&gt;Currently, I&amp;rsquo;m supervising two PhD students in this project and there is always a chance to set up another PhD project &amp;ndash; please use the above link to see the scope of &lt;em&gt;MathCoRe&lt;/em&gt; and just apply.&lt;/p&gt;
+&lt;h3 id=&#34;funding-information&#34;&gt;Funding Information&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Funding Agency&lt;/th&gt;
+&lt;th&gt;DFG &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/314838170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(project number: 314838170)&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;2021&amp;ndash;2026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Overall Budget&lt;/td&gt;
+&lt;td&gt;5582000 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;My share&lt;/td&gt;
+&lt;td&gt;409680 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>MRI Fingerprinting with Philips</title>

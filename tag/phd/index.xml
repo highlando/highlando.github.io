@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phd | Jan Heiland</title>
+    <link>/tag/phd/</link>
+      <atom:link href="/tag/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>phd</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Apr 2023 11:51:06 +0200</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>phd</title>
+      <link>/tag/phd/</link>
+    </image>
+    
+    <item>
+      <title>Research Training Group: MathCoRe</title>
+      <link>/project/mathcore/</link>
+      <pubDate>Thu, 20 Apr 2023 11:51:06 +0200</pubDate>
+      <guid>/project/mathcore/</guid>
+      <description>&lt;p&gt;The research training group &lt;em&gt;MathCoRe&lt;/em&gt; at that OVGU provides a both challenging and supporting environment for a small community of graduate students to pursue a PhD in a field that relates to mathematical complexity reduction.&lt;/p&gt;
+&lt;p&gt;Currently, I&amp;rsquo;m supervising two PhD students in this project and there is always a chance to set up another PhD project &amp;ndash; please use the above link to see the scope of &lt;em&gt;MathCoRe&lt;/em&gt; and just apply.&lt;/p&gt;
+&lt;h3 id=&#34;funding-information&#34;&gt;Funding Information&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Funding Agency&lt;/th&gt;
+&lt;th&gt;DFG &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/314838170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(project number: 314838170)&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;2021&amp;ndash;2026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Overall Budget&lt;/td&gt;
+&lt;td&gt;5582000 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;My share&lt;/td&gt;
+&lt;td&gt;409680 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

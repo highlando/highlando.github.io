@@ -5,12 +5,49 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks &amp; Events &amp; Conferences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 14:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 18:31:10 +0200</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Talks &amp; Events &amp; Conferences</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Computational Approaches to H-Infinity-robust Controller Design and System Norms for Large-scale Systems</title>
+      <link>/event/23-gamm/</link>
+      <pubDate>Thu, 01 Jun 2023 18:31:10 +0200</pubDate>
+      <guid>/event/23-gamm/</guid>
+      <description>&lt;p&gt;The computation of controller gains for the (linearization based) $H_\infty$ robust control of linear (and nonlinear) dynamical systems amounts to the solution of indefinite Riccati equations. For large-scale systems, a direct approach is infeasible because of both computational efforts and memory requirements.&lt;/p&gt;
+&lt;p&gt;In this talk we review existing iterative approaches and then discuss our recent algorithm&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; that merges the ideas of the &lt;em&gt;Riccati iteration&lt;/em&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; (that approaches solutions of the indefinite equations through a sequence of definite Riccati equations) and &lt;em&gt;low-rank ADI iterations&lt;/em&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; (as it has become a standard tool for solving large-scale Riccati equations numerically). For that we provide necessary and sufficient conditions for convergence and thorough numerical studies concerning run times and memory consumption.&lt;/p&gt;
+&lt;p&gt;In order to estimate the performance and robustness of controllers, one may resort to system norms which themselves pose a significant computational challenge. In the second part of this talk, we will illustrate suitable reformulations of the relevant system norms so that their estimation can be achieved by high-performant routines from numerical linear algebra&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;. In view of robust control, we will in particular focus on estimates that also include system uncertainties and model reduction errors.&lt;/p&gt;
+&lt;p&gt;Finally, we will bring together the computation of the controller gains and the norm estimates to robustly stabilize incompressible flows in two different setups of the well-known cylinder wake.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Benner, P.; Heiland, J. &amp;amp; Werner, S. W. R. &lt;em&gt;A low-rank solution method for Riccati equations with indefinite quadratic terms&lt;/em&gt;, Numer. Algorithms, 2022&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Benner, P.; Heiland, J. &amp;amp; Werner, S. W. R.: &lt;em&gt;Robust output-feedback stabilization for incompressible flows using low-dimensional $H_\infty$-controllers&lt;/em&gt;. Comput. Optim. Appl., 2022, 82, 225-249&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Lanzon, A.; Feng, Y. &amp;amp; Anderson, B.: &lt;em&gt;An iterative algorithm to solve Algebraic Riccati Equations with an indefinite quadratic term&lt;/em&gt;, 2007 European Control Conference (ECC), 2007.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Benner, P.; Bujanović, Z.; Kürschner, P. &amp;amp; Saak, J.: &lt;em&gt;RADI: A low-rank ADI-type algorithm for large scale algebraic Riccati equations&lt;/em&gt;. Numer. Math., 2018.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low-dimensional linear parameter varying system approximations for nonlinear controller design</title>
+      <link>/event/23-blacksburg/</link>
+      <pubDate>Thu, 25 May 2023 11:00:00 +0800</pubDate>
+      <guid>/event/23-blacksburg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Numerical Methods in Control and Optimization of Dynamical Systems</title>

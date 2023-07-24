@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>Low-complexity LPV approximations of incompressible Navier-Stokes equations for truncated state-dependent Riccati feedback</title>
+      <title>Low-Complexity Linear Parameter-Varying Approximations of Incompressible Navier-Stokes Equations for Truncated State-Dependent Riccati Feedback</title>
       <link>/publication/hei-w-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/hei-w-23/</guid>
@@ -73,6 +73,14 @@
       <link>/publication/ben-hw-22-a/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
       <description></description>
     </item>
     

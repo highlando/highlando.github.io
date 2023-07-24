@@ -1258,7 +1258,7 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;/publication/hei-w-23/&#34; &gt;Low-complexity LPV approximations of incompressible Navier-Stokes equations for truncated state-dependent Riccati feedback&lt;/a&gt;
+  &lt;a href=&#34;/publication/hei-w-23/&#34; &gt;Low-Complexity Linear Parameter-Varying Approximations of Incompressible Navier-Stokes Equations for Truncated State-Dependent Riccati Feedback&lt;/a&gt;
 
   
 
@@ -1305,6 +1305,10 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
 
 
 
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1109/LCSYS.2023.3291231&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
 
 
   
@@ -2075,7 +2079,7 @@ If you want to redo and expand on the simulations, please check out the codes th
     </item>
     
     <item>
-      <title>Low-complexity LPV approximations of incompressible Navier-Stokes equations for truncated state-dependent Riccati feedback</title>
+      <title>Low-Complexity Linear Parameter-Varying Approximations of Incompressible Navier-Stokes Equations for Truncated State-Dependent Riccati Feedback</title>
       <link>/publication/hei-w-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/hei-w-23/</guid>
@@ -2103,6 +2107,14 @@ If you want to redo and expand on the simulations, please check out the codes th
       <link>/publication/ben-hw-22-a/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
       <description></description>
     </item>
     

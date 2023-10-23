@@ -86,11 +86,29 @@
     <loc>/courses/ovgu-mathe-informatik/omi-9/</loc>
     <lastmod>2019-07-07T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tag/grants/</loc>
-    <lastmod>2023-07-20T11:00:00+02:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2023-10-23T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/jan-heiland/</loc>
+    <lastmod>2023-10-23T14:00:00+02:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-09-15T14:12:45+02:00</lastmod>
+    <lastmod>2023-10-23T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/open-access/</loc>
+    <lastmod>2023-10-23T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-10-23T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2023-10-23T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/event/23-deal/</loc>
+    <lastmod>2023-10-23T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/grants/</loc>
+    <lastmod>2023-07-20T11:00:00+02:00</lastmod>
   </url><url>
     <loc>/project/23-dfg-lpv/</loc>
     <lastmod>2023-07-20T11:00:00+02:00</lastmod>
@@ -104,20 +122,8 @@
     <loc>/project/</loc>
     <lastmod>2023-07-20T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-07-20T11:00:00+02:00</lastmod>
-  </url><url>
     <loc>/event/23-gamm/</loc>
     <lastmod>2023-06-01T18:31:10+02:00</lastmod>
-  </url><url>
-    <loc>/event/</loc>
-    <lastmod>2023-06-01T18:31:10+02:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-09-15T14:12:45+02:00</lastmod>
-  </url><url>
-    <loc>/author/jan-heiland/</loc>
-    <lastmod>2023-09-15T14:12:45+02:00</lastmod>
   </url><url>
     <loc>/event/23-blacksburg/</loc>
     <lastmod>2023-05-25T11:00:00+08:00</lastmod>
@@ -328,9 +334,6 @@
   </url><url>
     <loc>/tag/pendulum/</loc>
     <lastmod>2020-10-08T16:45:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/open-access/</loc>
-    <lastmod>2020-09-23T14:00:00+02:00</lastmod>
   </url><url>
     <loc>/event/20-deal/</loc>
     <lastmod>2020-09-23T14:00:00+02:00</lastmod>

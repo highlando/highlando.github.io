@@ -5,12 +5,20 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks &amp; Events &amp; Conferences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 18:31:10 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Oct 2023 14:00:00 +0200</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Talks &amp; Events &amp; Conferences</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>The DEAL is here - What now?</title>
+      <link>/event/23-deal/</link>
+      <pubDate>Mon, 23 Oct 2023 14:00:00 +0200</pubDate>
+      <guid>/event/23-deal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computational Approaches to H-Infinity-robust Controller Design and System Norms for Large-scale Systems</title>

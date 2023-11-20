@@ -86,22 +86,40 @@
     <loc>/courses/ovgu-mathe-informatik/omi-9/</loc>
     <lastmod>2019-07-07T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>/event/23-atsc/</loc>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-11-10T13:02:43+01:00</lastmod>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
+  </url><url>
+    <loc>/author/enrique-zuazua/</loc>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
+  </url><url>
+    <loc>/author/ion-victor-gosea/</loc>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
   </url><url>
     <loc>/author/jan-heiland/</loc>
-    <lastmod>2023-11-10T13:02:43+01:00</lastmod>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-11-10T13:02:43+01:00</lastmod>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
+  </url><url>
+    <loc>/author/karl-worthmann/</loc>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
+  </url><url>
+    <loc>/author/matthias-voigt/</loc>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
+  </url><url>
+    <loc>/author/timm-faulwasser/</loc>
+    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
   </url><url>
     <loc>/tag/open-access/</loc>
     <lastmod>2023-10-23T14:00:00+02:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2023-10-23T14:00:00+02:00</lastmod>
-  </url><url>
-    <loc>/event/</loc>
     <lastmod>2023-10-23T14:00:00+02:00</lastmod>
   </url><url>
     <loc>/event/23-deal/</loc>
@@ -180,9 +198,6 @@
     <lastmod>2023-06-26T20:22:02+02:00</lastmod>
   </url><url>
     <loc>/publication/gos-h-23/</loc>
-    <lastmod>2023-11-10T13:02:43+01:00</lastmod>
-  </url><url>
-    <loc>/author/ion-victor-gosea/</loc>
     <lastmod>2023-11-10T13:02:43+01:00</lastmod>
   </url><url>
     <loc>/author/jingjing-zhang/</loc>
@@ -327,9 +342,6 @@
     <lastmod>2021-01-29T13:10:00+01:00</lastmod>
   </url><url>
     <loc>/publication/hei-z-21/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/enrique-zuazua/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/beh-bh-21-a/</loc>

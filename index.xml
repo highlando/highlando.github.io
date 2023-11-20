@@ -1221,11 +1221,11 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
     &lt;li&gt;&lt;a href=&#34;#advanced-topics-in-systems-and-control&#34;&gt;Advanced Topics in Systems and Control&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#schedule&#34;&gt;Schedule&lt;/a&gt;
       &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#nov-20----nov-24-introductary-research-talks&#34;&gt;Nov 20 &amp;ndash; Nov 24 (Introductary Research Talks)&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#nov-27----dec-01&#34;&gt;Nov 27 &amp;ndash; Dec 01&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#dec-04----dec-08-worthmann-et-al&#34;&gt;Dec 04 &amp;ndash; Dec 08 (Worthmann et al.)&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#dec-11----dec-15-goseafaulwasser&#34;&gt;Dec 11 &amp;ndash; Dec 15 (Gosea/Faulwasser)&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#dec-18----dec-22-voigtheiland&#34;&gt;Dec 18 &amp;ndash; Dec 22 (Voigt/Heiland)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#nov-20--24----introductory-research-talks&#34;&gt;Nov 20&amp;ndash;24 &amp;ndash; Introductory Research Talks&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#nov-27--dec-01----learning-control-and-systems&#34;&gt;Nov 27&amp;ndash;Dec 01 &amp;ndash; Learning, Control and Systems&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#dec-04---08----edmd-and-port-hamiltonian-systems&#34;&gt;Dec 04&amp;ndash; 08 &amp;ndash; (e)DMD and port-Hamiltonian Systems&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#dec-11--15-system-identification-model-reduction-data-driven-mpc&#34;&gt;Dec 11&amp;ndash;15 System Identification, Model Reduction, Data-driven MPC&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#dec-18--22----numerical-methods-in-linear-control-theory&#34;&gt;Dec 18&amp;ndash;22 &amp;ndash; Numerical Methods in Linear Control Theory&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#dec-25----dec-29-heiland&#34;&gt;Dec 25 &amp;ndash; Dec 29 (Heiland)&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
@@ -1268,7 +1268,7 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
 &lt;p&gt;&lt;strong&gt;Sounds interesting?&lt;/strong&gt;  Subscribe to our &lt;a href=&#34;https://www.listserv.dfn.de/sympa/info/winter23-advanced-control-lectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;✉ &lt;strong&gt;mailing list&lt;/strong&gt; ✉&lt;/a&gt; to get a weekly summary of the upcoming topics, to be informed about changes, and to get access links to supporting material&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Zoom details&lt;/strong&gt;: Meeting ID: 398 252 7589 &amp;ndash; Passcode: 62u65f&lt;/p&gt;
 &lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-&lt;h2 id=&#34;nov-20----nov-24-introductary-research-talks&#34;&gt;Nov 20 &amp;ndash; Nov 24 (Introductary Research Talks)&lt;/h2&gt;
+&lt;h2 id=&#34;nov-20--24----introductory-research-talks&#34;&gt;Nov 20&amp;ndash;24 &amp;ndash; Introductory Research Talks&lt;/h2&gt;
 &lt;p&gt;A session of talks that introduces the speakers, one of their research topics, and gives an outlook on their lectures.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1332,7 +1332,7 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;nov-27----dec-01&#34;&gt;Nov 27 &amp;ndash; Dec 01&lt;/h2&gt;
+&lt;h2 id=&#34;nov-27--dec-01----learning-control-and-systems&#34;&gt;Nov 27&amp;ndash;Dec 01 &amp;ndash; Learning, Control and Systems&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1403,7 +1403,7 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;dec-04----dec-08-worthmann-et-al&#34;&gt;Dec 04 &amp;ndash; Dec 08 (Worthmann et al.)&lt;/h2&gt;
+&lt;h2 id=&#34;dec-04---08----edmd-and-port-hamiltonian-systems&#34;&gt;Dec 04&amp;ndash; 08 &amp;ndash; (e)DMD and port-Hamiltonian Systems&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1474,7 +1474,7 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;dec-11----dec-15-goseafaulwasser&#34;&gt;Dec 11 &amp;ndash; Dec 15 (Gosea/Faulwasser)&lt;/h2&gt;
+&lt;h2 id=&#34;dec-11--15-system-identification-model-reduction-data-driven-mpc&#34;&gt;Dec 11&amp;ndash;15 System Identification, Model Reduction, Data-driven MPC&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1537,7 +1537,7 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;dec-18----dec-22-voigtheiland&#34;&gt;Dec 18 &amp;ndash; Dec 22 (Voigt/Heiland)&lt;/h2&gt;
+&lt;h2 id=&#34;dec-18--22----numerical-methods-in-linear-control-theory&#34;&gt;Dec 18&amp;ndash;22 &amp;ndash; Numerical Methods in Linear Control Theory&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;

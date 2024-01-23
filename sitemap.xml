@@ -86,22 +86,37 @@
     <loc>/courses/ovgu-mathe-informatik/omi-9/</loc>
     <lastmod>2019-07-07T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/event/23-atsc/</loc>
-    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+  </url><url>
+    <loc>/author/jan-heiland/</loc>
+    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+  </url><url>
+    <loc>/publication/hei-k-24/</loc>
+    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+  </url><url>
+    <loc>/author/yongho-kim/</loc>
+    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+  </url><url>
+    <loc>/event/23-atsc/</loc>
     <lastmod>2023-11-23T11:10:34+01:00</lastmod>
   </url><url>
     <loc>/author/enrique-zuazua/</loc>
     <lastmod>2023-11-23T11:10:34+01:00</lastmod>
   </url><url>
     <loc>/author/ion-victor-gosea/</loc>
-    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
-  </url><url>
-    <loc>/author/jan-heiland/</loc>
-    <lastmod>2023-11-23T11:10:34+01:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-11-23T11:10:34+01:00</lastmod>
   </url><url>
     <loc>/author/karl-worthmann/</loc>
@@ -221,12 +236,6 @@
     <loc>/publication/kum-hb-23/</loc>
     <lastmod>2023-09-13T08:27:14+02:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-11-10T13:02:43+01:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-11-10T13:02:43+01:00</lastmod>
-  </url><url>
     <loc>/publication/ben-h-23/</loc>
     <lastmod>2023-09-15T14:12:45+02:00</lastmod>
   </url><url>
@@ -235,9 +244,6 @@
   </url><url>
     <loc>/author/xin-du/</loc>
     <lastmod>2023-06-26T20:22:02+02:00</lastmod>
-  </url><url>
-    <loc>/author/yongho-kim/</loc>
-    <lastmod>2023-02-12T22:33:04+08:00</lastmod>
   </url><url>
     <loc>/event/22-eccomas/</loc>
     <lastmod>2022-06-07T16:30:00+02:00</lastmod>

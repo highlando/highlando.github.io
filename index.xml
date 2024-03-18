@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Heiland</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 10:10:00 +0100</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Jan Heiland</title>
@@ -1207,6 +1207,14 @@ Klausur) Inhalte. Live auf Youtube mit diesem &lt;a href=&#34;https://mm.cs.ovgu
 &lt;/div&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>Two-step MOR for H-infinity-robust nonlinear controller design</title>
+      <link>/event/24-gamm/</link>
+      <pubDate>Thu, 21 Mar 2024 10:10:00 +0100</pubDate>
+      <guid>/event/24-gamm/</guid>
+      <description></description>
     </item>
     
     <item>

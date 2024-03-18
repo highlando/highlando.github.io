@@ -5,12 +5,20 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks &amp; Events &amp; Conferences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 11:10:34 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 10:10:00 +0100</lastBuildDate>
     <image>
       <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
       <title>Talks &amp; Events &amp; Conferences</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Two-step MOR for H-infinity-robust nonlinear controller design</title>
+      <link>/event/24-gamm/</link>
+      <pubDate>Thu, 21 Mar 2024 10:10:00 +0100</pubDate>
+      <guid>/event/24-gamm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Advanced Topics in Systems and Control</title>

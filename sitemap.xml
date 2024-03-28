@@ -90,13 +90,13 @@
     <lastmod>2024-03-21T10:10:00+01:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-03-21T10:10:00+01:00</lastmod>
+    <lastmod>2024-03-28T21:18:31+01:00</lastmod>
   </url><url>
     <loc>/author/jan-heiland/</loc>
-    <lastmod>2024-03-21T10:10:00+01:00</lastmod>
+    <lastmod>2024-03-28T21:18:31+01:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2024-03-21T10:10:00+01:00</lastmod>
+    <lastmod>2024-03-28T21:18:31+01:00</lastmod>
   </url><url>
     <loc>/event/</loc>
     <lastmod>2024-03-21T10:10:00+01:00</lastmod>
@@ -107,17 +107,26 @@
     <loc>/publication-type/0/</loc>
     <lastmod>2024-01-23T10:15:35+01:00</lastmod>
   </url><url>
+    <loc>/publication-type/4/</loc>
+    <lastmod>2024-03-28T21:18:31+01:00</lastmod>
+  </url><url>
+    <loc>/publication/hei-kw-24/</loc>
+    <lastmod>2024-03-28T21:18:31+01:00</lastmod>
+  </url><url>
     <loc>/publication/hei-k-24/</loc>
     <lastmod>2024-01-23T10:15:35+01:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+    <lastmod>2024-03-28T21:18:31+01:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+    <lastmod>2024-03-28T21:18:31+01:00</lastmod>
+  </url><url>
+    <loc>/author/steffen-w.-r.-werner/</loc>
+    <lastmod>2024-03-28T21:18:31+01:00</lastmod>
   </url><url>
     <loc>/author/yongho-kim/</loc>
-    <lastmod>2024-01-23T10:15:35+01:00</lastmod>
+    <lastmod>2024-03-28T21:18:31+01:00</lastmod>
   </url><url>
     <loc>/event/23-atsc/</loc>
     <lastmod>2023-11-23T11:10:34+01:00</lastmod>
@@ -185,17 +194,11 @@
     <loc>/author/peter-benner/</loc>
     <lastmod>2023-09-15T14:12:45+02:00</lastmod>
   </url><url>
-    <loc>/author/steffen-w.-r.-werner/</loc>
-    <lastmod>2023-07-24T15:29:54+02:00</lastmod>
-  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2023-09-15T14:12:45+02:00</lastmod>
   </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2023-09-15T14:12:45+02:00</lastmod>
-  </url><url>
-    <loc>/publication-type/4/</loc>
-    <lastmod>2023-11-10T13:02:43+01:00</lastmod>
   </url><url>
     <loc>/publication/ben-hw-23/</loc>
     <lastmod>2023-03-02T09:36:55+08:00</lastmod>

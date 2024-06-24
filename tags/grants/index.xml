@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grants | Jan Heiland Personal Homepage</title>
+    <link>https://www.janheiland.de/tags/grants/</link>
+      <atom:link href="https://www.janheiland.de/tags/grants/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grants</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 11:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <title>Grants</title>
+      <link>https://www.janheiland.de/tags/grants/</link>
+    </image>
+    
+    <item>
+      <title>LPV Approximations for Nonlinear Controller Design</title>
+      <link>https://www.janheiland.de/project/23-dfg-lpv/</link>
+      <pubDate>Thu, 20 Jul 2023 11:00:00 +0200</pubDate>
+      <guid>https://www.janheiland.de/project/23-dfg-lpv/</guid>
+      <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
+&lt;p&gt;The computer-aided control system design for nonlinear large-dimensional systems is a tremendous task as it has to cope both with model complexities due to nonlinear dynamics and with computational challenges that are caused by the system’s size. While linear algebra packages and algorithms for solving, say, Riccati equations can handle the large system sizes, the theory for Linear Parameter Varying (LPV) systems has been successfully employed for nonlinear controller design. Within this project, we want to make the LPV theory accessible for numerical controller design for nonlinear large-scale systems.&lt;/p&gt;
+&lt;p&gt;The core idea is to use approximations to provide low-dimensional LPV surrogate models for nonlinear input-affine systems which then will be the base for designing the controller by established LPV theory.&lt;/p&gt;
+&lt;p&gt;Representations of nonlinear systems as LPV systems have been used before for nonlinear controller design. A new direction that we will explore here will be the inclusion of model order reduction techniques to primarily reduce the parameter dimension in order to make the controller design numerically feasible also for systems of large state space dimension.&lt;/p&gt;
+&lt;p&gt;If model reduction is involved, the surrogate model for the controller design is no more exact which may lead to failures of the controller. Within this project, we want to establish to what extend such model errors can be compensated by robustness margins of the controllers. For plain linear time-invariant systems, the standard H-infinity theory provides general relevant results. A generalization of these results to cover parameter reductions in LPV systems is another objective of this project.&lt;/p&gt;
+&lt;p&gt;For the realization in numerical simulations, nonlinear model reduction approaches are the method of choice as they have proven to outperform linear approaches like Proper Orthogonal Decomposition (POD) at very low dimensions. This project aims at gaining practical insights in using these comparatively recent approaches for reducing the parameter dimension in LPV models to be employed for controller design for nonlinear large-scale systems like spatially discretized Navier-Stokes equations.&lt;/p&gt;
+&lt;h1 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h1&gt;
+&lt;h1 id=&#34;related-talks&#34;&gt;Related Talks&lt;/h1&gt;
+&lt;h1 id=&#34;funding-information&#34;&gt;Funding Information&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Funding Agency&lt;/th&gt;
+&lt;th&gt;DFG&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;3 Years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Overall Budget&lt;/td&gt;
+&lt;td&gt;180&#39;000 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MaRDI</title>
+      <link>https://www.janheiland.de/project/mardi/</link>
+      <pubDate>Thu, 20 Apr 2023 11:51:06 +0200</pubDate>
+      <guid>https://www.janheiland.de/project/mardi/</guid>
+      <description>&lt;p&gt;The one mathematics directed and driven consortium in the &lt;a href=&#34;https://www.nfdi.de/?lang=en&#34;&gt;NFDI&lt;/a&gt;. Our institute has been a co-applicant and we are co-managing (together with WWU Münster) the part on &lt;em&gt;Scientific Computing&lt;/em&gt; (Task Area 2 in MaRDI). My responsibility is the measure &lt;em&gt;workflows in CSE&lt;/em&gt; where we are developing and implementing a description language for workflows in &lt;em&gt;computational science and engineering&lt;/em&gt; with currently one postdoc working full-time on it.&lt;/p&gt;
+&lt;h3 id=&#34;funding-information&#34;&gt;Funding Information&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Funding Agency&lt;/th&gt;
+&lt;th&gt;DFG &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/460135501&#34;&gt;(project number: 460135501)&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;2021&amp;ndash;2026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Overall Budget&lt;/td&gt;
+&lt;td&gt;9954430 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;My share&lt;/td&gt;
+&lt;td&gt;385500 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Training Group: MathCoRe</title>
+      <link>https://www.janheiland.de/project/mathcore/</link>
+      <pubDate>Thu, 20 Apr 2023 11:51:06 +0200</pubDate>
+      <guid>https://www.janheiland.de/project/mathcore/</guid>
+      <description>&lt;p&gt;The research training group &lt;em&gt;MathCoRe&lt;/em&gt; at that OVGU provides a both challenging and supporting environment for a small community of graduate students to pursue a PhD in a field that relates to mathematical complexity reduction.&lt;/p&gt;
+&lt;p&gt;Currently, I&amp;rsquo;m supervising two PhD students in this project and there is always a chance to set up another PhD project &amp;ndash; please use the above link to see the scope of &lt;em&gt;MathCoRe&lt;/em&gt; and just apply.&lt;/p&gt;
+&lt;h3 id=&#34;funding-information&#34;&gt;Funding Information&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Funding Agency&lt;/th&gt;
+&lt;th&gt;DFG &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/314838170&#34;&gt;(project number: 314838170)&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;2021&amp;ndash;2026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Overall Budget&lt;/td&gt;
+&lt;td&gt;5582000 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;My share&lt;/td&gt;
+&lt;td&gt;409680 Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Jan Heiland Personal Homepage</title>
+    <link>https://www.janheiland.de/publication_types/paper-conference/</link>
+      <atom:link href="https://www.janheiland.de/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <title>Paper-Conference</title>
+      <link>https://www.janheiland.de/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>MaRDIFlow: A Workflow Framework for Documentation and Integration of FAIR Computational Experiments</title>
+      <link>https://www.janheiland.de/publication/vel-hb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/vel-hb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>https://www.janheiland.de/publication/ben-h-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PD controllers to solve single-input, index-1 DAE based LQR problems</title>
+      <link>https://www.janheiland.de/publication/bha-hb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/bha-hb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-selective Filter Based Frequency Separated Feedback Control of Linear Systems: State Feedback Case</title>
+      <link>https://www.janheiland.de/publication/du-yho-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/du-yho-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear feedback stabilization of incompressible flows via updated Riccati-based gains</title>
+      <link>https://www.janheiland.de/publication/ben-h-17-b/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Approximations to Riccati-based Boundary-feedback Stabilization of Laminar Flows</title>
+      <link>https://www.janheiland.de/publication/ben-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Discretization Framework for Input/Output Maps and its Application to Flow Control</title>
+      <link>https://www.janheiland.de/publication/hei-ms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-ms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Control of Drop Size Distributions in Stirred Liquid/Liquid Systems</title>
+      <link>https://www.janheiland.de/publication/hei-bwms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-bwms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Discretization of Input/Output Maps and Control of Partial Differential Equations</title>
+      <link>https://www.janheiland.de/publication/hei-ms-10-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-ms-10-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape Optimization in Train Aerodynamics</title>
+      <link>https://www.janheiland.de/publication/her-mho-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/her-mho-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

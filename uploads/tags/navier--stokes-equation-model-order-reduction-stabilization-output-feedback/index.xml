@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navier--Stokes Equation; Model Order Reduction; Stabilization; Output Feedback | Jan Heiland Personal Homepage</title>
+    <link>https://www.janheiland.de/tags/navier--stokes-equation-model-order-reduction-stabilization-output-feedback/</link>
+      <atom:link href="https://www.janheiland.de/tags/navier--stokes-equation-model-order-reduction-stabilization-output-feedback/index.xml" rel="self" type="application/rss+xml" />
+    <description>Navier--Stokes Equation; Model Order Reduction; Stabilization; Output Feedback</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <title>Navier--Stokes Equation; Model Order Reduction; Stabilization; Output Feedback</title>
+      <link>https://www.janheiland.de/tags/navier--stokes-equation-model-order-reduction-stabilization-output-feedback/</link>
+    </image>
+    
+    <item>
+      <title>LQG-Balanced Truncation Low-Order Controller for Stabilization of Laminar Flows</title>
+      <link>https://www.janheiland.de/publication/ben-h-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

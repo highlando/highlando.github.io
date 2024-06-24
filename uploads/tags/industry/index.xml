@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industry | Jan Heiland Personal Homepage</title>
+    <link>https://www.janheiland.de/tags/industry/</link>
+      <atom:link href="https://www.janheiland.de/tags/industry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Industry</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 14:23:01 +0200</lastBuildDate>
+    <image>
+      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <title>Industry</title>
+      <link>https://www.janheiland.de/tags/industry/</link>
+    </image>
+    
+    <item>
+      <title>MRI Fingerprinting with Philips</title>
+      <link>https://www.janheiland.de/project/21-phili-fipri/</link>
+      <pubDate>Thu, 15 Apr 2021 14:23:01 +0200</pubDate>
+      <guid>https://www.janheiland.de/project/21-phili-fipri/</guid>
+      <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://manuelbaumann.de/&#34;&gt;Dr. Manuel Baumann (Philips Research)&lt;/a&gt;, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
+&lt;h1 id=&#34;wanted&#34;&gt;Wanted&lt;/h1&gt;
+&lt;p&gt;A highly motivated Masters&amp;rsquo; student of mathematics or statistics that feels comfortable with the problem below and that, at best, has good command of a programming language.&lt;/p&gt;
+&lt;h1 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h1&gt;
+&lt;p&gt;MR Fingerprinting is a new, quantitative imaging technique in Magnetic Resonance Imaging (MRI)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. In short,&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;MR Fingerprinting relies on the simulation of the Bloch equation, a parameter-dependent ODE for the magnetization $M$ of the form
+&lt;/p&gt;
+$$\dot{M}(t) = f(M(t), B(t), T_1, T_2),$$
+&lt;p&gt;
+where the magnetic field $B$ is determined by the parameters of the acquisition.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Variation of the relaxation times $T_1$ and $T_2$ yield a series of trajectories forming a so-called dictionary.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fingerprinting means the matching of the acquired under-sampled data with the dictionary entries for querying the relevant tissue-specific parameters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The development and implementation opens a number of options for a Master&amp;rsquo;s project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;System Theory:&lt;/strong&gt; Re-formulation of the MRF dictionary computation as an input-state-output system and model order reduction of the underlying Bloch equation. While the reformulation enables the matching by established system identification routines, a reduced order model can be used for a-posteriori checks of the selected parameters or for enriching the dictionary in the relevant parameter range.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statistics:&lt;/strong&gt; The estimation of parameters based on data is a common task in statistics. Apart from implementing and testing relevant routines for Fingerprinting, the inclusion of tailored statistical approaches for the particular problem of Fingerprinting can be useful for improving the dictionary in general and for providing confidence estimates for the selection obtained from classical matching.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Optimization:&lt;/strong&gt; Fingerprinting seeks for the best match of collected data with the precomputed dictionary entries. Tools from mathematical optimization will be used to improve the reliability of the selected optimum and to enhance both the data aquisition and the dictionary through optimal design.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h1&gt;
+&lt;p&gt;Please see the &lt;a href=&#34;mrf_msc_ovgu.pdf&#34;&gt;job advertisement&lt;/a&gt; and apply by June 30.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;See here for a scientific paper on MR Fingerprinting: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inverse Triple Pendulum</title>
+      <link>https://www.janheiland.de/project/pendulum/</link>
+      <pubDate>Tue, 17 Sep 2019 11:56:57 +0200</pubDate>
+      <guid>https://www.janheiland.de/project/pendulum/</guid>
+      <description>&lt;p&gt;Our institute has a triple pendulum connected to a cart that can be controlled by a computer. Stabilizing a pendulum in upright position is a common control benchmark. Controlling a double or triple pendulum requires powerful hardware and a sophisticated and well-tuned software. The hardware was set up by the Magdeburg-based company Hasomed, the software has been developed in our institute for over 20 years.&lt;/p&gt;
+&lt;p&gt;The triple pendulum is used to test control algorithms in experiments. As opposed to pure simulations, the application in hardware comes with additional challenges like delays in communication and changing environmental parameters.&lt;/p&gt;
+&lt;p&gt;Also, the pendulum is used to showcase the need and potential of control algorithms in regular visits of students or the public at our annual long night of science.&lt;/p&gt;
+&lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;September 11th: Visit of a project group from the Hubertus Gymnasium.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;March 1st: In cooperation with &lt;a href=&#34;https://www.hasomed.de&#34;&gt;Hasomed&lt;/a&gt;, we revise the controller software and the interface to the hardware. The result will be test blocks for basic control tasks like the controlled transversion of the pendulum both in open loop and closed loop regimes. &lt;em&gt;HASOMED&lt;/em&gt; co-sponsors the development and will distribute the developed software under a license agreement with the MPI-MD.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This &lt;a href=&#34;pendulum-de.pdf&#34;&gt;poster&lt;/a&gt; explains the setup and the basic procedures of the control scheme as well as typical application areas (in German).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This video shows the swingup and swingdown of the triple pendulum in slow motion:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://www.janheiland.de/project/pendulum/triple_swingup_slomo.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

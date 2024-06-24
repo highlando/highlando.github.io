@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jan Heiland Personal Homepage</title>
+    <link>https://www.janheiland.de/publication/</link>
+      <atom:link href="https://www.janheiland.de/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://www.janheiland.de/publication/</link>
+    </image>
+    
+    <item>
+      <title>Deep Polytopic Autoencoders for Low-dimensional Linear Parameter-varying Approximations and Nonlinear Feedback Design</title>
+      <link>https://www.janheiland.de/publication/hei-kw-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-kw-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polytopic Autoencoders with Smooth Clustering for Reduced-order Modelling of Flows</title>
+      <link>https://www.janheiland.de/publication/hei-k-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-k-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>https://www.janheiland.de/publication/ben-hw-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-hw-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>https://www.janheiland.de/publication/ben-ghp-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-ghp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders, Clustering, and POD for Low-dimensional Parametrization of Navier-Stokes Equations</title>
+      <link>https://www.janheiland.de/publication/kim-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/kim-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Lag Synchronization of Cohen-Grossberg Neural Networks with Discrete and Distributed Delays on Time Scales</title>
+      <link>https://www.janheiland.de/publication/kum-hb-23-a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/kum-hb-23-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-dependent Switching Control for Disturbance Attenuation of Linear Systems</title>
+      <link>https://www.janheiland.de/publication/zha-hbd-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/zha-hbd-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit and explicit matching of non-proper transfer functions in the Loewner framework</title>
+      <link>https://www.janheiland.de/publication/gos-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/gos-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Complexity Linear Parameter-Varying Approximations of Incompressible Navier-Stokes Equations for Truncated State-Dependent Riccati Feedback</title>
+      <link>https://www.janheiland.de/publication/hei-w-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-w-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-order Linear Parameter Varying Approximations for Nonlinear Controller Design for Flows</title>
+      <link>https://www.janheiland.de/publication/das-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/das-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaRDIFlow: A Workflow Framework for Documentation and Integration of FAIR Computational Experiments</title>
+      <link>https://www.janheiland.de/publication/vel-hb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/vel-hb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projective lag quasi-synchronization of coupled systems with mixed delays and parameter mismatch: a unified theory</title>
+      <link>https://www.janheiland.de/publication/kum-hb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/kum-hb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>https://www.janheiland.de/publication/ben-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>https://www.janheiland.de/publication/ben-hw-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>https://www.janheiland.de/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-ghp-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
+      <link>https://www.janheiland.de/publication/hei-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders and Clustering for Low-dimensional Parametrization of Incompressible Flows</title>
+      <link>https://www.janheiland.de/publication/hei-k-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-k-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations</title>
+      <link>https://www.janheiland.de/publication/hei-bb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-bb-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Linear Time-Invariant Systems with Dynamic Mode Decomposition</title>
+      <link>https://www.janheiland.de/publication/hei-u-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-u-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
+      <link>https://www.janheiland.de/publication/ben-ghp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-ghp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional (ℋ)(_mbox(ınfty) )-controllers</title>
+      <link>https://www.janheiland.de/publication/ben-hw-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-hw-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical System Theory Revisited for Turnpike in Standard State Space Systems and Impulse Controllable Descriptor Systems</title>
+      <link>https://www.janheiland.de/publication/hei-z-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-z-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galerkin trial spaces and Davison-Maki methods for the numerical solution of differential Riccati equations</title>
+      <link>https://www.janheiland.de/publication/beh-bh-21-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/beh-bh-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
+      <link>https://www.janheiland.de/publication/beh-bh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/beh-bh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-intrusive Time Galerkin POD for Optimal Control of a Fixed-Bed Reactor for CO$_m̊ 2$ Methanation</title>
+      <link>https://www.janheiland.de/publication/bre-hbs-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/bre-hbs-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>https://www.janheiland.de/publication/ben-h-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PD controllers to solve single-input, index-1 DAE based LQR problems</title>
+      <link>https://www.janheiland.de/publication/bha-hb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/bha-hb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>https://www.janheiland.de/publication/ben-h-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-selective Filter Based Frequency Separated Feedback Control of Linear Systems: State Feedback Case</title>
+      <link>https://www.janheiland.de/publication/du-yho-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/du-yho-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous, Semi-discrete, and Fully Discretized Navier-Stokes Equations</title>
+      <link>https://www.janheiland.de/publication/alt-h-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/alt-h-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical benchmarking of fluid-rigid body interactions</title>
+      <link>https://www.janheiland.de/publication/wah-rlhm-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/wah-rlhm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>
+      <link>https://www.janheiland.de/publication/ben-hw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-hw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution Formulas for Differential Sylvester and Lyapunov Equations</title>
+      <link>https://www.janheiland.de/publication/beh-bh-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/beh-bh-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Stability and Stabilization of Extended Linearizations via Continuous Updates of Riccati Based Feedback</title>
+      <link>https://www.janheiland.de/publication/ben-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Control of a Stefan Problem Fully Coupled with Navier-Stokes-Equations and Mesh Movement</title>
+      <link>https://www.janheiland.de/publication/bar-bhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/bar-bhs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularization and Rothe Discretization of Semi-Explicit Operator DAEs</title>
+      <link>https://www.janheiland.de/publication/alt-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/alt-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations</title>
+      <link>https://www.janheiland.de/publication/bau-bh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/bau-bh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear feedback stabilization of incompressible flows via updated Riccati-based gains</title>
+      <link>https://www.janheiland.de/publication/ben-h-17-b/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients</title>
+      <link>https://www.janheiland.de/publication/beh-bh-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/beh-bh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Approximations to Riccati-based Boundary-feedback Stabilization of Laminar Flows</title>
+      <link>https://www.janheiland.de/publication/ben-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moment-Matching Based Model Reduction for Navier-Stokes Type Quadratic-Bilinear Descriptor Systems</title>
+      <link>https://www.janheiland.de/publication/ahm-bg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ahm-bg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of multibody systems with servo constraints through optimal control</title>
+      <link>https://www.janheiland.de/publication/alt-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/alt-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Differential-Algebraic Riccati Equation for Applications in Flow Control</title>
+      <link>https://www.janheiland.de/publication/hei-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software</title>
+      <link>https://www.janheiland.de/publication/feh-hhs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/feh-hhs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Stabilization of Laminar Flows in Varying Flow Regimes</title>
+      <link>https://www.janheiland.de/publication/ben-h-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite Element Decomposition and Minimal Extension for Flow Equations</title>
+      <link>https://www.janheiland.de/publication/alt-h-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/alt-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Input/Output Maps and their Relation to Proper Orthogonal Decomposition</title>
+      <link>https://www.janheiland.de/publication/bau-hs-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/bau-hs-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LQG-Balanced Truncation Low-Order Controller for Stabilization of Laminar Flows</title>
+      <link>https://www.janheiland.de/publication/ben-h-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent Dirichlet Conditions in Finite Element Discretizations</title>
+      <link>https://www.janheiland.de/publication/ben-h-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wie steuert man einen Kran?</title>
+      <link>https://www.janheiland.de/publication/alt-h-15-ppt-snapshot/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/alt-h-15-ppt-snapshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupling, Semi-Discretization, and Optimal Control of Semi-linear Semi-explicit Index-2 Abstract Differential-Algebraic Equations and Application in Optimal Flow Control</title>
+      <link>https://www.janheiland.de/publication/hei-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Control of Linearized Navier-Stokes Equations via Discretized Input/Output Maps</title>
+      <link>https://www.janheiland.de/publication/hei-m-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-m-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Discretization Framework for Input/Output Maps and its Application to Flow Control</title>
+      <link>https://www.janheiland.de/publication/hei-ms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-ms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Control of Drop Size Distributions in Stirred Liquid/Liquid Systems</title>
+      <link>https://www.janheiland.de/publication/hei-bwms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-bwms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Discretization of Input/Output Maps and Control of Partial Differential Equations</title>
+      <link>https://www.janheiland.de/publication/hei-ms-10-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-ms-10-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Control of Semidiscretized Oseen Equations</title>
+      <link>https://www.janheiland.de/publication/hei-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/hei-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape Optimization in Train Aerodynamics</title>
+      <link>https://www.janheiland.de/publication/her-mho-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/her-mho-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

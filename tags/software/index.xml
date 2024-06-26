@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | Jan Heiland Personal Homepage</title>
+    <link>https://www.janheiland.de/tags/software/</link>
+      <atom:link href="https://www.janheiland.de/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 11:56:57 +0200</lastBuildDate>
+    <image>
+      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <title>Software</title>
+      <link>https://www.janheiland.de/tags/software/</link>
+    </image>
+    
+    <item>
+      <title>Inverse Triple Pendulum</title>
+      <link>https://www.janheiland.de/project/pendulum/</link>
+      <pubDate>Tue, 17 Sep 2019 11:56:57 +0200</pubDate>
+      <guid>https://www.janheiland.de/project/pendulum/</guid>
+      <description>&lt;p&gt;Our institute has a triple pendulum connected to a cart that can be controlled by a computer. Stabilizing a pendulum in upright position is a common control benchmark. Controlling a double or triple pendulum requires powerful hardware and a sophisticated and well-tuned software. The hardware was set up by the Magdeburg-based company Hasomed, the software has been developed in our institute for over 20 years.&lt;/p&gt;
+&lt;p&gt;The triple pendulum is used to test control algorithms in experiments. As opposed to pure simulations, the application in hardware comes with additional challenges like delays in communication and changing environmental parameters.&lt;/p&gt;
+&lt;p&gt;Also, the pendulum is used to showcase the need and potential of control algorithms in regular visits of students or the public at our annual long night of science.&lt;/p&gt;
+&lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;September 11th: Visit of a project group from the Hubertus Gymnasium.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;March 1st: In cooperation with &lt;a href=&#34;https://www.hasomed.de&#34;&gt;Hasomed&lt;/a&gt;, we revise the controller software and the interface to the hardware. The result will be test blocks for basic control tasks like the controlled transversion of the pendulum both in open loop and closed loop regimes. &lt;em&gt;HASOMED&lt;/em&gt; co-sponsors the development and will distribute the developed software under a license agreement with the MPI-MD.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This &lt;a href=&#34;pendulum-de.pdf&#34;&gt;poster&lt;/a&gt; explains the setup and the basic procedures of the control scheme as well as typical application areas (in German).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This video shows the swingup and swingdown of the triple pendulum in slow motion:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://www.janheiland.de/project/pendulum/triple_swingup_slomo.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>dolfin-navier-scipy</title>
+      <link>https://www.janheiland.de/project/sw-dolfin-navier-scipy/</link>
+      <pubDate>Wed, 03 Jul 2019 18:53:50 +0200</pubDate>
+      <guid>https://www.janheiland.de/project/sw-dolfin-navier-scipy/</guid>
+      <description>&lt;p&gt;A Python package that provides an interface between &lt;em&gt;scipy&lt;/em&gt; and &lt;em&gt;FEniCS&lt;/em&gt; in view of solving Navier-Stokes Equations. &lt;em&gt;FEniCS&lt;/em&gt; is used to perform a Finite Element discretization of the equations. The assembled coefficients are exported as sparse matrices for use in &lt;em&gt;scipy&lt;/em&gt;. Nonlinear and time-dependent parts are evaluated and assembled on demand. Visualization is done via the &lt;em&gt;FEniCS&lt;/em&gt; interface to &lt;em&gt;paraview&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;modelling of control and observation&lt;/li&gt;
+&lt;li&gt;second order time integration with explicit treatment of the nonlinearities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/a1iDcEIRmvU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;Simulation of the &lt;em&gt;Karman Vortex Street&lt;/em&gt;. See the &lt;a href=&#34;https://github.com/highlando/dolfin_navier_scipy/commit/ae907dc2266076a635c89d62726696e63b3fdc85&#34;&gt;relevant commit here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hinf-lqgbt-nse</title>
+      <link>https://www.janheiland.de/project/sw-hlqgbt-nse/</link>
+      <pubDate>Wed, 03 Jul 2019 18:53:50 +0200</pubDate>
+      <guid>https://www.janheiland.de/project/sw-hlqgbt-nse/</guid>
+      <description>&lt;p&gt;Python module for application of (Hinf-)LQG-balanced truncation for low-order controllers for the stabilization of Navier-Stokes equations.&lt;/p&gt;
+&lt;p&gt;As an example we consider the stabilization of the cylinder wake at moderate Reynoldsnumbers via boundary control and distributed observation.&lt;/p&gt;
+&lt;h1 id=&#34;features&#34;&gt;Features&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;implementation of various Riccati-based feedback controllers
+&lt;ul&gt;
+&lt;li&gt;static state feedback&lt;/li&gt;
+&lt;li&gt;observer based LQGBT feedback&lt;/li&gt;
+&lt;li&gt;robustified LQGBT feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;integration with M.E.S.S or my &lt;a href=&#34;www.github.com/highlando/sadptprj_riclyap_adi&#34;&gt;homebrew Riccati solver&lt;/a&gt; for flow related equations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

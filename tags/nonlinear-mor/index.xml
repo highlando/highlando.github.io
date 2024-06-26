@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nonlinear MOR | Jan Heiland Personal Homepage</title>
+    <link>https://www.janheiland.de/tags/nonlinear-mor/</link>
+      <atom:link href="https://www.janheiland.de/tags/nonlinear-mor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nonlinear MOR</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jun 2022 16:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <title>Nonlinear MOR</title>
+      <link>https://www.janheiland.de/tags/nonlinear-mor/</link>
+    </image>
+    
+    <item>
+      <title> Data-driven identification of encoding on quadratic-manifolds for high-fidelity dynamical models</title>
+      <link>https://www.janheiland.de/event/22-eccomas/</link>
+      <pubDate>Tue, 07 Jun 2022 16:30:00 +0200</pubDate>
+      <guid>https://www.janheiland.de/event/22-eccomas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

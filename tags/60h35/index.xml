@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>60H35 | Jan Heiland Personal Homepage</title>
+    <link>https://www.janheiland.de/tags/60h35/</link>
+      <atom:link href="https://www.janheiland.de/tags/60h35/index.xml" rel="self" type="application/rss+xml" />
+    <description>60H35</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <title>60H35</title>
+      <link>https://www.janheiland.de/tags/60h35/</link>
+    </image>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>https://www.janheiland.de/publication/ben-h-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/publication/ben-h-20-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

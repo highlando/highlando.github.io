@@ -1,0 +1,80 @@
+{
+  "show": {
+    "title": "Mathematik für Informatik",
+    "subtitle": "Gelesen aus der Ferne",
+    "poster": "/courses/ovgu-mathe-informatik/files/pcs/4-1-banner.png" 
+  },
+  "reference": {
+    "config": "https://freakshow.fm/?podlove_player4=1465"
+  },
+  "theme": {
+    "main": "#26475B"
+  },
+  "title": "4 — Taylor- und Potenzreihen (2/2) ",
+  "subtitle": "Taylorreihe — Potenzreihen — Supremum/Maximum — Konvergenzradius — Taylorreihe",
+  "summary": "Kapitel 14 im Skript - zweiter Teil",
+  "publicationDate": "2020-05-21:00:00+00:00",
+  "poster": "/courses/ovgu-mathe-informatik/files/pcs/4-1-banner.png",
+  "duration": "00:10:29",
+  "audio": [
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/4-2.mp3",
+      "size": "11213231",
+      "title": "MPEG-3",
+      "mimeType": "audio/mp3"
+    },
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/4-2.ogg",
+      "size": "8790735",
+      "title": "Opus Audio (ogg)",
+      "mimeType": "audio/ogg"
+    }
+  ],
+  "chapters": [
+      {"start": "00:00:01.723", "title": "Intro"},
+      {"start": "00:00:53.836", "title": "Recap Taylorreihe/-polynom"},
+      {"start": "00:01:37.687", "title": "Geometrische Reihe als Taylor Reihe"},
+      {"start": "00:02:25.810", "title": "Potenzreihen"},
+      {"start": "00:03:56.260", "title": "Schranke/Supremum/Maximum"},
+      {"start": "00:05:39.864", "title": "Konvergenzbereich/-radius"},
+      {"start": "00:07:15.135", "title": "Konvergenzradius bestimmen"},
+      {"start": "00:08:25.607", "title": "Beispiele von Taylor-Reihen"},
+      {"start": "00:09:23.154", "title": "Potenzreihen differenzieren"},
+      {"start": "00:09:40.000", "title": "Abschluss"}
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabFiles",
+    "tabAudio",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Jan Heiland",
+      "avatar": "/courses/ovgu-mathe-informatik/files/pcs/icke.jpg",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jan-heiland"
+    }
+  ]
+}

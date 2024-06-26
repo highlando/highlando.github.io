@@ -1,0 +1,1178 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.1.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Numerical Approximation of ODEs Contents  Basic Ideas One Step Methods Consistency / Stability / Convergence Runge-Kutta Methods  Lecture 5-0  Whiteboard Notes    Little Coding Exercise Use your favorite programming language to" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="/courses/ovgu-daes/daes-5/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#33a5c3" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.c78829206f2902cc5dbd06e4b8bf39d3.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_huc8d60562114d373ee9fcddf98bd2be5c_10437_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc8d60562114d373ee9fcddf98bd2be5c_10437_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="/courses/ovgu-daes/daes-5/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@jnhlnd" />
+    <meta property="twitter:creator" content="@jnhlnd" />
+  
+  <meta property="og:site_name" content="Jan Heiland" />
+  <meta property="og:url" content="/courses/ovgu-daes/daes-5/" />
+  <meta property="og:title" content="5 Numerical Approximation of DAEs | Jan Heiland" />
+  <meta property="og:description" content="Numerical Approximation of ODEs Contents  Basic Ideas One Step Methods Consistency / Stability / Convergence Runge-Kutta Methods  Lecture 5-0  Whiteboard Notes    Little Coding Exercise Use your favorite programming language to" /><meta property="og:image" content="/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png" />
+    <meta property="twitter:image" content="/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-05-05T00:00:00&#43;01:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-05-05T00:00:00&#43;01:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  <link rel="me" href="https://machteburch.social/@jnhlnd" />
+
+
+  <title>5 Numerical Approximation of DAEs | Jan Heiland</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="8692506447d47cfbf7e543e4132f9dd7" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.a8a181ea67095ef9fbb0e99ffbf585a0.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_0x70_resize_lanczos_3.png" alt="Jan Heiland"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_0x70_resize_lanczos_3.png" alt="Jan Heiland"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Events</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+    
+  
+
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/ovgu-daes/">Overview</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/courses/ovgu-daes/daes-1/">1 Introduction</a>
+      </li>
+
+      
+      <li >
+        <a href="/courses/ovgu-daes/daes-2/">2 Basic Definitions and Notions</a>
+      </li>
+
+      
+      <li >
+        <a href="/courses/ovgu-daes/daes-3/">3 Linear DAEs I</a>
+      </li>
+
+      
+      <li >
+        <a href="/courses/ovgu-daes/daes-4/">4 Linear DAEs II</a>
+      </li>
+
+      
+      <li class="active">
+        <a href="/courses/ovgu-daes/daes-5/">5 Numerical Approximation of DAEs</a>
+      </li>
+
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#50">Numerical Approximation of ODEs</a>
+      <ul>
+        <li><a href="#contents">Contents</a></li>
+        <li><a href="#lecture-5-0">Lecture 5-0</a></li>
+        <li><a href="#little-coding-exercise">Little Coding Exercise</a></li>
+      </ul>
+    </li>
+    <li><a href="#51">Basics of Numerical Approximation of DAEs</a>
+      <ul>
+        <li><a href="#contents-1">Contents</a></li>
+        <li><a href="#lecture-5-1">Lecture 5-1</a></li>
+      </ul>
+    </li>
+    <li><a href="#52">Consistency und Convergence for DAEs with Constant Coefficients</a>
+      <ul>
+        <li><a href="#lecture-5-2">Lecture 5-2</a></li>
+        <li><a href="#exercise-4">Exercise 4</a></li>
+      </ul>
+    </li>
+    <li><a href="#rkm-for-nonlinear-semi-explicit-daes-of-index-1">RKM for (Nonlinear) Semi-explicit DAEs of Index 1</a></li>
+    <li><a href="#rkmbdf-for-nonlinear-semi-explicit-daes-of-index-12">RKM/BDF for (Nonlinear) Semi-explicit DAEs of Index 1/2</a></li>
+    <li><a href="#numerical-methods-for-index-reduction">Numerical Methods for Index Reduction</a></li>
+  </ul>
+</nav>
+
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>5 Numerical Approximation of DAEs</h1>
+
+          <div class="article-style">
+            <h1 id="50">Numerical Approximation of ODEs</h1>
+<h2 id="contents">Contents</h2>
+<ul>
+<li>Basic Ideas</li>
+<li>One Step Methods</li>
+<li>Consistency / Stability / Convergence</li>
+<li>Runge-Kutta Methods</li>
+</ul>
+<h2 id="lecture-5-0">Lecture 5-0</h2>
+<ul>
+<li><a href="../files/lecture-50.jpg">Whiteboard Notes</a></li>
+</ul>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/FjRclqZLatw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="little-coding-exercise">Little Coding Exercise</h2>
+<p>Use your favorite programming language to</p>
+<ol>
+<li>Write an implementation of the <code>explicit Euler</code> scheme like</li>
+</ol>
+<pre><code class="language-python">def explicit_euler(f, x0, timegrid):
+    # f -- the right hand side in `x' = f(t, x)`
+    # x0 -- the initial value
+    # timegrid -- somehow specify the stepsize and the endpoint
+
+    # integrate the ODE with explicit Euler 
+
+    return xN
+</code></pre>
+<ol start="2">
+<li>Test it with the ODE
+\begin{equation}
+\begin{bmatrix}
+\dot x \\ \dot y
+\end{bmatrix}
+=
+\begin{bmatrix}
+e^t y \\ -e^t x
+\end{bmatrix},
+\quad
+\begin{bmatrix}
+x(0) \\ y(0)
+\end{bmatrix}
+=
+\begin{bmatrix}
+\sin (1) \\ \cos(1)
+\end{bmatrix}
+\end{equation}
+on $[0, 3]$ with number of time steps
+$$N\in{2^{8}, 2^{10}, 2^{14}, 2^{18}}$$
+by comparing the computed value of $x_N\approx x(3)$ to the actual value $x(3)=\sin (e^3)$.</li>
+<li>Implement any Runge-Kutta method of higher-order<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and repeat this numerical study.</li>
+</ol>
+<h1 id="51">Basics of Numerical Approximation of DAEs</h1>
+<h2 id="contents-1">Contents</h2>
+<ul>
+<li>Notions and Notations of RKM</li>
+<li>How to apply an RKM to $E\dot x = Ax+f(t)$</li>
+<li>Explicit Euler fails, Implicit Euler works</li>
+<li>RKM and System Transformations</li>
+<li>Analysis via the Kronecker Normal Form</li>
+</ul>
+<h2 id="lecture-5-1">Lecture 5-1</h2>
+<ul>
+<li><a href="../files/lecture-51.jpg">Whiteboard Notes</a></li>
+</ul>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/wd97VkjHz9U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="52">Consistency und Convergence for DAEs with Constant Coefficients</h1>
+<ul>
+<li>Consistency error &ndash; will depend on the $\nu$-<strong>index</strong></li>
+<li>Convergence &ndash; need extra stability condition</li>
+<li><strong>Stiffly accurate</strong> schemes &ndash; exact for index-1 DAE parts</li>
+</ul>
+<h2 id="lecture-5-2">Lecture 5-2</h2>
+<ul>
+<li><a href="https://www.janheiland.de/script-daes/numerical-approximation-of-daes.html#runge-kutta-methods-for-linear-daes-with-constant-coefficients" target="_blank" rel="noopener">Chapter 5.2 in the script</a></li>
+<li><a href="../files/lecture-52.jpg">Whiteboard Notes</a></li>
+</ul>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/hvk0XTOMfoE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="exercise-4">Exercise 4</h2>
+<ul>
+<li>Python Script for the &ldquo;$\kappa$&ldquo;s: <a href="../files/dae-butcher.py"><code>dae-butcher.py</code></a></li>
+<li>Implicit Euler for time-varying DAEs: <a href="../files/4c2.py">python file</a> <a href="../files/4c2.ipynb">Jupyter Notebook</a></li>
+</ul>
+<h1 id="rkm-for-nonlinear-semi-explicit-daes-of-index-1">RKM for (Nonlinear) Semi-explicit DAEs of Index 1</h1>
+<ul>
+<li><a href="../files/lecture-53.jpg">Whiteboard Notes</a></li>
+</ul>
+<h1 id="rkmbdf-for-nonlinear-semi-explicit-daes-of-index-12">RKM/BDF for (Nonlinear) Semi-explicit DAEs of Index 1/2</h1>
+<ul>
+<li><a href="../files/RKM-index-2-BDF.pdf">Whiteboard Notes</a></li>
+<li><a href="https://www.janheiland.de/script-daes/numerical-analysis-and-software-overview.html" target="_blank" rel="noopener">Link to the list of Theorems and Software</a></li>
+</ul>
+<h1 id="numerical-methods-for-index-reduction">Numerical Methods for Index Reduction</h1>
+<ol>
+<li>For unstructured systems &ndash; use the derivative array but compute the projections <em>on the fly</em>.</li>
+<li>For structured systems like multibody systems (like the <a href="https://www.janheiland.de/script-daes/introduction.html#the-pendulum" target="_blank" rel="noopener">pendulum</a> &ndash; differentiate the relevant parts, add these equations to the system, and make the system square again by introducing new variables.</li>
+</ol>
+<ul>
+<li><a href="../files/Numerical-Index-Reduction.pdf">Whiteboard Notes</a></li>
+</ul>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>feel free to use an explicit method of a not so high order.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/courses/ovgu-daes/daes-4/" rel="next">4 Linear DAEs with Variable Coefficients</a>
+  </div>
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on May 5, 2021</p>
+
+          
+
+
+
+
+
+          
+
+
+
+
+          
+
+
+  
+  
+
+
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+
+  
+
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.2/anchor.min.js" integrity="sha512-I7w3ZdSFzw5j3jU3ZkNikBNeIrl3i+hEuEdwNmqUJvwNcaBUNcijnP2gd9DtGlgVYDplfjGoD8vTNsID+lCjqg==" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.89dc4aae2ed85546e13638006a8a95ce.js"></script>
+
+    <script src="https://cdn.podlove.org/web-player/embed.js"></script>
+
+<script>
+  podlovePlayer('#pc-lecture-one', '/courses/ovgu-mathe-informatik/files/pcs/config-1.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-1-2', '/courses/ovgu-mathe-informatik/files/pcs/config-1-2.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-2-1', '/courses/ovgu-mathe-informatik/files/pcs/config-2-1.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-2-2', '/courses/ovgu-mathe-informatik/files/pcs/config-2-2.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-3-1', '/courses/ovgu-mathe-informatik/files/pcs/config-3-1.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-3-2', '/courses/ovgu-mathe-informatik/files/pcs/config-3-2.json');
+</script>
+
+<script>
+  podlovePlayer('#pc-lecture-4-1', '/courses/ovgu-mathe-informatik/files/pcs/config-4-1.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-4-2', '/courses/ovgu-mathe-informatik/files/pcs/config-4-2.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-5-1', '/courses/ovgu-mathe-informatik/files/pcs/config-5-1.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-6-1', '/courses/ovgu-mathe-informatik/files/pcs/config-6-1.json');
+</script>
+<script>
+  podlovePlayer('#pc-lecture-7-1', '/courses/ovgu-mathe-informatik/files/pcs/config-7-1.json');
+</script>
+
+
+
+</body>
+</html>

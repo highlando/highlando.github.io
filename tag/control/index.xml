@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>control | Jan Heiland</title>
+    <link>/tag/control/</link>
+      <atom:link href="/tag/control/index.xml" rel="self" type="application/rss+xml" />
+    <description>control</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2019 18:53:50 +0200</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>control</title>
+      <link>/tag/control/</link>
+    </image>
+    
+    <item>
+      <title>hinf-lqgbt-nse</title>
+      <link>/project/sw-hlqgbt-nse/</link>
+      <pubDate>Wed, 03 Jul 2019 18:53:50 +0200</pubDate>
+      <guid>/project/sw-hlqgbt-nse/</guid>
+      <description>&lt;p&gt;Python module for application of (Hinf-)LQG-balanced truncation for low-order controllers for the stabilization of Navier-Stokes equations.&lt;/p&gt;
+&lt;p&gt;As an example we consider the stabilization of the cylinder wake at moderate Reynoldsnumbers via boundary control and distributed observation.&lt;/p&gt;
+&lt;h1 id=&#34;features&#34;&gt;Features&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;implementation of various Riccati-based feedback controllers
+&lt;ul&gt;
+&lt;li&gt;static state feedback&lt;/li&gt;
+&lt;li&gt;observer based LQGBT feedback&lt;/li&gt;
+&lt;li&gt;robustified LQGBT feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;integration with M.E.S.S or my &lt;a href=&#34;www.github.com/highlando/sadptprj_riclyap_adi&#34;&gt;homebrew Riccati solver&lt;/a&gt; for flow related equations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

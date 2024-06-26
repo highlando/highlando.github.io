@@ -1,0 +1,80 @@
+{
+  "show": {
+    "title": "Mathematik für Informatik",
+    "subtitle": "Gelesen aus der Ferne",
+    "poster": "/courses/ovgu-mathe-informatik/files/pcs/7-1-banner.png" 
+  },
+  "reference": {
+    "config": "https://freakshow.fm/?podlove_player4=1465"
+  },
+  "theme": {
+    "main": "#26475B"
+  },
+  "title": "7 — Differenzierbarkeit II",
+  "subtitle": "Multivariable Funktionen — Vektorwertige Folgen — Stetigkeit — Partielle Differenzierbarkeit",
+  "summary": "Kapitel 17",
+  "publicationDate": "2020-06-05:00:00+00:00",
+  "poster": "/courses/ovgu-mathe-informatik/files/pcs/7-1-banner.png",
+  "duration": "00:10:10",
+  "audio": [
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/7-1.mp3",
+      "size": "10721519",
+      "title": "MPEG-3",
+      "mimeType": "audio/mp3"
+    },
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/7-1.ogg",
+      "size": "8605698",
+      "title": "Opus Audio (ogg)",
+      "mimeType": "audio/ogg"
+    }
+  ],
+  "chapters": [
+      {"start": "00:00:01.445", "title": "Intro"},
+      {"start": "00:01:16.330", "title": "Funktion von mehreren Variablen"},
+      {"start": "00:02:39.405", "title": "Stetigkeit bei multivariablen Funktionen"},
+      {"start": "00:03:05.332", "title": "Konvergenz von Folgen von Vektoren"},
+      {"start": "00:04:38.093", "title": "Grenzwert einer Funktion"},
+      {"start": "00:05:59.149", "title": "Eigenschaften"},
+      {"start": "00:06:24.764", "title": "Vektorwertige multivariable Funktionen"},
+      {"start": "00:07:27.545", "title": "Grenzwert einer Vektorwertigen Funktion"},
+      {"start": "00:08:22.364", "title": "Partielle Ableitung"},
+      {"start": "00:09:28.541", "title": "Abschluss"}
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabFiles",
+    "tabAudio",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Jan Heiland",
+      "avatar": "/courses/ovgu-mathe-informatik/files/pcs/icke.jpg",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jan-heiland"
+    }
+  ]
+}

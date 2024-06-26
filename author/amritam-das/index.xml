@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amritam Das | Jan Heiland</title>
+    <link>/author/amritam-das/</link>
+      <atom:link href="/author/amritam-das/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amritam Das</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 10:10:00 +0100</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Amritam Das</title>
+      <link>/author/amritam-das/</link>
+    </image>
+    
+    <item>
+      <title>Two-step MOR for H-infinity-robust nonlinear controller design</title>
+      <link>/event/24-gamm/</link>
+      <pubDate>Thu, 21 Mar 2024 10:10:00 +0100</pubDate>
+      <guid>/event/24-gamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-order Linear Parameter Varying Approximations for Nonlinear Controller Design for Flows</title>
+      <link>/publication/das-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/das-h-23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

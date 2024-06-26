@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jens Saak | Jan Heiland</title>
+    <link>/author/jens-saak/</link>
+      <atom:link href="/author/jens-saak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jens Saak</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Jens Saak</title>
+      <link>/author/jens-saak/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Control of a Stefan Problem Fully Coupled with Navier-Stokes-Equations and Mesh Movement</title>
+      <link>/publication/bar-bhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bar-bhs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software</title>
+      <link>/publication/feh-hhs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/feh-hhs-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

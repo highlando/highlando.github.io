@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Benner | Jan Heiland</title>
+    <link>/author/peter-benner/</link>
+      <atom:link href="/author/peter-benner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Benner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 14:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Peter Benner</title>
+      <link>/author/peter-benner/</link>
+    </image>
+    
+    <item>
+      <title>Numerical Methods in Control and Optimization of Dynamical Systems</title>
+      <link>/event/23-bimos/</link>
+      <pubDate>Mon, 16 Jan 2023 14:00:00 +0100</pubDate>
+      <guid>/event/23-bimos/</guid>
+      <description>&lt;p&gt;After an introduction into the basic notions and principles of dynamical systems and control, I will address the challenges that come with high-dimensional (or even infinite-dimensional) nonlinear systems and show some recent theoretical and numerical approaches to their solution. The findings and concepts are illustrated by applications to the Navier-Stokes model equations and to a real-world triple pendulum.&lt;/p&gt;
+&lt;p&gt;If time suffices, I will address data-driven approaches that use data and possibly techniques from Machine Learning to enhance the models in terms of accuracy or faster evaluation times.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Lag Synchronization of Cohen-Grossberg Neural Networks with Discrete and Distributed Delays on Time Scales</title>
+      <link>/publication/kum-hb-23-a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kum-hb-23-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-dependent Switching Control for Disturbance Attenuation of Linear Systems</title>
+      <link>/publication/zha-hbd-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/zha-hbd-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaRDIFlow: A Workflow Framework for Documentation and Integration of FAIR Computational Experiments</title>
+      <link>/publication/vel-hb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/vel-hb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projective lag quasi-synchronization of coupled systems with mixed delays and parameter mismatch: a unified theory</title>
+      <link>/publication/kum-hb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kum-hb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Data-driven identification of encoding on quadratic-manifolds for high-fidelity dynamical models</title>
+      <link>/event/22-eccomas/</link>
+      <pubDate>Tue, 07 Jun 2022 16:30:00 +0200</pubDate>
+      <guid>/event/22-eccomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations</title>
+      <link>/publication/hei-bb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-bb-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
+      <link>/publication/ben-ghp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional H∞-controllers</title>
+      <link>/publication/ben-hw-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional autoencoders for low-dimensional parameterizations of Navier-Stokes flow</title>
+      <link>/event/21-ifaccp-nse-nn-ldlpv/</link>
+      <pubDate>Thu, 08 Jul 2021 14:30:00 +0200</pubDate>
+      <guid>/event/21-ifaccp-nse-nn-ldlpv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor-Galerkin POD for Efficient Uncertainty Quantification in PDEs with Multivariate Random Parameters</title>
+      <link>/event/21-gpuq-gamm/</link>
+      <pubDate>Wed, 17 Mar 2021 14:00:00 +0100</pubDate>
+      <guid>/event/21-gpuq-gamm/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The statistically sound treatment of modelled uncertainties in simulations comes with significant additional computational costs. Since a deterministic model can already be arbitrarily complex, running statistics for general problems may soon become infeasible unless some kind of model reduction is involved.&lt;/p&gt;
+&lt;p&gt;In this talk we present a multidimensional Galerkin Proper Orthogonal Decomposition (Galerkin POD)
+that simultaneously reduces the physical dimensions of the model and the dimensions related to
+the uncertainties.&lt;/p&gt;
+&lt;p&gt;Using basic tensor calculus we extend our recent work of space-time Galerkin POD [1] to arbitrary dimensions and apply it to PDEs with multivariate uncertain. By means of a numerical example we illustrate the procedure and how it outperforms POD based on random snapshots.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] Baumann, M.; Benner, P. &amp;amp; Heiland, J. Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations SIAM J. Sci. Comput., 2018, 40, A1611-A1641&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD for UQ of PDEs with Random Parameters</title>
+      <link>/event/21-gpuq-csefa/</link>
+      <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
+      <guid>/event/21-gpuq-csefa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galerkin trial spaces and Davison-Maki methods for the numerical solution of differential Riccati equations</title>
+      <link>/publication/beh-bh-21-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
+      <link>/publication/beh-bh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-Based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>/event/20-ecc-hinfric/</link>
+      <pubDate>Wed, 13 May 2020 15:00:00 +0300</pubDate>
+      <guid>/event/20-ecc-hinfric/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Riccati-based approach to robust control is completely understood in theory
+since long but seldom used for large-scale systems in practice. Only recently,
+we have transferred iterative algorithms that allow the computation of solutions
+to LQR Riccati equations in the large-scale setting to the indefinite Riccati
+equations that appear in robust control. For descriptor systems, the relevant
+Riccati equations are nonsymmetric and, for large-scale systems, there is no
+established algorithm that can handle these even in the LQR case.&lt;/p&gt;
+&lt;p&gt;In this paper, we show how the general theory for descriptor systems with
+index-1 pencil coincides with the theory for standard linear time invariant case
+with feedthrough terms. This provides an algorithm to characterize and to
+compute the solution to the generalized indefinite Riccati equations via
+standard Riccati equations. In view of feasibility for large-scale descriptor
+systems, we illustrate how to arrive at the equivalent standard Riccati-equation
+without resorting to the canonical form used in the derivation of the
+theoretical results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>/publication/ben-h-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-intrusive Time Galerkin POD for Optimal Control of a Fixed-Bed Reactor for CO2 Methanation</title>
+      <link>/publication/bre-hbs-21/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bre-hbs-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PD controllers to solve single-input, index-1 DAE based LQR problems</title>
+      <link>/publication/bha-hb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bha-hb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>
+      <link>/publication/ben-hw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution Formulas for Differential Sylvester and Lyapunov Equations</title>
+      <link>/publication/beh-bh-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Stability and Stabilization of Extended Linearizations via Continuous Updates of Riccati Based Feedback</title>
+      <link>/publication/ben-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Control of a Stefan Problem Fully Coupled with Navier-Stokes-Equations and Mesh Movement</title>
+      <link>/publication/bar-bhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bar-bhs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations</title>
+      <link>/publication/bau-bh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-bh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear feedback stabilization of incompressible flows via updated Riccati-based gains</title>
+      <link>/publication/ben-h-17-b/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients</title>
+      <link>/publication/beh-bh-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Approximations to Riccati-based Boundary-feedback Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moment-Matching Based Model Reduction for Navier-Stokes Type Quadratic-Bilinear Descriptor Systems</title>
+      <link>/publication/ahm-bg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ahm-bg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Stabilization of Laminar Flows in Varying Flow Regimes</title>
+      <link>/publication/ben-h-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LQG-Balanced Truncation Low-Order Controller for Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent Dirichlet Conditions in Finite Element Discretizations</title>
+      <link>/publication/ben-h-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-15-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

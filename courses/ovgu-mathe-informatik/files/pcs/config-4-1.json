@@ -1,0 +1,79 @@
+{
+  "show": {
+    "title": "Mathematik für Informatik",
+    "subtitle": "Gelesen aus der Ferne",
+    "poster": "/courses/ovgu-mathe-informatik/files/pcs/4-1-banner.png" 
+  },
+  "reference": {
+    "config": "https://freakshow.fm/?podlove_player4=1465"
+  },
+  "theme": {
+    "main": "#26475B"
+  },
+  "title": "4 — Taylor- und Potenzreihen (1/2) ",
+  "subtitle": "Taylorpolynom — Restglied — Landau-Symbole — Taylorreihe",
+  "summary": "Kapitel 14 im Skript - zweiter Teil",
+  "publicationDate": "2020-05-15:00:00+00:00",
+  "poster": "/courses/ovgu-mathe-informatik/files/pcs/4-1-banner.png",
+  "duration": "00:10:52",
+  "audio": [
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/4-1.mp3",
+      "size": "111939087",
+      "title": "MPEG-3",
+      "mimeType": "audio/mp3"
+    },
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/4-1.ogg",
+      "size": "9327420",
+      "title": "Opus Audio (ogg)",
+      "mimeType": "audio/ogg"
+    }
+  ],
+  "chapters": [
+
+      {"start": "00:00:01.682", "title": "Intro"},
+      {"start": "00:00:57.965", "title": "Definition Taylorpolynom"},
+      {"start": "00:03:49.769" ,"title": "Restglied"},
+      {"start": "00:04:34.913", "title": "Satz von Taylor"},
+      {"start": "00:05:53.828", "title": "Pause am Altglascontainer"},
+      {"start": "00:06:18.227", "title": "Landau Symbole"},
+      {"start": "00:08:59.758", "title": "Taylorreihe"},
+      {"start": "00:09:40.121", "title": "Abschluss"}
+  ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabFiles",
+    "tabAudio",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Jan Heiland",
+      "avatar": "/courses/ovgu-mathe-informatik/files/pcs/icke.jpg",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jan-heiland"
+    }
+  ]
+}

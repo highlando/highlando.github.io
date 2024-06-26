@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Baumann | Jan Heiland</title>
+    <link>/author/manuel-baumann/</link>
+      <atom:link href="/author/manuel-baumann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel Baumann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Manuel Baumann</title>
+      <link>/author/manuel-baumann/</link>
+    </image>
+    
+    <item>
+      <title>Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations</title>
+      <link>/publication/bau-bh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-bh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Input/Output Maps and their Relation to Proper Orthogonal Decomposition</title>
+      <link>/publication/bau-hs-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-hs-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Control of Drop Size Distributions in Stirred Liquid/Liquid Systems</title>
+      <link>/publication/hei-bwms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-bwms-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

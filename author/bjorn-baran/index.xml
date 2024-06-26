@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Björn Baran | Jan Heiland</title>
+    <link>/author/bjorn-baran/</link>
+      <atom:link href="/author/bjorn-baran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Björn Baran</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Björn Baran</title>
+      <link>/author/bjorn-baran/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Control of a Stefan Problem Fully Coupled with Navier-Stokes-Equations and Mesh Movement</title>
+      <link>/publication/bar-bhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bar-bhs-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

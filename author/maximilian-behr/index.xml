@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximilian Behr | Jan Heiland</title>
+    <link>/author/maximilian-behr/</link>
+      <atom:link href="/author/maximilian-behr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maximilian Behr</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Maximilian Behr</title>
+      <link>/author/maximilian-behr/</link>
+    </image>
+    
+    <item>
+      <title>Galerkin trial spaces and Davison-Maki methods for the numerical solution of differential Riccati equations</title>
+      <link>/publication/beh-bh-21-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
+      <link>/publication/beh-bh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution Formulas for Differential Sylvester and Lyapunov Equations</title>
+      <link>/publication/beh-bh-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients</title>
+      <link>/publication/beh-bh-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

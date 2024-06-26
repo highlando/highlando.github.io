@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sara Grundel | Jan Heiland</title>
+    <link>/author/sara-grundel/</link>
+      <atom:link href="/author/sara-grundel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sara Grundel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 11:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Sara Grundel</title>
+      <link>/author/sara-grundel/</link>
+    </image>
+    
+    <item>
+      <title>Mathematical modeling of infectious disease</title>
+      <link>/event/20-mathcore-covid/</link>
+      <pubDate>Thu, 02 Jul 2020 11:00:00 +0100</pubDate>
+      <guid>/event/20-mathcore-covid/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Within the last couple of months, the COVID-19 epidemic has determined our
+public and private life with travel restrictions, lockdown, social distancing,
+working from home, hygiene rules etc. The daily news informed about reproduction
+rates and the numbers of current confirmed COVID-19 cases. The media prominently
+advertised the strategy &lt;em&gt;stay at home&lt;/em&gt; in order to &lt;em&gt;flatten the curve&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In this joint talk, we present two mathematical modeling strategies for
+infectious disease. In the first part, we consider a classical compartment
+approach which splits the population into different groups, for example
+&lt;em&gt;Susceptible&lt;/em&gt;, &lt;em&gt;Infected&lt;/em&gt;, &lt;em&gt;Recovered&lt;/em&gt; (SIR model). The evolution of the numbers
+in each compartment can be described mathematically in form of a system of
+coupled ordinary differential equations. The transition rates between the
+different compartments (e.g. infection rate, recovery rate) can be adjusted
+through available data. For the modeling of the COVID-19 epidemic in Italy and
+Germany, the SIDHARTE version of a compartment model has been developed&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; in
+order to simulate and predict the spread of the epidemic and to model possible
+countermeasures.&lt;/p&gt;
+&lt;p&gt;In the second part of the talk, the spreading of the disease on a graph
+representing a smaller population sample is presented. In this model the graph
+represents a hospital or other institution in which a COVID-19 outbreak could be
+harmful. In this model we are particularly interested in finding a suitable test
+strategy, which is one way to apply control to the system. In general is the
+question of the right control mechanisms to &lt;em&gt;flatten the curve&lt;/em&gt; or slow the
+spread of virus still an open one.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;G. Giordano, F. Blanchini, R. Bruno, P. Colaneri, A. Di Filippo, A. Di Matteo, M. Colaneri: Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy. Nat. Med. (2020)&amp;quot;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

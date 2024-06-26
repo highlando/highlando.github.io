@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robust Control | Jan Heiland</title>
+    <link>/tag/robust-control/</link>
+      <atom:link href="/tag/robust-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robust Control</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2019 13:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Robust Control</title>
+      <link>/tag/robust-control/</link>
+    </image>
+    
+    <item>
+      <title>Robust control for compensation of linearization and discretization errors in stabilization of incompressible flows</title>
+      <link>/event/19-07-passau/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0200</pubDate>
+      <guid>/event/19-07-passau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>
+      <link>/publication/ben-hw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Approximations to Riccati-based Boundary-feedback Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAEs | Jan Heiland</title>
+    <link>/courses/ovgu-daes/</link>
+      <atom:link href="/courses/ovgu-daes/index.xml" rel="self" type="application/rss+xml" />
+    <description>DAEs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>DAEs</title>
+      <link>/courses/ovgu-daes/</link>
+    </image>
+    
+    <item>
+      <title>1 Introduction</title>
+      <link>/courses/ovgu-daes/daes-1/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-daes/daes-1/</guid>
+      <description>&lt;h1 id=&#34;introductory-considerations&#34;&gt;Introductory considerations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;DAEs in mathematical modelling&lt;/li&gt;
+&lt;li&gt;Applications areas and examples&lt;/li&gt;
+&lt;li&gt;Challenges in the numerical and analytical treatment of DAEs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-11&#34;&gt;Lecture 1.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/introduction.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 1&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-11.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/H9x0OboOLMg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>2 Basic Definitions and Notions</title>
+      <link>/courses/ovgu-daes/daes-2/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-daes/daes-2/</guid>
+      <description>&lt;h1 id=&#34;basic-definitions-and-notions&#34;&gt;Basic Definitions and Notions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;DAE in a general formulation&lt;/li&gt;
+&lt;li&gt;Solution concepts&lt;/li&gt;
+&lt;li&gt;Initial values and consistency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-21&#34;&gt;Lecture 2.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/basic-definitions-and-notions.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 2&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-21.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Zss3LXL6UJo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>3 Linear DAEs with Constant Coefficients</title>
+      <link>/courses/ovgu-daes/daes-3/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-daes/daes-3/</guid>
+      <description>&lt;h1 id=&#34;basic-definitions-and-notions&#34;&gt;Basic Definitions and Notions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;variable transforms and scalings do not affect solvability&lt;/li&gt;
+&lt;li&gt;DAEs &amp;lt;-&amp;gt; (E, A) matrix pairs&lt;/li&gt;
+&lt;li&gt;canonical forms &amp;ndash; Kronecker canonical form &amp;ndash; canonical form of a linear DAE with constant coefficients&lt;/li&gt;
+&lt;li&gt;Regularity and Solvability&lt;/li&gt;
+&lt;li&gt;Weierstrass canonical form&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-31&#34;&gt;Lecture 3.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 3&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-31.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fT_1LLb73B8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;lecture-32&#34;&gt;Lecture 3.2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#regularity-and-solvability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 3.2&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-32.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3KLc-ouweIk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;existence-and-representation-of-solutions&#34;&gt;Existence and Representation of Solutions&lt;/h1&gt;
+&lt;h2 id=&#34;lecture-33&#34;&gt;Lecture 3.3&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#solution-to-the-n-dae-regularity-and-index-of-a-matrix-pair&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 3.3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-33.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hJdmUU2Fq5s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;-exercise-1&#34;&gt;📒 Exercise 1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;files/ueb01.pdf&#34;&gt;Exercise sheet 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;files/ndae-ueb01.jpg&#34;&gt;My casual whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-34&#34;&gt;Lecture 3.4&lt;/h2&gt;
+&lt;p&gt;A &lt;em&gt;variation of parameters&lt;/em&gt; formula for linear DAEs with constant coefficients.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#a-variation-of-constant-formula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 3.5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-34.jpg&#34;&gt;The whiteboard notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/gqknqU2V_RU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>4 Linear DAEs with Variable Coefficients</title>
+      <link>/courses/ovgu-daes/daes-4/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-daes/daes-4/</guid>
+      <description>&lt;h1 id=&#34;41----the-basics&#34;&gt;4.1 &amp;ndash; The Basics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Problem Statement&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Examples why &lt;em&gt;uniform regularity&lt;/em&gt; does not help&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pairs of matrix functions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Global and local equivalence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/IV.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 4&lt;/em&gt; in the script&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../files/lecture-41.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Gg73ryjYIRk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;42----a-local-canonical-form&#34;&gt;4.2 &amp;ndash; A local canonical form&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/IV.html#a-local-canonical-form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 4.1&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-42.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/annotated-script-42.pdf&#34;&gt;Annotated Script&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZGbaR6UaY6M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;43----a-global-canonical-form&#34;&gt;4.3 &amp;ndash; A global canonical form&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/IV.html#IV-Global-Canonical-Form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 4.2&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-43.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ERYb9zs2m1Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;44&#34;&gt;4.4 &amp;ndash; Strangeness Index and Derivative Arrays&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/IV.html#the-strangeness-index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Chapter 4.3 and 4.4&lt;/em&gt; in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-44.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/owV_3tij1P4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>5 Numerical Approximation of DAEs</title>
+      <link>/courses/ovgu-daes/daes-5/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/ovgu-daes/daes-5/</guid>
+      <description>&lt;h1 id=&#34;50&#34;&gt;Numerical Approximation of ODEs&lt;/h1&gt;
+&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic Ideas&lt;/li&gt;
+&lt;li&gt;One Step Methods&lt;/li&gt;
+&lt;li&gt;Consistency / Stability / Convergence&lt;/li&gt;
+&lt;li&gt;Runge-Kutta Methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-5-0&#34;&gt;Lecture 5-0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-50.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/FjRclqZLatw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;little-coding-exercise&#34;&gt;Little Coding Exercise&lt;/h2&gt;
+&lt;p&gt;Use your favorite programming language to&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Write an implementation of the &lt;code&gt;explicit Euler&lt;/code&gt; scheme like&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def explicit_euler(f, x0, timegrid):
+    # f -- the right hand side in `x&#39; = f(t, x)`
+    # x0 -- the initial value
+    # timegrid -- somehow specify the stepsize and the endpoint
+
+    # integrate the ODE with explicit Euler 
+
+    return xN
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Test it with the ODE
+\begin{equation}
+\begin{bmatrix}
+\dot x \\ \dot y
+\end{bmatrix}
+=
+\begin{bmatrix}
+e^t y \\ -e^t x
+\end{bmatrix},
+\quad
+\begin{bmatrix}
+x(0) \\ y(0)
+\end{bmatrix}
+=
+\begin{bmatrix}
+\sin (1) \\ \cos(1)
+\end{bmatrix}
+\end{equation}
+on $[0, 3]$ with number of time steps
+$$N\in{2^{8}, 2^{10}, 2^{14}, 2^{18}}$$
+by comparing the computed value of $x_N\approx x(3)$ to the actual value $x(3)=\sin (e^3)$.&lt;/li&gt;
+&lt;li&gt;Implement any Runge-Kutta method of higher-order&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; and repeat this numerical study.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;51&#34;&gt;Basics of Numerical Approximation of DAEs&lt;/h1&gt;
+&lt;h2 id=&#34;contents-1&#34;&gt;Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Notions and Notations of RKM&lt;/li&gt;
+&lt;li&gt;How to apply an RKM to $E\dot x = Ax+f(t)$&lt;/li&gt;
+&lt;li&gt;Explicit Euler fails, Implicit Euler works&lt;/li&gt;
+&lt;li&gt;RKM and System Transformations&lt;/li&gt;
+&lt;li&gt;Analysis via the Kronecker Normal Form&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-5-1&#34;&gt;Lecture 5-1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-51.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wd97VkjHz9U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;52&#34;&gt;Consistency und Convergence for DAEs with Constant Coefficients&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Consistency error &amp;ndash; will depend on the $\nu$-&lt;strong&gt;index&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Convergence &amp;ndash; need extra stability condition&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stiffly accurate&lt;/strong&gt; schemes &amp;ndash; exact for index-1 DAE parts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-5-2&#34;&gt;Lecture 5-2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/numerical-approximation-of-daes.html#runge-kutta-methods-for-linear-daes-with-constant-coefficients&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 5.2 in the script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-52.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hvk0XTOMfoE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;exercise-4&#34;&gt;Exercise 4&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python Script for the &amp;ldquo;$\kappa$&amp;ldquo;s: &lt;a href=&#34;../files/dae-butcher.py&#34;&gt;&lt;code&gt;dae-butcher.py&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Implicit Euler for time-varying DAEs: &lt;a href=&#34;../files/4c2.py&#34;&gt;python file&lt;/a&gt; &lt;a href=&#34;../files/4c2.ipynb&#34;&gt;Jupyter Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;rkm-for-nonlinear-semi-explicit-daes-of-index-1&#34;&gt;RKM for (Nonlinear) Semi-explicit DAEs of Index 1&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/lecture-53.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;rkmbdf-for-nonlinear-semi-explicit-daes-of-index-12&#34;&gt;RKM/BDF for (Nonlinear) Semi-explicit DAEs of Index 1/2&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/RKM-index-2-BDF.pdf&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janheiland.de/script-daes/numerical-analysis-and-software-overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to the list of Theorems and Software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;numerical-methods-for-index-reduction&#34;&gt;Numerical Methods for Index Reduction&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;For unstructured systems &amp;ndash; use the derivative array but compute the projections &lt;em&gt;on the fly&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;For structured systems like multibody systems (like the &lt;a href=&#34;https://www.janheiland.de/script-daes/introduction.html#the-pendulum&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pendulum&lt;/a&gt; &amp;ndash; differentiate the relevant parts, add these equations to the system, and make the system square again by introducing new variables.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/Numerical-Index-Reduction.pdf&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;feel free to use an explicit method of a not so high order.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

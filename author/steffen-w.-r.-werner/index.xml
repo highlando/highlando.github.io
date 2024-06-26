@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steffen W. R. Werner | Jan Heiland</title>
+    <link>/author/steffen-w.-r.-werner/</link>
+      <atom:link href="/author/steffen-w.-r.-werner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steffen W. R. Werner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Steffen W. R. Werner</title>
+      <link>/author/steffen-w.-r.-werner/</link>
+    </image>
+    
+    <item>
+      <title>Deep Polytopic Autoencoders for Low-dimensional Linear Parameter-varying Approximations and Nonlinear Feedback Design</title>
+      <link>/publication/hei-kw-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-kw-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Methods in Control and Optimization of Dynamical Systems</title>
+      <link>/event/23-bimos/</link>
+      <pubDate>Mon, 16 Jan 2023 14:00:00 +0100</pubDate>
+      <guid>/event/23-bimos/</guid>
+      <description>&lt;p&gt;After an introduction into the basic notions and principles of dynamical systems and control, I will address the challenges that come with high-dimensional (or even infinite-dimensional) nonlinear systems and show some recent theoretical and numerical approaches to their solution. The findings and concepts are illustrated by applications to the Navier-Stokes model equations and to a real-world triple pendulum.&lt;/p&gt;
+&lt;p&gt;If time suffices, I will address data-driven approaches that use data and possibly techniques from Machine Learning to enhance the models in terms of accuracy or faster evaluation times.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Complexity Linear Parameter-Varying Approximations of Incompressible Navier-Stokes Equations for Truncated State-Dependent Riccati Feedback</title>
+      <link>/publication/hei-w-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-w-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional H∞-controllers</title>
+      <link>/publication/ben-hw-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>
+      <link>/publication/ben-hw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

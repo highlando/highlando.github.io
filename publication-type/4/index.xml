@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Jan Heiland</title>
+    <link>/publication-type/4/</link>
+      <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>4</title>
+      <link>/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Deep Polytopic Autoencoders for Low-dimensional Linear Parameter-varying Approximations and Nonlinear Feedback Design</title>
+      <link>/publication/hei-kw-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-kw-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders, Clustering, and POD for Low-dimensional Parametrization of Navier-Stokes Equations</title>
+      <link>/publication/kim-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-dependent Switching Control for Disturbance Attenuation of Linear Systems</title>
+      <link>/publication/zha-hbd-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/zha-hbd-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit and explicit matching of non-proper transfer functions in the Loewner framework</title>
+      <link>/publication/gos-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/gos-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-order Linear Parameter Varying Approximations for Nonlinear Controller Design for Flows</title>
+      <link>/publication/das-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/das-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients</title>
+      <link>/publication/beh-bh-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wie steuert man einen Kran?</title>
+      <link>/publication/alt-h-15-ppt-snapshot/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-15-ppt-snapshot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

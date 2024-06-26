@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematik 2 für Informatik | Jan Heiland</title>
+    <link>/courses/mathe2info-21/</link>
+      <atom:link href="/courses/mathe2info-21/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathematik 2 für Informatik</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Mathematik 2 für Informatik</title>
+      <link>/courses/mathe2info-21/</link>
+    </image>
+    
+    <item>
+      <title>Warmup</title>
+      <link>/courses/mathe2info-21/omi-0/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-0/</guid>
+      <description>&lt;p&gt;Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben,
+die den Einstieg erleichtern und die hoffentlich jede&amp;rsquo;r schaffen kann.&lt;/p&gt;
+&lt;p&gt;💾 &lt;a href=&#34;https://elearning.ovgu.de/mod/resource/view.php?id=252828&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt #0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1 Folgen und Reihen</title>
+      <link>/courses/mathe2info-21/omi-1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-1/</guid>
+      <description>&lt;h2 id=&#34;1-1-folgen&#34;&gt;1-1 Folgen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-one&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:-FRs-O1uXbei&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.math-kit.de/2003/content/RH-PB-XML-cob/Manifest295/einstieg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Achilles und die Schildkröte als Reihe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;1-2-reihen&#34;&gt;1-2 Reihen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-1-2&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:phVZ4hhjpEG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 11 im Skript (zweiter Teil)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;https://elearning.ovgu.de/mod/resource/view.php?id=252829&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/1-2-kuchenharmonie-small.png&#34;&gt;Bild zur Kuchenfolge und zum harmonischen
+Turm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;video-zur-kuchenfolge-und-zum-harmonischen-turm&#34;&gt;Video zur Kuchenfolge und zum harmonischen Turm&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JT6JTtZw3nQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;video-zu-achilles&#34;&gt;Video zu Achilles&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/M_zsqFLuKV0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;wrapup-folgen-und-reihen&#34;&gt;Wrapup (Folgen und Reihen)&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7-TrxEgHmWE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>2 Stetigkeit von Funktionen</title>
+      <link>/courses/mathe2info-21/omi-2/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-2/</guid>
+      <description>&lt;h2 id=&#34;2-1-eigenschaften-und-beispiele-von-funktionen&#34;&gt;2-1 Eigenschaften und Beispiele von Funktionen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-2-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:dUtyovpIkpJ3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;💾 &lt;a href=&#34;https://elearning.ovgu.de/course/view.php?id=10324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link zum Übungsblatt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-2-grenzwerte-und-stetigkeit-von-funktionen&#34;&gt;2-2 Grenzwerte und Stetigkeit von Funktionen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-2-2&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:PAJBtPWpM6q_&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 12 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wrapup-2-grenzwerte-und-stetigkeit-von-funktionen&#34;&gt;Wrapup 2 (Grenzwerte und Stetigkeit von Funktionen)&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rwIzGTpWp-o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>3 Differenzierbarkeit I</title>
+      <link>/courses/mathe2info-21/omi-3/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-3/</guid>
+      <description>&lt;h2 id=&#34;3-1-definition-formeln-und-eigenschaften-der-ableitung&#34;&gt;3-1 Definition, Formeln und Eigenschaften der Ableitung&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-3-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:g-oDubhB-YNp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 13 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-2-houmlhere-ableitungen-konvex-konkav-extrema&#34;&gt;3-2 Höhere Ableitungen, Konvex-Konkav, Extrema&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-3-2&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:ysTmELNZiYOb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 13 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/3-2-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DkAGMGCSvw4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QNsfdKN1NqM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;wrapup-differenzierbarkeit&#34;&gt;Wrapup Differenzierbarkeit&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3v3g7Uc3yMg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>4 Taylor- und Potenzreihen</title>
+      <link>/courses/mathe2info-21/omi-4/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-4/</guid>
+      <description>&lt;h2 id=&#34;4-1-taylorpolynom-landau-symbole-taylor-reihe&#34;&gt;4-1 Taylorpolynom, Landau-Symbole, Taylor-Reihe&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-4-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:NVYFzJarguQi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 14 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/4-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dI9t-9pGKus&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;4-2-taylor-reihe-potenzreihe-taylor-reihe&#34;&gt;4-2 Taylor-Reihe, Potenzreihe, Taylor-Reihe&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-4-2&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:T6ewFPuobVBO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 14 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele-1&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/4-2-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Zk9CXZEcUaY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>5 Integration I</title>
+      <link>/courses/mathe2info-21/omi-5/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-5/</guid>
+      <description>&lt;p&gt;In diesem Kapitel geht es vor allem um Formeln &amp;ndash; dafür finde ich den
+Podcast und den eigentlichen Wrapup nicht so geeignet. Deswegen hier mein Angebot für
+diesen Themenkomplex:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#5-1-zerlegung-ober-untersummen-riemann-integral&#34;&gt;1. Teil (Mittwoch)&lt;/a&gt;: Podcast und Beispiele als Video.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#5-2-substitionsregel-partielle-integration-uneigentliche-integrale&#34;&gt;2. Teil (Freitag)&lt;/a&gt;: Illustration der Inhalte als Video.&lt;/li&gt;
+&lt;li&gt;[3. Teil (Mittwoch, 19.05.)]: Wrapup mit Vorrechnen der Beispiele aus dem Vorlesungskapitel + ausgewählte Übungsaufgaben.&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;!-- (#5-2-substitionsregel-partielle-integration-uneigentliche-integrale): Illustration der Inhalte als Video.--&gt;
+ &lt;!-- (#5-3-wrapup----beispiele-vorrechnen): Vorrechnen der Beispiele aus dem Vorlesungskapitel +
+      ausgew&amp;auml;hlte &amp;Uuml;bungsaufgaben.--&gt;
+&lt;h2 id=&#34;5-1-zerlegung-ober-untersummen-riemann-integral&#34;&gt;5-1 Zerlegung, Ober-/Untersummen, Riemann-Integral&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-5-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:FkxoS-cCItIs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 15 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/5-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ScRfoCNgTPQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;5-2-substitionsregel-partielle-integration-uneigentliche-integrale&#34;&gt;5-2 Substitionsregel, Partielle Integration, Uneigentliche Integrale&lt;/h2&gt;
+&lt;p&gt;Dafür gibt es keinen Podcast von mir. In meinem Video habe ich versucht,
+die Sätze euch über die Herleitung näherzubringen und das
+&lt;em&gt;Uneigentliche Integral&lt;/em&gt; anhand eines Beispiels (in dem man gleich eine
+Anwendung der Substitionsregel sieht). Ansonsten bitte die Übungsaufgaben
+bearbeiten.&lt;/p&gt;
+&lt;h3 id=&#34;aufschrieb&#34;&gt;Aufschrieb&lt;/h3&gt;
+&lt;p&gt;Die Herleitung der Sätze 15.25 und 15.21 über die zugrundeliegenden
+Differentiationsregeln und das &lt;em&gt;uneigentliche Integral&lt;/em&gt; am Beispiel&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \frac{1}{\sqrt{1-|x|}}, \quad\text{auf }(-1, 1).
+$$&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/5-2.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3SQ5a5Q9RkI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;53&#34;&gt;5-3 Wrapup &amp;ndash; Beispiele Vorrechnen&lt;/h2&gt;
+&lt;p&gt;Live Vorrechnen der Beispiele aus der Vorlesung und einer Übungsaufgabe&lt;/p&gt;
+&lt;p&gt;Zur Vorbereitung (statt Video oder Podcast) schon mal selber die Beispiele rechnen.
+$$
+\int _ {\frac{1}{\pi}}^{\frac{2}{\pi}} -\frac{\sin(\frac{1}{x})}{x^2}~dx \tag{Bsp. 15.22}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\int_a^b \cos(x)x~dx \tag{Bsp. 15.26-1}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\int_a^b \log(x)~dx \tag{Bsp. 15.26-2}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\text{Bestimmtes Integral und Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
+$$&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/5-3-wrapup-bspx.jpg&#34;&gt;Wrapup und Lösungen als JPG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jXghB9l5NIc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>6 Fourierreihen</title>
+      <link>/courses/mathe2info-21/omi-6/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-6/</guid>
+      <description>&lt;h2 id=&#34;6-trigonometrische-polynome-fourierreihen&#34;&gt;6 Trigonometrische Polynome, Fourierreihen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-6-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:CA0JjKs3Ew94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 16 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/JPEG#Die_JPEG-Dekodierung&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kosinustransformation in JPG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wrapup-fourier&#34;&gt;Wrapup Fourier&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/wrapup-6-fourier.jpg&#34;&gt;Whiteboard Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/y0ahVSgTfQY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>7 Differenzierbarkeit II</title>
+      <link>/courses/mathe2info-21/omi-7/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-7/</guid>
+      <description>&lt;p&gt;Das ist wieder eine dreiteilige Vorlesung&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Podcast (Freitag)&lt;/li&gt;
+&lt;li&gt;Screencast (Mittwoch)&lt;/li&gt;
+&lt;li&gt;Screencast+Wrapup (Freitag)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;7-1-multivariable-funktionen-und-grenzwerte&#34;&gt;7-1 Multivariable Funktionen und Grenzwerte&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;div id=&#34;pc-lecture-7-1&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:HLsQY_fMi3Yh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrierte-beispiele&#34;&gt;Illustrierte Beispiele&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/7-1-bspx.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wKQhqfCqApc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;72&#34;&gt;7-2 Ableitungen, Multivariable Vektorwertige Funktionen und Extrema&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/7-2-lctr.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/9UV8m2wsnbk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:KwNqxkkNQ7dP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 17 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;73&#34;&gt;7-3 Hesse Matrix, Definitheit, Extrema, Kompakte Mengen&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;../files/7-3-lctr.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4B6jUlF9R94&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes-2&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ein &lt;a href=&#34;https://studyflix.de/informatik/hesse-matrix-1352&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Text und Video&lt;/a&gt; mit
+schöner Illustration wie die Funktion, kritische Punkte und die Hesse
+Matrix zusammenhängen. (Scrollen bis &lt;em&gt;Extremstellen und Hesse Matrix Beispiel 1&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8 Integration II</title>
+      <link>/courses/mathe2info-21/omi-8/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-8/</guid>
+      <description>&lt;p&gt;Das ist wieder eine dreiteilige Vorlesung&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Screencast (Mittwoch)&lt;/li&gt;
+&lt;li&gt;Screencast (Freitag)&lt;/li&gt;
+&lt;li&gt;Screencast+Wrapup (Mittwoch)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;81&#34;&gt;8-1 Quader, Integration Multivariabler Funktionen&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/8-1-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xLdLJxPsjD4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:7kgEp_HYDdne&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;82&#34;&gt;8-2 Normalbereiche und Transformationssatz&lt;/h2&gt;
+&lt;h3 id=&#34;vorlesung-1&#34;&gt;Vorlesung&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../files/8-2-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7qLIr4Zlsf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes-1&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:yud_mCu8c2V1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;83&#34;&gt;8-3 Transformationssatz und Polarkoordinaten&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;../files/8-3-lecture.png&#34;&gt;das ganze als PNG&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/PFTo1CXbVuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shownotes-2&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:9s6zzVGd2dWp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kapitel 18 im Skript&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Die &lt;a href=&#34;https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Umkehrung der Transformation in Polarkoordinaten&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ein geglücktes Bild der Kugelkoordinaten:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a title=&#34;Ag2gaeh / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)&#34; href=&#34;https://commons.wikimedia.org/wiki/File:Kugelkoord-def.svg&#34;&gt;&lt;img width=&#34;256&#34; alt=&#34;Kugelkoord-def&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kugelkoord-def.svg/256px-Kugelkoord-def.svg.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+## Wrapup Differenzierbarkeit
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QFlv5SBfQ6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cool down</title>
+      <link>/courses/mathe2info-21/omi-9/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/mathe2info-21/omi-9/</guid>
+      <description>&lt;p&gt;Das ist eine zweiteilige Zusammenfassung der relevantesten (für die anstehende
+Klausur) Inhalte. Immer im BBB.&lt;/p&gt;
+&lt;h2 id=&#34;1-folgen-und-stetigkeit&#34;&gt;1 Folgen und Stetigkeit&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/cooldown-91-21-prefill.png&#34;&gt;das vorausgefuellte Whiteboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/cooldown-91-21-examples.png&#34;&gt;und mit den Beispielen der Vorlesung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link zum Vorlesungsvideo gibt&amp;rsquo;s im &lt;a href=&#34;https://elearning.ovgu.de/course/view.php?id=10324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moodle - elearning&lt;/a&gt; unter &lt;em&gt;Vorlesungsaufzeichnungen&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-differentiation-und-integration&#34;&gt;2 Differentiation und Integration&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/cool-down-2.png&#34;&gt;das vorausgefuellte Whiteboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/9-2-cooldown.jpg&#34;&gt;und mit den Beispielen der Vorlesung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link zum Vorlesungsvideo gibt&amp;rsquo;s im &lt;a href=&#34;https://elearning.ovgu.de/course/view.php?id=10324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moodle - elearning&lt;/a&gt; unter &lt;em&gt;Vorlesungsaufzeichnungen&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;x-die-videos-dazu-aus-dem-letzten-jahr&#34;&gt;X Die Videos dazu aus dem letzten Jahr&lt;/h2&gt;
+&lt;p&gt;Immer noch aktuell!&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/o6fc0mRH_hk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/eZIpMUFEDZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/d7ccwQ7i4pQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/lt0oN7HGvcg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

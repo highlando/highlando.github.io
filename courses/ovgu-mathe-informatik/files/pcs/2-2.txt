@@ -1,0 +1,14 @@
+0.225542	0.225542	Intro
+42.002352	42.002352	Grenzwert einer Funktion
+110.923198	110.923198	Definition 12.15
+178.762087	178.762087	Beispiele
+237.052294	237.052294	Links/rechtsseitiger Grenzwert
+290.943213	290.943213	Rechnen mit den Grenzwerten
+311.008853	311.008853	Asymptotisches Verhalten von Funktionen
+339.092006	339.092006	Kleine Pause fuer Beispiele
+364.563845	364.563845	Stetigkeit von Funktionen
+410.453154	410.453154	epsilon-delta Definition der Stetigkeit
+445.655775	445.655775	Rechnen mit stetigen Funktionen
+470.464608	470.464608	Irgendwie sind alle beruehmten Funktionen stetig
+491.084151	491.084151	Mittelwertsatz und Weierstrass
+542.366573	542.366573	Abschluss

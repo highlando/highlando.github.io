@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Schmidt | Jan Heiland</title>
+    <link>/author/michael-schmidt/</link>
+      <atom:link href="/author/michael-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Schmidt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Michael Schmidt</title>
+      <link>/author/michael-schmidt/</link>
+    </image>
+    
+    <item>
+      <title>Discrete Input/Output Maps and their Relation to Proper Orthogonal Decomposition</title>
+      <link>/publication/bau-hs-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-hs-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Discretization Framework for Input/Output Maps and its Application to Flow Control</title>
+      <link>/publication/hei-ms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-ms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Discretization of Input/Output Maps and Control of Partial Differential Equations</title>
+      <link>/publication/hei-ms-10-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-ms-10-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

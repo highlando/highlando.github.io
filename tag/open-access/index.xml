@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Access | Jan Heiland</title>
+    <link>/tag/open-access/</link>
+      <atom:link href="/tag/open-access/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Access</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Oct 2023 14:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Open Access</title>
+      <link>/tag/open-access/</link>
+    </image>
+    
+    <item>
+      <title>The DEAL is here - What now?</title>
+      <link>/event/23-deal/</link>
+      <pubDate>Mon, 23 Oct 2023 14:00:00 +0200</pubDate>
+      <guid>/event/23-deal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The DEAL - What is up and what does it mean</title>
+      <link>/event/20-deal/</link>
+      <pubDate>Wed, 23 Sep 2020 14:00:00 +0200</pubDate>
+      <guid>/event/20-deal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>
+      <link>/publication/ben-hw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Approximations to Riccati-based Boundary-feedback Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

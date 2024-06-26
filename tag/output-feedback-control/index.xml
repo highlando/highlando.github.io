@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>output feedback control | Jan Heiland</title>
+    <link>/tag/output-feedback-control/</link>
+      <atom:link href="/tag/output-feedback-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>output feedback control</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>output feedback control</title>
+      <link>/tag/output-feedback-control/</link>
+    </image>
+    
+    <item>
+      <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>
+      <link>/publication/ben-hw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

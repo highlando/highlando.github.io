@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematics - Dynamical Systems | Jan Heiland</title>
+    <link>/tag/mathematics-dynamical-systems/</link>
+      <atom:link href="/tag/mathematics-dynamical-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathematics - Dynamical Systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Mathematics - Dynamical Systems</title>
+      <link>/tag/mathematics-dynamical-systems/</link>
+    </image>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients</title>
+      <link>/publication/beh-bh-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

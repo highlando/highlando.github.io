@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongho Kim | Jan Heiland</title>
+    <link>/author/yongho-kim/</link>
+      <atom:link href="/author/yongho-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongho Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Yongho Kim</title>
+      <link>/author/yongho-kim/</link>
+    </image>
+    
+    <item>
+      <title>Deep Polytopic Autoencoders for Low-dimensional Linear Parameter-varying Approximations and Nonlinear Feedback Design</title>
+      <link>/publication/hei-kw-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-kw-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polytopic Autoencoders with Smooth Clustering for Reduced-order Modelling of Flows</title>
+      <link>/publication/hei-k-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-k-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders, Clustering, and POD for Low-dimensional Parametrization of Navier-Stokes Equations</title>
+      <link>/publication/kim-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders and Clustering for Low-dimensional Parametrization of Incompressible Flows</title>
+      <link>/publication/hei-k-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-k-22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

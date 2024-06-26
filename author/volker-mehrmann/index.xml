@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volker Mehrmann | Jan Heiland</title>
+    <link>/author/volker-mehrmann/</link>
+      <atom:link href="/author/volker-mehrmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Volker Mehrmann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Volker Mehrmann</title>
+      <link>/author/volker-mehrmann/</link>
+    </image>
+    
+    <item>
+      <title>Distributed Control of Linearized Navier-Stokes Equations via Discretized Input/Output Maps</title>
+      <link>/publication/hei-m-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-m-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Discretization Framework for Input/Output Maps and its Application to Flow Control</title>
+      <link>/publication/hei-ms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-ms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Control of Drop Size Distributions in Stirred Liquid/Liquid Systems</title>
+      <link>/publication/hei-bwms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-bwms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Discretization of Input/Output Maps and Control of Partial Differential Equations</title>
+      <link>/publication/hei-ms-10-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-ms-10-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

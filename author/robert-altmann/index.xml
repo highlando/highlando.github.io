@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Altmann | Jan Heiland</title>
+    <link>/author/robert-altmann/</link>
+      <atom:link href="/author/robert-altmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Altmann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 16:10:00 +0200</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Robert Altmann</title>
+      <link>/author/robert-altmann/</link>
+    </image>
+    
+    <item>
+      <title>Talk: Stability Analysis of Time Stepping Schemes for Incompressible Flows from a DAE Perspective</title>
+      <link>/event/19-enumath-nse/</link>
+      <pubDate>Wed, 02 Oct 2019 16:10:00 +0200</pubDate>
+      <guid>/event/19-enumath-nse/</guid>
+      <description>&lt;p&gt;We consider the time discretization of the semi-discrete incompressible Navier-Stokes equations (NSE)&lt;/p&gt;
+&lt;p&gt;$
+\begin{aligned}
+\quad \quad \quad M \dot v(t) &amp;amp;= N(v(t)) + J^Tp(t) + f(t),
+\\\\
+0 &amp;amp;= Jv(t),
+\end{aligned}
+$&lt;/p&gt;
+&lt;p&gt;formulated in the velocity $v(t) \in \mathbb R^{n_v}$ and pressure $p(t) \in \mathbb R^{n_p}$, with $M\in \mathbb R^{n_v, n_v}$ being the mass matrix from the spatial discretization, $N\colon \mathbb R^{n_v} \to \mathbb R^{n_v}$ modelling the discretized convection and diffusion, and with $J\in \mathbb R^{n_p, n_v}$ and $J^T$ representing the discrete divergence and gradient operators.&lt;/p&gt;
+&lt;p&gt;It is commonly known that the semi-discrete incompressible Navier-Stokes equations can be classified as a differential-algebraic equation (DAE) of &lt;em&gt;differentiation index&lt;/em&gt; $\nu=2$ so that a straight-forward time discretization, e.g. by the &lt;em&gt;implicit-Euler&lt;/em&gt; method, will likely suffer from instabilities. To overcome these numerical difficulties, a large number of time stepping schemes, with &lt;em&gt;Chorin&lt;/em&gt;&amp;rsquo;s projection or the &lt;em&gt;SIMPLE&lt;/em&gt; scheme as notable examples, have been developed.&lt;/p&gt;
+&lt;p&gt;In this talk, we trace down and illustrate the instability that origins from the index-2 structure and show that commonly and succesfully applied time-stepping schemes correspond to a reformulation of the semi-discrete NSE as an equivalent system of index-1. Also we show how a finite-element discretization by &lt;em&gt;Taylor-Hood&lt;/em&gt; or &lt;em&gt;Crouzeix-Raviart&lt;/em&gt; schemes can be modified such that the resulting semi-discrete NSE already is of index-1 so that standard time-integration schemes lead to stable pressure approximations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Altmann, R. &amp;amp; Heiland, J.: &lt;em&gt;Finite Element Decomposition and Minimal Extension for Flow Equations&lt;/em&gt;, ESAIM: M2AN, &lt;strong&gt;2015&lt;/strong&gt;, 49, 1489&amp;ndash;1509&lt;/p&gt;
+&lt;p&gt;Altmann, R. &amp;amp; Heiland, J.: &lt;em&gt;Continuous, Semi-discrete, and Fully Discretized Navier-Stokes Equations&lt;/em&gt;, DAE-Forum, Issue: &lt;em&gt;Applications of Differential-Algebraic Equations: Examples and Benchmarks&lt;/em&gt;, Springer, &lt;strong&gt;2018&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous, Semi-discrete, and Fully Discretized Navier-Stokes Equations</title>
+      <link>/publication/alt-h-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularization and Rothe Discretization of Semi-Explicit Operator DAEs</title>
+      <link>/publication/alt-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of multibody systems with servo constraints through optimal control</title>
+      <link>/publication/alt-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite Element Decomposition and Minimal Extension for Flow Equations</title>
+      <link>/publication/alt-h-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wie steuert man einen Kran?</title>
+      <link>/publication/alt-h-15-ppt-snapshot/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-15-ppt-snapshot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

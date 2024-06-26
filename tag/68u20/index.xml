@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>68U20 | Jan Heiland</title>
+    <link>/tag/68u20/</link>
+      <atom:link href="/tag/68u20/index.xml" rel="self" type="application/rss+xml" />
+    <description>68U20</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>68U20</title>
+      <link>/tag/68u20/</link>
+    </image>
+    
+    <item>
+      <title>Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients</title>
+      <link>/publication/beh-bh-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pawan Goyal | Jan Heiland</title>
+    <link>/author/pawan-goyal/</link>
+      <atom:link href="/author/pawan-goyal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pawan Goyal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Pawan Goyal</title>
+      <link>/author/pawan-goyal/</link>
+    </image>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
+      <link>/publication/ben-ghp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moment-Matching Based Model Reduction for Navier-Stokes Type Quadratic-Bilinear Descriptor Systems</title>
+      <link>/publication/ahm-bg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ahm-bg-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

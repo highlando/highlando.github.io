@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Jan Heiland</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Lag Synchronization of Cohen-Grossberg Neural Networks with Discrete and Distributed Delays on Time Scales</title>
+      <link>/publication/kum-hb-23-a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kum-hb-23-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Complexity Linear Parameter-Varying Approximations of Incompressible Navier-Stokes Equations for Truncated State-Dependent Riccati Feedback</title>
+      <link>/publication/hei-w-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-w-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projective lag quasi-synchronization of coupled systems with mixed delays and parameter mismatch: a unified theory</title>
+      <link>/publication/kum-hb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kum-hb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
+      <link>/publication/hei-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders and Clustering for Low-dimensional Parametrization of Incompressible Flows</title>
+      <link>/publication/hei-k-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-k-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations</title>
+      <link>/publication/hei-bb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-bb-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Linear Time-Invariant Systems with Dynamic Mode Decomposition</title>
+      <link>/publication/hei-u-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-u-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
+      <link>/publication/ben-ghp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional H∞-controllers</title>
+      <link>/publication/ben-hw-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical System Theory Revisited for Turnpike in Standard State Space Systems and Impulse Controllable Descriptor Systems</title>
+      <link>/publication/hei-z-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-z-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galerkin trial spaces and Davison-Maki methods for the numerical solution of differential Riccati equations</title>
+      <link>/publication/beh-bh-21-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
+      <link>/publication/beh-bh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical benchmarking of fluid-rigid body interactions</title>
+      <link>/publication/wah-rlhm-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wah-rlhm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution Formulas for Differential Sylvester and Lyapunov Equations</title>
+      <link>/publication/beh-bh-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Stability and Stabilization of Extended Linearizations via Continuous Updates of Riccati Based Feedback</title>
+      <link>/publication/ben-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Control of a Stefan Problem Fully Coupled with Navier-Stokes-Equations and Mesh Movement</title>
+      <link>/publication/bar-bhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bar-bhs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularization and Rothe Discretization of Semi-Explicit Operator DAEs</title>
+      <link>/publication/alt-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations</title>
+      <link>/publication/bau-bh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-bh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moment-Matching Based Model Reduction for Navier-Stokes Type Quadratic-Bilinear Descriptor Systems</title>
+      <link>/publication/ahm-bg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ahm-bg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of multibody systems with servo constraints through optimal control</title>
+      <link>/publication/alt-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Differential-Algebraic Riccati Equation for Applications in Flow Control</title>
+      <link>/publication/hei-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software</title>
+      <link>/publication/feh-hhs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/feh-hhs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite Element Decomposition and Minimal Extension for Flow Equations</title>
+      <link>/publication/alt-h-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent Dirichlet Conditions in Finite Element Discretizations</title>
+      <link>/publication/ben-h-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Control of Linearized Navier-Stokes Equations via Discretized Input/Output Maps</title>
+      <link>/publication/hei-m-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-m-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

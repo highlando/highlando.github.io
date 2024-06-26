@@ -1,0 +1,84 @@
+{
+  "show": {
+    "title": "Mathematik für Informatik",
+    "subtitle": "Gelesen aus der Ferne",
+    "poster": "/courses/ovgu-mathe-informatik/files/pcs/2-2-banner.png" 
+  },
+  "reference": {
+    "config": "https://freakshow.fm/?podlove_player4=1465"
+  },
+  "theme": {
+    "main": "#26475B"
+  },
+  "title": "Woche 2 Vorlesung 2 — Grenzwerte und Stetigkeit von Funktionen ",
+  "subtitle": "Grenzwert — Asymptotisches Verhalten — Stetigkeit — Mittelwertsatz",
+  "summary": "Kapitel 12 im Skript - erstes Drittel",
+  "publicationDate": "2020-05-05:00:00+00:00",
+  "poster": "/courses/ovgu-mathe-informatik/files/pcs/2-2-banner.png",
+  "duration": "00:09:40",
+  "audio": [
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/2-2.mp3",
+      "size": "10923407",
+      "title": "MPEG-3",
+      "mimeType": "audio/mp3"
+    },
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/2-2.ogg",
+      "size": "8556511",
+      "title": "Opus Audio (ogg)",
+      "mimeType": "audio/ogg"
+    }
+  ],
+    "chapters": [
+        {"start": "00:00:00.225", "title": "Intro"},
+        {"start": "00:00:42.002", "title": "Grenzwert einer Funktion"},
+        {"start": "00:01:10.923", "title": "Definition 12.15"},
+        {"start": "00:02:58.762", "title": "Beispiele"},
+        {"start": "00:03:57.052", "title": "Links/rechtsseitiger Grenzwert"},
+        {"start": "00:04:50.943", "title": "Rechnen mit den Grenzwerten"},
+        {"start": "00:05:11.008", "title": "Asymptotisches Verhalten von Funktionen"},
+        {"start": "00:05:39.092", "title": "Kleine Pause fuer Beispiele"},
+        {"start": "00:06:04.563", "title": "Stetigkeit von Funktionen"},
+        {"start": "00:06:50.453", "title": "epsilon-delta Definition der Stetigkeit"},
+        {"start": "00:07:25.655", "title": "Rechnen mit stetigen Funktionen"},
+        {"start": "00:07:50.464", "title": "Irgendwie sind alle beruehmten Funktionen stetig"},
+        {"start": "00:08:11.084", "title": "Mittelwertsatz und Weierstrass"},
+        {"start": "00:09:02.366", "title": "Abschluss"}
+    ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabFiles",
+    "tabAudio",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Jan Heiland",
+      "avatar": "/courses/ovgu-mathe-informatik/files/pcs/icke.jpg",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jan-heiland"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingjing Zhang | Jan Heiland</title>
+    <link>/author/jingjing-zhang/</link>
+      <atom:link href="/author/jingjing-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingjing Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Jingjing Zhang</title>
+      <link>/author/jingjing-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Frequency-dependent Switching Control for Disturbance Attenuation of Linear Systems</title>
+      <link>/publication/zha-hbd-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/zha-hbd-23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Heiland</title>
+    <link>/author/jan-heiland/</link>
+      <atom:link href="/author/jan-heiland/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Heiland</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 10:10:00 +0100</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Jan Heiland</title>
+      <link>/author/jan-heiland/</link>
+    </image>
+    
+    <item>
+      <title>Two-step MOR for H-infinity-robust nonlinear controller design</title>
+      <link>/event/24-gamm/</link>
+      <pubDate>Thu, 21 Mar 2024 10:10:00 +0100</pubDate>
+      <guid>/event/24-gamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Polytopic Autoencoders for Low-dimensional Linear Parameter-varying Approximations and Nonlinear Feedback Design</title>
+      <link>/publication/hei-kw-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-kw-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polytopic Autoencoders with Smooth Clustering for Reduced-order Modelling of Flows</title>
+      <link>/publication/hei-k-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-k-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Topics in Systems and Control</title>
+      <link>/event/23-atsc/</link>
+      <pubDate>Thu, 23 Nov 2023 11:10:34 +0100</pubDate>
+      <guid>/event/23-atsc/</guid>
+      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#advanced-topics-in-systems-and-control&#34;&gt;Advanced Topics in Systems and Control&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#schedule&#34;&gt;Schedule&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#nov-20--24----introductory-research-talks&#34;&gt;Nov 20&amp;ndash;24 &amp;ndash; Introductory Research Talks&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#nov-27--dec-01----learning-control-and-systems&#34;&gt;Nov 27&amp;ndash;Dec 01 &amp;ndash; Learning, Control and Systems&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#dec-04--08----edmd-and-port-hamiltonian-systems&#34;&gt;Dec 04&amp;ndash;08 &amp;ndash; (e)DMD and port-Hamiltonian Systems&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#dec-11--15----system-identification-model-reduction-data-driven-mpc&#34;&gt;Dec 11&amp;ndash;15 &amp;ndash; System Identification, Model Reduction, Data-driven MPC&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#dec-18--22----numerical-methods-in-linear-control-theory&#34;&gt;Dec 18&amp;ndash;22 &amp;ndash; Numerical Methods in Linear Control Theory&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#dec-25--dec-29----robust-and-nonlinear-control-with-linear-methods&#34;&gt;Dec 25&amp;ndash;Dec 29 &amp;ndash; Robust and Nonlinear Control with Linear Methods&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#speaker-information&#34;&gt;Speaker Information&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h1 id=&#34;advanced-topics-in-systems-and-control&#34;&gt;Advanced Topics in Systems and Control&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Location&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;online, hosted by &lt;a href=&#34;http://en.just.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Jiangsu University of Science and Technology&lt;/em&gt;&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dates&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;November/December 2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Times&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:00&amp;ndash;12:00 / 15:00&amp;ndash;19:00 (Berlin / Beijing time)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Organizer&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Jan Heiland (MPI Magdeburg, Germany), Pengfei Zhi (JSUST, Jiang Su, China)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Audience&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Open for everyone, designed for Master Students of &lt;em&gt;Automation&lt;/em&gt; and &lt;em&gt;Electrical Engineering&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Speaker&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Jan Heiland, Timm Faulwasser, Ion Victor Gosea, Matthias Voigt, Karl Worthmann, Enrique Zuazua&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Sounds interesting?&lt;/strong&gt;  Subscribe to our &lt;a href=&#34;https://www.listserv.dfn.de/sympa/info/winter23-advanced-control-lectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;✉ &lt;strong&gt;mailing list&lt;/strong&gt; ✉&lt;/a&gt; to get a weekly summary of the upcoming topics, to be informed about changes, and to get access links to supporting material&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zoom details&lt;/strong&gt;: Meeting ID: 673 6265 8571 &amp;ndash; Passcode: 055966&lt;/p&gt;
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+&lt;h2 id=&#34;nov-20--24----introductory-research-talks&#34;&gt;Nov 20&amp;ndash;24 &amp;ndash; Introductory Research Talks&lt;/h2&gt;
+&lt;p&gt;A session of talks that introduces the speakers, one of their research topics, and gives an outlook on their lectures.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;German Time&lt;/th&gt;
+&lt;th&gt;Chinese Time&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Thursday&lt;/strong&gt;, Nov 23&lt;/td&gt;
+&lt;td&gt;08:00 (CET)&lt;/td&gt;
+&lt;td&gt;15:00 (CST)&lt;/td&gt;
+&lt;td&gt;eDMD-based predictive control in the Koopman framework with guarantees&lt;/td&gt;
+&lt;td&gt;Karl Worthmann&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Thursday&lt;/strong&gt;, Nov 23&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;A Historical Introduction to Control and Machine Learning&lt;/td&gt;
+&lt;td&gt;Enrique Zuazua&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Thursday&lt;/strong&gt;, Nov 23&lt;/td&gt;
+&lt;td&gt;09:40 (CET)&lt;/td&gt;
+&lt;td&gt;16:40 (CST)&lt;/td&gt;
+&lt;td&gt;Optimization-Based Methods in Model Reduction and Control of Port-Hamiltonian Systems&lt;/td&gt;
+&lt;td&gt;Matthias Voigt&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Nov 24&lt;/td&gt;
+&lt;td&gt;08:00 (CET)&lt;/td&gt;
+&lt;td&gt;15:00 (CST)&lt;/td&gt;
+&lt;td&gt;LPV Approximations for Efficient Nonlinear Feedback Control of Flow Equations&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Nov 24&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Dissipativity, Optimal Control and MPC&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Timm Faulwasser&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Nov 24&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;Distributed optimization and control with ALADIN&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://faculty.sist.shanghaitech.edu.cn/faculty/boris/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boris Houska&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Nov 24&lt;/td&gt;
+&lt;td&gt;09:40 (CET)&lt;/td&gt;
+&lt;td&gt;16:40 (CST)&lt;/td&gt;
+&lt;td&gt;A novel data-driven reinterpretation of a classical model reduction method: quadrature-based balanced truncation&lt;/td&gt;
+&lt;td&gt;Ion Victor Gosea&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;nov-27--dec-01----learning-control-and-systems&#34;&gt;Nov 27&amp;ndash;Dec 01 &amp;ndash; Learning, Control and Systems&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;German Time&lt;/th&gt;
+&lt;th&gt;Chinese Time&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Nov 27&lt;/td&gt;
+&lt;td&gt;08:00 (CET)&lt;/td&gt;
+&lt;td&gt;15:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L1A&lt;/strong&gt;: Introduction to control of finite dimensional systems&lt;/td&gt;
+&lt;td&gt;Enrique Zuazua&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Nov 27&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L1B&lt;/strong&gt;: Supervised Learning by Control Methods 1&lt;/td&gt;
+&lt;td&gt;Enrique Zuazua&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Nov 27&lt;/td&gt;
+&lt;td&gt;09:40 (CET)&lt;/td&gt;
+&lt;td&gt;16:40 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L1C&lt;/strong&gt;: Supervised Learning by Control Methods 2&lt;/td&gt;
+&lt;td&gt;Enrique Zuazua&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 01&lt;/td&gt;
+&lt;td&gt;08:00 (CET)&lt;/td&gt;
+&lt;td&gt;15:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L2A&lt;/strong&gt;: Linear time-invariant (LTI) systems&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 01&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L2B&lt;/strong&gt;: Frequency domain representation of LTI systems&lt;/td&gt;
+&lt;td&gt;Ion Victor Gosea&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 01&lt;/td&gt;
+&lt;td&gt;09:40 (CET)&lt;/td&gt;
+&lt;td&gt;16:40 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L2C&lt;/strong&gt;: Frequency domain representation of nonlinear systems&lt;/td&gt;
+&lt;td&gt;Ion Victor Gosea&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 01&lt;/td&gt;
+&lt;td&gt;10:30 (CET)&lt;/td&gt;
+&lt;td&gt;17:30 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Research talk&lt;/strong&gt;: Operator Inference with Nonlinear State-space Decodings&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;dec-04--08----edmd-and-port-hamiltonian-systems&#34;&gt;Dec 04&amp;ndash;08 &amp;ndash; (e)DMD and port-Hamiltonian Systems&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;German Time&lt;/th&gt;
+&lt;th&gt;Chinese Time&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 04&lt;/td&gt;
+&lt;td&gt;08:30 (CET)&lt;/td&gt;
+&lt;td&gt;15:30 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L3A&lt;/strong&gt;: (e)DMD: introduction&lt;/td&gt;
+&lt;td&gt;Manuel Schaller&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 04&lt;/td&gt;
+&lt;td&gt;09:30 (CET)&lt;/td&gt;
+&lt;td&gt;16:30 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L3B&lt;/strong&gt;: eDMD with control&lt;/td&gt;
+&lt;td&gt;Karl Worthmann&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Tuesday&lt;/strong&gt;, Dec 05&lt;/td&gt;
+&lt;td&gt;10:30 (CET)&lt;/td&gt;
+&lt;td&gt;17:30 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L3C&lt;/strong&gt;: kernel-based eDMD&lt;/td&gt;
+&lt;td&gt;Friedrich Philipp&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Wednesday&lt;/strong&gt;, Dec 06&lt;/td&gt;
+&lt;td&gt;07:30 (CET)&lt;/td&gt;
+&lt;td&gt;14:30 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L4A&lt;/strong&gt;: Introductory lecture: port-Hamiltonian systems?&lt;/td&gt;
+&lt;td&gt;Manuel Schaller&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Wednesday&lt;/strong&gt;, Dec 06&lt;/td&gt;
+&lt;td&gt;08:30 (CET)&lt;/td&gt;
+&lt;td&gt;15:30 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Research talk&lt;/strong&gt;: nonlinear MPC and the mobile robot: Homogeneity is the key.&lt;/td&gt;
+&lt;td&gt;Karl Worthmann&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 08&lt;/td&gt;
+&lt;td&gt;09:00 (CET)&lt;/td&gt;
+&lt;td&gt;16:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L4B&lt;/strong&gt;: (optimal) control of pH systems&lt;/td&gt;
+&lt;td&gt;Friedrich Philipp&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 08&lt;/td&gt;
+&lt;td&gt;10:00 (CET)&lt;/td&gt;
+&lt;td&gt;17:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L4C&lt;/strong&gt;: Adaptive building control&lt;/td&gt;
+&lt;td&gt;Manuel Schaller&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;dec-11--15----system-identification-model-reduction-data-driven-mpc&#34;&gt;Dec 11&amp;ndash;15 &amp;ndash; System Identification, Model Reduction, Data-driven MPC&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;German Time&lt;/th&gt;
+&lt;th&gt;Chinese Time&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 11&lt;/td&gt;
+&lt;td&gt;08:00 (CET)&lt;/td&gt;
+&lt;td&gt;15:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L5A&lt;/strong&gt;: Introductory Lecture: why is complexity reduction important? Identification vs reduction of dynamical systems - an overview.&lt;/td&gt;
+&lt;td&gt;Ion Victor Gosea&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 11&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L5B&lt;/strong&gt; Methods in the time domain: SI + RoM&lt;/td&gt;
+&lt;td&gt;Ion Victor Gosea&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 11&lt;/td&gt;
+&lt;td&gt;09:40 (CET)&lt;/td&gt;
+&lt;td&gt;16:40 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L5C&lt;/strong&gt; Methods in the frequency domain: SI + RoM&lt;/td&gt;
+&lt;td&gt;Ion Victor Gosea&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 15&lt;/td&gt;
+&lt;td&gt;08:00 (CET)&lt;/td&gt;
+&lt;td&gt;15:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L6A&lt;/strong&gt;: The fundamental lemma and deterministic data-driven MPC&lt;/td&gt;
+&lt;td&gt;Philipp Schmitz&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 15&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L6B&lt;/strong&gt;: The stochastic extension to the fundamental lemma&lt;/td&gt;
+&lt;td&gt;Timm Faulwasser&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 15&lt;/td&gt;
+&lt;td&gt;09:40 (CET)&lt;/td&gt;
+&lt;td&gt;16:40 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L6C&lt;/strong&gt;: Stochastic data-driven MPC&lt;/td&gt;
+&lt;td&gt;Timm Faulwasser&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;dec-18--22----numerical-methods-in-linear-control-theory&#34;&gt;Dec 18&amp;ndash;22 &amp;ndash; Numerical Methods in Linear Control Theory&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;German Time&lt;/th&gt;
+&lt;th&gt;Chinese Time&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 18&lt;/td&gt;
+&lt;td&gt;09:00 (CET)&lt;/td&gt;
+&lt;td&gt;16:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L7A&lt;/strong&gt;: The ADI Method for Large-Scale Lyapunov Equations (Idea/Derivation)&lt;/td&gt;
+&lt;td&gt;Matthias Voigt&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 18&lt;/td&gt;
+&lt;td&gt;09:45 (CET)&lt;/td&gt;
+&lt;td&gt;16:45 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L7B&lt;/strong&gt;: The ADI Method for Large-Scale Lyapunov Equations (Low-Rank ADI)&lt;/td&gt;
+&lt;td&gt;Matthias Voigt&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 18&lt;/td&gt;
+&lt;td&gt;11:00 (CET)&lt;/td&gt;
+&lt;td&gt;18:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L7C&lt;/strong&gt;: The ADI Method for Large-Scale Lyapunov Equations (Real Version and Application to BT)&lt;/td&gt;
+&lt;td&gt;Matthias Voigt&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 22&lt;/td&gt;
+&lt;td&gt;08:00 (CET)&lt;/td&gt;
+&lt;td&gt;15:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L8A&lt;/strong&gt;: Linear time-invariant Systems&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 22&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L8B&lt;/strong&gt;: Balanced Realizations and Truncations&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 22&lt;/td&gt;
+&lt;td&gt;09:40 (CET)&lt;/td&gt;
+&lt;td&gt;16:40 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L8C&lt;/strong&gt;: LQG Balanced Truncation&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 22&lt;/td&gt;
+&lt;td&gt;10:30 (CET)&lt;/td&gt;
+&lt;td&gt;17:30 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Informal Talk&lt;/strong&gt;: PhD and Master Opportunities in Germany&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cloud.ovgu.de/s/ePzqyWfBfRFbf8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📒&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Links for &lt;em&gt;Study Opportunities in Germany&lt;/em&gt;: &lt;a href=&#34;https://www.ovgu.de/unimagdeburg/en/Study/Study&amp;#43;Programmes/Study&amp;#43;Programmes&amp;#43;in&amp;#43;English-p-48822.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;English programmes at OVGU&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://www.uni-assist.de/en/about-us/profile/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official agency for applying at German universities&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://www.mathcore.ovgu.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our math graduate school&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;dec-25--dec-29----robust-and-nonlinear-control-with-linear-methods&#34;&gt;Dec 25&amp;ndash;Dec 29 &amp;ndash; Robust and Nonlinear Control with Linear Methods&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;German Time&lt;/th&gt;
+&lt;th&gt;Chinese Time&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 25&lt;/td&gt;
+&lt;td&gt;08:00 (CET)&lt;/td&gt;
+&lt;td&gt;15:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L9A&lt;/strong&gt;: Linear-Quadratic Regulator and Riccati&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ovgu.zoom.us/j/67362658571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 25&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L9B&lt;/strong&gt;: $H_\infty$-robust Control&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ovgu.zoom.us/j/67362658571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;, Dec 25&lt;/td&gt;
+&lt;td&gt;09:40 (CET)&lt;/td&gt;
+&lt;td&gt;16:40 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L9C&lt;/strong&gt;: Numerical Solution of Large-scale $H_\infty$ Riccati Equations&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ovgu.zoom.us/j/67362658571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 29&lt;/td&gt;
+&lt;td&gt;08:00 (CET)&lt;/td&gt;
+&lt;td&gt;15:00 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L10A&lt;/strong&gt;: State-dependent Riccati Equations&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ovgu.zoom.us/j/67362658571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 29&lt;/td&gt;
+&lt;td&gt;08:50 (CET)&lt;/td&gt;
+&lt;td&gt;15:50 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L10B&lt;/strong&gt;: Linear Parameter-varying Systems&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ovgu.zoom.us/j/67362658571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;, Dec 29&lt;/td&gt;
+&lt;td&gt;09:40 (CET)&lt;/td&gt;
+&lt;td&gt;16:40 (CST)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;L10C&lt;/strong&gt;: Applications in Flow Control&lt;/td&gt;
+&lt;td&gt;Jan Heiland&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ovgu.zoom.us/j/67362658571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Lectures and talks (2 Lecture Units)&lt;/p&gt;
+&lt;h1 id=&#34;speaker-information&#34;&gt;Speaker Information&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Institution&lt;/th&gt;
+&lt;th&gt;Lectures&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://dcn.nat.fau.eu/zuazua/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enrique Zuazua&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.nat.fau.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAU Erlangen-Nuremberg, Erlangen, Germany&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;L1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.janheiland.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jan Heiland&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;L2, L8, L9, L10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ion Victor Gosea&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;L2, L5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.tu-ilmenau.de/en/university/institutes-and-groups/institute-of-mathematics/profil/optimization-based-control-group/team/karl-worthmann&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Karl Worthmann&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.tu-ilmenau.de/en/university/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TU Ilmenau, Ilmenau, Germany&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;L3, L4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://fernuni.ch/profil/matthias-voigt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthias Voigt&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://fernuni.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FernUni Schweiz, Switzerland&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;L7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://ie3.etit.tu-dortmund.de/institute/team/tf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Timm Faulwasser&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.tu-dortmund.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TU Dortmund, Dortmund&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;L6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The DEAL is here - What now?</title>
+      <link>/event/23-deal/</link>
+      <pubDate>Mon, 23 Oct 2023 14:00:00 +0200</pubDate>
+      <guid>/event/23-deal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-dimensional linear parameter varying system approximations for nonlinear controller design</title>
+      <link>/event/23-blacksburg/</link>
+      <pubDate>Thu, 25 May 2023 11:00:00 +0800</pubDate>
+      <guid>/event/23-blacksburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Methods in Control and Optimization of Dynamical Systems</title>
+      <link>/event/23-bimos/</link>
+      <pubDate>Mon, 16 Jan 2023 14:00:00 +0100</pubDate>
+      <guid>/event/23-bimos/</guid>
+      <description>&lt;p&gt;After an introduction into the basic notions and principles of dynamical systems and control, I will address the challenges that come with high-dimensional (or even infinite-dimensional) nonlinear systems and show some recent theoretical and numerical approaches to their solution. The findings and concepts are illustrated by applications to the Navier-Stokes model equations and to a real-world triple pendulum.&lt;/p&gt;
+&lt;p&gt;If time suffices, I will address data-driven approaches that use data and possibly techniques from Machine Learning to enhance the models in terms of accuracy or faster evaluation times.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders, Clustering, and POD for Low-dimensional Parametrization of Navier-Stokes Equations</title>
+      <link>/publication/kim-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Lag Synchronization of Cohen-Grossberg Neural Networks with Discrete and Distributed Delays on Time Scales</title>
+      <link>/publication/kum-hb-23-a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kum-hb-23-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-dependent Switching Control for Disturbance Attenuation of Linear Systems</title>
+      <link>/publication/zha-hbd-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/zha-hbd-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit and explicit matching of non-proper transfer functions in the Loewner framework</title>
+      <link>/publication/gos-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/gos-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Complexity Linear Parameter-Varying Approximations of Incompressible Navier-Stokes Equations for Truncated State-Dependent Riccati Feedback</title>
+      <link>/publication/hei-w-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-w-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-order Linear Parameter Varying Approximations for Nonlinear Controller Design for Flows</title>
+      <link>/publication/das-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/das-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaRDIFlow: A Workflow Framework for Documentation and Integration of FAIR Computational Experiments</title>
+      <link>/publication/vel-hb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/vel-hb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projective lag quasi-synchronization of coupled systems with mixed delays and parameter mismatch: a unified theory</title>
+      <link>/publication/kum-hb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kum-hb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Data-driven identification of encoding on quadratic-manifolds for high-fidelity dynamical models</title>
+      <link>/event/22-eccomas/</link>
+      <pubDate>Tue, 07 Jun 2022 16:30:00 +0200</pubDate>
+      <guid>/event/22-eccomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low-rank solution method for Riccati equations with indefinite quadratic terms</title>
+      <link>/publication/ben-hw-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quadratic decoder approach to nonintrusive reduced-order modeling of nonlinear dynamical systems</title>
+      <link>/publication/ben-ghp-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems</title>
+      <link>/publication/hei-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoders and Clustering for Low-dimensional Parametrization of Incompressible Flows</title>
+      <link>/publication/hei-k-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-k-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks for Very Low-Dimensional LPV Approximations of Incompressible Navier-Stokes Equations</title>
+      <link>/publication/hei-bb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-bb-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Linear Time-Invariant Systems with Dynamic Mode Decomposition</title>
+      <link>/publication/hei-u-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-u-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Inference and Physics-Informed Learning of Low-Dimensional Models for Incompressible Flows</title>
+      <link>/publication/ben-ghp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-ghp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust output-feedback stabilization for incompressible flows using low-dimensional H∞-controllers</title>
+      <link>/publication/ben-hw-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearization errors as smooth perturbations of coprime factors in linearized Navier-Stokes equations</title>
+      <link>/event/21-dmv-oemg/</link>
+      <pubDate>Thu, 30 Sep 2021 15:00:00 +0200</pubDate>
+      <guid>/event/21-dmv-oemg/</guid>
+      <description>&lt;p&gt;Also see the paper: 
+
+
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Convolutional autoencoders for low-dimensional parameterizations of Navier-Stokes flow</title>
+      <link>/event/21-ifaccp-nse-nn-ldlpv/</link>
+      <pubDate>Thu, 08 Jul 2021 14:30:00 +0200</pubDate>
+      <guid>/event/21-ifaccp-nse-nn-ldlpv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor-Galerkin POD for Efficient Uncertainty Quantification in PDEs with Multivariate Random Parameters</title>
+      <link>/event/21-gpuq-gamm/</link>
+      <pubDate>Wed, 17 Mar 2021 14:00:00 +0100</pubDate>
+      <guid>/event/21-gpuq-gamm/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The statistically sound treatment of modelled uncertainties in simulations comes with significant additional computational costs. Since a deterministic model can already be arbitrarily complex, running statistics for general problems may soon become infeasible unless some kind of model reduction is involved.&lt;/p&gt;
+&lt;p&gt;In this talk we present a multidimensional Galerkin Proper Orthogonal Decomposition (Galerkin POD)
+that simultaneously reduces the physical dimensions of the model and the dimensions related to
+the uncertainties.&lt;/p&gt;
+&lt;p&gt;Using basic tensor calculus we extend our recent work of space-time Galerkin POD [1] to arbitrary dimensions and apply it to PDEs with multivariate uncertain. By means of a numerical example we illustrate the procedure and how it outperforms POD based on random snapshots.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] Baumann, M.; Benner, P. &amp;amp; Heiland, J. Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations SIAM J. Sci. Comput., 2018, 40, A1611-A1641&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD for UQ of PDEs with Random Parameters</title>
+      <link>/event/21-gpuq-csefa/</link>
+      <pubDate>Fri, 29 Jan 2021 13:10:00 +0100</pubDate>
+      <guid>/event/21-gpuq-csefa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical System Theory Revisited for Turnpike in Standard State Space Systems and Impulse Controllable Descriptor Systems</title>
+      <link>/publication/hei-z-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-z-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galerkin trial spaces and Davison-Maki methods for the numerical solution of differential Riccati equations</title>
+      <link>/publication/beh-bh-21-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant Galerkin Ansatz Spaces and Davison-Maki Methods for the Numerical Solution of Differential Riccati Equations</title>
+      <link>/publication/beh-bh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of a Triple Pendulum in Theory and Practice</title>
+      <link>/event/20-pendulum-musen/</link>
+      <pubDate>Thu, 08 Oct 2020 16:45:00 +0200</pubDate>
+      <guid>/event/20-pendulum-musen/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The stabilization of a simple pendulum in the upright equilibrium is a common control task and can be realized with basic algorithms and basic hardware like Lego Mindstorm. The double pendulum is a popular example for a chaotic system which means that the influence of small perturbations leads to unpredictable behavior. Still, linear feedback controllers that counteract perturbations in real time are capable to stabilize equilibria of a double pendulum as well as trajectories. For the control of a triple pendulum, the same linear theory applies. The third segment, however, adds additional technical difficulties that need to be tackled with powerful hardware.&lt;/p&gt;
+&lt;p&gt;In this talk, I will explain the principles of a linearization based 2-degrees of freedom controller design which is the combination of a feedforward control that prescribes a target trajectory and a feedback loop for stabilization of the system. For the nonlinear mathematical model of a triple pendulum, already the computation of the target trajectory and the feedforward control is a challenge. Further, I will discuss details of the implementation and practical problems that come with a physical setup.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The DEAL - What is up and what does it mean</title>
+      <link>/event/20-deal/</link>
+      <pubDate>Wed, 23 Sep 2020 14:00:00 +0200</pubDate>
+      <guid>/event/20-deal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical modeling of infectious disease</title>
+      <link>/event/20-mathcore-covid/</link>
+      <pubDate>Thu, 02 Jul 2020 11:00:00 +0100</pubDate>
+      <guid>/event/20-mathcore-covid/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Within the last couple of months, the COVID-19 epidemic has determined our
+public and private life with travel restrictions, lockdown, social distancing,
+working from home, hygiene rules etc. The daily news informed about reproduction
+rates and the numbers of current confirmed COVID-19 cases. The media prominently
+advertised the strategy &lt;em&gt;stay at home&lt;/em&gt; in order to &lt;em&gt;flatten the curve&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In this joint talk, we present two mathematical modeling strategies for
+infectious disease. In the first part, we consider a classical compartment
+approach which splits the population into different groups, for example
+&lt;em&gt;Susceptible&lt;/em&gt;, &lt;em&gt;Infected&lt;/em&gt;, &lt;em&gt;Recovered&lt;/em&gt; (SIR model). The evolution of the numbers
+in each compartment can be described mathematically in form of a system of
+coupled ordinary differential equations. The transition rates between the
+different compartments (e.g. infection rate, recovery rate) can be adjusted
+through available data. For the modeling of the COVID-19 epidemic in Italy and
+Germany, the SIDHARTE version of a compartment model has been developed&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; in
+order to simulate and predict the spread of the epidemic and to model possible
+countermeasures.&lt;/p&gt;
+&lt;p&gt;In the second part of the talk, the spreading of the disease on a graph
+representing a smaller population sample is presented. In this model the graph
+represents a hospital or other institution in which a COVID-19 outbreak could be
+harmful. In this model we are particularly interested in finding a suitable test
+strategy, which is one way to apply control to the system. In general is the
+question of the right control mechanisms to &lt;em&gt;flatten the curve&lt;/em&gt; or slow the
+spread of virus still an open one.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;G. Giordano, F. Blanchini, R. Bruno, P. Colaneri, A. Di Filippo, A. Di Matteo, M. Colaneri: Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy. Nat. Med. (2020)&amp;quot;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-Based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>/event/20-ecc-hinfric/</link>
+      <pubDate>Wed, 13 May 2020 15:00:00 +0300</pubDate>
+      <guid>/event/20-ecc-hinfric/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Riccati-based approach to robust control is completely understood in theory
+since long but seldom used for large-scale systems in practice. Only recently,
+we have transferred iterative algorithms that allow the computation of solutions
+to LQR Riccati equations in the large-scale setting to the indefinite Riccati
+equations that appear in robust control. For descriptor systems, the relevant
+Riccati equations are nonsymmetric and, for large-scale systems, there is no
+established algorithm that can handle these even in the LQR case.&lt;/p&gt;
+&lt;p&gt;In this paper, we show how the general theory for descriptor systems with
+index-1 pencil coincides with the theory for standard linear time invariant case
+with feedthrough terms. This provides an algorithm to characterize and to
+compute the solution to the generalized indefinite Riccati equations via
+standard Riccati equations. In view of feasibility for large-scale descriptor
+systems, we illustrate how to arrive at the equivalent standard Riccati-equation
+without resorting to the canonical form used in the derivation of the
+theoretical results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turnpike and Linear Systems Theory</title>
+      <link>/event/20-turnpike-dae/</link>
+      <pubDate>Tue, 07 Apr 2020 14:00:00 +0200</pubDate>
+      <guid>/event/20-turnpike-dae/</guid>
+      <description>&lt;h1 id=&#34;turnpike-and-linear-systems-theory&#34;&gt;Turnpike and Linear Systems Theory&lt;/h1&gt;
+&lt;h2 id=&#34;old-formulas-and-new-results&#34;&gt;Old Formulas and New Results&lt;/h2&gt;
+&lt;p&gt;It is often observed, that the solution to an optimal control problem on a
+finite but large time horizon stays close to an associated steady state optimal
+solution most of the time. This phenomenon is called &lt;em&gt;turnpike&lt;/em&gt; property. It has
+been addressed in the research of economics since the 60s and has become a
+popular topic in systems and control in the last 20 years.&lt;/p&gt;
+&lt;p&gt;The turnpike property is intimately related to the exponential decay of the
+solution to a differential Riccati equation towards the stabilizing solution of
+the associated algebraic Riccati equation (ARE).&lt;/p&gt;
+&lt;p&gt;In this talk, I will show how the basic result on turnpike (namely that the linear quadratic regulator (LQR) problem enjoys the
+turnpike property) follows from classical system theory results by Callier,
+Willems, and Winkin&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. With these results, we can also directly address borderline
+cases like that of undetectable systems. By means of an explicit formula for the
+state transition matrix of the forward and backward closed loop system, we extend
+the classical results to the affine case, i.e., the case with nonzero control
+targets.&lt;/p&gt;
+&lt;p&gt;In the second part of the talk, we discuss the turnpike property of LQR
+problems with DAE constraints. Under standard assumptions, we establish existence
+of solutions to the generalized (nonsymmetric) differential Riccati equation
+and conditions for their convergence to a solution of the generalized ARE. With
+these results, we can characterize the turnpike property for DAE control
+problems.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Callier, F. M.; Winkin, J. &amp;amp; Willems, J. L. &lt;em&gt;Convergence of the
+time-invariant Riccati differential equation and LQ-problem: mechanisms of
+attraction&lt;/em&gt;. International Journal of Control, Taylor &amp;amp; Francis, 1994, 59,
+983-1000.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trends in Covid-19 Spread</title>
+      <link>/post/covid-19-trends/</link>
+      <pubDate>Sun, 22 Mar 2020 13:22:04 +0100</pubDate>
+      <guid>/post/covid-19-trends/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+&lt;p&gt;The John Hopkins University (JHU) collects data on how the COVID-19 virus
+spreads over the world and makes it &lt;a href=&#34;https://github.com/CSSEGISandData/COVID-19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available on
+github&lt;/a&gt;. In this analysis, we take
+the data and extract the numbers that describe how the growth of casualties
+develops. Looking at the trends in these numbers, one may deduce how fast or how
+slow the virus is spreading and also compare how the situation evolves in different
+countries.&lt;/p&gt;
+&lt;p&gt;Feel free to use the &lt;a href=&#34;https://github.com/highlando/covid-over-any-time-soon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;python&lt;/em&gt;
+implementation&lt;/a&gt; that
+produces the presented plots and that can be modified to show the results for
+any country that is in the JHU data base.&lt;/p&gt;
+&lt;p&gt;This post bases on joint efforts and discussions of the &lt;a href=&#34;https://www.mpi-magdeburg.mpg.de/csc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSC
+group&lt;/a&gt; at the MPI Magdeburg.&lt;/p&gt;
+&lt;p&gt;The numbers in the presented plots are updated automatically&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#why-this-analysis&#34;&gt;Why This Analysis&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#the-analysis&#34;&gt;The Analysis&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#illustrative-examples&#34;&gt;Illustrative Examples&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#general-explanations-of-the-numbers&#34;&gt;General Explanations of the Numbers&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#what-it-would-look-like-and-what-it-should-look-like&#34;&gt;What It Would Look Like and What It Should Look Like&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#the-actual-numbers&#34;&gt;The Actual Numbers&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-last-100-days&#34;&gt;The last 100 days&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-last-30-days&#34;&gt;The last 30 days&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#notes-and-acknowledgements&#34;&gt;Notes and Acknowledgements&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+&lt;h1 id=&#34;why-this-analysis&#34;&gt;Why This Analysis&lt;/h1&gt;
+&lt;p&gt;If one looks at the actual numbers generated by an exponential growth, the
+overall growth is so strong, that one barely sees changes in the dynamics. If
+one looks at the numbers in log scale, the data becomes more handy. In log scale
+an exponential growth looks like a straight line and the slope of the line
+indicates how fast the exponential growth is.&lt;/p&gt;
+&lt;p&gt;To see whether the exponential growth changes its dynamics, one may check
+whether the line in the logarithmic plot changes its slope (&lt;em&gt;hopefully it gets
+less steep&lt;/em&gt;). That&amp;rsquo;s why we plot the slope of the logarithmic line that connects
+the numbers of two consecutive days. Since the data is wiggly, we also plot
+averages of the slopes over 2 or 5 days to better spot the trends.&lt;/p&gt;
+&lt;p&gt;This post was inspired by an illustration that was discussed on twitter&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; in the
+last days:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-lockdowns-and-the-numbers-of-deaths-in-italy-and-hubei&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Lockdowns and the numbers of deaths in Italy and Hubei&#34; srcset=&#34;
+               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_d9b7f032e6efc2492ce0ad918d155754.png 400w,
+               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_6b8192c3bb0ad53419c2765b41211315.png 760w,
+               /post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/ricci-tersenghi_hu50491ebe4094ab6d991949039f1555a3_74824_d9b7f032e6efc2492ce0ad918d155754.png&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Lockdowns and the numbers of deaths in Italy and Hubei
+    &lt;/figcaption&gt;&lt;/figure&gt;
+It shows how, seemingly, the exponential growth in casualties did decrease some
+days after lockdowns have been implemented. In this analysis, we try to
+automatically detect such changes in the growth for a number of countries and
+represent it in an accessible form that allows easy comparisons.&lt;/p&gt;
+&lt;h1 id=&#34;the-analysis&#34;&gt;The Analysis&lt;/h1&gt;
+&lt;p&gt;We examine the (logarithmic) slope of the curves of the accumulated cases
+per day.  That is for day &lt;code&gt;d&lt;/code&gt; and the day &lt;code&gt;d-1&lt;/code&gt; before that day, we look at &lt;code&gt;log2(x[d]) - log2(x[d-1])&lt;/code&gt;, where &lt;code&gt;x&lt;/code&gt; holds the number of accumulated deaths for every day
+and where &lt;code&gt;log2&lt;/code&gt; is a function that computes the logarithm of a number with
+respect to the basis&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; &lt;code&gt;2&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The resulting slope is exactly the daily increase in the number of cases in
+relation to the overall number of cases. As this is easier to interprete,
+we translate the slopes into the daily increase in percent.&lt;/p&gt;
+&lt;h2 id=&#34;illustrative-examples&#34;&gt;Illustrative Examples&lt;/h2&gt;
+&lt;p&gt;To make sense of the numbers, we start with some example scenarios. In the plot
+below, we have plotted the values for some &lt;em&gt;fictitious&lt;/em&gt; growth scenarios.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An exponential growth &amp;ndash; every day &lt;code&gt;d&lt;/code&gt; the number of additional cases is
+&lt;code&gt;1.1**d&lt;/code&gt; (&lt;em&gt;speak: &lt;code&gt;1.1&lt;/code&gt; to the power of &lt;code&gt;d&lt;/code&gt; and think of a daily increase by
+10%&lt;/em&gt;). This scenario leads to a constant value in the plots of around &lt;code&gt;0.14&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A constant growth &amp;ndash; every day another &lt;code&gt;10&lt;/code&gt; cases are added. This is
+like the number of daily deaths due to traffic incidents in Germany&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; in 2010.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A growth that decreases exponentially &amp;ndash; every day the number of additional
+cases gets smaller exponentially.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-daily-increase-of-the-accumulated-cases-for-the-example-scenarios&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The daily increase of the accumulated cases for the example scenarios&#34; srcset=&#34;
+               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_f880cc6d93844902c6783acbb82d62e7.png 400w,
+               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_5330981f597699f0b782d622def731b7.png 760w,
+               /post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-examples_hu3b85beef739f70d85fd410e830978826_54897_f880cc6d93844902c6783acbb82d62e7.png&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The daily increase of the accumulated cases for the example scenarios
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;general-explanations-of-the-numbers&#34;&gt;General Explanations of the Numbers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;constant&lt;/strong&gt; value means that the number of deaths grows exponentially.
+&lt;ul&gt;
+&lt;li&gt;If this constant is &lt;strong&gt;10&lt;/strong&gt;[%], this means that the numbers of cases
+&lt;strong&gt;doubles&lt;/strong&gt; every week.&lt;/li&gt;
+&lt;li&gt;A value of about &lt;strong&gt;7&lt;/strong&gt;[%], means a doubling every 10 days.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;decreasing&lt;/strong&gt; curve indicates that the exponential growth of
+infected people is stalled or reversed.&lt;/li&gt;
+&lt;li&gt;If the value approaches &lt;strong&gt;0&lt;/strong&gt;, this indicates that the virus is contained.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-it-would-look-like-and-what-it-should-look-like&#34;&gt;What It Would Look Like and What It Should Look Like&lt;/h2&gt;
+&lt;p&gt;To have a comparison of what an uncontrolled spread and what a well controlled
+spread would look like, we ran two simulations in a covid simulator&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A scenario for Germany in which no interventions are taken.&lt;/li&gt;
+&lt;li&gt;A scenario for which we defined interventions such that the number of
+hospitalized patients that require intensive care (ICU) was always below
+45000.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-daily-increase-of-the-accumulated-casualties-and-the-numbers-of-people-in-need-for-intensive-care-due-to-an-infection-by-covid-19-for-the-simulated-scenarios-the-kink-in-the-red-curve-is-due-to-the-stop-of-some-interventions-after-205-days&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days.&#34; srcset=&#34;
+               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_1dbb6b9e3d856e8028af20ea833ef884.png 400w,
+               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_4e46bd623127c236d60af911288233e8.png 760w,
+               /post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-icus-simulation_hu8de0eae79c6b5d6a39b591b3d8a520d4_118942_1dbb6b9e3d856e8028af20ea833ef884.png&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;In the uncontrolled case, exponential growth is detected with a rate of
+15[%] of daily increase. After some time, when most people have been infected the, growth decreases
+down to zero.&lt;/p&gt;
+&lt;p&gt;In the controlled scenario, the rate is brought down in the initial phase. Then,
+exponential growth happens at a lower rate (in the plot the value is about 5[%])
+though for a longer time before it fades out.&lt;/p&gt;
+&lt;p&gt;To relate the slopes to the actual cases, in a second plot, we display the
+corresponding numbers of people that will need intensive care in a hospital. In
+our model, we assumed that 1.15% of the infected people will have to be treated
+in an intensive care unit.&lt;/p&gt;
+&lt;h1 id=&#34;the-actual-numbers&#34;&gt;The Actual Numbers&lt;/h1&gt;
+&lt;p&gt;We use the JHU for the last 100 days and plot the slopes for the last 90 days.
+The moving horizon of 100 days makes the changes of the last 3 months better visible.
+By plotting only 90 days, we omit a part of the wiggly behavior in the start of
+the data (which however is not relevant for the main part).&lt;/p&gt;
+&lt;h2 id=&#34;the-last-100-days&#34;&gt;The last 100 days&lt;/h2&gt;
+&lt;p&gt;See the &lt;a href=&#34;slopes-dsifc.pdf&#34;&gt;pdf file&lt;/a&gt; for more countries and a better resolution
+of the plots.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-daily-increase-of-the-accumulated-cases-of-the-last-100-days-for-a-number-of-countries-the-colored-background-marks-the-days-where-the-number-of-deaths-was-below-100-300-900-2700-8100-24300--respectively-the-total-number-is-the-number-of-deaths-in-the-last-100-days-the-first-6-countries-are-always-shown-the-other-2-countries-change-occasionally-see-the-pdfslopes-dsifcpdf-for-all-countries&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries.&#34; srcset=&#34;
+               /post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_462b8ff03a40580ea06578686bf6a782.png 400w,
+               /post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_d151896bc797bc808fafef18eb81e8e8.png 760w,
+               /post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/slopes-dsifc_huec5b45d5e7a228d1039c3476074f8cae_355676_462b8ff03a40580ea06578686bf6a782.png&#34;
+               width=&#34;760&#34;
+               height=&#34;608&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, &amp;hellip;, respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the &lt;a href=&#34;slopes-dsifc.pdf&#34;&gt;pdf&lt;/a&gt; for all countries.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- ## Explanations of the Data Representation
+
+Because of natural fluctuations and, maybe, because of varying delays in the data
+transmission to JHU, the data does not describe a nice, smooth curve.
+Accordingly, the computed slopes can vary a lot, what leads to the point clouds
+like in the plot for France 🇫🇷. The smoothing effect of the 2 days and 5 days
+average makes the corresponding data points look smoother. There are a few
+points that lie outside the range of the plots. However, we do not adjust the
+plots to fit all outliers, since then the interesting parts of the curve will be
+less well resolved. On the other hand, the plot range of China 🇨🇳 is
+adjusted to better resolve the small numbers. --&gt;
+&lt;!--
+## Some Interpretation of the JHU Data
+
+As of today, one may say that:
+
+ * In all European countries, the spread of the virus has been slowed down to
+   rates well below 0.05. 
+ * The curves look all similar, still the overall numbers differ.
+ * An indicator for high numbers in casualties are high rates in the phase after
+   300 deaths; see *Italy* 🇮🇹, *Spain* 🇪🇸, *France* 🇫🇷, and the US.
+ * In *Germany* 🇩🇪, in this phase, the rates were lower than in the countries
+   mentioned above.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The plots are updated every day.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+## Other Things that can be Seen
+
+ * The curves seem to have similar phases. A phase of exponential growth
+   followed by a decrease. 
+ * The curves differ in the length of the phases (France seems to have a long
+   phase of exponential growth if compared to Spain) 
+ * And the starting points are different which gives a hint on when the outbreak
+   became visible in the different countries.
+--&gt;
+&lt;h2 id=&#34;the-last-30-days&#34;&gt;The last 30 days&lt;/h2&gt;
+&lt;p&gt;Since we look at the relative growth, so called &lt;em&gt;saturation effects&lt;/em&gt; will make
+changes less visible. This happens in particular, with a high number of
+cases but a low number of active cases. In the long run, exponential growth
+will still be visible, but also the short term dynamics are of interest. For
+example, to spot the start of a &lt;em&gt;second wave&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why the following plots consider the daily numbers for the last 40 days
+(leaving aside all cases that happened before)
+and show the daily increase of the number cases in percent for the last 30 days.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-daily-change-accumulated-cases-in-percent-counting-from-40-days-ago-for-a-number-of-countries-and-the-total-numbers-of-cases-for-the-last-month-the-first-5-countries-are-always-shown-the-other-3-countries-change-occasionally-see-the-pdflmslps-dsifcpdf-for-all-countries&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries.&#34; srcset=&#34;
+               /post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_3a976ebcedfa75579cb0a725d18bc984.png 400w,
+               /post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_56c6ad3ec7ea120815474d39731a40d4.png 760w,
+               /post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/covid-19-trends/lmslps-dsifc_hubdfbeded682834e85db15ab1b5fad1c5_223303_3a976ebcedfa75579cb0a725d18bc984.png&#34;
+               width=&#34;760&#34;
+               height=&#34;608&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the &lt;a href=&#34;lmslps-dsifc.pdf&#34;&gt;pdf&lt;/a&gt; for all countries.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h1 id=&#34;notes-and-acknowledgements&#34;&gt;Notes and Acknowledgements&lt;/h1&gt;
+&lt;!-- ### On the data
+Certainly, the casualties lag[^3] behind the actual spreading of the virus by a
+number of days. However, one may think that numbers of casualties are a more
+reliable data point than the number of infected.
+--&gt;
+&lt;h3 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h3&gt;
+&lt;p&gt;This analysis is purely based on empirical trends. No statistical data analysis
+tools have been applied to (pre-)process the data, like data denoising (except
+that some outliers might not be shown because of the plot margins).&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The initial work, namely making the data easily available in python as well as
+the code that produces the title picture, was done by Petar Mlinarić.&lt;/p&gt;
+&lt;!--Particular help in terms of improving the presentation
+was provided by [Christian Himpe](https://himpe.science/), [Tim
+Mitchell](http://www.timmitchell.com/), and Peter Benner. --&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Updates once a day in the morning.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The plot is by the Italian Physicist &lt;a href=&#34;http://chimera.roma1.infn.it/FEDERICO/Contacts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ricci-Tersenghi&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The basis is not too important here. If one takes 2, then a value of 1
+means a doubling. A different basis would only scale the plots but not change the
+qualitative outcomes.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Verkehrstod#Deutschland&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://covidsim.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;covidsim.eu&lt;/a&gt; with parameters as recorded in the
+screenshots &lt;a href=&#34;covidsim-1-2020-03-22.png&#34;&gt;1&lt;/a&gt; and &lt;a href=&#34;covidsim-2-2020-03-22.png&#34;&gt;2&lt;/a&gt;
+based on the assumptions used of the RKI publication mentioned in the footnote
+below.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FEniCS Burgers POD DMD</title>
+      <link>/post/fenics-burger-pod-dmd/</link>
+      <pubDate>Sat, 07 Mar 2020 15:26:18 +0100</pubDate>
+      <guid>/post/fenics-burger-pod-dmd/</guid>
+      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#burgers-equation&#34;&gt;Burgers equation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#0-the-setup&#34;&gt;0. The Setup&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-the-fem-discretization&#34;&gt;1. The FEM Discretization&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-spatial-discretization-in-fenics&#34;&gt;The spatial discretization in FEniCS&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-runge-kutta-time-integration&#34;&gt;The Runge-Kutta Time Integration&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-pod-reduced-model&#34;&gt;2. POD Reduced Model&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-dmd-reduced-model&#34;&gt;3. DMD Reduced Model&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-testing-the-models-for-different-initial-value&#34;&gt;4. Testing the Models for Different Initial Value&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#5-remarks&#34;&gt;5. Remarks&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+&lt;h1 id=&#34;burgers-equation&#34;&gt;Burgers equation&lt;/h1&gt;
+&lt;p&gt;For a given viscosity parameter $\nu$ and for time $t&amp;gt;0$, we consider the 2D Burgers equation on the unit square&lt;/p&gt;
+&lt;p&gt;$$
+\frac {\partial}{\partial t}u + (u\nabla)u - \nu \Delta u = 0
+$$&lt;/p&gt;
+&lt;p&gt;with zero Neumann boundary conditions and initial condition&lt;/p&gt;
+&lt;p&gt;$$
+u\bigr| _ {t=0}(x _ 1, x _ 2) =
+\begin{bmatrix}
+1 \\ 1
+\end{bmatrix}
+e ^ {-(4x _ 1^2 + 2x _ 2^2)}
+$$&lt;/p&gt;
+&lt;p&gt;and its numerical approximation using&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Finite Elements in space and Runge-Kutta in time,&lt;/li&gt;
+&lt;li&gt;a POD reduction of the FEM model, and&lt;/li&gt;
+&lt;li&gt;a DMD reduced order model.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Check &lt;a href=&#34;burgers.py&#34;&gt;&lt;code&gt;burgers.py&lt;/code&gt;&lt;/a&gt; for the presented code (and more) in one file.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;0-the-setup&#34;&gt;0. The Setup&lt;/h1&gt;
+&lt;p&gt;We start with importing the necessary modules and defining the parameters.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import dolfin
+
+import scipy.linalg as spla
+import matplotlib.pyplot as plt
+import numpy as np
+
+from scipy.integrate import solve_ivp
+from spacetime_galerkin_pod.ldfnp_ext_cholmod import SparseFactorMassmat
+
+dolfin.parameters[&#39;linear_algebra_backend&#39;] = &#39;Eigen&#39;
+
+nu = 1e-4  # the viscosity
+
+N = 80 
+poddim = 30
+
+t0, tE, Nts = 0., .8, 101  # the time grid for the snapshots
+timegrid = np.linspace(t0, tE, Nts)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here, &lt;code&gt;dolfin&lt;/code&gt; is the python interface to &lt;a href=&#34;https://fenicsproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FEniCS&lt;/a&gt;
+and the other modules are standard in python, I would say. The module
+&lt;code&gt;ldfnp_ext_cholmod&lt;/code&gt; is a little wrapper for the sparsity optimizing Cholesky
+decomposition of &lt;a href=&#34;https://github.com/scikit-sparse/scikit-sparse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;sksparse&lt;/em&gt;&lt;/a&gt;.
+It is available on &lt;a href=&#34;https://github.com/highlando/spacetime_galerkin_pod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;
+and falls back to &lt;code&gt;numpy&lt;/code&gt; routines, in the case that &lt;code&gt;sksparse&lt;/code&gt; is not
+available.&lt;/p&gt;
+&lt;h1 id=&#34;1-the-fem-discretization&#34;&gt;1. The FEM Discretization&lt;/h1&gt;
+&lt;h2 id=&#34;the-spatial-discretization-in-fenics&#34;&gt;The spatial discretization in FEniCS&lt;/h2&gt;
+&lt;p&gt;First, the mesh is defined &amp;ndash; here a uniform triangulation of the unit square
+controlled by the parameter &lt;code&gt;N&lt;/code&gt;. For the value &lt;code&gt;N=80&lt;/code&gt; and for globally smooth
+and piecewise quadratic ansatz functions, the resulting dimension of the system
+is 51842.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# The mesh
+pone = dolfin.Point(-1, -1)
+ptwo = dolfin.Point(1, 1)
+mesh = dolfin.RectangleMesh(pone, ptwo, N, N)
+
+V = dolfin.VectorFunctionSpace(mesh, &#39;CG&#39;, 2)
+
+# ## The FENICS FEM Discretization
+v = dolfin.TestFunction(V)
+u = dolfin.TrialFunction(V)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Next, the discrete linear operators are defined and exported as a &lt;em&gt;SciPy&lt;/em&gt; sparse
+matrix. Also, we factorize the mass matrix &lt;code&gt;mmat&lt;/code&gt; for later use and define the
+norm that is weighted with the mass matrix as this is the discrete $L^2$ norm.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# ## the mass matrix
+mform = dolfin.inner(v, u)*dolfin.dx
+massm = dolfin.assemble(mform)
+mmat = dolfin.as_backend_type(massm).sparray()
+mmat.eliminate_zeros()
+# factorize it for later
+mfac = SparseFactorMassmat(mmat)
+
+# norm induced by the mass matrix == discrete L2-norm
+def mnorm(uvec):
+    return np.sqrt(np.inner(uvec, mmat.dot(uvec)))
+
+# ## the stiffness matrix
+# as a form in FEniCS
+aform = nu*dolfin.inner(dolfin.grad(v), dolfin.grad(u))*dolfin.dx
+aassm = dolfin.assemble(aform)
+# as a sparse matrix
+amat = dolfin.as_backend_type(aassm).sparray()
+amat.eliminate_zeros()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then we define the convective term as function of the velocity &lt;code&gt;u&lt;/code&gt; both in terms
+of an FE-function and as a function of the associated coefficient vector.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# ## the convective term
+# as a function in FEniCS
+def burgers_nonl_func(ufun):
+    cform = dolfin.inner(dolfin.grad(ufun)*ufun, v)*dolfin.dx
+    cass = dolfin.assemble(cform)
+    return cass
+
+# as a vector to form map
+def burgers_nonl_vec(uvec):
+    ufun = dolfin.Function(V)
+    ufun.vector().set_local(uvec)
+    bnlform = burgers_nonl_func(ufun)
+    bnlvec = bnlform.get_local()
+    return bnlvec
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- Another helper function that interfaces to *FEniCS* is defined to use the
+`dolfin` functionalities to compute the modulus $u_1^2 + u_2^2$ of the vector
+field $u$ and to plot it.
+
+
+```python
+def plotabs(uvec, fignum=None, vmax=None,
+            sprws=1, spcls=1, spidx=1, colormap=&#39;plasma&#39;):
+    ufun = dolfin.Function(V)
+    ufun.vector().set_local(uvec)
+    plt.figure(fignum)
+    plt.subplot(sprws, spcls, spidx)
+    cplt = dolfin.plot(dolfin.inner(ufun, ufun))
+    cplt.set_cmap(colormap)
+    if vmax is not None:
+        cplt.set_clim(vmin=0, vmax=vmax)
+    plt.colorbar(cplt)
+```
+--&gt;
+&lt;h2 id=&#34;the-runge-kutta-time-integration&#34;&gt;The Runge-Kutta Time Integration&lt;/h2&gt;
+&lt;p&gt;To apply standard time integration schemes (here, &lt;code&gt;RK23&lt;/code&gt; turned out to be most
+efficient), we define the &lt;em&gt;right hand side&lt;/em&gt; $f_h$ of the spatially discretized problem&lt;/p&gt;
+&lt;p&gt;$$
+\dot u_h = f_h (t_h, u_h).
+$$&lt;/p&gt;
+&lt;p&gt;In this case the &lt;em&gt;right hand side&lt;/em&gt; is an application of the discrete diffusion
+and convection operator and the inverse of the mass matrix that, simply
+speaking, maps a (discrete) form onto a discrete function. Note that there is no
+explicit time dependency in the Burgers equation, but the &lt;em&gt;SciPy&lt;/em&gt;&amp;rsquo;s &lt;code&gt;solve_ivp&lt;/code&gt;
+requires this parameter. Also, we define the initial value here. The time grid
+is used to store the solution for the snapshots needed later, but the time
+integrator uses his internal time grid.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;inivstrg = &#39;exp(-3.*(x[0]*x[0]+x[1]*x[1]))&#39;
+inivexpr = dolfin.Expression((inivstrg, inivstrg), degree=2)
+inivfunc = dolfin.interpolate(inivexpr, V)
+inivvec = inivfunc.vector().get_local()
+
+burgsol = solve_ivp(brhs, (t0, tE), inivvec, t_eval=timegrid, method=&#39;RK23&#39;)
+fullsol = burgsol.y
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here is the result. Note the sharp front that develops towards the end of the time
+integration.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-solution-snapshots-of-the-full-fem-model&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Solution snapshots of the full FEM model&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_3bcb55984ef4dc0a55474210152b039e.png 400w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_84c64befef578ff6fe44eaed08e060b3.png 760w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_3bcb55984ef4dc0a55474210152b039e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Solution snapshots of the full FEM model
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h1 id=&#34;2-pod-reduced-model&#34;&gt;2. POD Reduced Model&lt;/h1&gt;
+&lt;p&gt;If one has snapshots of the solution $v _ h$ at some time instances $t _ i$ one
+may well think that the span of the matrix of snapshots&lt;/p&gt;
+&lt;p&gt;$$
+X =
+\begin{bmatrix}
+v _ h(t_0) &amp;amp; v _ h(t_1) &amp;amp; \dotsm &amp;amp; v _ h(t_k)
+\end{bmatrix}
+$$&lt;/p&gt;
+&lt;p&gt;is a good candidate for a space in which the solution evolves in. One may even
+go further and look for a low-dimensional basis of this space. The span of a
+matrix is best approximated by its dominant singular vectors. And this is the idea of
+&lt;em&gt;Proper Orthogonal Decomposition&lt;/em&gt; (POD) &amp;ndash; use the leading singular vectors as a
+basis for the solution space.&lt;/p&gt;
+&lt;p&gt;We use the &lt;code&gt;Nts=101&lt;/code&gt; snapshots of the FEM solutions to setup the matrix of
+measurements $X$ and to compute the POD modes as $M^{-1/2}v _ k$, where $v _ k$
+is the $k$-th leading left singular vector of $M^{1/2}X$. This procedure gives a
+low-dimensional orthogonal (in the discrete $L^2$ inner product) basis that
+optimally parametrizes the subspace of $L^2$ that is spanned by the solution
+snapshots&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. In this example, we use the &lt;code&gt;poddim=30&lt;/code&gt; leading singular vectors
+to define the reduced model.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;snapshotmat = mfac.Ft.dot(burgsol.y)
+podmodes, svals, _ = spla.svd(snapshotmat, full_matrices=False)
+selected_podmodes = podmodes[:, :poddim]
+podvecs = mfac.solve_Ft(selected_podmodes)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In this implementation we use a sparse factor of the mass matrix instead of the
+square root.  The singular values (in particular those that correspond to the
+discarded directions) give an indication of how good the approximation is.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-singular-values-of-the-snapshot-matrix&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The singular values of the snapshot matrix&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_e844a9355d2f457cc1f41fa8f42ca045.png 400w,
+               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_911ba790c2955aa80056152686906b41.png 760w,
+               /post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/svs_hu30358981f880a42c5ec33db2faf223a7_23970_e844a9355d2f457cc1f41fa8f42ca045.png&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The singular values of the snapshot matrix
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Here, the decay is comparatively slow, so that a one should not expect a good
+low dimensional approximation by POD.&lt;/p&gt;
+&lt;p&gt;For the simulation, the state is parametrized by $u_h (t) \approx V \tilde
+u_h(t)$ where $V$ is the matrix of the POD modes (in the code $V$ denoted by
+&lt;code&gt;podvecs&lt;/code&gt;), which gives a system in $\tilde u _ h$ with 30 degrees of freedom
+(as opposed to the 51842 of the full order model).&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;redamat = podvecs.T.dot(amat.dot(podvecs))  # the projected stiffness
+
+def redbrhs(time, redvec):
+    inflatedv = podvecs.dot(redvec)
+    redconv = podvecs.T.dot(burgers_nonl_vec(inflatedv))
+    return -redamat.dot(redvec) - redconv.flatten()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here we define the projected stiffness matrix and the reduced nonlinearity
+through&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;inflating the reduced state to full dimension&lt;/li&gt;
+&lt;li&gt;applying the nonlinearity&lt;/li&gt;
+&lt;li&gt;projecting down the result.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This means that our model is not completely independent of the full dimension.
+For this problem there are &lt;em&gt;hyperreduction&lt;/em&gt; techniques like DEIM.&lt;/p&gt;
+&lt;p&gt;Thus, the &lt;em&gt;right hand side&lt;/em&gt; is readily defined the more that the projected mass
+matrix is the identity. Why?&lt;/p&gt;
+&lt;p&gt;Finally, the initial value is projected into the reduced coordinates and the
+reduced system is integrated in time.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;redburgsol = solve_ivp(redbrhs, (t0, tE), prjinivvec,
+                       t_eval=timegrid, method=&#39;RK23&#39;)
+podredsol = redburgsol.y
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In the solution we see that the reduced order model gives a decent approximation
+in the smooth regime in the beginning and even well approaches the front as can
+be seen in the error (log) plot.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-snapshots-of-the-solution-of-the-reduced-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the solution of the reduced system&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_46a0fcaba373f7296bb42a2234aab840.png 400w,
+               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_d2dcf692abad6632d1088c9561a90822.png 760w,
+               /post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/podsol_hu44697fe8d9852770b39531adcdf9df39_111571_46a0fcaba373f7296bb42a2234aab840.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the solution of the reduced system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-snapshots-of-the-log-of-the-error-between-the-full-and-the-pod-solution&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the log of the error between the full and the POD solution&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_cf72240162123db7af4dcf99eb4391e3.png 400w,
+               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_6a4c94b9a230c999a6753a814bffe85b.png 760w,
+               /post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/podfullerrlog_hu4bb36d06dad7fbfd6c162fed48544e79_79345_cf72240162123db7af4dcf99eb4391e3.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the log of the error between the full and the POD solution
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h1 id=&#34;3-dmd-reduced-model&#34;&gt;3. DMD Reduced Model&lt;/h1&gt;
+&lt;p&gt;POD is partially data driven &amp;ndash; it uses data to create a basis but still
+uses (a projection of) the model. If only snapshots but no model is given, one
+may use the method of &lt;em&gt;Dynamic Mode Decomposition&lt;/em&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; (DMD) that tries to identify
+a matrix $A$ that evolves the state like&lt;/p&gt;
+&lt;p&gt;$$
+A v _ h (t_i) = v _ h (t _ {i+1})
+$$&lt;/p&gt;
+&lt;p&gt;In practice, one uses a set of snapshots and the two measurement matrices&lt;/p&gt;
+&lt;p&gt;$$
+X =
+\begin{bmatrix}
+v _ h(t_0) &amp;amp; v _ h(t_1) &amp;amp; \dotsm &amp;amp; v _ h(t _ {k-1})
+\end{bmatrix}
+$$
+and
+$$
+X&#39; =
+\begin{bmatrix}
+v _ h(t_1) &amp;amp; v _ h(t_2) &amp;amp; \dotsm &amp;amp; v _ h(t _ {k})
+\end{bmatrix}.
+$$&lt;/p&gt;
+&lt;p&gt;Note that $X&#39;$ is basically $X$ shifted by one time step.&lt;/p&gt;
+&lt;p&gt;Then the DMD matrix can be found by solving the linear regression problem&lt;/p&gt;
+&lt;p&gt;$$
+\min _ P | X&#39; - PX | _ F.
+$$&lt;/p&gt;
+&lt;p&gt;For the reduced DMD model we use the same snapshot matrix as for the POD. The
+regression problem is solved via SVD to compute the needed pseudo inverse since
+this naturally allows for a rank reduction and a factored representation of the
+DMD matrix.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# ### dmd using truncated svd inverse
+fburgsol = burgsol.y
+Xmat = fburgsol[:, :-1]
+Xdsh = fburgsol[:, 1:]
+ux, sx, vxh = spla.svd(Xmat, full_matrices=False)
+uxr, sxr, vxhr = ux[:, :poddim], sx[:poddim], vxh[:poddim, :]
+
+# compute the dmd matrix in factored form: `dmda = dmdaone * dmdatwo`
+dmdaone = Xdsh.dot(vxhr.T)
+dmdatwo = np.linalg.solve(np.diag(sxr), uxr.T)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Once the DMD matrix $A$ is determined, the simulation of the DMD reduced model
+is only a repeated multiplication by $A$.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# simulation of the dmd reduced model
+dmdxo = inivvec
+dmdsol = [dmdxo]
+for k in np.arange(Nts):
+    dmdsol.append(dmdaone.dot(dmdatwo.dot(dmdsol[-1])))
+
+dmdsol = np.array(dmdsol).T
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As can be seen from the results and the error plots, DMD does a good job in the
+initial phase but fails in the region with the sharp front.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-snapshots-of-the-dmd-solution&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the DMD solution&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_3a991bb89c2a005c428bcd1a4fbc9aaa.png 400w,
+               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_66052e1a39f5a63782358358bb30a4f2.png 760w,
+               /post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/dmdsol_hu6b5611c7f73d724fdcce95bda26d5e93_117653_3a991bb89c2a005c428bcd1a4fbc9aaa.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the DMD solution
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-error-log-plot-with-respect-to-the-full-fem-solution&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Error (log) plot with respect to the full FEM solution&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_df39c567c01c78a55ff3524b3bbcf963.png 400w,
+               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_bb43c607c81a2ed80eea77b7f0770db6.png 760w,
+               /post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/dmdfullerrlog_hu2aeff1dc4493df5b884f3d20a86e8a9b_103573_df39c567c01c78a55ff3524b3bbcf963.png&#34;
+               width=&#34;760&#34;
+               height=&#34;198&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Error (log) plot with respect to the full FEM solution
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h1 id=&#34;4-testing-the-models-for-different-initial-value&#34;&gt;4. Testing the Models for Different Initial Value&lt;/h1&gt;
+&lt;p&gt;In what was presented above, the reduced models were used to reproduce the
+states that they were trained on. We now check the given reduced order models
+but on an alternative initial value, namely&lt;/p&gt;
+&lt;p&gt;$$
+u\bigr| _ {t=0}(x _ 1, x _ 2) =
+\begin{bmatrix}
+1 \\ 1
+\end{bmatrix}
+e ^ {-(2x _ 1^2 + 4x _ 2^2)}
+$$&lt;/p&gt;
+&lt;p&gt;see the following two plots of the full order model for both initial values.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-solution-snapshots-of-the-full-fem-model&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Solution snapshots of the full FEM model&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_3bcb55984ef4dc0a55474210152b039e.png 400w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_84c64befef578ff6fe44eaed08e060b3.png 760w,
+               /post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/fullsol_huc45dcd7c0d278124c2d90f135ab77209_111190_3bcb55984ef4dc0a55474210152b039e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Solution snapshots of the full FEM model
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-solution-snapshots-of-the-full-fem-model-with-the-alternative-initial-value&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Solution snapshots of the full FEM model with the alternative initial value&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_df4a988a1441f4d00195ef31d84fc5a8.png 400w,
+               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_c7e43bb2a6a09ac602dae0368494f357.png 760w,
+               /post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/b-fullsol_hu87945a19320ff82c18180803c4f0aaad_107806_df4a988a1441f4d00195ef31d84fc5a8.png&#34;
+               width=&#34;760&#34;
+               height=&#34;198&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Solution snapshots of the full FEM model with the alternative initial value
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Then we use the reduced order models to compute predictions for the trajectory
+starting in this alternative initial value.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-snapshots-of-the-solution-of-the-pod-reduced-system-starting-in-the-alternative-initial-value&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the solution of the POD reduced system starting in the alternative initial value.&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_f4611f34c7b81428f0089c5fe5182778.png 400w,
+               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_50e4cd95970fbde700c2bcf26706e063.png 760w,
+               /post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/b-podsol_hu5ece6bf73f66866b9015b19a9ab4d0ef_103475_f4611f34c7b81428f0089c5fe5182778.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the solution of the POD reduced system starting in the alternative initial value.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-snapshots-of-the-dmd-solution-starting-in-the-alternative-initial-value&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Snapshots of the DMD solution starting in the alternative initial value.&#34; srcset=&#34;
+               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_f9a0ad41c5e9cbb88e6a9f0ae24f0aad.png 400w,
+               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_120eb29ca4546e78494751a29bd1431c.png 760w,
+               /post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/fenics-burger-pod-dmd/b-dmdsol_hua913b7a1f864943313639e764fa1ace9_112598_f9a0ad41c5e9cbb88e6a9f0ae24f0aad.png&#34;
+               width=&#34;760&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Snapshots of the DMD solution starting in the alternative initial value.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Both methods completely fail to produce the other trajectory. For the POD
+reduced model already the starting point is extremely bad approximated.
+Interestingly, although the DMD solution starts in the &lt;em&gt;right&lt;/em&gt; point, it seems
+to exactly reproduce the solution that it was trained on up to some additional
+oscillations.&lt;/p&gt;
+&lt;h1 id=&#34;5-remarks&#34;&gt;5. Remarks&lt;/h1&gt;
+&lt;p&gt;It is commonly accepted that POD does not work well for transport dominated
+problems &amp;ndash; like the current case with the low viscosity parameter &lt;code&gt;nu=1e-4&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;So, I think that the results for POD are quite good noting that the reduced
+order model has 30 degrees of freedom whereas the full model has 51842.
+In my tests, increasing the number of basis functions as well as considering a
+larger &lt;code&gt;nu&lt;/code&gt; led to better POD approximations.&lt;/p&gt;
+&lt;p&gt;The DMD approach shows a similar performance. If compared to POD, the
+qualitative approximation looks less good but the numbers are slightly better.
+All in all, the DMD approximation seems less reliable as for other parameter
+choices, the performance rather deteriorated than improved.&lt;/p&gt;
+&lt;p&gt;How challenging the problem of 2D Burgers with a low viscosity is, can be seen
+from the failure of both methods to produce useable approximations to
+trajectories that start in different initial values.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland (2018): &lt;em&gt;Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial
+Differential Equations.&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1611.04050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1611.04050&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See, e.g., Tu, Rowley, Luchtenburg, Brunton, Kutz (2013): &lt;em&gt;On Dynamic Mode
+Decomposition: Theory and Applications&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/1312.0041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1312.0041&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equivalence of Riccati-based Robust Controller Design for Index-1 Descriptor Systems and Standard Plants with Feedthrough</title>
+      <link>/publication/ben-h-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-intrusive Time Galerkin POD for Optimal Control of a Fixed-Bed Reactor for CO2 Methanation</title>
+      <link>/publication/bre-hbs-21/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bre-hbs-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PD controllers to solve single-input, index-1 DAE based LQR problems</title>
+      <link>/publication/bha-hb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bha-hb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Chaos-Expansion Galerkin POD Low-order Discretization of PDEs for Uncertainty Quantification</title>
+      <link>/publication/ben-h-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A benchmark for fluid rigid body interaction with standard CFD packages</title>
+      <link>/event/19-fsi-benchmark/</link>
+      <pubDate>Thu, 21 Nov 2019 16:00:00 +0100</pubDate>
+      <guid>/event/19-fsi-benchmark/</guid>
+      <description>&lt;p&gt;The interaction between a fluid flow and rigid bodies appears in many
+physical applications. The flow around a free rigid body causes both
+displacement and rotation of that body, via the forces and torque
+exerted from the fluid onto the body. Conversely, the motion of the body
+causes changes in the flow. The complexity that comes with coupling
+models for fluid and elastic or rigid bodies and the numerical
+challenges due to evolving geometrical domains make reliable and
+benchmark computations very necessary though difficult to perform. This
+talk presents a setup that we have designed to particularly investigate
+the effects regarding the free rotation of a spherical object in a flow
+channel in 2D and 3D. This setup connects to the well known benchmark
+of &lt;em&gt;flow past a cylinder&lt;/em&gt; [1] and is accessible to standard CFD
+software.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;media/image1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Figure 1: Spatial configuration of the 3D setup.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this setup the flow applies a torque force on the object. The induced
+rotation then couples back to the flow via the boundary conditions. We
+discuss the governing equations of this fluid structure interaction
+problem; namely the incompressible Navier-Stokes equations and the
+relevant realizations of Newton’s second law that relates the rotation
+of the rigid body to the forces acting on it. The proposed benchmark
+configurations comprise two and three spatial dimensions and
+quasi-stationary (low Reynolds-number) and periodic (high
+Reynolds-number) regimes. For a discretization independent comparison of
+the results, we also propose significant, nondimensionalized
+characteristic values.&lt;/p&gt;
+&lt;p&gt;The benchmark cases were solved numerically with various approaches and software tools so that the computed characteristic values could be reported within in a reasonable confidence interval.&lt;/p&gt;
+&lt;p&gt;In this talk, we introduce the mathematical model, discuss the characteristic and challenges of the benchmark cases, and present the various implementation and their particular advantages. The codes that were reported on in our work [2] as well as the raw data and postprocessing routines are available [3] for further exploration and reproduction.&lt;/p&gt;
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;M Schäfer and S Turek: &lt;em&gt;Benchmark computations of laminar flow around a cylinder. (With support by F. Durst, E. Krause and R. Rannacher)&lt;/em&gt; Flow Simulation with High-Performance Computers II. DFG priority research program results 1993-1995, 1996.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;H von Wahl et al.: &lt;em&gt;Numerical benchmarking of fluid-rigid body interactions&lt;/em&gt;. Computers &amp;amp; Fluids, 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOI:&lt;a href=&#34;https://doi.org/10.5281/zenodo.3253455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.3253455&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk: Stability Analysis of Time Stepping Schemes for Incompressible Flows from a DAE Perspective</title>
+      <link>/event/19-enumath-nse/</link>
+      <pubDate>Wed, 02 Oct 2019 16:10:00 +0200</pubDate>
+      <guid>/event/19-enumath-nse/</guid>
+      <description>&lt;p&gt;We consider the time discretization of the semi-discrete incompressible Navier-Stokes equations (NSE)&lt;/p&gt;
+&lt;p&gt;$
+\begin{aligned}
+\quad \quad \quad M \dot v(t) &amp;amp;= N(v(t)) + J^Tp(t) + f(t),
+\\\\
+0 &amp;amp;= Jv(t),
+\end{aligned}
+$&lt;/p&gt;
+&lt;p&gt;formulated in the velocity $v(t) \in \mathbb R^{n_v}$ and pressure $p(t) \in \mathbb R^{n_p}$, with $M\in \mathbb R^{n_v, n_v}$ being the mass matrix from the spatial discretization, $N\colon \mathbb R^{n_v} \to \mathbb R^{n_v}$ modelling the discretized convection and diffusion, and with $J\in \mathbb R^{n_p, n_v}$ and $J^T$ representing the discrete divergence and gradient operators.&lt;/p&gt;
+&lt;p&gt;It is commonly known that the semi-discrete incompressible Navier-Stokes equations can be classified as a differential-algebraic equation (DAE) of &lt;em&gt;differentiation index&lt;/em&gt; $\nu=2$ so that a straight-forward time discretization, e.g. by the &lt;em&gt;implicit-Euler&lt;/em&gt; method, will likely suffer from instabilities. To overcome these numerical difficulties, a large number of time stepping schemes, with &lt;em&gt;Chorin&lt;/em&gt;&amp;rsquo;s projection or the &lt;em&gt;SIMPLE&lt;/em&gt; scheme as notable examples, have been developed.&lt;/p&gt;
+&lt;p&gt;In this talk, we trace down and illustrate the instability that origins from the index-2 structure and show that commonly and succesfully applied time-stepping schemes correspond to a reformulation of the semi-discrete NSE as an equivalent system of index-1. Also we show how a finite-element discretization by &lt;em&gt;Taylor-Hood&lt;/em&gt; or &lt;em&gt;Crouzeix-Raviart&lt;/em&gt; schemes can be modified such that the resulting semi-discrete NSE already is of index-1 so that standard time-integration schemes lead to stable pressure approximations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Altmann, R. &amp;amp; Heiland, J.: &lt;em&gt;Finite Element Decomposition and Minimal Extension for Flow Equations&lt;/em&gt;, ESAIM: M2AN, &lt;strong&gt;2015&lt;/strong&gt;, 49, 1489&amp;ndash;1509&lt;/p&gt;
+&lt;p&gt;Altmann, R. &amp;amp; Heiland, J.: &lt;em&gt;Continuous, Semi-discrete, and Fully Discretized Navier-Stokes Equations&lt;/em&gt;, DAE-Forum, Issue: &lt;em&gt;Applications of Differential-Algebraic Equations: Examples and Benchmarks&lt;/em&gt;, Springer, &lt;strong&gt;2018&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adjoint Systems for Optimal Control from Pontryagin to Wikipedia</title>
+      <link>/post/pontr-pendl/</link>
+      <pubDate>Tue, 06 Aug 2019 17:34:51 +0200</pubDate>
+      <guid>/post/pontr-pendl/</guid>
+      <description>&lt;p&gt;While it seems common knowledge how to formulate &lt;em&gt;necessary optimality&lt;/em&gt;
+conditions backed by the famous &lt;em&gt;Pontryagin&amp;rsquo;s Maximum Principle&lt;/em&gt;, the direct
+derivation from the &lt;strong&gt;very general&lt;/strong&gt; original formulations is not obvious.
+Sometimes, authors like me&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; provide some plausibility like &lt;em&gt;obviously this
+term has to vanish&lt;/em&gt;, refer to other sources that miss the derivation too, or
+attach the complete book by Pontryagin to a specific formula&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#the-model&#34;&gt;The Model&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#a-unit-pendulum&#34;&gt;A Unit Pendulum&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#control-setups&#34;&gt;Control Setups&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#final-state-fixed&#34;&gt;Final State Fixed&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#final-state-as-optimization-target&#34;&gt;Final State as Optimization Target&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#the-maximum-principle&#34;&gt;The Maximum Principle&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#maximum-principle-with-variable-endpoints&#34;&gt;Maximum Principle with Variable Endpoints&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-wikipedia-case&#34;&gt;The Wikipedia Case&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#connecting-wikipedia-and-pontryagin&#34;&gt;Connecting Wikipedia and Pontryagin&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#i-lagrange-form&#34;&gt;I. Lagrange form&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#ii-pontryagins-terms&#34;&gt;II. Pontryagin&amp;rsquo;s terms&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#iii-pontryagin-with-variable-endpoints&#34;&gt;III. Pontryagin with variable endpoints&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+&lt;h1 id=&#34;the-model&#34;&gt;The Model&lt;/h1&gt;
+&lt;h2 id=&#34;a-unit-pendulum&#34;&gt;A Unit Pendulum&lt;/h2&gt;
+&lt;p&gt;Consider the pendulum subjected to a potential force that can be adjusted. That is, instead of the gravity&lt;/p&gt;
+&lt;p&gt;$$
+G:=
+\begin{bmatrix}
+0\\ -9.81
+\end{bmatrix},
+$$&lt;/p&gt;
+&lt;p&gt;we consider a force field&lt;/p&gt;
+&lt;p&gt;$$
+G:=
+\begin{bmatrix}
+g_1 \\  g_2
+\end{bmatrix},
+$$&lt;/p&gt;
+&lt;p&gt;with scalar functions $g_1$, $g_2$ of time that can act as a control.&lt;/p&gt;
+&lt;p&gt;With mass $m$, length $L$, and angle $\theta$ (see the picture below), we define the momentum as&lt;/p&gt;
+&lt;p&gt;$$
+p = mL^2\dot \theta.
+$$&lt;/p&gt;
+&lt;p&gt;This gives the Hamiltonian
+$$
+H(\theta, p) = \frac{p^2}{2mL^2} + m
+\begin{bmatrix}
+g_1 &amp;amp;g_2
+\end{bmatrix}
+\begin{bmatrix}
+L \sin \theta \\ -L \cos \theta
+\end{bmatrix},
+$$&lt;/p&gt;
+&lt;p&gt;or
+$$
+H(\theta, p)= \frac{p^2}{2mL^2} + mg_1 L \sin \theta - mg_2 \cos \theta ,
+$$&lt;/p&gt;
+&lt;p&gt;and the equations of motion as&lt;/p&gt;
+&lt;p&gt;$
+\begin{aligned}
+\quad \quad \quad \dot \theta &amp;amp;= \frac{p}{mL^2},
+\\\\
+\dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$&lt;/p&gt;
+&lt;p&gt;Here is a schematic illustration taken from &lt;a href=&#34;http://www.scholarpedia.org/article/File:Pendulum.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scholarpedia&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Pendulum.png&#34; alt=&#34;pendulum, taken from scholarpedia&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;control-setups&#34;&gt;Control Setups&lt;/h1&gt;
+&lt;p&gt;With consider two control setups:&lt;/p&gt;
+&lt;h2 id=&#34;final-state-fixed&#34;&gt;Final State Fixed&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fix a time $t_1$, start with &lt;br&gt;
+$\quad(\theta(t_0), p(t_0))=(\pi, 0)$,&lt;br&gt; i.e. pendulum standing up-side-down,
+and minimize the control effort &lt;br&gt;
+$ \quad \mathcal J:= \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ~ dt \to \min $&lt;br&gt;
+over all $(g_1, g_2)$ that lead to &lt;br&gt;
+$\quad(\theta(t_1), p(t_1))=(0,0)$,&lt;br&gt; i.e. pendulum hanging down.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;final-state-as-optimization-target&#34;&gt;Final State as Optimization Target&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fix a time $t_1$, start with &lt;br&gt;
+$\quad(\theta(t_0), p(t_0))=(\pi, 0)$,&lt;br&gt; i.e. pendulum standing up-side-down,
+and find a control that targets &lt;br&gt;
+$\quad (\theta(t_1), p(t_1))=(0,0)$,&lt;br&gt;
+i.e. pendulum hanging down
+while also minimizing the control effort:&lt;br&gt;
+$ \quad \mathcal J:= \frac{1}{2}(\theta(t_1)^2 + p(t_1)^2) + \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ~ dt \to \min $.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;the-maximum-principle&#34;&gt;The Maximum Principle&lt;/h1&gt;
+&lt;p&gt;Classically, as treated by Pontryagin itself&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, one seeks the minimum over all $u=(g_1, g_2)$ that &lt;em&gt;a-priori&lt;/em&gt; ensure that $\theta(t_1)=0$ and $p(t_1)=0$. This, in a sense, means that suitable controls are known and that the optimization looks for those with the least magnitude. For people like me, that use optimization because they don&amp;rsquo;t know a control, this seems not very feasible. But Pontryagin has the answer for that too:&lt;/p&gt;
+&lt;h2 id=&#34;maximum-principle-with-variable-endpoints&#34;&gt;Maximum Principle with Variable Endpoints&lt;/h2&gt;
+&lt;p&gt;One can (partially) abandon the end conditions, see Chapter I.7 in Pontryagin&amp;rsquo;s book. Similarly, one can abandon the initial conditions which, again, seems odd from an application point of view. Also, simply omitting the end conditions will lead to trivial solutions. Certainly, we need to include them in the optimization. Which leads to the Wikipedia case.&lt;/p&gt;
+&lt;h2 id=&#34;the-wikipedia-case&#34;&gt;The Wikipedia Case&lt;/h2&gt;
+&lt;p&gt;Commonly used and illustrated on &lt;a href=&#34;https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle#Formal_statement_of_necessary_conditions_for_minimization_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wikipedia:Pontryagin&amp;rsquo;s maximum principle&lt;/a&gt;
+&amp;ndash; the form that leaves the controls free but penalizes the endpoint. Now, let me show how this form derives from Pontryagin&amp;rsquo;s book.&lt;/p&gt;
+&lt;h1 id=&#34;connecting-wikipedia-and-pontryagin&#34;&gt;Connecting Wikipedia and Pontryagin&lt;/h1&gt;
+&lt;p&gt;The derivation of the &lt;em&gt;Wikipedia&lt;/em&gt; formulas from the &lt;em&gt;Maximum Principle with Variable Endpoints&lt;/em&gt; goes as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Transform (see, e.g., &lt;a href=&#34;https://www.encyclopediaofmath.org/index.php/Bolza_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enc. of Math.: Bolza problem&lt;/a&gt;) the problem from &lt;em&gt;Mayer form&lt;/em&gt; to &lt;em&gt;Lagrange form&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Put the resulting system into the form of &lt;em&gt;Pontryagin&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Apply the maximum principle with completely free endpoints.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For the pendulum optimal control problem&lt;/p&gt;
+&lt;p&gt;$$\frac{1}{2}(\theta(t_1)^2 + p(t_1)^2) +\frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ;dt \to \min$$&lt;/p&gt;
+&lt;p&gt;subject to&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}
+\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\
+\dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$$&lt;/p&gt;
+&lt;p&gt;with initial conditions&lt;/p&gt;
+&lt;p&gt;$$
+\theta(t_0)=\pi, \quad p(t_0)=0
+$$&lt;/p&gt;
+&lt;p&gt;this means:&lt;/p&gt;
+&lt;h2 id=&#34;i-lagrange-form&#34;&gt;I. Lagrange form&lt;/h2&gt;
+&lt;p&gt;We get rid of the costs that are put on the terminal values by introducing a variable $\tilde x$. Thus the optimal control problem no reads:&lt;/p&gt;
+&lt;p&gt;$$
+\mathcal J:=\int_{t_0}^{t_1} \tilde x + \frac{1}{2}(g_1^2+g_2^2) ;dt \to \min
+$$&lt;/p&gt;
+&lt;p&gt;subject to&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}
+\dot {\tilde x} &amp;amp;= 0, \\\\
+\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\
+\dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$$&lt;/p&gt;
+&lt;p&gt;with one end condition&lt;/p&gt;
+&lt;p&gt;$$
+\tilde x(t_1) = \frac{1}{2(t_1-t_0)}(\theta(t_1)^2+p(t_1)^2),
+$$&lt;/p&gt;
+&lt;p&gt;and the old initial conditions&lt;/p&gt;
+&lt;p&gt;$$
+\theta(t_0)=\pi, \quad p(t_0)=0.
+$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In fact, since $\tilde x$ is constant and fixed by its end condition, one obtains that&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;$\int_{t_0}^{t_1} \tilde x ;dt = (t_1 - t_0)\tilde x(t_1) = \frac{1}{2}(\theta(t_1)^2+p(t_1)^2).$&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Once in &lt;em&gt;Lagrange&lt;/em&gt; form, the problem can be put into the form used in Pontryagin&amp;rsquo;s theorem:&lt;/p&gt;
+&lt;h2 id=&#34;ii-pontryagins-terms&#34;&gt;II. Pontryagin&amp;rsquo;s terms&lt;/h2&gt;
+&lt;p&gt;$$
+x^0(t_1) \to \min
+$$&lt;/p&gt;
+&lt;p&gt;subject to&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}
+\dot x^0 &amp;amp;= \tilde x + \frac{1}{2}(g_1^2+g_2^2), \\\\
+\dot {\tilde x} &amp;amp;= 0, \\\\
+\dot \theta &amp;amp;= \frac{p}{mL^2},\\\\
+\dot p &amp;amp;= -mg_1L\cos \theta - mg_2L\sin \theta.
+\end{aligned}
+$$&lt;/p&gt;
+&lt;p&gt;with initial conditions&lt;/p&gt;
+&lt;p&gt;\begin{equation}
+x^0(t_0)=0, \quad \theta(t_0)=\pi, \quad p(t_0)=0,
+\end{equation}&lt;/p&gt;
+&lt;p&gt;and the end condition&lt;/p&gt;
+&lt;p&gt;$$
+\tilde x(t_1) = \frac{1}{2(t_1-t_0)}(\theta(t_1)^2+p(t_1)^2).
+$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Here, the trick is that the new variable $x^0$ simply integrates the value of the cost functional.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The corresponding adjoint system for the $\psi$ reads&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;\begin{align}
+\dot \psi_0 &amp;amp;= 0, \\\\
+\dot \psi_1 &amp;amp;= -\psi_0, \\\\
+\dot \psi_2 &amp;amp;= -(mg_1L\sin\theta - mg_2L\cos\theta) \psi_3, \\\\
+\dot \psi_3 &amp;amp;= -\frac{1}{mL^2}\psi_2.
+\end{align}&lt;/p&gt;
+&lt;p&gt;This $\psi$ defines the control Hamiltonian as&lt;/p&gt;
+&lt;p&gt;$$
+\bigl(\psi, f(x;G) \bigl ) =
+\bigl(\psi,
+\begin{bmatrix}
+\tilde x + \frac{1}{2}(g_1^2+g_2^2) \\\\
+0 \\\\
+\frac{p}{mL^2}\\\\
+-mg_1L\cos \theta - mg_2L\sin \theta
+\end{bmatrix}
+\bigl )
+$$&lt;/p&gt;
+&lt;h2 id=&#34;iii-pontryagin-with-variable-endpoints&#34;&gt;III. Pontryagin with variable endpoints&lt;/h2&gt;
+&lt;p&gt;Finally, we can omit parts of the end conditions.&lt;/p&gt;
+&lt;p&gt;If we let the state $(\tilde x, \theta, p)$ at $t_1$ take on an arbitrary value then it will belong to the hypersurface&lt;/p&gt;
+&lt;p&gt;$$
+S_1 = {(\frac{1}{2(t_1-t_0)}(\theta^2 + p^2), \theta, p)} \subset \mathbb R^3
+$$&lt;/p&gt;
+&lt;p&gt;Then the &lt;em&gt;transversality condition&lt;/em&gt;&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; that $\psi(t_1)$ has to be &lt;em&gt;orthogonal&lt;/em&gt; to the tangent plane to $S_1$ at $(\tilde x(t_1), \theta(t_1), p(t_1))$ gives the following boundary conditions for $\psi$:&lt;/p&gt;
+&lt;p&gt;\begin{align}
+\frac{1}{t_1-t_0}p(t_1)\psi_1(t_1) - \psi_3(t_1) &amp;amp;= 0, \\\\
+\frac{1}{t_1-t_0}\theta(t_1)\psi_1(t_1) - \psi_2(t_1) &amp;amp;= 0.
+\end{align}&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;These give the &lt;em&gt;Wikipedia&lt;/em&gt; terminal condition for the adjoint state with the choice of $\psi_1(t_1) = t_1-t_0$.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Note that these particular end conditions were derived from the particular basis&lt;/p&gt;
+&lt;p&gt;$$
+\biggl\{
+\begin{bmatrix}
+\frac{1}{t_1-t_0}p \\ 0 \\ 1
+\end{bmatrix},
+\begin{bmatrix}
+\frac{1}{t_1-t_0}\theta \\ 1 \\ 0
+\end{bmatrix}
+\biggr\}
+$$&lt;/p&gt;
+&lt;p&gt;of the tangent space and note that any other basis can be taken, or equivalently, any linear combination of the boundary conditions are feasible.&lt;/p&gt;
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+&lt;p&gt;📙 Pontryagin, Boltyanski, Gamkrelidze, and Mishchenko (1962) &lt;em&gt;The Mathematical Theory of Optimal Processes&lt;/em&gt;&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Lemma 6.5 in Heiland (2013) &lt;em&gt;Decoupling, Semi-Discretization, and Optimal
+Control of Semi-linear Semi-explicit Index-2 Abstract Differential-Algebraic
+Equations and Application in Optimal Flow Control&lt;/em&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;cp. the text before Theorem 3.4 in Ober-Blöbaum, Junge, Marsden
+(2008) &lt;em&gt;Discrete Mechanics and Optimal Control: an Analysis&lt;/em&gt;]&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Ch. I.2 in his book&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Pontryagin et al., Theorem 1&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Pontryagin et al., Ch. I.7&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor-space Galerkin POD for parametric flow equations</title>
+      <link>/event/19-iciam-genpod/</link>
+      <pubDate>Thu, 18 Jul 2019 14:30:00 +0100</pubDate>
+      <guid>/event/19-iciam-genpod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust observer-based feedback for the incompressible Navier-Stokes equation</title>
+      <link>/event/19-iciam-rob-nse/</link>
+      <pubDate>Wed, 17 Jul 2019 17:00:00 +0100</pubDate>
+      <guid>/event/19-iciam-rob-nse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dolfin-navier-scipy</title>
+      <link>/project/sw-dolfin-navier-scipy/</link>
+      <pubDate>Wed, 03 Jul 2019 18:53:50 +0200</pubDate>
+      <guid>/project/sw-dolfin-navier-scipy/</guid>
+      <description>&lt;p&gt;A Python package that provides an interface between &lt;em&gt;scipy&lt;/em&gt; and &lt;em&gt;FEniCS&lt;/em&gt; in view of solving Navier-Stokes Equations. &lt;em&gt;FEniCS&lt;/em&gt; is used to perform a Finite Element discretization of the equations. The assembled coefficients are exported as sparse matrices for use in &lt;em&gt;scipy&lt;/em&gt;. Nonlinear and time-dependent parts are evaluated and assembled on demand. Visualization is done via the &lt;em&gt;FEniCS&lt;/em&gt; interface to &lt;em&gt;paraview&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;modelling of control and observation&lt;/li&gt;
+&lt;li&gt;second order time integration with explicit treatment of the nonlinearities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/a1iDcEIRmvU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Simulation of the &lt;em&gt;Karman Vortex Street&lt;/em&gt;. See the &lt;a href=&#34;https://github.com/highlando/dolfin_navier_scipy/commit/ae907dc2266076a635c89d62726696e63b3fdc85&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;relevant commit here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hinf-lqgbt-nse</title>
+      <link>/project/sw-hlqgbt-nse/</link>
+      <pubDate>Wed, 03 Jul 2019 18:53:50 +0200</pubDate>
+      <guid>/project/sw-hlqgbt-nse/</guid>
+      <description>&lt;p&gt;Python module for application of (Hinf-)LQG-balanced truncation for low-order controllers for the stabilization of Navier-Stokes equations.&lt;/p&gt;
+&lt;p&gt;As an example we consider the stabilization of the cylinder wake at moderate Reynoldsnumbers via boundary control and distributed observation.&lt;/p&gt;
+&lt;h1 id=&#34;features&#34;&gt;Features&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;implementation of various Riccati-based feedback controllers
+&lt;ul&gt;
+&lt;li&gt;static state feedback&lt;/li&gt;
+&lt;li&gt;observer based LQGBT feedback&lt;/li&gt;
+&lt;li&gt;robustified LQGBT feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;integration with M.E.S.S or my &lt;a href=&#34;www.github.com/highlando/sadptprj_riclyap_adi&#34;&gt;homebrew Riccati solver&lt;/a&gt; for flow related equations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust control for compensation of linearization and discretization errors in stabilization of incompressible flows</title>
+      <link>/event/19-07-passau/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0200</pubDate>
+      <guid>/event/19-07-passau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-selective Filter Based Frequency Separated Feedback Control of Linear Systems: State Feedback Case</title>
+      <link>/publication/du-yho-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/du-yho-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous, Semi-discrete, and Fully Discretized Navier-Stokes Equations</title>
+      <link>/publication/alt-h-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical benchmarking of fluid-rigid body interactions</title>
+      <link>/publication/wah-rlhm-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wah-rlhm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations</title>
+      <link>/publication/ben-hw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-hw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution Formulas for Differential Sylvester and Lyapunov Equations</title>
+      <link>/publication/beh-bh-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Stability and Stabilization of Extended Linearizations via Continuous Updates of Riccati Based Feedback</title>
+      <link>/publication/ben-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Control of a Stefan Problem Fully Coupled with Navier-Stokes-Equations and Mesh Movement</title>
+      <link>/publication/bar-bhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bar-bhs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularization and Rothe Discretization of Semi-Explicit Operator DAEs</title>
+      <link>/publication/alt-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial Differential Equations</title>
+      <link>/publication/bau-bh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-bh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear feedback stabilization of incompressible flows via updated Riccati-based gains</title>
+      <link>/publication/ben-h-17-b/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients</title>
+      <link>/publication/beh-bh-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/beh-bh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Approximations to Riccati-based Boundary-feedback Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moment-Matching Based Model Reduction for Navier-Stokes Type Quadratic-Bilinear Descriptor Systems</title>
+      <link>/publication/ahm-bg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ahm-bg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of multibody systems with servo constraints through optimal control</title>
+      <link>/publication/alt-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Differential-Algebraic Riccati Equation for Applications in Flow Control</title>
+      <link>/publication/hei-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software</title>
+      <link>/publication/feh-hhs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/feh-hhs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Stabilization of Laminar Flows in Varying Flow Regimes</title>
+      <link>/publication/ben-h-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite Element Decomposition and Minimal Extension for Flow Equations</title>
+      <link>/publication/alt-h-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Input/Output Maps and their Relation to Proper Orthogonal Decomposition</title>
+      <link>/publication/bau-hs-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bau-hs-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LQG-Balanced Truncation Low-Order Controller for Stabilization of Laminar Flows</title>
+      <link>/publication/ben-h-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent Dirichlet Conditions in Finite Element Discretizations</title>
+      <link>/publication/ben-h-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ben-h-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wie steuert man einen Kran?</title>
+      <link>/publication/alt-h-15-ppt-snapshot/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/alt-h-15-ppt-snapshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupling, Semi-Discretization, and Optimal Control of Semi-linear Semi-explicit Index-2 Abstract Differential-Algebraic Equations and Application in Optimal Flow Control</title>
+      <link>/publication/hei-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Control of Linearized Navier-Stokes Equations via Discretized Input/Output Maps</title>
+      <link>/publication/hei-m-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-m-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Discretization Framework for Input/Output Maps and its Application to Flow Control</title>
+      <link>/publication/hei-ms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-ms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Control of Drop Size Distributions in Stirred Liquid/Liquid Systems</title>
+      <link>/publication/hei-bwms-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-bwms-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Discretization of Input/Output Maps and Control of Partial Differential Equations</title>
+      <link>/publication/hei-ms-10-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-ms-10-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Control of Semidiscretized Oseen Equations</title>
+      <link>/publication/hei-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/hei-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape Optimization in Train Aerodynamics</title>
+      <link>/publication/her-mho-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/her-mho-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

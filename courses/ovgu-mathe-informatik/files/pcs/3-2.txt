@@ -1,0 +1,13 @@
+{"start": "00:00:01.787", "title: "Intro"},
+{"start": "00:00:54.392", "title: "Hoehere Ableitungen"},
+{"start": "00:02:04.084", "title: "Konkav-Konvex"},
+{"start": "00:03:17.698", "title: "Monotonie und Konvexitaet"},
+{"start": "00:04:05.388", "title: "Extrema"},
+{"start": "00:04:59.636", "title: "Definition Extrema"},
+{"start": "00:06:18.746", "title: "Kriteria fuer lokale Extrema"},
+{"start": "00:07:54.301", "title: "Wendepunkte/Sattelpunkte"},
+{"start": "00:09:16.696", "title: "Randpunkte -- nicht differenzierbare Punkte"},
+{"start": "00:09:50.683", "title: "Satz von Rolle"},
+{"start": "00:10:20.599", "title: "Mittelwertsatz der Differentialrechnung"},
+{"start": "00:10:47.944", "title: "Ableitung 0 dann konstant"},
+{"start": "00:11:08.429", "title: "Abschluss"}

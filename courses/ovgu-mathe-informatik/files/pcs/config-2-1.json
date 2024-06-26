@@ -1,0 +1,83 @@
+{
+  "show": {
+    "title": "Mathematik für Informatik",
+    "subtitle": "Gelesen aus der Ferne",
+    "poster": "/courses/ovgu-mathe-informatik/files/pcs/2-1-banner.png" 
+  },
+  "reference": {
+    "config": "https://freakshow.fm/?podlove_player4=1465"
+  },
+  "theme": {
+    "main": "#26475B"
+  },
+  "title": "Woche 2 Vorlesung 1 — Eigenschaften von Funktionen ",
+  "subtitle": "Monotonie — Beschraenktheit — Exponentialfunktion — Periodizitaet",
+  "summary": "Kapitel 12 im Skript - erstes Drittel",
+  "publicationDate": "2020-04-28T09:00:00+00:00",
+  "poster": "/courses/ovgu-mathe-informatik/files/pcs/2-1-banner.png",
+  "duration": "00:08:53",
+  "audio": [
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/2-1.mp3",
+      "size": "9828992",
+      "title": "MPEG-3",
+      "mimeType": "audio/mp3"
+    },
+    {
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/2-1.ogg",
+      "size": "7830061",
+      "title": "Opus Audio (ogg)",
+      "mimeType": "audio/ogg"
+    }
+  ],
+    "chapters": [
+        {"start": "00:00:00.000", "title": "Intro"},
+        {"start": "00:01:02.868", "title": "Was ist eine Funktion"},
+        {"start": "00:01:59.116", "title": "Monotonie von Funktionen"},
+        {"start": "00:03:11.789", "title": "Beschraenktheit von Funktionen"},
+        {"start": "00:03:40.993", "title": "Beispiele"},
+        {"start": "00:03:56.237", "title": "Exponentialfunktion(en)"},
+        {"start": "00:05:38.888", "title": "Die Logarithmusfunktion"},
+        {"start": "00:06:16.778", "title": "Kleine Pause?"},
+        {"start": "00:06:20.752", "title": "Intervalle"},
+        {"start": "00:06:45.367", "title": "(Un)Gerade Funktionen"},
+        {"start": "00:07:13.749", "title": "Periodische Funktionen"},
+        {"start": "00:07:36.559", "title": "Sinus-Kosinus als Beispiel"},
+        {"start": "00:08:05.909", "title": "Zusammenfassung"}
+    ],
+  "runtime": {
+    "locale": "de-De",
+    "language": "de"
+  },
+  "visibleComponents": [
+    "tabInfo",
+    "tabChapters",
+    "tabFiles",
+    "tabAudio",
+    "poster",
+    "showTitle",
+    "episodeTitle",
+    "subtitle",
+    "progressbar",
+    "controlSteppers",
+    "controlChapters"
+  ],
+  "contributors": [
+    {
+      "name": "Jan Heiland",
+      "avatar": "/courses/ovgu-mathe-informatik/files/pcs/icke.jpg",
+      "role": {
+        "id": "9",
+        "slug": "team",
+        "title": "Team"
+      },
+      "group": {
+        "id": "1",
+        "slug": "onair",
+        "title": "On Air"
+      },
+      "comment": null,
+      "id": "jan-heiland"
+    }
+  ]
+}

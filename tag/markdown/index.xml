@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Jan Heiland</title>
+    <link>/tag/markdown/</link>
+      <atom:link href="/tag/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Apr 2021 14:36:55 +0200</lastBuildDate>
+    <image>
+      <url>/media/logo_huc8d60562114d373ee9fcddf98bd2be5c_10437_300x300_fit_lanczos_3.png</url>
+      <title>Markdown</title>
+      <link>/tag/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Pandoc vs. Pandemic</title>
+      <link>/post/21-pandoc-markdown-tools/</link>
+      <pubDate>Sun, 18 Apr 2021 14:36:55 +0200</pubDate>
+      <guid>/post/21-pandoc-markdown-tools/</guid>
+      <description>&lt;p&gt;While things were shifting away from &lt;em&gt;away from keyboard&lt;/em&gt;, I found little pleasures in seeing software tools in production. Most of all I enjoy small scripts&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; that take a few lines of readable text and turn it into a &lt;a href=&#34;https://www.janheiland.de/courses/mathe2info-21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website for an online course&lt;/a&gt;, into &lt;a href=&#34;https://www.janheiland.de/script-daes/basic-definitions-and-notions.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lecture notes&lt;/a&gt;, or a &lt;a href=&#34;http://www.janheiland.de/talk-gpuq/#/title-slide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide deck for presentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This all bases on &lt;code&gt;Markdown&lt;/code&gt; text files and some interpreter and compiler. For the websites the interpreter is &lt;code&gt;hugo&lt;/code&gt;, for the lecture nodes it is &lt;code&gt;bookdown&lt;/code&gt;, and for the presentation it is &lt;code&gt;pandoc&lt;/code&gt; and &lt;code&gt;reveal.js&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The sources are conveniently edited in my favorite editor. With &lt;em&gt;syntax highlighting&lt;/em&gt; and &lt;em&gt;code concealing&lt;/em&gt;, the basic parts of the markup is partially hidden and already preinterpreted.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-screenshot-of-an-editor-with-markdown-support&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Screenshot of an editor with markdown support.&#34; srcset=&#34;
+               /post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_6e75ef106083876c0fb4f7554eca9538.png 400w,
+               /post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_f21dd5229faf7c1f9dd4a4d1bbc614a8.png 760w,
+               /post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/21-pandoc-markdown-tools/vim-scsh_hub8e5aceede6166496d5f4658fa1772ed_103007_6e75ef106083876c0fb4f7554eca9538.png&#34;
+               width=&#34;760&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Screenshot of an editor with markdown support.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The final compilation and interpretation is well kept out of sight and can be automated or not on many stages.&lt;/p&gt;
+&lt;p&gt;Together with other little &lt;em&gt;unix&lt;/em&gt; tools&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, it took me just one hour to &lt;a href=&#34;https://github.com/highlando/pandoc-markdown-book-template/blob/master/RUNME.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;turn my notes&lt;/a&gt; on my &lt;em&gt;natural yeast recipes&lt;/em&gt; into an &lt;em&gt;e-book&lt;/em&gt; and arrange the pdf export such that it could be printed as an &lt;a href=&#34;https://www.instructables.com/A-one-sheet-of-paper-booklet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;8-page booklet on a single A4 page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please checkout the outcomes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📙 &lt;a href=&#34;lm.pdf&#34;&gt;Booklet of my recipes for baking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📘 &lt;a href=&#34;ready-for-print.pdf&#34;&gt;Ready to be printed and folded into a real booklet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-printed-booklet&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The printed booklet.&#34; srcset=&#34;
+               /post/21-pandoc-markdown-tools/the-booklet_hu2a63a0fc44f4beaac9d1327db436e086_164445_7188004106a9e71baa3ee940003137eb.jpg 400w,
+               /post/21-pandoc-markdown-tools/the-booklet_hu2a63a0fc44f4beaac9d1327db436e086_164445_c5963e245344fbfcb6979ec300ac310b.jpg 760w,
+               /post/21-pandoc-markdown-tools/the-booklet_hu2a63a0fc44f4beaac9d1327db436e086_164445_1200x1200_fit_q90_lanczos.jpg 1200w&#34;
+               src=&#34;/post/21-pandoc-markdown-tools/the-booklet_hu2a63a0fc44f4beaac9d1327db436e086_164445_7188004106a9e71baa3ee940003137eb.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The printed booklet.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Similarly exciting and helpful but on a different level are high-end open source tools like &lt;code&gt;OBS&lt;/code&gt; for screencasting and streaming or &lt;code&gt;audacity&lt;/code&gt; for podcasting.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Namely &lt;code&gt;Okular&lt;/code&gt; for exporting epub to pdf, &lt;code&gt;pdftk&lt;/code&gt; for rotating, cutting, and arranging, and &lt;code&gt;boomaga&lt;/code&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

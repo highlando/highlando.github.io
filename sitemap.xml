@@ -2,8 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.janheiland.de/event/24-ecc-imp-exp-loewner/</loc>
+    <lastmod>2024-06-28T15:20:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.janheiland.de/event/</loc>
-    <lastmod>2024-03-21T10:10:00+01:00</lastmod>
+    <lastmod>2024-06-28T15:20:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.janheiland.de/event/24-gamm/</loc>

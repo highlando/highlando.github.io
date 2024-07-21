@@ -5,12 +5,105 @@
     <link>https://www.janheiland.de/post/</link>
       <atom:link href="https://www.janheiland.de/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Feb 2023 22:00:25 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
       <title>Blog</title>
       <link>https://www.janheiland.de/post/</link>
     </image>
+    
+    <item>
+      <title>Ausbreitung von Glitzer und anderen ansteckenden Eigenschaften</title>
+      <link>https://www.janheiland.de/post/24-lollipedimie/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.janheiland.de/post/24-lollipedimie/</guid>
+      <description>&lt;p&gt;Für SchülerUnis bietet sich die Modellierung von Epidemien an, weil
+die Mechanismen und die Mathematik im Modell nachvollziehbar sind. Bisher hatte
+mich an meinen Versuchen damit aber gestört, dass&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;das Thema etwas trübe ist (niemand hat wirklich Lust auf Corona oder
+einen Zombie)&lt;/li&gt;
+&lt;li&gt;Es doch abstrakte Mathe bleibt (wenn beispielsweise im deterministischen
+&amp;ldquo;SIR&amp;rdquo;-Modell die Ansteckungsraten einfach angenommen werden)&lt;/li&gt;
+&lt;li&gt;und letztlich die Verbindung zwischen Modell und Person nicht hergestellt
+wird.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;die-inhalte&#34;&gt;Die Inhalte&lt;/h2&gt;
+&lt;p&gt;Im diesjährigen Versuch zu unserer &lt;a href=&#34;&#34;&gt;&lt;em&gt;Sommeruniversität für
+Schülerinnen&lt;/em&gt;&lt;/a&gt; habe ich einen neuen Ansatz probiert. Das feedback war
+positiv und somit teile ich gerne meine Überlegungen und Materialien hier.&lt;/p&gt;
+&lt;h3 id=&#34;motivation&#34;&gt;Motivation&lt;/h3&gt;
+&lt;p&gt;Mit dem &lt;em&gt;Normalen Kita-Gesetz&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bastelt ein Kind mit Glitzer, dann basteln am Ende alle mit Glitzer&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;und mit dem Video von &lt;a href=&#34;https://www.ardmediathek.de/video/quarks/experiment-teil-1-so-schnell-verbreiten-sich-viren/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWVlMmM5YmRhLTliNmItNDhkMC1iZTMzLWE4YmM5MzAzMmQ4MQ&#34;&gt;Quarks&lt;/a&gt; zum Versuch, wie sich im Restaurant die Handcreme
+einer Frau am Ende überall befindet, wurde unser Experiment motiviert.&lt;/p&gt;
+&lt;h3 id=&#34;aufbau-und-experiment&#34;&gt;Aufbau und Experiment&lt;/h3&gt;
+&lt;p&gt;Dann haben sich die Proband:innen um einen Tisch gesetzt und die &lt;em&gt;Lollipedimie&lt;/em&gt;
+durchgespielt. Das ansteckende Element waren Lollies, die ich verteilt oder
+eingesammelt habe und der Zufall wurde durch Würfeln eingebracht.&lt;/p&gt;
+&lt;p&gt;Ein Experiment bestand aus dem Würfeln reihum und der Gliederung&lt;/p&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Tag &amp;ndash; eine Infektionsrunde&lt;/li&gt;
+&lt;li&gt;Tag &amp;ndash; zwei Ausbreitungsrunden und eine Genesungsrunde&lt;/li&gt;
+&lt;li&gt;Tag &amp;ndash; zwei Ausbreitungsrunden und eine Genesungsrunde&lt;/li&gt;
+&lt;li&gt;Tag &amp;ndash; zwei Ausbreitungsrunden und eine Genesungsrunde&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;mit den Regeln&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bei der Infektionsrunde bekam einen Lollie, wer eine &amp;#x36;&amp;#xfe0f;&amp;#x20e3; gewürfelt hat.&lt;/li&gt;
+&lt;li&gt;in einer Ausbreitungsrunde bekam einen Lollie, wer eine &amp;#x35;&amp;#xfe0f;&amp;#x20e3; &lt;strong&gt;oder&lt;/strong&gt; &amp;#x36;&amp;#xfe0f;&amp;#x20e3; warf
+&lt;strong&gt;und&lt;/strong&gt; wessen Nachbar:in schon einen Lollie hatte&lt;/li&gt;
+&lt;li&gt;in einer Genesungsrunde wurde der Lollie abgegeben, falls eine &amp;#x31;&amp;#xfe0f;&amp;#x20e3; &lt;strong&gt;oder&lt;/strong&gt;
+&amp;#x32;&amp;#xfe0f;&amp;#x20e3; geworfen wurde&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es wurden 2 Experimente durchgespielt (gesamt etwa 15 Minuten) und die Anzahl
+der Lollies nach jedem Tag an der Tafel protokolliert. Die
+Schülerinnen (zwischen 10. und 12. Klasse) hatten es schnell verinnerlicht,
+shortcuts ausgemacht (wer keine Nachbarin mit Lollie hat, muss gar nicht
+würfeln) und nach dem zweiten Durchgang wollten manche lieber das Angebot
+wahrnehmen, die Computersimulation dazu zu sehen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mit 11 Schülerinnen ist die Varianz in den Ergebnissen eigentlich recht gross. Aber wie es der Zufall wollte, kamen in unseren Experimenten mehr oder weniger die gleichen Werte raus.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;bilder/exasimu1.png&#34; alt=&#34;eine Beispielsimulation mit N=13&#34; title=&#34;**Bild 1**: eine Beispielsimulation mit N=13&#34;&gt;
+&lt;img src=&#34;bilder/exasimu2.png&#34; alt=&#34;andere Beispielsimulation mit N=13&#34; title=&#34;**Bild 2**: andere Beispielsimulation mit N=13&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;computersimulation&#34;&gt;Computersimulation&lt;/h3&gt;
+&lt;p&gt;Die Simulation ermöglicht in der Tat, das schnelle Durchspielen der
+Experimente und illustriert die großen Abweichungen in den Resultaten.&lt;/p&gt;
+&lt;p&gt;Auch ermöglicht es die Simulation, die Anzahl der Teilnehmer:innen im
+Stuhlkreis beliebig hoch zu setzen. Die Anwesenden erkannten schnell, dass
+mit höherer Anzahl, die Prozentzahl der am Ende infizierten, weniger stark
+schwankte.&lt;/p&gt;
+&lt;p&gt;Diese Erkenntnis wurde gefestigt in der nachfolgenden Aufgabe, zu der immer zwei
+Schülerinnen einen Datensatz (mit 50 simulierten Durchläufen) zu
+jeweils einer Anzahl von Proband:innen bekamen und ein vorbereitetes Blatt in
+dem durch ausmalen von Kästchen die Daten in ein Histogramm
+überführt wurden. Das und die abschließende gemeinsame
+Erkenntnis, dass für größere Gruppen, die Bilder weniger wild
+aussehen, kam wirklich gut an.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bilder/histocloseup.jpg&#34; alt=&#34;Close up von 2 Histogrammen&#34; title=&#34;**Bild 3**: Gemalte
+Histogramme&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Das reichte dann auch als input, sodass meine abschließende Herleitung von
+Differentialgleichungen (aus dem Differenzenquotienten der täglichen bzw.
+stündlichen bzw. minütlichen bzw. &amp;hellip; Änderung) zwar
+nachvollzogen und aufgenommen wurde, aber letztlich nicht nötig gewesen
+wäre.&lt;/p&gt;
+&lt;h2 id=&#34;materialien&#34;&gt;Materialien&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;genügend Lollies zum Verteilen (vielleicht gehen auch Fähnchen
+o.äh.)&lt;/li&gt;
+&lt;li&gt;Würfel und Würfelbecher&lt;/li&gt;
+&lt;li&gt;Tafel zur Protokollierung&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;simu-2.py&#34;&gt;Simulationsskript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;N26a.pdf&#34;&gt;Datenblatt (Beispiel)&lt;/a&gt;, &lt;a href=&#34;ausmalhistogramm.pdf&#34;&gt;Ausmalhistogramm&lt;/a&gt; und geeignete Stifte zum Ausmalen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;allmats.zip&#34;&gt;alles als zip&lt;/a&gt; (auch bspw &lt;code&gt;tikz&lt;/code&gt; code zum Anpassen)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;bilder/materials.jpg&#34; alt=&#34;Material&amp;amp;uuml;bersicht&#34; title=&#34;**Bild 4**: Das eingesetzte
+Material&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Convolutional autoencoders for very low-dimensional parametrizations of nonlinear fluid flow</title>

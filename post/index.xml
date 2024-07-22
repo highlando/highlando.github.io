@@ -21,7 +21,7 @@
 die Mechanismen und die Mathematik im Modell nachvollziehbar sind. Bisher hatte
 mich an meinen Versuchen damit aber gestört, dass&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;das Thema etwas trübe ist (niemand hat wirklich Lust auf Corona oder
+&lt;li&gt;das Thema etwas trübe ist (niemand hat Lust auf Corona oder
 einen Zombie)&lt;/li&gt;
 &lt;li&gt;Es doch abstrakte Mathe bleibt (wenn beispielsweise im deterministischen
 &amp;ldquo;SIR&amp;rdquo;-Modell die Ansteckungsraten einfach angenommen werden)&lt;/li&gt;
@@ -70,7 +70,7 @@ wahrnehmen, die Computersimulation dazu zu sehen.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;bilder/exasimu1.png&#34; alt=&#34;eine Beispielsimulation mit N=13&#34; title=&#34;**Bild 1**: eine Beispielsimulation mit N=13&#34;&gt;
 &lt;img src=&#34;bilder/exasimu2.png&#34; alt=&#34;andere Beispielsimulation mit N=13&#34; title=&#34;**Bild 2**: andere Beispielsimulation mit N=13&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;computersimulation&#34;&gt;Computersimulation&lt;/h3&gt;
-&lt;p&gt;Die Simulation ermöglicht in der Tat, das schnelle Durchspielen der
+&lt;p&gt;Die Simulation ermöglicht in der Tat das schnelle Durchspielen der
 Experimente und illustriert die großen Abweichungen in den Resultaten.&lt;/p&gt;
 &lt;p&gt;Auch ermöglicht es die Simulation, die Anzahl der Teilnehmer:innen im
 Stuhlkreis beliebig hoch zu setzen. Die Anwesenden erkannten schnell, dass
@@ -78,10 +78,10 @@ mit höherer Anzahl, die Prozentzahl der am Ende infizierten, weniger stark
 schwankte.&lt;/p&gt;
 &lt;p&gt;Diese Erkenntnis wurde gefestigt in der nachfolgenden Aufgabe, zu der immer zwei
 Schülerinnen einen Datensatz (mit 50 simulierten Durchläufen) zu
-jeweils einer Anzahl von Proband:innen bekamen und ein vorbereitetes Blatt in
-dem durch ausmalen von Kästchen die Daten in ein Histogramm
-überführt wurden. Das und die abschließende gemeinsame
-Erkenntnis, dass für größere Gruppen, die Bilder weniger wild
+jeweils einer Anzahl von Proband:innen bekamen. Diese Daten sollten in ein
+vorbereitetes Blatt in ein Histogramm (durch ausmalen von Kästchen)
+überführt wurden. Das und die abschließende Übereinkunft,
+dass für größere Gruppen, die Bilder weniger wild
 aussehen, kam wirklich gut an.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;bilder/histocloseup.jpg&#34; alt=&#34;Close up von 2 Histogrammen&#34; title=&#34;**Bild 3**: Gemalte
 Histogramme&#34;&gt;&lt;/p&gt;
@@ -92,8 +92,7 @@ nachvollzogen und aufgenommen wurde, aber letztlich nicht nötig gewesen
 wäre.&lt;/p&gt;
 &lt;h2 id=&#34;materialien&#34;&gt;Materialien&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;genügend Lollies zum Verteilen (vielleicht gehen auch Fähnchen
-o.äh.)&lt;/li&gt;
+&lt;li&gt;genügend Lollies zum Verteilen (vielleicht gehen auch Fähnchen?)&lt;/li&gt;
 &lt;li&gt;Würfel und Würfelbecher&lt;/li&gt;
 &lt;li&gt;Tafel zur Protokollierung&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;simu-2.py&#34;&gt;Simulationsskript&lt;/a&gt;&lt;/li&gt;

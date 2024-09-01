@@ -7,7 +7,7 @@
     <description>Dns.py</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2019 16:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.janheiland.de/media/icon_hu5086121572488837706.png</url>
       <title>Dns.py</title>
       <link>https://www.janheiland.de/tags/dns.py/</link>
     </image>
@@ -29,8 +29,7 @@ talk presents a setup that we have designed to particularly investigate
 the effects regarding the free rotation of a spherical object in a flow
 channel in 2D and 3D. This setup connects to the well known benchmark
 of &lt;em&gt;flow past a cylinder&lt;/em&gt; &lt;/p&gt;
-\[1\]
-&lt;p&gt; and is accessible to standard CFD
+\[1\]&lt;p&gt; and is accessible to standard CFD
 software.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;media/image1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -49,10 +48,8 @@ the results, we also propose significant, nondimensionalized
 characteristic values.&lt;/p&gt;
 &lt;p&gt;The benchmark cases were solved numerically with various approaches and software tools so that the computed characteristic values could be reported within in a reasonable confidence interval.&lt;/p&gt;
 &lt;p&gt;In this talk, we introduce the mathematical model, discuss the characteristic and challenges of the benchmark cases, and present the various implementation and their particular advantages. The codes that were reported on in our work &lt;/p&gt;
-\[2\]
-&lt;p&gt; as well as the raw data and postprocessing routines are available &lt;/p&gt;
-\[3\]
-&lt;p&gt; for further exploration and reproduction.&lt;/p&gt;
+\[2\]&lt;p&gt; as well as the raw data and postprocessing routines are available &lt;/p&gt;
+\[3\]&lt;p&gt; for further exploration and reproduction.&lt;/p&gt;
 &lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;

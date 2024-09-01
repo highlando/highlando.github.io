@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 11:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://www.janheiland.de/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.janheiland.de/media/icon_hu5086121572488837706.png</url>
       <title>Projects</title>
       <link>https://www.janheiland.de/project/</link>
     </image>
@@ -127,8 +127,7 @@
 &lt;li&gt;
 &lt;p&gt;MR Fingerprinting relies on the simulation of the Bloch equation, a parameter-dependent ODE for the magnetization $M$ of the form
 &lt;/p&gt;
-$$\dot{M}(t) = f(M(t), B(t), T_1, T_2),$$
-&lt;p&gt;
+$$\dot{M}(t) = f(M(t), B(t), T_1, T_2),$$&lt;p&gt;
 where the magnetic field $B$ is determined by the parameters of the acquisition.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;

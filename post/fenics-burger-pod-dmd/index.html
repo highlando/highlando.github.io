@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: July 22, 2024 --><html lang="en-us" dir="ltr"
+<!-- Last Published: September 1, 2024 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head>
@@ -158,8 +158,8 @@
   
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu10745405419016630421.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu12807181012838316843.png" />
 
   <link rel="canonical" href="https://www.janheiland.de/post/fenics-burger-pod-dmd/" />
 
@@ -2168,7 +2168,7 @@
       
       <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 372px;">
         <div style="position: relative">
-          <img src="/post/fenics-burger-pod-dmd/featured_hu350ca20319db78d230cad8e3d954e4cf_55499_260c123f07f512f689c5b554cbbc4965.webp" width="720" height="372" alt="" class="featured-image">
+          <img src="/post/fenics-burger-pod-dmd/featured_hu10380225041157388122.webp" width="720" height="372" alt="" class="featured-image">
           
         </div>
       </div>
@@ -2193,16 +2193,14 @@
 <p>For a given viscosity parameter $\nu$ and for time $t>0$, we consider the 2D Burgers equation on the unit square</p>
 $$
 \frac {\partial}{\partial t}u + (u\nabla)u - \nu \Delta u = 0
-$$
-<p>with zero Neumann boundary conditions and initial condition</p>
+$$<p>with zero Neumann boundary conditions and initial condition</p>
 $$
 u\bigr| _ {t=0}(x _ 1, x _ 2) = 
 \begin{bmatrix}
  1 \\\\ 1 
 \end{bmatrix}
 e ^ {-(4x _ 1^2 + 2x _ 2^2)}
-$$
-<p>and its numerical approximation using</p>
+$$<p>and its numerical approximation using</p>
 <ol>
 <li>Finite Elements in space and Runge-Kutta in time,</li>
 <li>a POD reduction of the FEM model, and</li>
@@ -2319,8 +2317,7 @@ def plotabs(uvec, fignum=None, vmax=None,
 efficient), we define the <em>right hand side</em> $f_h$ of the spatially discretized problem</p>
 $$
 \dot u_h = f_h (t_h, u_h).
-$$
-<p>In this case the <em>right hand side</em> is an application of the discrete diffusion
+$$<p>In this case the <em>right hand side</em> is an application of the discrete diffusion
 and convection operator and the inverse of the mass matrix that, simply
 speaking, maps a (discrete) form onto a discrete function. Note that there is no
 explicit time dependency in the Burgers equation, but the <em>SciPy</em>&rsquo;s <code>solve_ivp</code>
@@ -2349,8 +2346,7 @@ X =
 \begin{bmatrix}
 v _ h(t_0) & v _ h(t_1) & \dotsm & v _ h(t_k)
 \end{bmatrix}
-$$
-<p>is a good candidate for a space in which the solution evolves in. One may even
+$$<p>is a good candidate for a space in which the solution evolves in. One may even
 go further and look for a low-dimensional basis of this space. The span of a
 matrix is best approximated by its dominant singular vectors. And this is the idea of
 <em>Proper Orthogonal Decomposition</em> (POD) &ndash; use the leading singular vectors as a
@@ -2422,15 +2418,13 @@ may use the method of <em>Dynamic Mode Decomposition</em><sup id="fnref:2"><a hr
 a matrix $A$ that evolves the state like</p>
 $$
 A v _ h (t_i) = v _ h (t _ {i+1})
-$$
-<p>In practice, one uses a set of snapshots and the two measurement matrices</p>
+$$<p>In practice, one uses a set of snapshots and the two measurement matrices</p>
 $$
 X = 
 \begin{bmatrix}
 v _ h(t_0) & v _ h(t_1) & \dotsm & v _ h(t _ {k-1})
 \end{bmatrix}
-$$
-<p>
+$$<p>
 and
 </p>
 $$
@@ -2438,13 +2432,11 @@ X' =
 \begin{bmatrix}
 v _ h(t_1) & v _ h(t_2) & \dotsm & v _ h(t _ {k})
 \end{bmatrix}.
-$$
-<p>Note that $X'$ is basically $X$ shifted by one time step.</p>
+$$<p>Note that $X'$ is basically $X$ shifted by one time step.</p>
 <p>Then the DMD matrix can be found by solving the linear regression problem</p>
 $$
 \min _ P \| X' - PX \| _ F.
-$$
-<p>For the reduced DMD model we use the same snapshot matrix as for the POD. The
+$$<p>For the reduced DMD model we use the same snapshot matrix as for the POD. The
 regression problem is solved via SVD to compute the needed pseudo inverse since
 this naturally allows for a rank reduction and a factored representation of the
 DMD matrix.</p>
@@ -2489,8 +2481,7 @@ u\bigr| _ {t=0}(x _ 1, x _ 2) =
  1 \\\\ 1 
 \end{bmatrix}
 e ^ {-(2x _ 1^2 + 4x _ 2^2)}
-$$
-<p>see the following two plots of the full order model for both initial values.</p>
+$$<p>see the following two plots of the full order model for both initial values.</p>
 <p><figure><img src="/post/fenics-burger-pod-dmd/fullsol.png"><figcaption>
       <h4>Solution snapshots of the full FEM model</h4>
     </figcaption>

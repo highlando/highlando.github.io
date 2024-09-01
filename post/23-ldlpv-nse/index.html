@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: July 22, 2024 --><html lang="en-us" dir="ltr"
+<!-- Last Published: September 1, 2024 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head>
@@ -158,8 +158,8 @@
   
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu2654a0fcc87c65a864822ac27b001d3b_1368_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu10745405419016630421.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu12807181012838316843.png" />
 
   <link rel="canonical" href="https://www.janheiland.de/post/23-ldlpv-nse/" />
 
@@ -2142,7 +2142,7 @@
       
       <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 255px;">
         <div style="position: relative">
-          <img src="/post/23-ldlpv-nse/featured_hu077fadb29c5fe46a4988fa8d6c7c4a9b_138049_850ff274c771525b544ee940f3e77be1.webp" width="720" height="255" alt="" class="featured-image">
+          <img src="/post/23-ldlpv-nse/featured_hu6858153249372591485.webp" width="720" height="255" alt="" class="featured-image">
           
         </div>
       </div>
@@ -2169,20 +2169,17 @@
 </p>
 $$
 f(v) = N(v)\, v
-$$
-<p>
+$$<p>
 where, for any velocity field $v$, the convection operator $N(v)$ describes how the velocity field itself is convected. In a simulation $N(v)$ is a matrix that multiplies the state vector $v$. Despite this matrix structure, the nonlinearity $N(v)\,v$ is deemed complex because $v$ and $N(v)$ are typically very large. If, however, one could approximately (but sufficiently accurately) parametrize $N(v)$ by, say, three scalar parameters $(\rho_1(v), \rho_2(v), \rho_3(v))$ and three basis matrices $N_1$, $N_2$, and $N_3$, i.e.
 </p>
 $$
 N(v) \approx \rho_1(v)N_1 + \rho_2(v)N_2 + \rho_3(v)N_3x
-$$
-<p>
+$$<p>
 then the nonlinearity
 </p>
 $$
 N(v)\,v \approx  \rho_1(v)N_1\,v + \rho_2(v)N_2\,v + \rho_3(v)N_3\,v
-$$
-<p>
+$$<p>
 becomes replaced by a hopefully easy computation of $\rho(v)$ and, notably, just three matrix vector multiplications &ndash; the standard operation of numerical linear algebra. And the problem, as we wanted it, appears to be basically linear and only with a low dimensional nonlinearity.</p>
 <h1 id="low-dimensional-parametrization-of-fluid-flow">Low-dimensional parametrization of fluid flow</h1>
 <p>In view of parametrizing $N(v)$, we look for a low-dimensional approximative parametrization of $v$. Low-dimensional approximations of the state of dynamical systems is both the core and promise of classical model order reduction. For our application, however, we would like to trade in some accuracy for very low dimensionality for what classical model reduction techniques are notoriously unsuited.</p>
@@ -2376,7 +2373,7 @@ that has the detailed theory for this presented example application. A numerical
     width="96"
     height="96"
     alt="Jan Heiland"
-  src="/author/jan-heiland/avatar_hu815b458c9ca9a76573f46a1be2fda2a4_25534_192x192_fill_q80_lanczos_center.jpg"
+  src="/author/jan-heiland/avatar_hu5547547142172403865.jpg"
   loading="lazy"
   />
   

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Completed | Jan Heiland Personal Homepage</title>
+    <link>https://www.janheiland.de/tags/completed/</link>
+      <atom:link href="https://www.janheiland.de/tags/completed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Completed</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 14:23:01 +0200</lastBuildDate>
+    <image>
+      <url>https://www.janheiland.de/media/icon_hu5086121572488837706.png</url>
+      <title>Completed</title>
+      <link>https://www.janheiland.de/tags/completed/</link>
+    </image>
+    
+    <item>
+      <title>MRI Fingerprinting with Philips</title>
+      <link>https://www.janheiland.de/project/21-phili-fipri/</link>
+      <pubDate>Thu, 15 Apr 2021 14:23:01 +0200</pubDate>
+      <guid>https://www.janheiland.de/project/21-phili-fipri/</guid>
+      <description>&lt;h1 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://manuelbaumann.de/&#34;&gt;Dr. Manuel Baumann (Philips Research)&lt;/a&gt;, Jun-Prof. Jan Heiland FMA&lt;/p&gt;
+&lt;h1 id=&#34;wanted&#34;&gt;Wanted&lt;/h1&gt;
+&lt;p&gt;A highly motivated Masters&amp;rsquo; student of mathematics or statistics that feels comfortable with the problem below and that, at best, has good command of a programming language.&lt;/p&gt;
+&lt;h1 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h1&gt;
+&lt;p&gt;MR Fingerprinting is a new, quantitative imaging technique in Magnetic Resonance Imaging (MRI)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. In short,&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;MR Fingerprinting relies on the simulation of the Bloch equation, a parameter-dependent ODE for the magnetization $M$ of the form
+&lt;/p&gt;
+$$\dot{M}(t) = f(M(t), B(t), T_1, T_2),$$&lt;p&gt;
+where the magnetic field $B$ is determined by the parameters of the acquisition.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Variation of the relaxation times $T_1$ and $T_2$ yield a series of trajectories forming a so-called dictionary.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fingerprinting means the matching of the acquired under-sampled data with the dictionary entries for querying the relevant tissue-specific parameters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The development and implementation opens a number of options for a Master&amp;rsquo;s project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;System Theory:&lt;/strong&gt; Re-formulation of the MRF dictionary computation as an input-state-output system and model order reduction of the underlying Bloch equation. While the reformulation enables the matching by established system identification routines, a reduced order model can be used for a-posteriori checks of the selected parameters or for enriching the dictionary in the relevant parameter range.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statistics:&lt;/strong&gt; The estimation of parameters based on data is a common task in statistics. Apart from implementing and testing relevant routines for Fingerprinting, the inclusion of tailored statistical approaches for the particular problem of Fingerprinting can be useful for improving the dictionary in general and for providing confidence estimates for the selection obtained from classical matching.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Optimization:&lt;/strong&gt; Fingerprinting seeks for the best match of collected data with the precomputed dictionary entries. Tools from mathematical optimization will be used to improve the reliability of the selected optimum and to enhance both the data aquisition and the dictionary through optimal design.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;See here for a scientific paper on MR Fingerprinting: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602925/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
